@@ -63,10 +63,22 @@
   --font-signature: 'Brigend Signature', cursive;
   --font-opensans: 'Open Sans', sans-serif;
 
-  /* Paleta (extraída del SVG del Home; se amplía según secciones) */
+  /* Paleta exacta extraída del SVG del Home */
   --terracotta: #87402b;
+  --ochre: #c0833e;
+  --brown: #2f1d10;
+  --teal: #00565e;
   --ink: #1d1d1b;
+  --gray-text: #393939;
+  --gray-soft: #606060;
+  --cream: #f8f5f4;
+  --cream-warm: #fffbf8;
+  --gray-bg: #f2f2f2;
+  --sand: #e3d0bc;
   --white: #ffffff;
+
+  /* Unidad de escala: el diseño de escritorio es una composición de 1920px */
+  --u: calc(100vw / 1920);
 }
 
 /* ---------- Reset mínimo ---------- */
