@@ -57,8 +57,9 @@
 /* ---------- Variables de diseño ---------- */
 :root {
   /* The Seasons llega vía kit de Adobe Fonts ("the-seasons").
-     Mientras el kit no esté integrado, cae en una serif del sistema. */
-  --font-seasons: 'the-seasons', 'Times New Roman', serif;
+     Mientras el kit no esté integrado, cae en Cormorant Garamond
+     (declarada en app/layout.tsx con next/font). */
+  --font-seasons: 'the-seasons', var(--font-seasons-fallback), 'Times New Roman', serif;
   --font-satoshi: 'Satoshi', sans-serif;
   --font-signature: 'Brigend Signature', cursive;
   --font-opensans: 'Open Sans', sans-serif;

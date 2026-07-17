@@ -5,7 +5,7 @@ export default function Footer() {
       <div className="foot__fade" />
 
       <div className="foot__lockup">
-        <img className="foot__mark" src="/svg/logo-mark.svg" alt="" />
+        <img className="foot__mark" src="/svg/logo-mark-white.svg" alt="" />
         <span className="foot__hali">HaLi</span>
         <span className="foot__reg">®</span>
         <span className="foot__tagline">CRAFTED FOR VISIONARIES</span>

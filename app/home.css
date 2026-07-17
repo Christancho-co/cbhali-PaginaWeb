@@ -94,7 +94,7 @@
 .hero__title {
   position: absolute;
   left: 0;
-  top: calc(var(--u) * 478);
+  top: calc(var(--u) * 446);
   width: 100%;
   text-align: center;
   font-family: var(--font-seasons);
@@ -141,13 +141,13 @@
   position: absolute;
   left: calc(var(--u) * 677);
   top: calc(var(--u) * 1510.5);
-  width: calc(var(--u) * 110);
-  height: calc(var(--u) * 180);
+  width: calc(var(--u) * 145);
+  height: calc(var(--u) * 195);
 }
 .mani__hali {
   position: absolute;
   left: calc(var(--u) * 821);
-  top: calc(var(--u) * 1558);
+  top: calc(var(--u) * 1546);
   font-family: var(--font-seasons);
   font-weight: 700;
   font-size: calc(var(--u) * 159.92);
@@ -179,7 +179,7 @@
 .mani__title {
   position: absolute;
   left: 0;
-  top: calc(var(--u) * 1834);
+  top: calc(var(--u) * 1818);
   width: 100%;
   text-align: center;
   font-family: var(--font-seasons);
@@ -304,7 +304,7 @@
 .stmt__title {
   position: absolute;
   left: calc(var(--u) * 241.5);
-  top: calc(var(--u) * 6155);
+  top: calc(var(--u) * 6124);
   font-family: var(--font-seasons);
   font-weight: 300;
   font-size: calc(var(--u) * 100);
@@ -500,15 +500,15 @@
 .foot__lockup { position: absolute; left: 0; top: 0; width: 100%; }
 .foot__mark {
   position: absolute;
-  left: calc(var(--u) * 752);
-  top: calc(var(--u) * 12168);
-  width: calc(var(--u) * 81);
-  height: calc(var(--u) * 133);
+  left: calc(var(--u) * 768);
+  top: calc(var(--u) * 12150);
+  width: calc(var(--u) * 100);
+  height: calc(var(--u) * 134);
 }
 .foot__hali {
   position: absolute;
-  left: calc(var(--u) * 858);
-  top: calc(var(--u) * 12203);
+  left: calc(var(--u) * 880);
+  top: calc(var(--u) * 12191);
   font-family: var(--font-seasons);
   font-weight: 700;
   font-size: calc(var(--u) * 117.99);
@@ -613,7 +613,7 @@
   .hero__title--m {
     position: absolute;
     left: 0;
-    top: calc(var(--u) * 409);
+    top: calc(var(--u) * 373);
     width: 100%;
     text-align: center;
     font-family: var(--font-seasons);
@@ -632,8 +632,8 @@
   .hero__chevrons svg { stroke-width: 5; }
 
   /* ---------- MANIFESTO ---------- */
-  .mani__mark--m { position: absolute; left: calc(var(--u) * 320); top: calc(var(--u) * 1825); width: calc(var(--u) * 115); height: calc(var(--u) * 185); }
-  .mani__hali { left: calc(var(--u) * 425); top: calc(var(--u) * 1878.5); color: var(--brown); }
+  .mani__mark--m { position: absolute; left: calc(var(--u) * 320); top: calc(var(--u) * 1825); width: calc(var(--u) * 150); height: calc(var(--u) * 200); }
+  .mani__hali { left: calc(var(--u) * 425); top: calc(var(--u) * 1866.5); color: var(--brown); }
   .mani__reg { left: calc(var(--u) * 779); top: calc(var(--u) * 1857.5); color: var(--brown); }
   .mani__tagline { left: calc(var(--u) * 460); top: calc(var(--u) * 2032.5); }
 
@@ -663,7 +663,7 @@
 
   /* ---------- STATEMENT ---------- */
   .stmt__vertical { left: calc(var(--u) * 78); top: calc(var(--u) * 6686); font-size: calc(var(--u) * 70.58); }
-  .stmt__title { left: calc(var(--u) * 244); top: calc(var(--u) * 6738); font-size: calc(var(--u) * 53); line-height: calc(var(--u) * 76.98); }
+  .stmt__title { left: calc(var(--u) * 244); top: calc(var(--u) * 6726); font-size: calc(var(--u) * 53); line-height: calc(var(--u) * 76.98); }
   .stmt__copy--m {
     left: calc(var(--u) * 231);
     top: calc(var(--u) * 7051);
