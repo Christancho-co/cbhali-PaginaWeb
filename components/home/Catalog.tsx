@@ -12,7 +12,8 @@ export default function Catalog() {
         </svg>
       </a>
 
-      <img className="catalog__frame" src="/svg/frame-identity.svg" alt="" />
+      <img className="catalog__frame only-d" src="/svg/frame-identity.svg" alt="" />
+      <img className="catalog__frame catalog__frame--m only-m" src="/svg/frame-identity-mobile.svg" alt="" />
       <img className="catalog__badge" src="/svg/badge-oval.svg" alt="" />
     </>
   );

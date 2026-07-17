@@ -2,7 +2,8 @@ export default function Hero() {
   return (
     <section className="hero">
       <img className="hero__img" src="/images/home/hero-corridor-wide.webp" alt="CB Hali rug in a warm corridor" />
-      <span className="hero__spark" aria-hidden="true" />
+      <div className="hero__navband only-m" />
+      <span className="hero__spark only-d" aria-hidden="true" />
       <div className="hero__shade hero__shade--top" />
       <div className="hero__shade hero__shade--bottom" />
 
@@ -24,10 +25,16 @@ export default function Hero() {
         </svg>
       </button>
 
-      <h1 className="hero__title">
+      <h1 className="hero__title only-d">
         Uncover <em>The Art</em>
         <br />
         Beneath Your Feet.
+      </h1>
+      <h1 className="hero__title hero__title--m only-m">
+        <span>Uncover</span>
+        <span className="hero__title-line2"><em>The Art</em></span>
+        <span>Beneath</span>
+        <span>Your Feet.</span>
       </h1>
 
       <div className="hero__dots" role="presentation">
