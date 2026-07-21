@@ -1,9 +1,36 @@
+'use client';
+
+import { useEffect, useState } from 'react';
 import MenuButton from '@/components/shared/MenuButton';
 
+const SLIDES = [
+  { src: '/images/home/hero-corridor-wide.webp', alt: 'CB Hali rug in a warm corridor' },
+  { src: '/images/home/stairs-rug.webp', alt: 'CB Hali rug rolls on a sunlit staircase' },
+  { src: '/images/home/brick-rug.webp', alt: 'CB Hali rug draped against a brick wall' },
+  { src: '/images/home/catalog-drape.webp', alt: 'CB Hali rug detail draped on a chair' },
+];
+
 export default function Hero() {
+  const [active, setActive] = useState(0);
+
+  useEffect(() => {
+    const id = setInterval(() => {
+      setActive((i) => (i + 1) % SLIDES.length);
+    }, 6000);
+    return () => clearInterval(id);
+  }, []);
+
   return (
     <section className="hero">
-      <img className="hero__img" src="/images/home/hero-corridor-wide.webp" alt="CB Hali rug in a warm corridor" />
+      {SLIDES.map((slide, i) => (
+        <img
+          key={slide.src}
+          className="hero__img"
+          src={slide.src}
+          alt={slide.alt}
+          style={{ opacity: i === active ? 1 : 0 }}
+        />
+      ))}
       <div className="hero__navband only-m" />
       <span className="hero__spark only-d" aria-hidden="true" />
       <div className="hero__shade hero__shade--top" />
@@ -34,12 +61,18 @@ export default function Hero() {
         <span>Your Feet.</span>
       </h1>
 
-      <div className="hero__dots" role="presentation">
-        <span className="is-active" />
-        <span />
-        <span />
-        <span />
-        <span />
+      <div className="hero__dots" role="tablist" aria-label="Hero slides">
+        {SLIDES.map((slide, i) => (
+          <button
+            key={slide.src}
+            type="button"
+            role="tab"
+            aria-label={`Show slide ${i + 1}`}
+            aria-selected={i === active}
+            className={i === active ? 'is-active' : ''}
+            onClick={() => setActive(i)}
+          />
+        ))}
       </div>
 
       <div className="hero__chevrons" role="presentation">
