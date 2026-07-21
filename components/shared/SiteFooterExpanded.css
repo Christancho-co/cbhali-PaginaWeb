@@ -1,0 +1,47 @@
+/* Footer expandido (4 columnas de navegación) usado en Custom y páginas
+   con más secciones internas que enlazar. */
+
+.xfoot { position: relative; width: 100%; overflow: hidden; background: #fff; }
+.xfoot__bg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.xfoot__fade {
+  position: absolute; left: 0; right: 0; bottom: 0; height: 55%;
+  background: linear-gradient(180deg, rgba(255,255,255,0), #fff 88%);
+}
+.xfoot__inner { position: relative; padding: clamp(3rem, 9vw, 6rem) 1.5rem 2rem; text-align: center; }
+.xfoot__mark { width: clamp(40px, 4.5vw, 56px); height: auto; margin: 0 auto 0.5rem; }
+.xfoot__hali { display: block; font-family: var(--font-seasons); font-weight: 700; font-size: clamp(2rem, 4.5vw, 3.2rem); color: #fff; line-height: 1; }
+.xfoot__reg { display: none; }
+.xfoot__tagline { display: block; margin-top: 0.5rem; font-family: var(--font-satoshi); font-weight: 700; font-size: 0.68rem; letter-spacing: 0.14em; color: #fff; }
+
+.xfoot__panel {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(4, auto) 1fr;
+  gap: 2.5rem 3rem;
+  align-items: start;
+  padding: 1.5rem clamp(1.25rem, 6vw, 4.5rem) 2.5rem;
+}
+.xfoot__socials { display: flex; gap: 0.75rem; order: 5; margin-left: auto; }
+.xfoot__socials a { width: 34px; height: 34px; border-radius: 50%; background: #000; display: flex; align-items: center; justify-content: center; }
+.xfoot__socials svg { width: 18px; height: 18px; }
+
+.xfoot__col { display: flex; flex-direction: column; gap: 0.85rem; }
+.xfoot__col a { font-family: var(--font-satoshi); font-weight: 500; font-size: 0.95rem; color: var(--ink); }
+.xfoot__col--muted a { font-weight: 300; color: var(--gray-soft); }
+
+.xfoot__credit {
+  grid-column: 1 / -1;
+  margin-top: 1rem;
+  font-family: var(--font-satoshi);
+  font-weight: 300;
+  font-size: 0.72rem;
+  color: var(--ink);
+  text-align: right;
+}
+.xfoot__credit strong { font-weight: 700; }
+
+@media (max-width: 900px) {
+  .xfoot__panel { grid-template-columns: repeat(2, 1fr); }
+  .xfoot__socials { grid-column: 1 / -1; order: -1; margin: 0 0 1rem; }
+  .xfoot__credit { text-align: left; }
+}

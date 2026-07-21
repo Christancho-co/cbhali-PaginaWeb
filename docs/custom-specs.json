@@ -1,0 +1,9692 @@
+{
+  "classMap": {
+    "cls-1": {
+      "letter-spacing": ".06em"
+    },
+    "cls-2": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-3": {
+      "letter-spacing": ".17em"
+    },
+    "cls-4": {
+      "letter-spacing": ".17em"
+    },
+    "cls-5": {
+      "letter-spacing": ".17em"
+    },
+    "cls-6": {
+      "letter-spacing": ".03em"
+    },
+    "cls-7": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-8": {
+      "letter-spacing": ".02em",
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic"
+    },
+    "cls-9": {
+      "font-weight": "300",
+      "font-size": "100px",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "fill": "#8c9789"
+    },
+    "cls-10": {
+      "font-weight": "300",
+      "letter-spacing": "0em",
+      "font-family": "Satoshi-Light, Satoshi"
+    },
+    "cls-11": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-12": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-13": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-14": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-15": {
+      "font-weight": "300",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "fill": "#8c9789",
+      "font-size": "203.34px"
+    },
+    "cls-16": {
+      "font-weight": "300",
+      "font-family": "TheSeasons-Light, 'The Seasons'"
+    },
+    "cls-17": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-18": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".01em"
+    },
+    "cls-19": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "font-size": "24px"
+    },
+    "cls-20": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".05em"
+    },
+    "cls-21": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-22": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".05em"
+    },
+    "cls-23": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".03em"
+    },
+    "cls-24": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.04em"
+    },
+    "cls-25": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".04em"
+    },
+    "cls-26": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-27": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-28": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-29": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-30": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-31": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-32": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-33": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-34": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-35": {
+      "font-weight": "300",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "fill": "#8c9789",
+      "font-size": "150px"
+    },
+    "cls-36": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-37": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-38": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-39": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".03em"
+    },
+    "cls-40": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-41": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-42": {
+      "font-weight": "300",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "letter-spacing": "-.02em"
+    },
+    "cls-43": {
+      "font-weight": "300",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "letter-spacing": "-.02em"
+    },
+    "cls-44": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-45": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-46": {
+      "font-weight": "300",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "fill": "#fff",
+      "font-size": "203.34px"
+    },
+    "cls-47": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-48": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-49": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-50": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-51": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-52": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".03em"
+    },
+    "cls-53": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-54": {
+      "font-weight": "300",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "fill": "#464746",
+      "font-size": "66.11px"
+    },
+    "cls-55": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-56": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-57": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".02em"
+    },
+    "cls-58": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-59": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-60": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".03em"
+    },
+    "cls-61": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-62": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-63": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-64": {
+      "font-weight": "300",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "fill": "#fff",
+      "font-size": "134px"
+    },
+    "cls-65": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".03em"
+    },
+    "cls-66": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-67": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-68": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-69": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-70": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-71": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi"
+    },
+    "cls-72": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-73": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-74": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-75": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "font-size": "30px"
+    },
+    "cls-76": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": "0em"
+    },
+    "cls-77": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-78": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": "0em"
+    },
+    "cls-79": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": "0em"
+    },
+    "cls-80": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "fill": "#fff",
+      "font-size": "30px"
+    },
+    "cls-81": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".02em"
+    },
+    "cls-82": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".03em"
+    },
+    "cls-83": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".04em"
+    },
+    "cls-84": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".01em"
+    },
+    "cls-85": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": "0em"
+    },
+    "cls-86": {
+      "font-weight": "300"
+    },
+    "cls-87": {
+      "font-weight": "300",
+      "font-family": "Satoshi-LightItalic, Satoshi",
+      "font-style": "italic",
+      "letter-spacing": ".03em"
+    },
+    "cls-88": {
+      "letter-spacing": ".04em"
+    },
+    "cls-89": {
+      "letter-spacing": ".04em"
+    },
+    "cls-90": {
+      "letter-spacing": ".21em"
+    },
+    "cls-91": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-92": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-93": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-94": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800"
+    },
+    "cls-95": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-96": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "fill": "#fff",
+      "font-size": "41px"
+    },
+    "cls-97": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": ".04em"
+    },
+    "cls-98": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "-.02em"
+    },
+    "cls-99": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-100": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "-.1em"
+    },
+    "cls-101": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-102": {
+      "letter-spacing": "0em",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500"
+    },
+    "cls-103": {
+      "letter-spacing": ".03em"
+    },
+    "cls-104": {
+      "letter-spacing": ".05em"
+    },
+    "cls-105": {
+      "letter-spacing": "0em"
+    },
+    "cls-106": {
+      "letter-spacing": ".05em"
+    },
+    "cls-107": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-108": {
+      "letter-spacing": ".03em"
+    },
+    "cls-109": {
+      "fill": "#87402b"
+    },
+    "cls-110": {
+      "letter-spacing": ".02em"
+    },
+    "cls-111": {
+      "letter-spacing": ".02em"
+    },
+    "cls-112": {
+      "letter-spacing": ".03em"
+    },
+    "cls-113": {
+      "letter-spacing": ".03em"
+    },
+    "cls-114": {
+      "letter-spacing": ".03em"
+    },
+    "cls-115": {
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "fill": "#8c9789",
+      "font-size": "39.37px"
+    },
+    "cls-116": {
+      "fill": "#8c9789",
+      "font-size": "140px"
+    },
+    "cls-117": {
+      "fill": "#8c9789",
+      "font-size": "120px"
+    },
+    "cls-118": {
+      "fill": "#8c9789"
+    },
+    "cls-119": {
+      "font-family": "Satoshi-Light, Satoshi",
+      "font-size": "25px"
+    },
+    "cls-120": {
+      "letter-spacing": ".03em"
+    },
+    "cls-121": {
+      "letter-spacing": ".16em"
+    },
+    "cls-122": {
+      "letter-spacing": ".02em"
+    },
+    "cls-123": {
+      "letter-spacing": ".02em"
+    },
+    "cls-124": {
+      "letter-spacing": "0em"
+    },
+    "cls-125": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-126": {
+      "letter-spacing": ".04em"
+    },
+    "cls-127": {
+      "letter-spacing": ".04em"
+    },
+    "cls-128": {
+      "letter-spacing": ".22em"
+    },
+    "cls-129": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-130": {
+      "letter-spacing": ".04em"
+    },
+    "cls-131": {
+      "letter-spacing": "0em"
+    },
+    "cls-132": {
+      "letter-spacing": ".01em"
+    },
+    "cls-133": {
+      "letter-spacing": ".14em"
+    },
+    "cls-134": {
+      "letter-spacing": ".04em"
+    },
+    "cls-135": {
+      "letter-spacing": ".17em"
+    },
+    "cls-136": {
+      "letter-spacing": ".03em"
+    },
+    "cls-137": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-138": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-139": {
+      "letter-spacing": ".02em"
+    },
+    "cls-140": {
+      "letter-spacing": "0em"
+    },
+    "cls-141": {
+      "letter-spacing": ".03em"
+    },
+    "cls-142": {
+      "letter-spacing": ".17em"
+    },
+    "cls-143": {
+      "letter-spacing": ".02em"
+    },
+    "cls-144": {
+      "letter-spacing": ".03em"
+    },
+    "cls-145": {
+      "letter-spacing": ".02em"
+    },
+    "cls-146": {
+      "letter-spacing": "0em"
+    },
+    "cls-147": {
+      "letter-spacing": ".02em"
+    },
+    "cls-148": {
+      "letter-spacing": ".04em"
+    },
+    "cls-149": {
+      "letter-spacing": "0em"
+    },
+    "cls-150": {
+      "letter-spacing": ".03em"
+    },
+    "cls-151": {
+      "letter-spacing": ".03em"
+    },
+    "cls-152": {
+      "letter-spacing": "0em"
+    },
+    "cls-153": {
+      "letter-spacing": ".01em"
+    },
+    "cls-154": {
+      "letter-spacing": ".02em"
+    },
+    "cls-155": {
+      "letter-spacing": ".02em"
+    },
+    "cls-156": {
+      "letter-spacing": ".04em"
+    },
+    "cls-157": {
+      "letter-spacing": ".02em"
+    },
+    "cls-158": {
+      "letter-spacing": ".09em"
+    },
+    "cls-159": {
+      "letter-spacing": ".04em"
+    },
+    "cls-160": {
+      "letter-spacing": "0em"
+    },
+    "cls-161": {
+      "letter-spacing": ".17em"
+    },
+    "cls-162": {
+      "letter-spacing": ".04em"
+    },
+    "cls-163": {
+      "letter-spacing": ".17em"
+    },
+    "cls-164": {
+      "clip-path": "url(#clippath-6)"
+    },
+    "cls-165": {
+      "clip-path": "url(#clippath-7)"
+    },
+    "cls-166": {
+      "letter-spacing": ".04em"
+    },
+    "cls-167": {
+      "letter-spacing": ".04em"
+    },
+    "cls-168": {
+      "letter-spacing": ".03em"
+    },
+    "cls-169": {
+      "letter-spacing": ".03em"
+    },
+    "cls-170": {
+      "letter-spacing": ".18em"
+    },
+    "cls-171": {
+      "letter-spacing": "0em"
+    },
+    "cls-172": {
+      "letter-spacing": "0em"
+    },
+    "cls-173": {
+      "letter-spacing": ".04em"
+    },
+    "cls-174": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-175": {
+      "letter-spacing": ".18em"
+    },
+    "cls-176": {
+      "letter-spacing": ".03em"
+    },
+    "cls-177": {
+      "fill": "url(#linear-gradient-2)",
+      "mix-blend-mode": "multiply"
+    },
+    "cls-178": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient-4)"
+    },
+    "cls-179": {
+      "mix-blend-mode": "multiply",
+      "fill": "#134d80"
+    },
+    "cls-180": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient-6)",
+      "opacity": ".25"
+    },
+    "cls-181": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient-5)"
+    },
+    "cls-182": {
+      "mix-blend-mode": "multiply"
+    },
+    "cls-183": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient-3)"
+    },
+    "cls-184": {
+      "mix-blend-mode": "multiply",
+      "fill": "#384920"
+    },
+    "cls-185": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient)"
+    },
+    "cls-186": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient-8)",
+      "opacity": ".5"
+    },
+    "cls-187": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient-7)"
+    },
+    "cls-188": {
+      "stroke-width": "6px",
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "fill": "none",
+      "stroke": "#8c9789"
+    },
+    "cls-189": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "fill": "none",
+      "stroke": "#fff",
+      "stroke-width": "4px"
+    },
+    "cls-190": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "fill": "#00565e",
+      "stroke-width": "2px",
+      "stroke": "#00565e"
+    },
+    "cls-191": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "fill": "none",
+      "stroke": "#fff",
+      "stroke-width": "20px"
+    },
+    "cls-192": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "fill": "none",
+      "stroke-width": "4px",
+      "stroke": "gray"
+    },
+    "cls-193": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke": "#393939",
+      "stroke-width": ".1px",
+      "fill": "#393939"
+    },
+    "cls-194": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "fill": "none",
+      "stroke": "#00565e"
+    },
+    "cls-195": {
+      "fill": "none",
+      "stroke": "#8c9789",
+      "stroke-miterlimit": "10"
+    },
+    "cls-196": {
+      "fill": "none",
+      "stroke-miterlimit": "10",
+      "stroke": "#384920"
+    },
+    "cls-197": {
+      "fill": "none"
+    },
+    "cls-198": {
+      "letter-spacing": ".1em"
+    },
+    "cls-199": {
+      "letter-spacing": ".04em"
+    },
+    "cls-200": {
+      "font-size": "133.32px",
+      "fill": "#fff",
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'"
+    },
+    "cls-201": {
+      "fill": "#fff",
+      "font-weight": "700",
+      "font-family": "Helvetica-Bold, Helvetica",
+      "font-size": "15.1px",
+      "letter-spacing": ".1em"
+    },
+    "cls-202": {
+      "fill": "#fff",
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "71.48px"
+    },
+    "cls-203": {
+      "fill": "#fff"
+    },
+    "cls-204": {
+      "fill": "#fff",
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "79px"
+    },
+    "cls-205": {
+      "fill": "#fff",
+      "font-family": "Satoshi-Regular, Satoshi",
+      "font-size": "53.21px",
+      "letter-spacing": ".02em"
+    },
+    "cls-206": {
+      "fill": "#fff",
+      "font-weight": "700",
+      "font-family": "Satoshi-Bold, Satoshi",
+      "font-size": "10.64px"
+    },
+    "cls-207": {
+      "fill": "#fff",
+      "font-size": "109.49px"
+    },
+    "cls-208": {
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "letter-spacing": ".08em"
+    },
+    "cls-209": {
+      "font-weight": "700",
+      "font-family": "Satoshi-Bold, Satoshi"
+    },
+    "cls-210": {
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "79px"
+    },
+    "cls-211": {
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'"
+    },
+    "cls-212": {
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "160px",
+      "letter-spacing": "-.02em"
+    },
+    "cls-213": {
+      "letter-spacing": ".03em"
+    },
+    "cls-214": {
+      "letter-spacing": ".02em"
+    },
+    "cls-215": {
+      "letter-spacing": ".19em"
+    },
+    "cls-216": {
+      "letter-spacing": "0em"
+    },
+    "cls-217": {
+      "letter-spacing": ".04em"
+    },
+    "cls-218": {
+      "letter-spacing": ".09em"
+    },
+    "cls-219": {
+      "letter-spacing": ".03em"
+    },
+    "cls-220": {
+      "letter-spacing": ".2em"
+    },
+    "cls-221": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-222": {
+      "letter-spacing": ".04em"
+    },
+    "cls-223": {
+      "letter-spacing": ".2em"
+    },
+    "cls-224": {
+      "letter-spacing": ".04em"
+    },
+    "cls-225": {
+      "letter-spacing": ".03em"
+    },
+    "cls-226": {
+      "letter-spacing": ".21em"
+    },
+    "cls-227": {
+      "letter-spacing": ".06em"
+    },
+    "cls-228": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-229": {
+      "font-size": "26.48px",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "fill": "#00565e"
+    },
+    "cls-230": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "-.02em"
+    },
+    "cls-231": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-232": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-233": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-234": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-235": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500"
+    },
+    "cls-236": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-237": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-238": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "font-size": "30px"
+    },
+    "cls-239": {
+      "letter-spacing": ".17em"
+    },
+    "cls-240": {
+      "letter-spacing": ".03em"
+    },
+    "cls-241": {
+      "letter-spacing": "0em"
+    },
+    "cls-242": {
+      "letter-spacing": ".05em"
+    },
+    "cls-243": {
+      "letter-spacing": ".04em"
+    },
+    "cls-244": {
+      "letter-spacing": ".02em"
+    },
+    "cls-245": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-246": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-247": {
+      "letter-spacing": ".03em"
+    },
+    "cls-248": {
+      "letter-spacing": ".17em"
+    },
+    "cls-249": {
+      "letter-spacing": "0em"
+    },
+    "cls-250": {
+      "letter-spacing": ".08em"
+    },
+    "cls-251": {
+      "letter-spacing": ".03em"
+    },
+    "cls-252": {
+      "letter-spacing": ".03em"
+    },
+    "cls-253": {
+      "letter-spacing": ".03em"
+    },
+    "cls-254": {
+      "clip-path": "url(#clippath-4)"
+    },
+    "cls-255": {
+      "letter-spacing": "0em"
+    },
+    "cls-256": {
+      "letter-spacing": ".03em"
+    },
+    "cls-257": {
+      "letter-spacing": ".02em"
+    },
+    "cls-258": {
+      "letter-spacing": "0em"
+    },
+    "cls-259": {
+      "letter-spacing": ".02em"
+    },
+    "cls-260": {
+      "letter-spacing": ".03em"
+    },
+    "cls-261": {
+      "letter-spacing": ".03em"
+    },
+    "cls-262": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-263": {
+      "letter-spacing": ".04em"
+    },
+    "cls-264": {
+      "letter-spacing": ".02em"
+    },
+    "cls-265": {
+      "letter-spacing": ".02em"
+    },
+    "cls-266": {
+      "letter-spacing": ".03em"
+    },
+    "cls-267": {
+      "letter-spacing": ".03em"
+    },
+    "cls-268": {
+      "letter-spacing": ".08em"
+    },
+    "cls-269": {
+      "letter-spacing": ".03em"
+    },
+    "cls-270": {
+      "letter-spacing": ".03em"
+    },
+    "cls-271": {
+      "letter-spacing": ".03em"
+    },
+    "cls-272": {
+      "letter-spacing": ".04em"
+    },
+    "cls-273": {
+      "letter-spacing": ".03em"
+    },
+    "cls-274": {
+      "letter-spacing": ".17em"
+    },
+    "cls-275": {
+      "letter-spacing": ".1em"
+    },
+    "cls-276": {
+      "letter-spacing": ".15em"
+    },
+    "cls-277": {
+      "letter-spacing": ".03em"
+    },
+    "cls-278": {
+      "letter-spacing": ".03em"
+    },
+    "cls-279": {
+      "letter-spacing": ".03em"
+    },
+    "cls-280": {
+      "letter-spacing": ".17em"
+    },
+    "cls-281": {
+      "letter-spacing": "0em"
+    },
+    "cls-282": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-283": {
+      "letter-spacing": ".05em"
+    },
+    "cls-284": {
+      "letter-spacing": ".03em"
+    },
+    "cls-285": {
+      "letter-spacing": ".03em"
+    },
+    "cls-286": {
+      "letter-spacing": "0em"
+    },
+    "cls-287": {
+      "font-size": "24px"
+    },
+    "cls-288": {
+      "letter-spacing": ".22em"
+    },
+    "cls-289": {
+      "letter-spacing": ".03em"
+    },
+    "cls-290": {
+      "letter-spacing": "0em"
+    },
+    "cls-291": {
+      "letter-spacing": ".18em"
+    },
+    "cls-292": {
+      "letter-spacing": ".03em"
+    },
+    "cls-293": {
+      "letter-spacing": ".16em"
+    },
+    "cls-294": {
+      "letter-spacing": ".03em"
+    },
+    "cls-295": {
+      "letter-spacing": ".01em"
+    },
+    "cls-296": {
+      "letter-spacing": ".17em"
+    },
+    "cls-297": {
+      "letter-spacing": ".02em"
+    },
+    "cls-298": {
+      "letter-spacing": ".03em"
+    },
+    "cls-299": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-300": {
+      "letter-spacing": ".03em"
+    },
+    "cls-301": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-302": {
+      "letter-spacing": "0em"
+    },
+    "cls-303": {
+      "letter-spacing": ".03em"
+    },
+    "cls-304": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-305": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-306": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-307": {
+      "letter-spacing": ".03em"
+    },
+    "cls-308": {
+      "letter-spacing": "0em"
+    },
+    "cls-309": {
+      "letter-spacing": ".03em"
+    },
+    "cls-310": {
+      "letter-spacing": ".03em"
+    },
+    "cls-311": {
+      "letter-spacing": ".03em"
+    },
+    "cls-312": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-313": {
+      "letter-spacing": ".03em"
+    },
+    "cls-314": {
+      "letter-spacing": ".08em"
+    },
+    "cls-315": {
+      "letter-spacing": ".13em"
+    },
+    "cls-316": {
+      "letter-spacing": ".21em"
+    },
+    "cls-317": {
+      "letter-spacing": ".15em"
+    },
+    "cls-318": {
+      "letter-spacing": ".04em"
+    },
+    "cls-319": {
+      "letter-spacing": ".15em"
+    },
+    "cls-320": {
+      "letter-spacing": ".03em"
+    },
+    "cls-321": {
+      "letter-spacing": ".03em"
+    },
+    "cls-322": {
+      "letter-spacing": ".02em"
+    },
+    "cls-323": {
+      "letter-spacing": ".2em"
+    },
+    "cls-324": {
+      "letter-spacing": ".17em"
+    },
+    "cls-325": {
+      "letter-spacing": ".01em"
+    },
+    "cls-326": {
+      "letter-spacing": ".16em"
+    },
+    "cls-327": {
+      "letter-spacing": ".02em"
+    },
+    "cls-328": {
+      "letter-spacing": ".18em"
+    },
+    "cls-329": {
+      "letter-spacing": ".04em"
+    },
+    "cls-330": {
+      "letter-spacing": ".04em"
+    },
+    "cls-331": {
+      "letter-spacing": ".17em"
+    },
+    "cls-332": {
+      "letter-spacing": ".03em"
+    },
+    "cls-333": {
+      "letter-spacing": ".17em"
+    },
+    "cls-334": {
+      "letter-spacing": ".18em"
+    },
+    "cls-335": {
+      "letter-spacing": ".16em"
+    },
+    "cls-336": {
+      "letter-spacing": ".02em"
+    },
+    "cls-337": {
+      "letter-spacing": ".17em"
+    },
+    "cls-338": {
+      "letter-spacing": ".03em"
+    },
+    "cls-339": {
+      "letter-spacing": ".08em"
+    },
+    "cls-340": {
+      "letter-spacing": ".21em"
+    },
+    "cls-341": {
+      "letter-spacing": ".03em"
+    },
+    "cls-342": {
+      "letter-spacing": ".06em"
+    },
+    "cls-343": {
+      "letter-spacing": ".02em"
+    },
+    "cls-344": {
+      "letter-spacing": ".03em"
+    },
+    "cls-345": {
+      "letter-spacing": ".03em"
+    },
+    "cls-346": {
+      "letter-spacing": ".03em"
+    },
+    "cls-347": {
+      "letter-spacing": ".17em"
+    },
+    "cls-348": {
+      "letter-spacing": ".03em"
+    },
+    "cls-349": {
+      "letter-spacing": ".05em"
+    },
+    "cls-350": {
+      "letter-spacing": ".17em"
+    },
+    "cls-351": {
+      "letter-spacing": ".06em"
+    },
+    "cls-352": {
+      "letter-spacing": ".03em"
+    },
+    "cls-353": {
+      "letter-spacing": ".02em"
+    },
+    "cls-354": {
+      "letter-spacing": ".03em"
+    },
+    "cls-355": {
+      "letter-spacing": ".01em"
+    },
+    "cls-356": {
+      "letter-spacing": ".05em"
+    },
+    "cls-357": {
+      "letter-spacing": ".03em"
+    },
+    "cls-358": {
+      "letter-spacing": ".01em"
+    },
+    "cls-359": {
+      "letter-spacing": ".02em"
+    },
+    "cls-360": {
+      "letter-spacing": ".02em"
+    },
+    "cls-361": {
+      "letter-spacing": ".13em"
+    },
+    "cls-362": {
+      "letter-spacing": ".03em"
+    },
+    "cls-363": {
+      "letter-spacing": ".02em"
+    },
+    "cls-364": {
+      "font-size": "16.48px"
+    },
+    "cls-365": {
+      "letter-spacing": ".23em"
+    },
+    "cls-366": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-367": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-368": {
+      "letter-spacing": ".02em"
+    },
+    "cls-369": {
+      "letter-spacing": ".03em"
+    },
+    "cls-370": {
+      "letter-spacing": ".03em"
+    },
+    "cls-371": {
+      "letter-spacing": ".15em"
+    },
+    "cls-372": {
+      "letter-spacing": ".01em"
+    },
+    "cls-373": {
+      "letter-spacing": ".04em"
+    },
+    "cls-374": {
+      "letter-spacing": ".03em"
+    },
+    "cls-375": {
+      "letter-spacing": ".02em"
+    },
+    "cls-376": {
+      "letter-spacing": ".03em"
+    },
+    "cls-377": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-378": {
+      "letter-spacing": ".17em"
+    },
+    "cls-379": {
+      "letter-spacing": ".02em"
+    },
+    "cls-380": {
+      "letter-spacing": ".04em"
+    },
+    "cls-381": {
+      "letter-spacing": ".16em"
+    },
+    "cls-382": {
+      "letter-spacing": ".13em"
+    },
+    "cls-383": {
+      "letter-spacing": ".03em"
+    },
+    "cls-384": {
+      "letter-spacing": ".06em"
+    },
+    "cls-385": {
+      "letter-spacing": ".01em"
+    },
+    "cls-386": {
+      "letter-spacing": ".17em"
+    },
+    "cls-387": {
+      "letter-spacing": ".18em"
+    },
+    "cls-388": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-389": {
+      "letter-spacing": ".06em"
+    },
+    "cls-390": {
+      "letter-spacing": ".21em"
+    },
+    "cls-391": {
+      "clip-path": "url(#clippath-9)"
+    },
+    "cls-392": {
+      "letter-spacing": ".05em"
+    },
+    "cls-393": {
+      "letter-spacing": ".03em"
+    },
+    "cls-394": {
+      "letter-spacing": ".03em"
+    },
+    "cls-395": {
+      "letter-spacing": ".16em"
+    },
+    "cls-396": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-397": {
+      "letter-spacing": ".08em"
+    },
+    "cls-398": {
+      "letter-spacing": ".03em"
+    },
+    "cls-399": {
+      "letter-spacing": ".03em"
+    },
+    "cls-400": {
+      "clip-path": "url(#clippath-10)"
+    },
+    "cls-401": {
+      "letter-spacing": ".03em"
+    },
+    "cls-402": {
+      "letter-spacing": ".08em"
+    },
+    "cls-403": {
+      "letter-spacing": ".04em"
+    },
+    "cls-404": {
+      "letter-spacing": "0em"
+    },
+    "cls-405": {
+      "letter-spacing": ".02em"
+    },
+    "cls-406": {
+      "letter-spacing": ".14em"
+    },
+    "cls-407": {
+      "fill": "#c0833e"
+    },
+    "cls-408": {
+      "fill": "#c0833e",
+      "font-family": "TheSeasons-Regular, 'The Seasons'",
+      "font-size": "55.86px"
+    },
+    "cls-409": {
+      "letter-spacing": ".04em"
+    },
+    "cls-410": {
+      "letter-spacing": ".21em"
+    },
+    "cls-411": {
+      "letter-spacing": ".08em"
+    },
+    "cls-412": {
+      "letter-spacing": ".03em"
+    },
+    "cls-413": {
+      "letter-spacing": ".17em"
+    },
+    "cls-414": {
+      "letter-spacing": ".15em"
+    },
+    "cls-415": {
+      "letter-spacing": ".02em"
+    },
+    "cls-416": {
+      "letter-spacing": ".03em"
+    },
+    "cls-417": {
+      "letter-spacing": ".19em"
+    },
+    "cls-418": {
+      "letter-spacing": ".01em"
+    },
+    "cls-419": {
+      "letter-spacing": "0em"
+    },
+    "cls-420": {
+      "letter-spacing": ".03em"
+    },
+    "cls-421": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-422": {
+      "letter-spacing": ".03em"
+    },
+    "cls-423": {
+      "letter-spacing": ".03em"
+    },
+    "cls-424": {
+      "font-size": "47.71px"
+    },
+    "cls-425": {
+      "letter-spacing": ".03em"
+    },
+    "cls-426": {
+      "letter-spacing": ".04em"
+    },
+    "cls-427": {
+      "letter-spacing": ".08em"
+    },
+    "cls-428": {
+      "letter-spacing": ".02em"
+    },
+    "cls-429": {
+      "letter-spacing": "0em"
+    },
+    "cls-430": {
+      "letter-spacing": ".05em"
+    },
+    "cls-431": {
+      "letter-spacing": ".02em"
+    },
+    "cls-432": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-433": {
+      "letter-spacing": ".03em"
+    },
+    "cls-434": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-435": {
+      "letter-spacing": ".17em"
+    },
+    "cls-436": {
+      "letter-spacing": ".01em"
+    },
+    "cls-437": {
+      "letter-spacing": "0em"
+    },
+    "cls-438": {
+      "letter-spacing": ".01em"
+    },
+    "cls-439": {
+      "letter-spacing": ".04em"
+    },
+    "cls-440": {
+      "letter-spacing": ".03em"
+    },
+    "cls-441": {
+      "letter-spacing": ".17em"
+    },
+    "cls-442": {
+      "letter-spacing": ".05em"
+    },
+    "cls-443": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-444": {
+      "letter-spacing": "0em"
+    },
+    "cls-445": {
+      "letter-spacing": ".02em"
+    },
+    "cls-446": {
+      "letter-spacing": ".03em"
+    },
+    "cls-447": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-448": {
+      "letter-spacing": ".04em"
+    },
+    "cls-449": {
+      "letter-spacing": ".14em"
+    },
+    "cls-450": {
+      "letter-spacing": ".02em"
+    },
+    "cls-451": {
+      "letter-spacing": ".19em"
+    },
+    "cls-452": {
+      "letter-spacing": ".04em"
+    },
+    "cls-453": {
+      "letter-spacing": ".01em"
+    },
+    "cls-454": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-455": {
+      "letter-spacing": ".09em"
+    },
+    "cls-456": {
+      "letter-spacing": ".03em"
+    },
+    "cls-457": {
+      "letter-spacing": ".17em"
+    },
+    "cls-458": {
+      "letter-spacing": ".04em"
+    },
+    "cls-459": {
+      "letter-spacing": ".17em"
+    },
+    "cls-460": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-461": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-462": {
+      "letter-spacing": ".08em"
+    },
+    "cls-463": {
+      "letter-spacing": ".1em"
+    },
+    "cls-464": {
+      "letter-spacing": ".17em"
+    },
+    "cls-465": {
+      "letter-spacing": ".04em"
+    },
+    "cls-466": {
+      "letter-spacing": ".03em"
+    },
+    "cls-467": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-468": {
+      "letter-spacing": ".2em"
+    },
+    "cls-469": {
+      "letter-spacing": ".17em"
+    },
+    "cls-470": {
+      "letter-spacing": ".03em"
+    },
+    "cls-471": {
+      "letter-spacing": "0em"
+    },
+    "cls-472": {
+      "letter-spacing": ".07em"
+    },
+    "cls-473": {
+      "letter-spacing": ".05em"
+    },
+    "cls-474": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-475": {
+      "letter-spacing": ".09em"
+    },
+    "cls-476": {
+      "letter-spacing": ".07em"
+    },
+    "cls-477": {
+      "letter-spacing": ".02em"
+    },
+    "cls-478": {
+      "letter-spacing": "0em"
+    },
+    "cls-479": {
+      "letter-spacing": ".03em"
+    },
+    "cls-480": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-481": {
+      "letter-spacing": ".17em"
+    },
+    "cls-482": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-483": {
+      "letter-spacing": ".04em"
+    },
+    "cls-484": {
+      "letter-spacing": ".06em"
+    },
+    "cls-485": {
+      "letter-spacing": ".02em"
+    },
+    "cls-486": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-487": {
+      "letter-spacing": ".02em"
+    },
+    "cls-488": {
+      "letter-spacing": ".03em"
+    },
+    "cls-489": {
+      "letter-spacing": ".03em"
+    },
+    "cls-490": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-491": {
+      "letter-spacing": ".02em"
+    },
+    "cls-492": {
+      "letter-spacing": ".02em"
+    },
+    "cls-493": {
+      "letter-spacing": ".03em"
+    },
+    "cls-494": {
+      "letter-spacing": ".01em"
+    },
+    "cls-495": {
+      "letter-spacing": ".04em"
+    },
+    "cls-496": {
+      "letter-spacing": ".13em"
+    },
+    "cls-497": {
+      "clip-path": "url(#clippath-11)"
+    },
+    "cls-498": {
+      "letter-spacing": ".02em"
+    },
+    "cls-499": {
+      "letter-spacing": ".01em"
+    },
+    "cls-500": {
+      "letter-spacing": ".18em"
+    },
+    "cls-501": {
+      "letter-spacing": ".03em"
+    },
+    "cls-502": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-503": {
+      "letter-spacing": ".22em"
+    },
+    "cls-504": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-505": {
+      "letter-spacing": ".17em"
+    },
+    "cls-506": {
+      "letter-spacing": ".04em"
+    },
+    "cls-507": {
+      "letter-spacing": ".02em"
+    },
+    "cls-508": {
+      "letter-spacing": ".02em"
+    },
+    "cls-509": {
+      "letter-spacing": ".02em"
+    },
+    "cls-510": {
+      "letter-spacing": ".06em"
+    },
+    "cls-511": {
+      "letter-spacing": ".03em"
+    },
+    "cls-512": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-513": {
+      "letter-spacing": ".02em"
+    },
+    "cls-514": {
+      "letter-spacing": ".18em"
+    },
+    "cls-515": {
+      "letter-spacing": ".03em"
+    },
+    "cls-516": {
+      "letter-spacing": ".21em"
+    },
+    "cls-517": {
+      "letter-spacing": ".02em"
+    },
+    "cls-518": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-519": {
+      "letter-spacing": ".17em"
+    },
+    "cls-520": {
+      "letter-spacing": ".03em"
+    },
+    "cls-521": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-522": {
+      "letter-spacing": "0em"
+    },
+    "cls-523": {
+      "letter-spacing": ".03em"
+    },
+    "cls-524": {
+      "letter-spacing": ".03em"
+    },
+    "cls-525": {
+      "letter-spacing": ".01em"
+    },
+    "cls-526": {
+      "letter-spacing": ".03em"
+    },
+    "cls-527": {
+      "letter-spacing": ".02em"
+    },
+    "cls-528": {
+      "letter-spacing": ".02em"
+    },
+    "cls-529": {
+      "letter-spacing": ".17em"
+    },
+    "cls-530": {
+      "letter-spacing": ".04em"
+    },
+    "cls-531": {
+      "letter-spacing": ".02em"
+    },
+    "cls-532": {
+      "letter-spacing": ".02em"
+    },
+    "cls-533": {
+      "letter-spacing": ".05em"
+    },
+    "cls-534": {
+      "letter-spacing": ".02em"
+    },
+    "cls-535": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-536": {
+      "letter-spacing": ".03em"
+    },
+    "cls-537": {
+      "letter-spacing": ".03em"
+    },
+    "cls-538": {
+      "letter-spacing": ".05em"
+    },
+    "cls-539": {
+      "letter-spacing": ".03em"
+    },
+    "cls-540": {
+      "letter-spacing": ".06em"
+    },
+    "cls-541": {
+      "letter-spacing": ".02em"
+    },
+    "cls-542": {
+      "letter-spacing": ".03em"
+    },
+    "cls-543": {
+      "letter-spacing": ".03em"
+    },
+    "cls-544": {
+      "letter-spacing": ".03em"
+    },
+    "cls-545": {
+      "letter-spacing": ".03em"
+    },
+    "cls-546": {
+      "letter-spacing": ".06em"
+    },
+    "cls-547": {
+      "letter-spacing": ".03em"
+    },
+    "cls-548": {
+      "letter-spacing": ".03em"
+    },
+    "cls-549": {
+      "letter-spacing": ".02em"
+    },
+    "cls-550": {
+      "letter-spacing": "0em"
+    },
+    "cls-551": {
+      "letter-spacing": ".16em"
+    },
+    "cls-552": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-553": {
+      "letter-spacing": ".02em"
+    },
+    "cls-554": {
+      "letter-spacing": ".11em"
+    },
+    "cls-555": {
+      "letter-spacing": ".04em"
+    },
+    "cls-556": {
+      "letter-spacing": ".17em"
+    },
+    "cls-557": {
+      "letter-spacing": ".16em"
+    },
+    "cls-558": {
+      "letter-spacing": ".16em"
+    },
+    "cls-559": {
+      "letter-spacing": ".22em"
+    },
+    "cls-560": {
+      "letter-spacing": ".03em"
+    },
+    "cls-561": {
+      "letter-spacing": ".03em"
+    },
+    "cls-562": {
+      "letter-spacing": ".02em"
+    },
+    "cls-563": {
+      "letter-spacing": ".04em"
+    },
+    "cls-564": {
+      "letter-spacing": "0em"
+    },
+    "cls-565": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-566": {
+      "letter-spacing": ".02em"
+    },
+    "cls-567": {
+      "letter-spacing": ".02em"
+    },
+    "cls-568": {
+      "letter-spacing": ".04em"
+    },
+    "cls-569": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-570": {
+      "letter-spacing": ".03em"
+    },
+    "cls-571": {
+      "letter-spacing": ".18em"
+    },
+    "cls-572": {
+      "letter-spacing": ".04em"
+    },
+    "cls-573": {
+      "letter-spacing": "0em"
+    },
+    "cls-574": {
+      "letter-spacing": ".03em"
+    },
+    "cls-575": {
+      "letter-spacing": "0em"
+    },
+    "cls-576": {
+      "letter-spacing": ".17em"
+    },
+    "cls-577": {
+      "letter-spacing": ".04em"
+    },
+    "cls-578": {
+      "letter-spacing": ".17em"
+    },
+    "cls-579": {
+      "letter-spacing": "0em"
+    },
+    "cls-580": {
+      "letter-spacing": ".13em"
+    },
+    "cls-581": {
+      "letter-spacing": "0em"
+    },
+    "cls-582": {
+      "letter-spacing": "0em"
+    },
+    "cls-583": {
+      "letter-spacing": ".02em"
+    },
+    "cls-584": {
+      "letter-spacing": "0em"
+    },
+    "cls-585": {
+      "letter-spacing": ".03em"
+    },
+    "cls-586": {
+      "letter-spacing": ".03em"
+    },
+    "cls-587": {
+      "letter-spacing": "0em"
+    },
+    "cls-588": {
+      "letter-spacing": ".16em"
+    },
+    "cls-589": {
+      "letter-spacing": ".04em"
+    },
+    "cls-590": {
+      "letter-spacing": ".05em"
+    },
+    "cls-591": {
+      "letter-spacing": "0em"
+    },
+    "cls-592": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-593": {
+      "letter-spacing": ".05em"
+    },
+    "cls-594": {
+      "letter-spacing": "-.1em"
+    },
+    "cls-595": {
+      "letter-spacing": ".03em"
+    },
+    "cls-596": {
+      "letter-spacing": ".04em"
+    },
+    "cls-597": {
+      "letter-spacing": ".02em"
+    },
+    "cls-598": {
+      "letter-spacing": ".04em"
+    },
+    "cls-599": {
+      "letter-spacing": ".04em"
+    },
+    "cls-600": {
+      "letter-spacing": ".12em"
+    },
+    "cls-601": {
+      "letter-spacing": ".02em"
+    },
+    "cls-602": {
+      "letter-spacing": ".03em"
+    },
+    "cls-603": {
+      "letter-spacing": ".04em"
+    },
+    "cls-604": {
+      "letter-spacing": ".17em"
+    },
+    "cls-605": {
+      "letter-spacing": "-.11em"
+    },
+    "cls-606": {
+      "letter-spacing": ".18em"
+    },
+    "cls-607": {
+      "letter-spacing": ".16em"
+    },
+    "cls-608": {
+      "letter-spacing": ".22em"
+    },
+    "cls-609": {
+      "letter-spacing": ".21em"
+    },
+    "cls-610": {
+      "letter-spacing": ".09em"
+    },
+    "cls-611": {
+      "letter-spacing": ".04em"
+    },
+    "cls-612": {
+      "letter-spacing": ".12em"
+    },
+    "cls-613": {
+      "letter-spacing": ".21em"
+    },
+    "cls-614": {
+      "letter-spacing": ".17em"
+    },
+    "cls-615": {
+      "letter-spacing": ".03em"
+    },
+    "cls-616": {
+      "letter-spacing": ".03em"
+    },
+    "cls-617": {
+      "letter-spacing": ".03em"
+    },
+    "cls-618": {
+      "letter-spacing": ".03em"
+    },
+    "cls-619": {
+      "letter-spacing": ".17em"
+    },
+    "cls-620": {
+      "letter-spacing": ".14em"
+    },
+    "cls-621": {
+      "letter-spacing": ".18em"
+    },
+    "cls-622": {
+      "letter-spacing": ".02em"
+    },
+    "cls-623": {
+      "letter-spacing": ".03em"
+    },
+    "cls-624": {
+      "letter-spacing": ".03em"
+    },
+    "cls-625": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-626": {
+      "clip-path": "url(#clippath-1)"
+    },
+    "cls-627": {
+      "letter-spacing": ".04em"
+    },
+    "cls-628": {
+      "letter-spacing": ".18em"
+    },
+    "cls-629": {
+      "letter-spacing": ".03em"
+    },
+    "cls-630": {
+      "letter-spacing": ".03em"
+    },
+    "cls-631": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-632": {
+      "letter-spacing": ".17em"
+    },
+    "cls-633": {
+      "letter-spacing": ".04em"
+    },
+    "cls-634": {
+      "letter-spacing": ".03em"
+    },
+    "cls-635": {
+      "letter-spacing": ".03em"
+    },
+    "cls-636": {
+      "letter-spacing": ".02em"
+    },
+    "cls-637": {
+      "letter-spacing": ".14em"
+    },
+    "cls-638": {
+      "letter-spacing": ".04em"
+    },
+    "cls-639": {
+      "letter-spacing": ".03em"
+    },
+    "cls-640": {
+      "letter-spacing": ".03em"
+    },
+    "cls-641": {
+      "letter-spacing": ".03em"
+    },
+    "cls-642": {
+      "letter-spacing": ".02em"
+    },
+    "cls-643": {
+      "letter-spacing": ".03em"
+    },
+    "cls-644": {
+      "letter-spacing": ".03em"
+    },
+    "cls-645": {
+      "letter-spacing": ".04em"
+    },
+    "cls-646": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-647": {
+      "letter-spacing": ".14em"
+    },
+    "cls-648": {
+      "letter-spacing": ".04em"
+    },
+    "cls-649": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-650": {
+      "letter-spacing": ".06em"
+    },
+    "cls-651": {
+      "letter-spacing": ".04em"
+    },
+    "cls-652": {
+      "letter-spacing": ".04em"
+    },
+    "cls-653": {
+      "letter-spacing": ".17em"
+    },
+    "cls-654": {
+      "letter-spacing": ".02em"
+    },
+    "cls-655": {
+      "letter-spacing": ".06em"
+    },
+    "cls-656": {
+      "letter-spacing": ".21em"
+    },
+    "cls-657": {
+      "letter-spacing": ".02em"
+    },
+    "cls-658": {
+      "letter-spacing": ".04em"
+    },
+    "cls-659": {
+      "letter-spacing": ".17em"
+    },
+    "cls-660": {
+      "letter-spacing": "0em"
+    },
+    "cls-661": {
+      "letter-spacing": ".06em"
+    },
+    "cls-662": {
+      "letter-spacing": ".03em"
+    },
+    "cls-663": {
+      "letter-spacing": ".03em"
+    },
+    "cls-664": {
+      "letter-spacing": ".03em"
+    },
+    "cls-665": {
+      "letter-spacing": ".17em"
+    },
+    "cls-666": {
+      "letter-spacing": ".21em"
+    },
+    "cls-667": {
+      "letter-spacing": ".02em"
+    },
+    "cls-668": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-669": {
+      "letter-spacing": ".14em"
+    },
+    "cls-670": {
+      "letter-spacing": ".17em"
+    },
+    "cls-671": {
+      "letter-spacing": "0em"
+    },
+    "cls-672": {
+      "fill": "#231f20"
+    },
+    "cls-673": {
+      "letter-spacing": ".01em"
+    },
+    "cls-674": {
+      "letter-spacing": ".03em"
+    },
+    "cls-675": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-676": {
+      "letter-spacing": ".03em"
+    },
+    "cls-677": {
+      "letter-spacing": ".03em"
+    },
+    "cls-678": {
+      "letter-spacing": ".02em"
+    },
+    "cls-679": {
+      "letter-spacing": ".03em"
+    },
+    "cls-680": {
+      "letter-spacing": ".17em"
+    },
+    "cls-681": {
+      "letter-spacing": ".03em"
+    },
+    "cls-682": {
+      "letter-spacing": ".03em"
+    },
+    "cls-683": {
+      "isolation": "isolate"
+    },
+    "cls-684": {
+      "letter-spacing": "0em"
+    },
+    "cls-685": {
+      "letter-spacing": ".03em"
+    },
+    "cls-686": {
+      "letter-spacing": ".03em"
+    },
+    "cls-687": {
+      "letter-spacing": "0em"
+    },
+    "cls-688": {
+      "letter-spacing": ".03em"
+    },
+    "cls-689": {
+      "letter-spacing": ".04em"
+    },
+    "cls-690": {
+      "letter-spacing": ".14em"
+    },
+    "cls-691": {
+      "letter-spacing": "0em"
+    },
+    "cls-692": {
+      "letter-spacing": "0em"
+    },
+    "cls-693": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-694": {
+      "letter-spacing": ".05em"
+    },
+    "cls-695": {
+      "letter-spacing": ".04em"
+    },
+    "cls-696": {
+      "letter-spacing": ".18em"
+    },
+    "cls-697": {
+      "clip-path": "url(#clippath-5)"
+    },
+    "cls-698": {
+      "letter-spacing": ".17em"
+    },
+    "cls-699": {
+      "letter-spacing": ".03em"
+    },
+    "cls-700": {
+      "letter-spacing": ".02em"
+    },
+    "cls-701": {
+      "letter-spacing": ".14em"
+    },
+    "cls-702": {
+      "letter-spacing": ".03em"
+    },
+    "cls-703": {
+      "letter-spacing": ".03em"
+    },
+    "cls-704": {
+      "letter-spacing": ".14em"
+    },
+    "cls-705": {
+      "letter-spacing": "0em"
+    },
+    "cls-706": {
+      "letter-spacing": ".05em"
+    },
+    "cls-707": {
+      "letter-spacing": ".03em"
+    },
+    "cls-708": {
+      "letter-spacing": ".14em"
+    },
+    "cls-709": {
+      "letter-spacing": ".03em"
+    },
+    "cls-710": {
+      "letter-spacing": ".02em"
+    },
+    "cls-711": {
+      "clip-path": "url(#clippath-8)"
+    },
+    "cls-712": {
+      "letter-spacing": ".14em"
+    },
+    "cls-713": {
+      "letter-spacing": "0em"
+    },
+    "cls-714": {
+      "letter-spacing": ".03em"
+    },
+    "cls-715": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-716": {
+      "letter-spacing": ".03em"
+    },
+    "cls-717": {
+      "letter-spacing": ".02em"
+    },
+    "cls-718": {
+      "letter-spacing": ".02em"
+    },
+    "cls-719": {
+      "letter-spacing": ".03em"
+    },
+    "cls-720": {
+      "letter-spacing": ".03em"
+    },
+    "cls-721": {
+      "letter-spacing": ".03em"
+    },
+    "cls-722": {
+      "letter-spacing": ".02em"
+    },
+    "cls-723": {
+      "letter-spacing": ".03em"
+    },
+    "cls-724": {
+      "letter-spacing": ".03em"
+    },
+    "cls-725": {
+      "letter-spacing": ".02em"
+    },
+    "cls-726": {
+      "letter-spacing": ".04em"
+    },
+    "cls-727": {
+      "letter-spacing": ".04em"
+    },
+    "cls-728": {
+      "letter-spacing": "0em"
+    },
+    "cls-729": {
+      "letter-spacing": ".04em"
+    },
+    "cls-730": {
+      "letter-spacing": ".02em"
+    },
+    "cls-731": {
+      "letter-spacing": ".17em"
+    },
+    "cls-732": {
+      "letter-spacing": ".07em"
+    },
+    "cls-733": {
+      "letter-spacing": ".02em"
+    },
+    "cls-734": {
+      "letter-spacing": ".03em"
+    },
+    "cls-735": {
+      "letter-spacing": ".03em"
+    },
+    "cls-736": {
+      "letter-spacing": ".03em"
+    },
+    "cls-737": {
+      "letter-spacing": ".02em"
+    },
+    "cls-738": {
+      "letter-spacing": ".03em"
+    },
+    "cls-739": {
+      "letter-spacing": ".04em"
+    },
+    "cls-740": {
+      "letter-spacing": ".03em"
+    },
+    "cls-741": {
+      "letter-spacing": ".04em"
+    },
+    "cls-742": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-743": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-744": {
+      "letter-spacing": ".17em"
+    },
+    "cls-745": {
+      "letter-spacing": ".02em"
+    },
+    "cls-746": {
+      "letter-spacing": ".04em"
+    },
+    "cls-747": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-748": {
+      "letter-spacing": "0em"
+    },
+    "cls-749": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-750": {
+      "letter-spacing": ".06em"
+    },
+    "cls-751": {
+      "letter-spacing": ".17em"
+    },
+    "cls-752": {
+      "letter-spacing": ".02em"
+    },
+    "cls-753": {
+      "letter-spacing": "0em"
+    },
+    "cls-754": {
+      "letter-spacing": ".22em"
+    },
+    "cls-755": {
+      "letter-spacing": ".03em"
+    },
+    "cls-756": {
+      "letter-spacing": ".03em"
+    },
+    "cls-757": {
+      "letter-spacing": ".01em"
+    },
+    "cls-758": {
+      "letter-spacing": ".04em"
+    },
+    "cls-759": {
+      "letter-spacing": ".02em"
+    },
+    "cls-760": {
+      "letter-spacing": ".14em"
+    },
+    "cls-761": {
+      "letter-spacing": ".03em"
+    },
+    "cls-762": {
+      "letter-spacing": ".17em"
+    },
+    "cls-763": {
+      "letter-spacing": ".01em"
+    },
+    "cls-764": {
+      "letter-spacing": ".03em"
+    },
+    "cls-765": {
+      "letter-spacing": ".06em"
+    },
+    "cls-766": {
+      "letter-spacing": ".02em"
+    },
+    "cls-767": {
+      "letter-spacing": ".03em"
+    },
+    "cls-768": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-769": {
+      "letter-spacing": ".18em"
+    },
+    "cls-770": {
+      "letter-spacing": ".04em"
+    },
+    "cls-771": {
+      "letter-spacing": ".04em"
+    },
+    "cls-772": {
+      "letter-spacing": ".02em"
+    },
+    "cls-773": {
+      "letter-spacing": ".02em"
+    },
+    "cls-774": {
+      "clip-path": "url(#clippath-3)"
+    },
+    "cls-775": {
+      "letter-spacing": ".02em"
+    },
+    "cls-776": {
+      "letter-spacing": ".02em"
+    },
+    "cls-777": {
+      "letter-spacing": ".02em"
+    },
+    "cls-778": {
+      "letter-spacing": ".07em"
+    },
+    "cls-779": {
+      "letter-spacing": "0em"
+    },
+    "cls-780": {
+      "letter-spacing": ".03em"
+    },
+    "cls-781": {
+      "letter-spacing": ".03em"
+    },
+    "cls-782": {
+      "letter-spacing": ".03em"
+    },
+    "cls-783": {
+      "letter-spacing": ".06em"
+    },
+    "cls-784": {
+      "letter-spacing": ".03em"
+    },
+    "cls-785": {
+      "letter-spacing": ".03em"
+    },
+    "cls-786": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-787": {
+      "letter-spacing": ".03em"
+    },
+    "cls-788": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-789": {
+      "letter-spacing": ".03em"
+    },
+    "cls-790": {
+      "letter-spacing": ".03em"
+    },
+    "cls-791": {
+      "letter-spacing": ".17em"
+    },
+    "cls-792": {
+      "letter-spacing": ".17em"
+    },
+    "cls-793": {
+      "letter-spacing": ".03em"
+    },
+    "cls-794": {
+      "letter-spacing": "0em"
+    },
+    "cls-795": {
+      "letter-spacing": ".03em"
+    },
+    "cls-796": {
+      "letter-spacing": ".07em"
+    },
+    "cls-797": {
+      "letter-spacing": ".03em"
+    },
+    "cls-798": {
+      "letter-spacing": ".03em"
+    },
+    "cls-799": {
+      "letter-spacing": ".16em"
+    },
+    "cls-800": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-801": {
+      "letter-spacing": ".03em"
+    },
+    "cls-802": {
+      "letter-spacing": ".04em"
+    },
+    "cls-803": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-804": {
+      "letter-spacing": ".03em"
+    },
+    "cls-805": {
+      "letter-spacing": ".02em"
+    },
+    "cls-806": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-807": {
+      "letter-spacing": "0em"
+    },
+    "cls-808": {
+      "letter-spacing": "0em"
+    },
+    "cls-809": {
+      "letter-spacing": ".17em"
+    },
+    "cls-810": {
+      "letter-spacing": ".03em"
+    },
+    "cls-811": {
+      "letter-spacing": ".03em"
+    },
+    "cls-812": {
+      "letter-spacing": ".17em"
+    },
+    "cls-813": {
+      "letter-spacing": ".1em"
+    },
+    "cls-814": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-815": {
+      "letter-spacing": "0em"
+    },
+    "cls-816": {
+      "letter-spacing": ".19em"
+    },
+    "cls-817": {
+      "letter-spacing": ".16em"
+    },
+    "cls-818": {
+      "letter-spacing": ".17em"
+    },
+    "cls-819": {
+      "letter-spacing": ".01em"
+    },
+    "cls-820": {
+      "letter-spacing": ".04em"
+    },
+    "cls-821": {
+      "letter-spacing": ".03em"
+    },
+    "cls-822": {
+      "clip-path": "url(#clippath-12)"
+    },
+    "cls-823": {
+      "letter-spacing": ".02em"
+    },
+    "cls-824": {
+      "letter-spacing": ".02em"
+    },
+    "cls-825": {
+      "letter-spacing": "0em"
+    },
+    "cls-826": {
+      "letter-spacing": ".02em"
+    },
+    "cls-827": {
+      "letter-spacing": ".02em"
+    },
+    "cls-828": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-829": {
+      "letter-spacing": "0em"
+    },
+    "cls-830": {
+      "letter-spacing": ".03em"
+    },
+    "cls-831": {
+      "letter-spacing": ".02em"
+    },
+    "cls-832": {
+      "letter-spacing": ".03em"
+    },
+    "cls-833": {
+      "letter-spacing": ".18em"
+    },
+    "cls-834": {
+      "letter-spacing": ".04em"
+    },
+    "cls-835": {
+      "letter-spacing": ".13em"
+    },
+    "cls-836": {
+      "letter-spacing": ".02em"
+    },
+    "cls-837": {
+      "letter-spacing": ".17em"
+    },
+    "cls-838": {
+      "letter-spacing": ".02em"
+    },
+    "cls-839": {
+      "letter-spacing": ".04em"
+    },
+    "cls-840": {
+      "letter-spacing": ".03em"
+    },
+    "cls-841": {
+      "letter-spacing": ".02em"
+    },
+    "cls-842": {
+      "letter-spacing": ".03em"
+    },
+    "cls-843": {
+      "letter-spacing": ".15em"
+    },
+    "cls-844": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-845": {
+      "letter-spacing": ".03em"
+    },
+    "cls-846": {
+      "letter-spacing": ".03em"
+    },
+    "cls-847": {
+      "letter-spacing": "0em"
+    },
+    "cls-848": {
+      "letter-spacing": ".03em"
+    },
+    "cls-849": {
+      "letter-spacing": ".17em"
+    },
+    "cls-850": {
+      "letter-spacing": ".03em"
+    },
+    "cls-851": {
+      "letter-spacing": ".08em"
+    },
+    "cls-852": {
+      "letter-spacing": ".03em"
+    },
+    "cls-853": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-854": {
+      "letter-spacing": ".15em"
+    },
+    "cls-855": {
+      "letter-spacing": ".03em"
+    },
+    "cls-856": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-857": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-858": {
+      "letter-spacing": ".01em"
+    },
+    "cls-859": {
+      "letter-spacing": ".03em"
+    },
+    "cls-860": {
+      "letter-spacing": ".05em"
+    },
+    "cls-861": {
+      "letter-spacing": ".03em"
+    },
+    "cls-862": {
+      "letter-spacing": ".09em"
+    },
+    "cls-863": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-864": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-865": {
+      "letter-spacing": ".02em"
+    },
+    "cls-866": {
+      "letter-spacing": ".01em"
+    },
+    "cls-867": {
+      "letter-spacing": ".03em"
+    },
+    "cls-868": {
+      "letter-spacing": ".02em"
+    },
+    "cls-869": {
+      "letter-spacing": ".04em"
+    },
+    "cls-870": {
+      "letter-spacing": ".02em"
+    },
+    "cls-871": {
+      "letter-spacing": ".2em"
+    },
+    "cls-872": {
+      "letter-spacing": ".03em"
+    },
+    "cls-873": {
+      "letter-spacing": "0em"
+    },
+    "cls-874": {
+      "letter-spacing": ".03em"
+    },
+    "cls-875": {
+      "letter-spacing": ".03em"
+    },
+    "cls-876": {
+      "letter-spacing": ".03em"
+    },
+    "cls-877": {
+      "letter-spacing": "0em"
+    },
+    "cls-878": {
+      "letter-spacing": ".21em"
+    },
+    "cls-879": {
+      "letter-spacing": ".03em"
+    },
+    "cls-880": {
+      "letter-spacing": ".04em"
+    },
+    "cls-881": {
+      "letter-spacing": ".02em"
+    },
+    "cls-882": {
+      "letter-spacing": ".15em"
+    },
+    "cls-883": {
+      "letter-spacing": ".04em"
+    },
+    "cls-884": {
+      "letter-spacing": ".17em"
+    },
+    "cls-885": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-886": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-887": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-888": {
+      "letter-spacing": ".03em"
+    },
+    "cls-889": {
+      "letter-spacing": ".14em"
+    },
+    "cls-890": {
+      "letter-spacing": ".08em"
+    },
+    "cls-891": {
+      "fill": "url(#linear-gradient-9)"
+    },
+    "cls-892": {
+      "letter-spacing": ".02em"
+    },
+    "cls-893": {
+      "letter-spacing": ".03em"
+    },
+    "cls-894": {
+      "letter-spacing": ".14em"
+    },
+    "cls-895": {
+      "fill": "#e3d0bc"
+    },
+    "cls-896": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-897": {
+      "letter-spacing": ".03em"
+    },
+    "cls-898": {
+      "letter-spacing": ".03em"
+    },
+    "cls-899": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-900": {
+      "letter-spacing": ".03em"
+    },
+    "cls-901": {
+      "letter-spacing": ".03em"
+    },
+    "cls-902": {
+      "letter-spacing": ".03em"
+    },
+    "cls-903": {
+      "letter-spacing": ".08em"
+    },
+    "cls-904": {
+      "letter-spacing": ".03em"
+    },
+    "cls-905": {
+      "letter-spacing": ".04em"
+    },
+    "cls-906": {
+      "letter-spacing": ".21em"
+    },
+    "cls-907": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-908": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-909": {
+      "letter-spacing": ".03em"
+    },
+    "cls-910": {
+      "letter-spacing": ".01em"
+    },
+    "cls-911": {
+      "letter-spacing": ".17em"
+    },
+    "cls-912": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-913": {
+      "letter-spacing": ".04em"
+    },
+    "cls-914": {
+      "letter-spacing": ".03em"
+    },
+    "cls-915": {
+      "letter-spacing": ".14em"
+    },
+    "cls-916": {
+      "letter-spacing": ".15em"
+    },
+    "cls-917": {
+      "letter-spacing": ".22em"
+    },
+    "cls-918": {
+      "letter-spacing": ".22em"
+    },
+    "cls-919": {
+      "letter-spacing": ".02em"
+    },
+    "cls-920": {
+      "letter-spacing": ".03em"
+    },
+    "cls-921": {
+      "letter-spacing": ".18em"
+    },
+    "cls-922": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-923": {
+      "letter-spacing": ".13em"
+    },
+    "cls-924": {
+      "letter-spacing": ".01em"
+    },
+    "cls-925": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-926": {
+      "letter-spacing": ".02em"
+    },
+    "cls-927": {
+      "letter-spacing": ".19em"
+    },
+    "cls-928": {
+      "letter-spacing": ".17em"
+    },
+    "cls-929": {
+      "letter-spacing": ".03em"
+    },
+    "cls-930": {
+      "letter-spacing": "0em"
+    },
+    "cls-931": {
+      "letter-spacing": ".03em"
+    },
+    "cls-932": {
+      "letter-spacing": ".16em"
+    },
+    "cls-933": {
+      "letter-spacing": ".03em"
+    },
+    "cls-934": {
+      "letter-spacing": ".06em"
+    },
+    "cls-935": {
+      "letter-spacing": ".14em"
+    },
+    "cls-936": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-937": {
+      "letter-spacing": ".08em"
+    },
+    "cls-938": {
+      "letter-spacing": ".16em"
+    },
+    "cls-939": {
+      "letter-spacing": ".04em"
+    },
+    "cls-940": {
+      "letter-spacing": ".03em"
+    },
+    "cls-941": {
+      "letter-spacing": "0em"
+    },
+    "cls-942": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-943": {
+      "letter-spacing": ".03em"
+    },
+    "cls-944": {
+      "letter-spacing": ".17em"
+    },
+    "cls-945": {
+      "letter-spacing": ".08em"
+    },
+    "cls-946": {
+      "fill": "#666",
+      "font-size": "39.44px"
+    },
+    "cls-947": {
+      "letter-spacing": ".21em"
+    },
+    "cls-948": {
+      "letter-spacing": "0em"
+    },
+    "cls-949": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-950": {
+      "letter-spacing": "0em"
+    },
+    "cls-951": {
+      "letter-spacing": ".03em"
+    },
+    "cls-952": {
+      "letter-spacing": ".03em"
+    },
+    "cls-953": {
+      "letter-spacing": ".04em"
+    },
+    "cls-954": {
+      "letter-spacing": ".05em"
+    },
+    "cls-955": {
+      "letter-spacing": "0em"
+    },
+    "cls-956": {
+      "letter-spacing": ".03em"
+    },
+    "cls-957": {
+      "letter-spacing": ".17em"
+    },
+    "cls-958": {
+      "letter-spacing": ".04em"
+    },
+    "cls-959": {
+      "letter-spacing": ".16em"
+    },
+    "cls-960": {
+      "letter-spacing": ".04em"
+    },
+    "cls-961": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-962": {
+      "letter-spacing": ".02em"
+    },
+    "cls-963": {
+      "letter-spacing": ".03em"
+    },
+    "cls-964": {
+      "letter-spacing": ".02em"
+    },
+    "cls-965": {
+      "letter-spacing": ".02em"
+    },
+    "cls-966": {
+      "letter-spacing": ".03em"
+    },
+    "cls-967": {
+      "letter-spacing": ".2em"
+    },
+    "cls-968": {
+      "letter-spacing": ".08em"
+    },
+    "cls-969": {
+      "letter-spacing": ".13em"
+    },
+    "cls-970": {
+      "letter-spacing": ".03em"
+    },
+    "cls-971": {
+      "letter-spacing": ".02em"
+    },
+    "cls-972": {
+      "letter-spacing": ".09em"
+    },
+    "cls-973": {
+      "letter-spacing": ".19em"
+    },
+    "cls-974": {
+      "letter-spacing": ".01em"
+    },
+    "cls-975": {
+      "letter-spacing": "0em"
+    },
+    "cls-976": {
+      "letter-spacing": ".04em"
+    },
+    "cls-977": {
+      "letter-spacing": ".02em"
+    },
+    "cls-978": {
+      "letter-spacing": "0em"
+    },
+    "cls-979": {
+      "letter-spacing": ".08em"
+    },
+    "cls-980": {
+      "letter-spacing": ".02em"
+    },
+    "cls-981": {
+      "letter-spacing": ".21em"
+    },
+    "cls-982": {
+      "letter-spacing": ".03em"
+    },
+    "cls-983": {
+      "letter-spacing": ".09em"
+    },
+    "cls-984": {
+      "fill": "#393939"
+    },
+    "cls-985": {
+      "letter-spacing": ".03em"
+    },
+    "cls-986": {
+      "letter-spacing": ".05em"
+    },
+    "cls-987": {
+      "letter-spacing": ".02em"
+    },
+    "cls-988": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-989": {
+      "letter-spacing": ".05em"
+    },
+    "cls-990": {
+      "letter-spacing": ".01em"
+    },
+    "cls-991": {
+      "letter-spacing": ".03em"
+    },
+    "cls-992": {
+      "letter-spacing": ".02em"
+    },
+    "cls-993": {
+      "letter-spacing": ".16em"
+    },
+    "cls-994": {
+      "letter-spacing": ".03em"
+    },
+    "cls-995": {
+      "letter-spacing": ".06em"
+    },
+    "cls-996": {
+      "letter-spacing": ".18em"
+    },
+    "cls-997": {
+      "letter-spacing": ".02em"
+    },
+    "cls-998": {
+      "letter-spacing": ".18em"
+    },
+    "cls-999": {
+      "letter-spacing": ".09em"
+    },
+    "cls-1000": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1001": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1002": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1003": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1004": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1005": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1006": {
+      "letter-spacing": ".05em"
+    },
+    "cls-1007": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1008": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1009": {
+      "letter-spacing": ".21em"
+    },
+    "cls-1010": {
+      "letter-spacing": "0em"
+    },
+    "cls-1011": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-1012": {
+      "letter-spacing": ".06em"
+    },
+    "cls-1013": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1014": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1015": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1016": {
+      "letter-spacing": "0em"
+    },
+    "cls-1017": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1018": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1019": {
+      "letter-spacing": ".16em"
+    },
+    "cls-1020": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1021": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1022": {
+      "fill": "#b3b3b3"
+    },
+    "cls-1023": {
+      "letter-spacing": ".01em"
+    },
+    "cls-1024": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-1025": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1026": {
+      "letter-spacing": ".09em"
+    },
+    "cls-1027": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-1028": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1029": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1030": {
+      "letter-spacing": "0em"
+    },
+    "cls-1031": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1032": {
+      "letter-spacing": ".15em"
+    },
+    "cls-1033": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1034": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1035": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1036": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1037": {
+      "letter-spacing": ".22em"
+    },
+    "cls-1038": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-1039": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1040": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1041": {
+      "letter-spacing": ".22em"
+    },
+    "cls-1042": {
+      "letter-spacing": ".15em"
+    },
+    "cls-1043": {
+      "letter-spacing": ".15em"
+    },
+    "cls-1044": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1045": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1046": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1047": {
+      "letter-spacing": "0em"
+    },
+    "cls-1048": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-1049": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1050": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1051": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1052": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1053": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1054": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-1055": {
+      "letter-spacing": ".08em"
+    },
+    "cls-1056": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1057": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-1058": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1059": {
+      "letter-spacing": ".18em"
+    },
+    "cls-1060": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1061": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1062": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-1063": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1064": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1065": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1066": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1067": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-1068": {
+      "letter-spacing": ".01em"
+    },
+    "cls-1069": {
+      "letter-spacing": ".21em"
+    },
+    "cls-1070": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1071": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1072": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-1073": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1074": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1075": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1076": {
+      "letter-spacing": ".05em"
+    },
+    "cls-1077": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1078": {
+      "letter-spacing": ".16em"
+    },
+    "cls-1079": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1080": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1081": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1082": {
+      "clip-path": "url(#clippath-2)"
+    },
+    "cls-1083": {
+      "letter-spacing": ".05em"
+    },
+    "cls-1084": {
+      "letter-spacing": ".05em"
+    },
+    "cls-1085": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1086": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1087": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1088": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1089": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-1090": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1091": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1092": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-1093": {
+      "letter-spacing": "0em"
+    },
+    "cls-1094": {
+      "letter-spacing": ".18em"
+    },
+    "cls-1095": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1096": {
+      "letter-spacing": ".09em"
+    },
+    "cls-1097": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1098": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1099": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1100": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1101": {
+      "letter-spacing": ".12em"
+    },
+    "cls-1102": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1103": {
+      "letter-spacing": ".01em"
+    },
+    "cls-1104": {
+      "letter-spacing": ".01em"
+    },
+    "cls-1105": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1106": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1107": {
+      "letter-spacing": "0em"
+    },
+    "cls-1108": {
+      "letter-spacing": "-.11em"
+    },
+    "cls-1109": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1110": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1111": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1112": {
+      "letter-spacing": ".2em"
+    },
+    "cls-1113": {
+      "letter-spacing": "-.09em"
+    },
+    "cls-1114": {
+      "letter-spacing": "0em"
+    },
+    "cls-1115": {
+      "letter-spacing": ".18em"
+    },
+    "cls-1116": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1117": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1118": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1119": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1120": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1121": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1122": {
+      "letter-spacing": ".2em"
+    },
+    "cls-1123": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-1124": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1125": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1126": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1127": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1128": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1129": {
+      "letter-spacing": ".01em"
+    },
+    "cls-1130": {
+      "letter-spacing": ".08em"
+    },
+    "cls-1131": {
+      "letter-spacing": ".06em"
+    },
+    "cls-1132": {
+      "letter-spacing": ".05em"
+    },
+    "cls-1133": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1134": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1135": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1136": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-1137": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1138": {
+      "letter-spacing": ".14em"
+    },
+    "cls-1139": {
+      "letter-spacing": ".07em"
+    },
+    "cls-1140": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1141": {
+      "letter-spacing": "0em"
+    },
+    "cls-1142": {
+      "letter-spacing": ".08em"
+    },
+    "cls-1143": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1144": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1145": {
+      "letter-spacing": ".01em"
+    },
+    "cls-1146": {
+      "letter-spacing": ".19em"
+    },
+    "cls-1147": {
+      "letter-spacing": ".2em"
+    },
+    "cls-1148": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1149": {
+      "letter-spacing": ".15em"
+    },
+    "cls-1150": {
+      "letter-spacing": ".05em"
+    },
+    "cls-1151": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1152": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1153": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1154": {
+      "letter-spacing": "0em"
+    },
+    "cls-1155": {
+      "letter-spacing": "0em"
+    },
+    "cls-1156": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1157": {
+      "letter-spacing": ".13em"
+    },
+    "cls-1158": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1159": {
+      "letter-spacing": ".14em"
+    },
+    "cls-1160": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-1161": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1162": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1163": {
+      "letter-spacing": "0em"
+    },
+    "cls-1164": {
+      "letter-spacing": ".18em"
+    },
+    "cls-1165": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1166": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1167": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-1168": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1169": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1170": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1171": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-1172": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-1173": {
+      "letter-spacing": ".01em"
+    },
+    "cls-1174": {
+      "letter-spacing": ".07em"
+    },
+    "cls-1175": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1176": {
+      "letter-spacing": ".19em"
+    },
+    "cls-1177": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1178": {
+      "letter-spacing": ".21em"
+    },
+    "cls-1179": {
+      "letter-spacing": "0em"
+    },
+    "cls-1180": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1181": {
+      "letter-spacing": ".08em"
+    },
+    "cls-1182": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1183": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1184": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-1185": {
+      "letter-spacing": "0em"
+    },
+    "cls-1186": {
+      "letter-spacing": ".05em"
+    },
+    "cls-1187": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1188": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1189": {
+      "letter-spacing": "0em"
+    },
+    "cls-1190": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1191": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1192": {
+      "letter-spacing": ".23em"
+    },
+    "cls-1193": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1194": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-1195": {
+      "letter-spacing": ".2em"
+    },
+    "cls-1196": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-1197": {
+      "letter-spacing": ".01em"
+    },
+    "cls-1198": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1199": {
+      "letter-spacing": ".05em"
+    },
+    "cls-1200": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1201": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1202": {
+      "letter-spacing": ".05em"
+    },
+    "cls-1203": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1204": {
+      "clip-path": "url(#clippath)"
+    },
+    "cls-1205": {
+      "letter-spacing": ".08em"
+    },
+    "cls-1206": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1207": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1208": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1209": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1210": {
+      "letter-spacing": "0em"
+    },
+    "cls-1211": {
+      "letter-spacing": ".2em"
+    },
+    "cls-1212": {
+      "letter-spacing": ".01em"
+    },
+    "cls-1213": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1214": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1215": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1216": {
+      "letter-spacing": ".01em"
+    },
+    "cls-1217": {
+      "letter-spacing": "0em"
+    },
+    "cls-1218": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-1219": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1220": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1221": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1222": {
+      "letter-spacing": ".21em"
+    },
+    "cls-1223": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1224": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1225": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1226": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1227": {
+      "letter-spacing": ".09em"
+    },
+    "cls-1228": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1229": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1230": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-1231": {
+      "letter-spacing": "0em"
+    },
+    "cls-1232": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1233": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-1234": {
+      "letter-spacing": ".01em"
+    },
+    "cls-1235": {
+      "letter-spacing": "0em"
+    },
+    "cls-1236": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1237": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1238": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1239": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1240": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1241": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1242": {
+      "letter-spacing": ".05em"
+    },
+    "cls-1243": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-1244": {
+      "letter-spacing": ".08em"
+    },
+    "cls-1245": {
+      "letter-spacing": ".16em"
+    },
+    "cls-1246": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1247": {
+      "letter-spacing": ".15em"
+    },
+    "cls-1248": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1249": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-1250": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1251": {
+      "letter-spacing": ".16em"
+    },
+    "cls-1252": {
+      "letter-spacing": "0em"
+    },
+    "cls-1253": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1254": {
+      "letter-spacing": ".04em"
+    },
+    "cls-1255": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1256": {
+      "letter-spacing": ".16em"
+    },
+    "cls-1257": {
+      "letter-spacing": ".17em"
+    },
+    "cls-1258": {
+      "letter-spacing": ".15em"
+    },
+    "cls-1259": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1260": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1261": {
+      "letter-spacing": ".03em"
+    },
+    "cls-1262": {
+      "letter-spacing": ".05em"
+    },
+    "cls-1263": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1264": {
+      "letter-spacing": "0em"
+    },
+    "cls-1265": {
+      "letter-spacing": "0em"
+    },
+    "cls-1266": {
+      "letter-spacing": ".16em"
+    },
+    "cls-1267": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-1268": {
+      "letter-spacing": ".02em"
+    },
+    "cls-1269": {
+      "letter-spacing": ".03em"
+    }
+  },
+  "colors": [
+    "#8c9789",
+    "#fff",
+    "#464746",
+    "#87402b",
+    "url(#linear-gradient-2)",
+    "url(#linear-gradient-4)",
+    "#134d80",
+    "url(#linear-gradient-6)",
+    "url(#linear-gradient-5)",
+    "url(#linear-gradient-3)",
+    "#384920",
+    "url(#linear-gradient)",
+    "url(#linear-gradient-8)",
+    "url(#linear-gradient-7)",
+    "none",
+    "#00565e",
+    "#393939",
+    "#c0833e",
+    "#231f20",
+    "url(#linear-gradient-9)",
+    "#e3d0bc",
+    "#666",
+    "#b3b3b3"
+  ],
+  "texts": [
+    {
+      "x": 1788.4519,
+      "y": 906.8036,
+      "scale": 1,
+      "fontFamily": "Helvetica-Bold, Helvetica",
+      "fontSize": "15.1px",
+      "fontWeight": "700",
+      "letterSpacing": ".1em",
+      "fill": "#fff",
+      "classes": [
+        "cls-201"
+      ],
+      "text": [
+        "cbhali.com"
+      ]
+    },
+    {
+      "x": 931.9194,
+      "y": 4398.5495,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "55.86px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#c0833e",
+      "classes": [
+        "cls-408"
+      ],
+      "text": [
+        "<tspan x=\"0\" y=\"0\">C/tspan<tspan x=\"3.6\" y=\"103.9\">B/tspan<tspan x=\"13.24\" y=\"311.71\">|/tspan<tspan x=\".42\" y=\"519.52\">H/tspan<tspan x=\"7.82\" y=\"623.43\">ª/tspan<tspan x=\"5.53\" y=\"727.33\">L/tspan<tspan x=\"14.41\" y=\"831.23\">i/tspan"
+      ]
+    },
+    {
+      "x": 1736.0024,
+      "y": 1013.836,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "71.48px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-202"
+      ],
+      "text": [
+        "H",
+        "a",
+        "L",
+        "i"
+      ]
+    },
+    {
+      "x": 2221.0105,
+      "y": 15101.9007,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "16.48px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-364"
+      ],
+      "text": [
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n",
+        "e",
+        "d",
+        "b",
+        "y",
+        "@",
+        "_",
+        "P",
+        "a",
+        "r",
+        "g",
+        "o",
+        "-",
+        "S",
+        "a",
+        "n",
+        "t",
+        "a",
+        "M",
+        "a",
+        "r",
+        "t",
+        "a /",
+        "C",
+        "o",
+        "l",
+        "o",
+        "m",
+        "b",
+        "i",
+        "a",
+        "20",
+        "2",
+        "6",
+        "."
+      ]
+    },
+    {
+      "x": 1738.8617,
+      "y": 14377.2336,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "133.32px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-200"
+      ],
+      "text": [
+        "H",
+        "a",
+        "L",
+        "i"
+      ]
+    },
+    {
+      "x": 2033.4405,
+      "y": 14299.4094,
+      "scale": 1,
+      "fontFamily": "Satoshi-Regular, Satoshi",
+      "fontSize": "53.21px",
+      "fontWeight": null,
+      "letterSpacing": ".02em",
+      "fill": "#fff",
+      "classes": [
+        "cls-205"
+      ],
+      "text": [
+        "®"
+      ]
+    },
+    {
+      "x": 1768.1084,
+      "y": 14414.6574,
+      "scale": 1,
+      "fontFamily": "Satoshi-Bold, Satoshi",
+      "fontSize": "10.64px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-206"
+      ],
+      "text": [
+        "C",
+        "R",
+        "A",
+        "F",
+        "T",
+        "E",
+        "D",
+        "F",
+        "O",
+        "R",
+        "V",
+        "I",
+        "S",
+        "I",
+        "O",
+        "NA",
+        "R",
+        "I",
+        "E",
+        "S"
+      ]
+    },
+    {
+      "x": 1024.7811,
+      "y": 14872.6039,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-238"
+      ],
+      "text": [
+        "H",
+        "o",
+        "m",
+        "e",
+        "C",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s",
+        "C",
+        "u",
+        "s",
+        "t",
+        "o",
+        "m",
+        "C",
+        "o",
+        "n",
+        "t",
+        "r",
+        "a",
+        "c",
+        "t"
+      ]
+    },
+    {
+      "x": 1345.0419,
+      "y": 14872.183,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-75"
+      ],
+      "text": [
+        "I",
+        "n",
+        "t",
+        "r",
+        "o &amp;",
+        "f",
+        "e",
+        "a",
+        "t",
+        "u",
+        "r",
+        "e",
+        "d",
+        "P",
+        "r",
+        "o",
+        "d",
+        "u",
+        "c",
+        "t",
+        "c",
+        "a",
+        "t",
+        "a",
+        "l",
+        "o",
+        "g",
+        "F",
+        "o",
+        "r",
+        "P",
+        "r",
+        "o",
+        "f",
+        "e",
+        "s",
+        "s",
+        "i",
+        "o",
+        "n",
+        "a",
+        "l",
+        "s",
+        "F",
+        "r",
+        "o",
+        "m",
+        "b",
+        "e",
+        "g",
+        "i",
+        "n",
+        "n",
+        "i",
+        "n",
+        "g",
+        "t",
+        "o",
+        "en",
+        "d"
+      ]
+    },
+    {
+      "x": 1744.129,
+      "y": 14872.6039,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-238"
+      ],
+      "text": [
+        "A",
+        "b",
+        "o",
+        "u",
+        "t",
+        "U",
+        "s",
+        "B",
+        "l",
+        "o",
+        "g &amp;",
+        "I",
+        "n",
+        "s",
+        "p",
+        "i",
+        "r",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        "C",
+        "o",
+        "n",
+        "t",
+        "a",
+        "c",
+        "t &amp;",
+        "D",
+        "e",
+        "a",
+        "l",
+        "e",
+        "r",
+        "s"
+      ]
+    },
+    {
+      "x": 2124.7615,
+      "y": 14872.183,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-75"
+      ],
+      "text": [
+        "O",
+        "u",
+        "r",
+        "s",
+        "t",
+        "o",
+        "r",
+        "y",
+        "B",
+        "l",
+        "o",
+        "g &amp;",
+        "I",
+        "n",
+        "s",
+        "p",
+        "i",
+        "r",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        "A",
+        "u",
+        "t",
+        "h",
+        "o",
+        "r",
+        "i",
+        "z",
+        "e",
+        "d",
+        "p",
+        "r",
+        "e",
+        "f",
+        "e",
+        "r",
+        "r",
+        "e",
+        "d",
+        "p",
+        "a",
+        "r",
+        "t",
+        "ne",
+        "r",
+        "s"
+      ]
+    },
+    {
+      "x": 1000.0656,
+      "y": 1418.5484,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "203.34px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-46"
+      ],
+      "text": [
+        "CUS",
+        "T",
+        "OM"
+      ]
+    },
+    {
+      "x": 1361.0371,
+      "y": 4399.6527,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "100px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#8c9789",
+      "classes": [
+        "cls-9"
+      ],
+      "text": [
+        "CHO",
+        "O",
+        "SE WITH US<tspan x=\"-71.25\" y=\"105.2\">SIZE, SHAPE, DESIGN/tspan",
+        "AND CO",
+        "L",
+        "OR"
+      ]
+    },
+    {
+      "x": 259.1541,
+      "y": 1440.4944,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "39.44px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#666",
+      "classes": [
+        "cls-946"
+      ],
+      "text": [
+        "<tspan class=\"cls-942\" x=\"0\" y=\"0\">H",
+        "o",
+        "m",
+        "e/tspan<tspan class=\"cls-579\" x=\"0\" y=\"86.26\">C",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s/tspan<tspan class=\"cls-1093\" x=\"0\" y=\"172.53\">C",
+        "u",
+        "s",
+        "t",
+        "o",
+        "m/tspan<tspan class=\"cls-579\" x=\"0\" y=\"258.79\">C",
+        "o",
+        "n",
+        "t",
+        "r",
+        "a",
+        "c",
+        "t/tspan<tspan class=\"cls-814\" x=\"0\" y=\"345.05\">A",
+        "b",
+        "o",
+        "u",
+        "t",
+        "U",
+        "s/tspan<tspan class=\"cls-814\" x=\"0\" y=\"431.32\">B",
+        "l",
+        "o",
+        "g",
+        "[",
+        "C",
+        "B",
+        "A",
+        "t",
+        "e",
+        "l",
+        "i",
+        "e",
+        "r",
+        "] /tspan<tspan class=\"cls-579\" x=\"0\" y=\"517.58\">C",
+        "o",
+        "n",
+        "t",
+        "a",
+        "c",
+        "t &amp;",
+        "D",
+        "e",
+        "a",
+        "l",
+        "e",
+        "r",
+        "s/tspan"
+      ]
+    },
+    {
+      "x": 1008.4143,
+      "y": 3418.4797,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "24px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-19"
+      ],
+      "text": [
+        "A",
+        "T",
+        "C",
+        "B",
+        "HA",
+        "L",
+        "I",
+        ",",
+        "C",
+        "U",
+        "S",
+        "T",
+        "O",
+        "M",
+        "R",
+        "U",
+        "G",
+        "S",
+        "A",
+        "R",
+        "E",
+        "C",
+        "O",
+        "N",
+        "C",
+        "E",
+        "I",
+        "V",
+        "E",
+        "D",
+        "A",
+        "S",
+        "I",
+        "N",
+        "T",
+        "E",
+        "G",
+        "R",
+        "A",
+        "L",
+        "E",
+        "L",
+        "E",
+        "M",
+        "E",
+        "N",
+        "T",
+        "S",
+        "O",
+        "F",
+        "S",
+        "P",
+        "A",
+        "C",
+        "E —",
+        "Q",
+        "U",
+        "I",
+        "E",
+        "T",
+        "P",
+        "R",
+        "E",
+        "S",
+        "E",
+        "N",
+        "C",
+        "E",
+        "S",
+        "T",
+        "H",
+        "A",
+        "T",
+        "S",
+        "HA",
+        "P",
+        "E",
+        "A",
+        "T",
+        "M",
+        "OS",
+        "P",
+        "H",
+        "E",
+        "R",
+        "E",
+        ",",
+        "M",
+        "O",
+        "V",
+        "E",
+        "M",
+        "E",
+        "N",
+        "T",
+        ",",
+        "A",
+        "N",
+        "D",
+        "E",
+        "X",
+        "P",
+        "E",
+        "R",
+        "I",
+        "E",
+        "N",
+        "C",
+        "E",
+        ".",
+        "E",
+        "A",
+        "C",
+        "H",
+        "C",
+        "R",
+        "E",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N",
+        "B",
+        "E",
+        "G",
+        "I",
+        "N",
+        "S",
+        "W",
+        "I",
+        "T",
+        "H A",
+        "C",
+        "O",
+        "NV",
+        "E",
+        "R",
+        "S",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N",
+        ",",
+        "T",
+        "R",
+        "A",
+        "N",
+        "S",
+        "L",
+        "A",
+        "T",
+        "I",
+        "N",
+        "G",
+        "S",
+        "P",
+        "A",
+        "T",
+        "I",
+        "A",
+        "L",
+        "V",
+        "IS",
+        "I",
+        "O",
+        "N",
+        "I",
+        "N",
+        "T",
+        "O",
+        "M",
+        "A",
+        "T",
+        "E",
+        "R",
+        "I",
+        "A",
+        "L",
+        "I",
+        "T",
+        "Y",
+        ",",
+        "P",
+        "R",
+        "O",
+        "P",
+        "O",
+        "R",
+        "T",
+        "I",
+        "O",
+        "N",
+        ",",
+        "T",
+        "E",
+        "X",
+        "T",
+        "U",
+        "R",
+        "E",
+        ",",
+        "A",
+        "N",
+        "D",
+        "E",
+        "M",
+        "O",
+        "T",
+        "I",
+        "O",
+        "N",
+        ".",
+        "D",
+        "E",
+        "S",
+        "I",
+        "G",
+        "N",
+        "E",
+        "D",
+        "I",
+        "N",
+        "C",
+        "L",
+        "OS",
+        "E",
+        "C",
+        "O",
+        "L",
+        "L",
+        "A",
+        "B",
+        "O",
+        "R",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N",
+        "W",
+        "I",
+        "T",
+        "H",
+        "A",
+        "R",
+        "C",
+        "H",
+        "I",
+        "T",
+        "E",
+        "C",
+        "T",
+        "S",
+        ",",
+        "D",
+        "E",
+        "S",
+        "I",
+        "G",
+        "N",
+        "E",
+        "R",
+        "S",
+        ",",
+        "A",
+        "N",
+        "D",
+        "C",
+        "L",
+        "I",
+        "E",
+        "N",
+        "T",
+        "S",
+        ",",
+        "E",
+        "V",
+        "E",
+        "R",
+        "Y",
+        "P",
+        "I",
+        "E",
+        "C",
+        "E",
+        "I",
+        "S A",
+        "R",
+        "E",
+        "S",
+        "P",
+        "O",
+        "N",
+        "S",
+        "E",
+        "T",
+        "O",
+        "IT",
+        "S",
+        "E",
+        "NV",
+        "I",
+        "R",
+        "O",
+        "N",
+        "M",
+        "E",
+        "N",
+        "T —",
+        "N",
+        "E",
+        "V",
+        "E",
+        "R",
+        "A",
+        "N",
+        "A",
+        "D",
+        "D",
+        "I",
+        "T",
+        "I",
+        "O",
+        "N",
+        ",",
+        "A",
+        "L",
+        "W",
+        "A",
+        "Y",
+        "S A",
+        "F",
+        "O",
+        "U",
+        "N",
+        "D",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N",
+        ".",
+        "F",
+        "R",
+        "O",
+        "M",
+        "T",
+        "A",
+        "I",
+        "L",
+        "O",
+        "R",
+        "E",
+        "D",
+        "D",
+        "I",
+        "M",
+        "E",
+        "N",
+        "S",
+        "I",
+        "O",
+        "N",
+        "S",
+        "T",
+        "O",
+        "N",
+        "U",
+        "A",
+        "N",
+        "C",
+        "E",
+        "D",
+        "C",
+        "O",
+        "L",
+        "O",
+        "R",
+        "S",
+        "T",
+        "O",
+        "R",
+        "I",
+        "E",
+        "S",
+        "A",
+        "N",
+        "D",
+        "R",
+        "E",
+        "F",
+        "I",
+        "N",
+        "E",
+        "D",
+        "F",
+        "I",
+        "N",
+        "I",
+        "S",
+        "H",
+        "E",
+        "S",
+        ",",
+        "E",
+        "V",
+        "E",
+        "R",
+        "Y",
+        "D",
+        "E",
+        "C",
+        "IS",
+        "I",
+        "O",
+        "N",
+        "I",
+        "S",
+        "D",
+        "E",
+        "L",
+        "I",
+        "B",
+        "E",
+        "R",
+        "A",
+        "T",
+        "E",
+        "A",
+        "N",
+        "D",
+        "D",
+        "EE",
+        "P",
+        "L",
+        "Y",
+        "C",
+        "O",
+        "N",
+        "S",
+        "I",
+        "D",
+        "E",
+        "R",
+        "E",
+        "D",
+        ".",
+        "C",
+        "R",
+        "A",
+        "F",
+        "T",
+        "S",
+        "M",
+        "A",
+        "N",
+        "S",
+        "H",
+        "I",
+        "P",
+        "B",
+        "E",
+        "C",
+        "O",
+        "M",
+        "E",
+        "S",
+        "L",
+        "A",
+        "N",
+        "G",
+        "U",
+        "A",
+        "G",
+        "E",
+        ",",
+        "A",
+        "N",
+        "D",
+        "D",
+        "E",
+        "S",
+        "I",
+        "G",
+        "N",
+        "B",
+        "E",
+        "C",
+        "O",
+        "M",
+        "E",
+        "S",
+        "P",
+        "R",
+        "E",
+        "S",
+        "E",
+        "N",
+        "C",
+        "E",
+        ".",
+        "C",
+        "U",
+        "S",
+        "T",
+        "O",
+        "M",
+        "I",
+        "S",
+        "O",
+        "U",
+        "R",
+        "P",
+        "U",
+        "R",
+        "E",
+        "S",
+        "T",
+        "E",
+        "X",
+        "P",
+        "R",
+        "E",
+        "S",
+        "S",
+        "I",
+        "O",
+        "N —",
+        "W",
+        "H",
+        "E",
+        "R",
+        "E",
+        "C",
+        "R",
+        "E",
+        "A",
+        "T",
+        "I",
+        "V",
+        "I",
+        "T",
+        "Y",
+        ",",
+        "P",
+        "R",
+        "E",
+        "C",
+        "IS",
+        "I",
+        "O",
+        "N",
+        ",",
+        "A",
+        "N",
+        "D",
+        "A",
+        "R",
+        "T",
+        "I",
+        "S",
+        "ANA",
+        "L",
+        "M",
+        "A",
+        "S",
+        "T",
+        "E",
+        "R",
+        "Y",
+        "C",
+        "O",
+        "NV",
+        "E",
+        "R",
+        "G",
+        "E",
+        "T",
+        "O",
+        "C",
+        "R",
+        "E",
+        "A",
+        "T",
+        "E",
+        "P",
+        "I",
+        "E",
+        "C",
+        "E",
+        "S",
+        "T",
+        "H",
+        "A",
+        "T",
+        "B",
+        "E",
+        "L",
+        "O",
+        "N",
+        "G",
+        "E",
+        "N",
+        "T",
+        "I",
+        "R",
+        "E",
+        "L",
+        "Y",
+        "T",
+        "O",
+        "T",
+        "H",
+        "E",
+        "S",
+        "P",
+        "A",
+        "C",
+        "E",
+        "S",
+        "T",
+        "H",
+        "E",
+        "Y",
+        "I",
+        "N",
+        "HA",
+        "B",
+        "I",
+        "T",
+        ",",
+        "A",
+        "N",
+        "D",
+        "N",
+        "O",
+        "W",
+        "H",
+        "E",
+        "R",
+        "E",
+        "E",
+        "L",
+        "S",
+        "E",
+        "."
+      ]
+    },
+    {
+      "x": 4426.343,
+      "y": 3181.3693,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "24px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-19"
+      ],
+      "text": [
+        "O",
+        "U",
+        "R",
+        "C",
+        "U",
+        "S",
+        "T",
+        "O",
+        "M",
+        "R",
+        "U",
+        "G",
+        "S",
+        "A",
+        "R",
+        "E",
+        "C",
+        "O",
+        "N",
+        "C",
+        "E",
+        "I",
+        "V",
+        "E",
+        "D",
+        "A",
+        "S",
+        "A",
+        "R",
+        "C",
+        "H",
+        "I",
+        "T",
+        "E",
+        "C",
+        "T",
+        "U",
+        "R",
+        "A",
+        "L",
+        "E",
+        "L",
+        "E",
+        "M",
+        "E",
+        "N",
+        "T",
+        "S —",
+        "D",
+        "E",
+        "S",
+        "I",
+        "G",
+        "N",
+        "E",
+        "D",
+        "T",
+        "O",
+        "I",
+        "N",
+        "T",
+        "E",
+        "G",
+        "R",
+        "A",
+        "T",
+        "E",
+        "S",
+        "E",
+        "A",
+        "M",
+        "L",
+        "E",
+        "S",
+        "S",
+        "L",
+        "Y",
+        "I",
+        "N",
+        "T",
+        "O",
+        "H",
+        "I",
+        "G",
+        "H",
+        "-",
+        "E",
+        "N",
+        "D",
+        "R",
+        "E",
+        "S",
+        "I",
+        "D",
+        "E",
+        "N",
+        "T",
+        "I",
+        "A",
+        "L",
+        ",",
+        "H",
+        "OS",
+        "P",
+        "I",
+        "T",
+        "A",
+        "L",
+        "I",
+        "T",
+        "Y",
+        ",",
+        "A",
+        "N",
+        "D",
+        "C",
+        "O",
+        "MM",
+        "E",
+        "R",
+        "C",
+        "I",
+        "A",
+        "L",
+        "I",
+        "N",
+        "T",
+        "E",
+        "R",
+        "I",
+        "O",
+        "R",
+        "S",
+        ".",
+        "E",
+        "A",
+        "C",
+        "H",
+        "P",
+        "I",
+        "E",
+        "C",
+        "E",
+        "I",
+        "S",
+        "D",
+        "E",
+        "V",
+        "E",
+        "L",
+        "O",
+        "P",
+        "E",
+        "D",
+        "I",
+        "N",
+        "C",
+        "L",
+        "OS",
+        "E",
+        "C",
+        "O",
+        "L",
+        "L",
+        "A",
+        "B",
+        "O",
+        "R",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N",
+        ",",
+        "T",
+        "R",
+        "A",
+        "N",
+        "S",
+        "L",
+        "A",
+        "T",
+        "I",
+        "N",
+        "G",
+        "S",
+        "P",
+        "A",
+        "T",
+        "I",
+        "A",
+        "L",
+        "I",
+        "N",
+        "T",
+        "E",
+        "N",
+        "T",
+        "I",
+        "N",
+        "T",
+        "O",
+        "M",
+        "A",
+        "T",
+        "E",
+        "R",
+        "I",
+        "A",
+        "L",
+        ",",
+        "S",
+        "C",
+        "A",
+        "L",
+        "E",
+        ",",
+        "A",
+        "N",
+        "D",
+        "T",
+        "E",
+        "X",
+        "T",
+        "U",
+        "R",
+        "E",
+        ".",
+        "F",
+        "R",
+        "O",
+        "M",
+        "T",
+        "A",
+        "I",
+        "L",
+        "O",
+        "R",
+        "E",
+        "D",
+        "D",
+        "I",
+        "M",
+        "E",
+        "N",
+        "S",
+        "I",
+        "O",
+        "N",
+        "S",
+        "T",
+        "O",
+        "R",
+        "E",
+        "F",
+        "I",
+        "N",
+        "E",
+        "D",
+        "C",
+        "O",
+        "L",
+        "O",
+        "R",
+        "P",
+        "A",
+        "L",
+        "E",
+        "T",
+        "T",
+        "E",
+        "S",
+        "A",
+        "N",
+        "D",
+        "E",
+        "X",
+        "C",
+        "L",
+        "U",
+        "S",
+        "I",
+        "V",
+        "E",
+        "F",
+        "I",
+        "N",
+        "I",
+        "S",
+        "H",
+        "E",
+        "S",
+        ",",
+        "E",
+        "V",
+        "E",
+        "R",
+        "Y",
+        "D",
+        "E",
+        "C",
+        "IS",
+        "I",
+        "O",
+        "N",
+        "I",
+        "S",
+        "D",
+        "E",
+        "L",
+        "I",
+        "B",
+        "E",
+        "R",
+        "A",
+        "T",
+        "E",
+        ".",
+        "C",
+        "R",
+        "A",
+        "F",
+        "T",
+        "S",
+        "M",
+        "A",
+        "N",
+        "S",
+        "H",
+        "I",
+        "P",
+        "I",
+        "S",
+        "E",
+        "L",
+        "E",
+        "V",
+        "A",
+        "T",
+        "E",
+        "D",
+        ",",
+        "D",
+        "E",
+        "S",
+        "I",
+        "G",
+        "N",
+        "I",
+        "S",
+        "R",
+        "E",
+        "S",
+        "T",
+        "R",
+        "A",
+        "I",
+        "N",
+        "E",
+        "D",
+        ",",
+        "A",
+        "N",
+        "D",
+        "T",
+        "H",
+        "E",
+        "R",
+        "E",
+        "S",
+        "U",
+        "L",
+        "T",
+        "I",
+        "S A",
+        "R",
+        "U",
+        "G",
+        "T",
+        "H",
+        "A",
+        "T",
+        "D",
+        "O",
+        "E",
+        "S",
+        "N",
+        "O",
+        "T",
+        "D",
+        "E",
+        "C",
+        "O",
+        "R",
+        "A",
+        "T",
+        "E —",
+        "I",
+        "T",
+        "D",
+        "E",
+        "F",
+        "I",
+        "N",
+        "E",
+        "S",
+        ".",
+        "C",
+        "U",
+        "S",
+        "T",
+        "O",
+        "M",
+        "I",
+        "S",
+        "O",
+        "U",
+        "R",
+        "H",
+        "I",
+        "G",
+        "H",
+        "E",
+        "S",
+        "T",
+        "E",
+        "X",
+        "P",
+        "R",
+        "E",
+        "S",
+        "S",
+        "I",
+        "O",
+        "N",
+        "O",
+        "F",
+        "T",
+        "H",
+        "E",
+        "B",
+        "R",
+        "A",
+        "N",
+        "D",
+        ":",
+        "Q",
+        "U",
+        "I",
+        "E",
+        "T",
+        "L",
+        "U",
+        "X",
+        "U",
+        "R",
+        "Y",
+        ",",
+        "P",
+        "R",
+        "E",
+        "C",
+        "IS",
+        "I",
+        "O",
+        "N",
+        ",",
+        "A",
+        "N",
+        "D",
+        "P",
+        "E",
+        "R",
+        "M",
+        "A",
+        "N",
+        "E",
+        "N",
+        "C",
+        "E",
+        ".",
+        "C",
+        "R",
+        "E",
+        "A",
+        "T",
+        "E",
+        "D",
+        "T",
+        "O",
+        "B",
+        "E",
+        "L",
+        "O",
+        "N",
+        "G",
+        "T",
+        "O",
+        "T",
+        "H",
+        "E",
+        "S",
+        "P",
+        "A",
+        "C",
+        "E",
+        ",",
+        "A",
+        "N",
+        "D",
+        "N",
+        "O",
+        "W",
+        "H",
+        "E",
+        "R",
+        "E",
+        "E",
+        "L",
+        "S",
+        "E",
+        "."
+      ]
+    },
+    {
+      "x": 1101.5212,
+      "y": 2682.3179,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "120px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#8c9789",
+      "classes": [
+        "cls-117"
+      ],
+      "text": [
+        "<tspan x=\"0\" y=\"0\">DESIGNED /tspan<tspan class=\"cls-480\" x=\"0\" y=\"129.21\">FOR S",
+        "P",
+        "A",
+        "CES/tspan<tspan x=\"0\" y=\"258.41\">WITH /tspan<tspan class=\"cls-480\" x=\"0\" y=\"387.62\">INTENTI",
+        "O",
+        "N./tspan"
+      ]
+    },
+    {
+      "x": 4425.6183,
+      "y": 2821.011,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "150px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#8c9789",
+      "classes": [
+        "cls-35"
+      ],
+      "text": [
+        "Rugs",
+        "f",
+        "or",
+        "ex",
+        "c",
+        "e",
+        "p",
+        "tional s",
+        "p",
+        "a",
+        "c",
+        "es."
+      ]
+    },
+    {
+      "x": 4343.5657,
+      "y": 5185.0061,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "24px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-287"
+      ],
+      "text": [
+        "<tspan class=\"cls-560\" x=\"0\" y=\"0\">D",
+        "E",
+        "S",
+        "I",
+        "GN &amp;",
+        "S",
+        "C",
+        "A",
+        "L",
+        "E/tspan<tspan class=\"cls-1215\" x=\"0\" y=\"86.26\">F",
+        "U",
+        "L",
+        "L",
+        "Y",
+        "C",
+        "U",
+        "S",
+        "T",
+        "O",
+        "M",
+        "D",
+        "I",
+        "M",
+        "E",
+        "N",
+        "S",
+        "I",
+        "O",
+        "N",
+        "S/tspan<tspan class=\"cls-863\" x=\"0\" y=\"129.39\">T",
+        "A",
+        "I",
+        "L",
+        "O",
+        "R",
+        "E",
+        "D",
+        "T",
+        "O",
+        "A",
+        "R",
+        "C",
+        "H",
+        "I",
+        "T",
+        "E",
+        "C",
+        "T",
+        "U",
+        "R",
+        "A",
+        "L /tspan<tspan class=\"cls-532\" x=\"0\" y=\"172.53\">P",
+        "L",
+        "A",
+        "N",
+        "S",
+        "A",
+        "N",
+        "D",
+        "S",
+        "P",
+        "A",
+        "T",
+        "I",
+        "A",
+        "L",
+        "L",
+        "A",
+        "Y",
+        "O",
+        "U",
+        "T",
+        "S",
+        "./tspan<tspan class=\"cls-134\" x=\"0\" y=\"258.79\">S",
+        "HA",
+        "P",
+        "E",
+        "C",
+        "U",
+        "S",
+        "T",
+        "O",
+        "M",
+        "I",
+        "Z",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N/tspan<tspan class=\"cls-346\" x=\"0\" y=\"301.92\">R",
+        "E",
+        "C",
+        "T",
+        "A",
+        "N",
+        "G",
+        "U",
+        "L",
+        "A",
+        "R",
+        ",",
+        "C",
+        "I",
+        "R",
+        "C",
+        "U",
+        "L",
+        "A",
+        "R",
+        ", /tspan<tspan class=\"cls-872\" x=\"0\" y=\"345.05\">O",
+        "R",
+        "G",
+        "A",
+        "N",
+        "I",
+        "C",
+        "O",
+        "R",
+        "F",
+        "U",
+        "L",
+        "L",
+        "Y",
+        "B",
+        "E",
+        "S",
+        "P",
+        "O",
+        "K",
+        "E /tspan<tspan class=\"cls-225\" x=\"0\" y=\"388.18\">S",
+        "I",
+        "L",
+        "H",
+        "O",
+        "U",
+        "E",
+        "T",
+        "T",
+        "E",
+        "S",
+        "./tspan<tspan class=\"cls-1011\" x=\"0\" y=\"474.45\">P",
+        "A",
+        "T",
+        "T",
+        "E",
+        "R",
+        "N",
+        "A",
+        "D",
+        "A",
+        "P",
+        "T",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N/tspan<tspan class=\"cls-1161\" x=\"0\" y=\"517.58\">E",
+        "X",
+        "C",
+        "L",
+        "U",
+        "S",
+        "I",
+        "V",
+        "E",
+        "D",
+        "E",
+        "S",
+        "I",
+        "G",
+        "N",
+        "S",
+        "O",
+        "R /tspan<tspan class=\"cls-346\" x=\"0\" y=\"560.71\">R",
+        "E",
+        "I",
+        "N",
+        "T",
+        "E",
+        "R",
+        "P",
+        "R",
+        "E",
+        "T",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N",
+        "O",
+        "F",
+        "E",
+        "X",
+        "I",
+        "S",
+        "T",
+        "I",
+        "N",
+        "G /tspan<tspan class=\"cls-1228\" x=\"0\" y=\"603.84\">C",
+        "O",
+        "LL",
+        "E",
+        "C",
+        "T",
+        "I",
+        "O",
+        "N",
+        "S",
+        "./tspan"
+      ]
+    },
+    {
+      "x": 4904.0412,
+      "y": 5185.0061,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "24px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-287"
+      ],
+      "text": [
+        "<tspan class=\"cls-261\" x=\"0\" y=\"0\">M",
+        "A",
+        "T",
+        "E",
+        "R",
+        "I",
+        "A",
+        "L",
+        "S/tspan<tspan class=\"cls-836\" x=\"0\" y=\"86.26\">P",
+        "R",
+        "E",
+        "M",
+        "I",
+        "U",
+        "M",
+        "N",
+        "A",
+        "T",
+        "U",
+        "R",
+        "A",
+        "L",
+        "F",
+        "I",
+        "B",
+        "E",
+        "R",
+        "S/tspan<tspan class=\"cls-673\" x=\"0\" y=\"129.39\">W",
+        "O",
+        "O",
+        "L",
+        ",",
+        "S",
+        "I",
+        "L",
+        "K",
+        ",",
+        "L",
+        "I",
+        "N",
+        "E",
+        "N",
+        ",",
+        "V",
+        "I",
+        "S",
+        "C",
+        "OS",
+        "E",
+        ",",
+        "O",
+        "R /tspan<tspan class=\"cls-642\" x=\"0\" y=\"172.53\">C",
+        "U",
+        "S",
+        "T",
+        "O",
+        "M",
+        "B",
+        "L",
+        "E",
+        "N",
+        "D",
+        "S",
+        "./tspan<tspan class=\"cls-423\" x=\"0\" y=\"258.79\">M",
+        "A",
+        "T",
+        "E",
+        "R",
+        "I",
+        "A",
+        "L",
+        "S",
+        "E",
+        "L",
+        "E",
+        "C",
+        "T",
+        "I",
+        "O",
+        "N",
+        "B",
+        "Y /tspan<tspan class=\"cls-836\" x=\"0\" y=\"301.92\">P",
+        "R",
+        "O",
+        "J",
+        "E",
+        "C",
+        "T/tspan<tspan class=\"cls-493\" x=\"0\" y=\"345.05\">C",
+        "H",
+        "OS",
+        "E",
+        "N",
+        "A",
+        "C",
+        "C",
+        "O",
+        "R",
+        "D",
+        "I",
+        "N",
+        "G",
+        "T",
+        "O",
+        "U",
+        "S",
+        "E",
+        ", /tspan<tspan class=\"cls-595\" x=\"0\" y=\"388.18\">T",
+        "R",
+        "A",
+        "FF",
+        "I",
+        "C",
+        "L",
+        "E",
+        "V",
+        "E",
+        "L",
+        ",",
+        "A",
+        "N",
+        "D",
+        "A",
+        "M",
+        "B",
+        "I",
+        "E",
+        "N",
+        "C",
+        "E",
+        "./tspan<tspan class=\"cls-1014\" x=\"0\" y=\"474.45\">S",
+        "U",
+        "S",
+        "T",
+        "AINA",
+        "B",
+        "L",
+        "E",
+        "S",
+        "O",
+        "U",
+        "R",
+        "C",
+        "I",
+        "N",
+        "G /tspan<tspan class=\"cls-1118\" x=\"0\" y=\"517.58\">O",
+        "P",
+        "T",
+        "I",
+        "O",
+        "N",
+        "S/tspan<tspan class=\"cls-346\" x=\"0\" y=\"560.71\">R",
+        "E",
+        "S",
+        "P",
+        "O",
+        "N",
+        "S",
+        "I",
+        "B",
+        "L",
+        "Y",
+        "S",
+        "E",
+        "L",
+        "E",
+        "C",
+        "T",
+        "E",
+        "D",
+        "M",
+        "A",
+        "T",
+        "E",
+        "R",
+        "I",
+        "AL",
+        "S /tspan<tspan class=\"cls-1079\" x=\"0\" y=\"603.84\">U",
+        "P",
+        "O",
+        "N",
+        "R",
+        "E",
+        "Q",
+        "U",
+        "E",
+        "S",
+        "T",
+        "./tspan"
+      ]
+    },
+    {
+      "x": 5457.4375,
+      "y": 5185.0061,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "24px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-287"
+      ],
+      "text": [
+        "<tspan class=\"cls-623\" x=\"0\" y=\"0\">CO",
+        "L",
+        "O",
+        "R &amp;",
+        "F",
+        "I",
+        "N",
+        "I",
+        "S",
+        "H/tspan<tspan class=\"cls-795\" x=\"0\" y=\"86.26\">C",
+        "U",
+        "S",
+        "T",
+        "O",
+        "M",
+        "C",
+        "O",
+        "L",
+        "O",
+        "R",
+        "P",
+        "A",
+        "L",
+        "E",
+        "T",
+        "T",
+        "E",
+        "S/tspan<tspan class=\"cls-447\" x=\"0\" y=\"129.39\">P",
+        "A",
+        "N",
+        "T",
+        "O",
+        "N",
+        "E",
+        ",",
+        "R",
+        "A",
+        "L",
+        "O",
+        "R /tspan<tspan class=\"cls-532\" x=\"0\" y=\"172.53\">P",
+        "R",
+        "O",
+        "J",
+        "E",
+        "C",
+        "T",
+        "-",
+        "S",
+        "P",
+        "E",
+        "C",
+        "I",
+        "F",
+        "I",
+        "C",
+        "R",
+        "E",
+        "F",
+        "E",
+        "R",
+        "E",
+        "N",
+        "C",
+        "E",
+        "S",
+        "./tspan<tspan class=\"cls-1079\" x=\"0\" y=\"258.79\">HA",
+        "N",
+        "D",
+        "-",
+        "D",
+        "Y",
+        "E",
+        "D",
+        "Y",
+        "A",
+        "R",
+        "N",
+        "S/tspan<tspan class=\"cls-374\" x=\"0\" y=\"301.92\">S",
+        "U",
+        "B",
+        "T",
+        "L",
+        "E",
+        "V",
+        "A",
+        "R",
+        "I",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N",
+        "S",
+        "T",
+        "H",
+        "A",
+        "T",
+        "A",
+        "D",
+        "D /tspan<tspan class=\"cls-240\" x=\"0\" y=\"345.05\">D",
+        "E",
+        "P",
+        "T",
+        "H",
+        "A",
+        "N",
+        "D",
+        "C",
+        "HA",
+        "R",
+        "A",
+        "C",
+        "T",
+        "E",
+        "R",
+        "./tspan<tspan class=\"cls-485\" x=\"0\" y=\"431.31\">F",
+        "I",
+        "N",
+        "I",
+        "S",
+        "H",
+        "O",
+        "P",
+        "T",
+        "I",
+        "O",
+        "N",
+        "S/tspan<tspan class=\"cls-1201\" x=\"0\" y=\"474.45\">M",
+        "A",
+        "T",
+        "T",
+        "E",
+        ",",
+        "S",
+        "O",
+        "F",
+        "T",
+        "S",
+        "H",
+        "EE",
+        "N",
+        ",",
+        "O",
+        "R /tspan<tspan class=\"cls-225\" x=\"0\" y=\"517.58\">S",
+        "I",
+        "L",
+        "K",
+        "-",
+        "I",
+        "N",
+        "F",
+        "U",
+        "S",
+        "E",
+        "D",
+        "H",
+        "I",
+        "G",
+        "H",
+        "L",
+        "I",
+        "G",
+        "H",
+        "T",
+        "S",
+        "./tspan"
+      ]
+    },
+    {
+      "x": 4343.5657,
+      "y": 6019.0826,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "24px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-287"
+      ],
+      "text": [
+        "<tspan class=\"cls-285\" x=\"0\" y=\"0\">C",
+        "R",
+        "A",
+        "F",
+        "T &amp;",
+        "T",
+        "E",
+        "C",
+        "H",
+        "N",
+        "I",
+        "Q",
+        "U",
+        "E/tspan<tspan class=\"cls-1079\" x=\"0\" y=\"86.26\">HA",
+        "N",
+        "D",
+        "-",
+        "T",
+        "U",
+        "F",
+        "T",
+        "E",
+        "D /",
+        "HA",
+        "N",
+        "D",
+        "-",
+        "W",
+        "O",
+        "V",
+        "E",
+        "N / /tspan<tspan class=\"cls-1079\" x=\"0\" y=\"129.39\">HA",
+        "N",
+        "D",
+        "-",
+        "K",
+        "N",
+        "O",
+        "T",
+        "T",
+        "E",
+        "D/tspan<tspan class=\"cls-1214\" x=\"0\" y=\"172.53\">S",
+        "E",
+        "L",
+        "E",
+        "C",
+        "T",
+        "E",
+        "D",
+        "A",
+        "C",
+        "C",
+        "O",
+        "R",
+        "D",
+        "I",
+        "N",
+        "G",
+        "T",
+        "O",
+        "D",
+        "E",
+        "S",
+        "I",
+        "G",
+        "N /tspan<tspan class=\"cls-1228\" x=\"0\" y=\"215.66\">C",
+        "O",
+        "M",
+        "P",
+        "L",
+        "E",
+        "X",
+        "I",
+        "T",
+        "Y",
+        "A",
+        "N",
+        "D",
+        "P",
+        "E",
+        "R",
+        "F",
+        "O",
+        "R",
+        "M",
+        "A",
+        "N",
+        "C",
+        "E",
+        "./tspan<tspan class=\"cls-504\" x=\"0\" y=\"301.92\">V",
+        "A",
+        "R",
+        "I",
+        "A",
+        "B",
+        "L",
+        "E",
+        "P",
+        "I",
+        "L",
+        "E",
+        "H",
+        "E",
+        "I",
+        "G",
+        "H",
+        "T",
+        "S/tspan<tspan class=\"cls-1145\" x=\"0\" y=\"345.05\">F",
+        "O",
+        "R",
+        "T",
+        "E",
+        "X",
+        "T",
+        "U",
+        "R",
+        "E",
+        ",",
+        "R",
+        "H",
+        "Y",
+        "T",
+        "H",
+        "M",
+        ",",
+        "A",
+        "N",
+        "D /tspan<tspan class=\"cls-1214\" x=\"0\" y=\"388.18\">S",
+        "P",
+        "A",
+        "T",
+        "I",
+        "A",
+        "L",
+        "D",
+        "E",
+        "F",
+        "I",
+        "N",
+        "I",
+        "T",
+        "I",
+        "O",
+        "N",
+        "./tspan<tspan class=\"cls-136\" x=\"0\" y=\"474.45\">H",
+        "I",
+        "G",
+        "H",
+        "-D",
+        "E",
+        "F",
+        "I",
+        "N",
+        "I",
+        "T",
+        "I",
+        "O",
+        "N",
+        "D",
+        "E",
+        "T",
+        "AI",
+        "L",
+        "I",
+        "N",
+        "G/tspan<tspan class=\"cls-532\" x=\"0\" y=\"517.58\">P",
+        "R",
+        "E",
+        "C",
+        "IS",
+        "I",
+        "O",
+        "N",
+        "C",
+        "R",
+        "A",
+        "F",
+        "T",
+        "S",
+        "M",
+        "A",
+        "N",
+        "S",
+        "H",
+        "I",
+        "P",
+        "F",
+        "O",
+        "R /tspan<tspan class=\"cls-740\" x=\"0\" y=\"560.71\">A",
+        "R",
+        "C",
+        "H",
+        "I",
+        "T",
+        "E",
+        "C",
+        "T",
+        "U",
+        "R",
+        "A",
+        "L",
+        "C",
+        "L",
+        "A",
+        "R",
+        "I",
+        "T",
+        "Y",
+        "./tspan"
+      ]
+    },
+    {
+      "x": 947.9875,
+      "y": 8154.9862,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-80"
+      ],
+      "text": [
+        "A",
+        "u",
+        "t",
+        "h",
+        "o",
+        "r",
+        "i",
+        "s",
+        "o",
+        "u",
+        "r",
+        "p",
+        "l",
+        "a",
+        "t",
+        "f",
+        "o",
+        "r",
+        "m",
+        "f",
+        "o",
+        "r",
+        "c",
+        "r",
+        "e",
+        "a",
+        "t",
+        "i",
+        "v",
+        "e",
+        "c",
+        "o",
+        "l",
+        "l",
+        "a",
+        "b",
+        "o",
+        "r",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        ".",
+        "A",
+        "s",
+        "p",
+        "ac",
+        "e",
+        "w",
+        "he",
+        "r",
+        "e",
+        "w",
+        "e",
+        "c",
+        "o",
+        "-",
+        "c",
+        "r",
+        "e",
+        "a",
+        "t",
+        "e",
+        "w",
+        "i",
+        "t",
+        "h",
+        "a",
+        "r",
+        "c",
+        "h",
+        "i",
+        "t",
+        "e",
+        "c",
+        "t",
+        "s",
+        ",",
+        "i",
+        "n",
+        "t",
+        "e",
+        "r",
+        "i",
+        "o",
+        "r",
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "ne",
+        "r",
+        "s",
+        ",",
+        "a",
+        "r",
+        "t",
+        "i",
+        "s",
+        "t",
+        "s",
+        ",",
+        "a",
+        "n",
+        "d",
+        "v",
+        "i",
+        "s",
+        "i",
+        "o",
+        "n",
+        "a",
+        "r",
+        "i",
+        "e",
+        "s",
+        "t",
+        "o",
+        "d",
+        "e",
+        "v",
+        "e",
+        "l",
+        "o",
+        "p",
+        "p",
+        "i",
+        "e",
+        "c",
+        "e",
+        "s",
+        "t",
+        "h",
+        "a",
+        "t",
+        "a",
+        "r",
+        "e",
+        "d",
+        "e",
+        "e",
+        "p",
+        "l",
+        "y",
+        "p",
+        "e",
+        "r",
+        "s",
+        "o",
+        "n",
+        "a",
+        "l",
+        ",",
+        "i",
+        "n",
+        "n",
+        "o",
+        "v",
+        "a",
+        "t",
+        "i",
+        "v",
+        "e",
+        ",",
+        "a",
+        "n",
+        "d",
+        "r",
+        "o",
+        "o",
+        "t",
+        "e",
+        "d",
+        "i",
+        "n",
+        "s",
+        "t",
+        "o",
+        "r",
+        "y",
+        "t",
+        "e",
+        "l",
+        "l",
+        "i",
+        "n",
+        "g",
+        ".",
+        "Y",
+        "o",
+        "u",
+        "b",
+        "r",
+        "i",
+        "n",
+        "g",
+        "y",
+        "o",
+        "u",
+        "r",
+        "c",
+        "o",
+        "nce",
+        "p",
+        "t",
+        ".",
+        "W",
+        "e",
+        "b",
+        "r",
+        "i",
+        "n",
+        "g",
+        "t",
+        "h",
+        "e",
+        "m",
+        "a",
+        "t",
+        "e",
+        "r",
+        "i",
+        "a",
+        "l",
+        "s",
+        ",",
+        "t",
+        "e",
+        "c",
+        "h",
+        "n",
+        "i",
+        "q",
+        "u",
+        "e",
+        "s",
+        ",",
+        "a",
+        "n",
+        "d",
+        "e",
+        "x",
+        "p",
+        "e",
+        "r",
+        "t",
+        "g",
+        "u",
+        "i",
+        "d",
+        "a",
+        "nc",
+        "e",
+        "t",
+        "o",
+        "m",
+        "a",
+        "k",
+        "e",
+        "i",
+        "t",
+        "r",
+        "e",
+        "a",
+        "l",
+        "—",
+        "w",
+        "h",
+        "e",
+        "t",
+        "he",
+        "r",
+        "t",
+        "h",
+        "a",
+        "t",
+        "m",
+        "e",
+        "a",
+        "n",
+        "s",
+        "a",
+        "c",
+        "u",
+        "s",
+        "t",
+        "o",
+        "m",
+        "r",
+        "u",
+        "g",
+        ",",
+        "a",
+        "t",
+        "e",
+        "x",
+        "t",
+        "i",
+        "l",
+        "e",
+        "e",
+        "x",
+        "p",
+        "e",
+        "r",
+        "i",
+        "m",
+        "e",
+        "n",
+        "t",
+        ",",
+        "o",
+        "r",
+        "a",
+        "u",
+        "n",
+        "i",
+        "q",
+        "u",
+        "e",
+        "o",
+        "b",
+        "j",
+        "e",
+        "c",
+        "t",
+        "f",
+        "o",
+        "r",
+        "a",
+        "o",
+        "n",
+        "e",
+        "-",
+        "o",
+        "f",
+        "-",
+        "a",
+        "-",
+        "k",
+        "i",
+        "n",
+        "d",
+        "p",
+        "r",
+        "o",
+        "j",
+        "e",
+        "c",
+        "t",
+        ".",
+        "E",
+        "a",
+        "c",
+        "h",
+        "c",
+        "o",
+        "l",
+        "l",
+        "a",
+        "b",
+        "o",
+        "r",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        "u",
+        "n",
+        "d",
+        "e",
+        "r",
+        "A",
+        "u",
+        "t",
+        "h",
+        "o",
+        "r",
+        "i",
+        "s",
+        "c",
+        "r",
+        "e",
+        "d",
+        "i",
+        "t",
+        "e",
+        "d",
+        "a",
+        "n",
+        "d",
+        "c",
+        "e",
+        "l",
+        "e",
+        "b",
+        "r",
+        "a",
+        "t",
+        "e",
+        "d",
+        ".",
+        "I",
+        "t",
+        "’",
+        "s",
+        "a",
+        "s",
+        "h",
+        "a",
+        "r",
+        "e",
+        "d",
+        "p",
+        "r",
+        "o",
+        "c",
+        "e",
+        "s",
+        "s",
+        "o",
+        "f",
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n",
+        ",",
+        "d",
+        "i",
+        "a",
+        "l",
+        "o",
+        "g",
+        "u",
+        "e",
+        ",",
+        "a",
+        "n",
+        "d",
+        "a",
+        "u",
+        "t",
+        "h",
+        "o",
+        "r",
+        "s",
+        "h",
+        "i",
+        "p",
+        "—",
+        "w",
+        "he",
+        "r",
+        "e",
+        "t",
+        "h",
+        "e",
+        "f",
+        "i",
+        "n",
+        "a",
+        "l",
+        "p",
+        "i",
+        "e",
+        "c",
+        "e",
+        "c",
+        "a",
+        "rr",
+        "i",
+        "e",
+        "s",
+        "y",
+        "o",
+        "u",
+        "r",
+        "s",
+        "i",
+        "g",
+        "n",
+        "a",
+        "t",
+        "u",
+        "r",
+        "e",
+        "a",
+        "s",
+        "m",
+        "u",
+        "c",
+        "h",
+        "a",
+        "s",
+        "o",
+        "u",
+        "r",
+        "s",
+        ".",
+        "W",
+        "e",
+        "do",
+        "n",
+        "’",
+        "t",
+        "j",
+        "u",
+        "s",
+        "t",
+        "c",
+        "r",
+        "e",
+        "a",
+        "t",
+        "e",
+        "f",
+        "o",
+        "r",
+        "y",
+        "o",
+        "u",
+        ".",
+        "W",
+        "e",
+        "c",
+        "r",
+        "e",
+        "a",
+        "t",
+        "e",
+        "w",
+        "i",
+        "t",
+        "h",
+        "y",
+        "o",
+        "u",
+        "."
+      ]
+    },
+    {
+      "x": 1005.39,
+      "y": 10104.2606,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "66.11px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#464746",
+      "classes": [
+        "cls-54"
+      ],
+      "text": [
+        "WE BELIEVE TH",
+        "A",
+        "T EVE",
+        "R",
+        "Y GRE",
+        "A",
+        "T S",
+        "P",
+        "A",
+        "CE <tspan x=\"0\" y=\"156.67\">BEGINS WITH A BOLD IDEA/tspan<tspan x=\"0\" y=\"235\">—/tspan",
+        "AND WE’RE HERE",
+        "T",
+        "O HELP BRING IT",
+        "T",
+        "O LIFE."
+      ]
+    },
+    {
+      "x": 4906.2917,
+      "y": 6861.1487,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "24px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-287"
+      ],
+      "text": [
+        "<tspan class=\"cls-880\" x=\"0\" y=\"0\">[",
+        "E",
+        "X",
+        "C",
+        "L",
+        "U",
+        "S",
+        "I",
+        "V",
+        "I",
+        "T",
+        "Y ]/tspan<tspan class=\"cls-1118\" x=\"0\" y=\"43.13\">O",
+        "N",
+        "E",
+        "-",
+        "O",
+        "F",
+        "-",
+        "A",
+        "-",
+        "K",
+        "I",
+        "N",
+        "D",
+        "P",
+        "R",
+        "O",
+        "D",
+        "U",
+        "C",
+        "T",
+        "I",
+        "O",
+        "N/tspan<tspan class=\"cls-861\" x=\"0\" y=\"86.26\">N",
+        "O",
+        "R",
+        "E",
+        "P",
+        "E",
+        "T",
+        "I",
+        "T",
+        "I",
+        "O",
+        "N",
+        "U",
+        "N",
+        "L",
+        "E",
+        "S",
+        "S",
+        "S",
+        "P",
+        "E",
+        "C",
+        "I",
+        "F",
+        "I",
+        "E",
+        "D",
+        "B",
+        "Y",
+        "T",
+        "H",
+        "E",
+        "C",
+        "L",
+        "I",
+        "E",
+        "N",
+        "T",
+        "./tspan<tspan class=\"cls-836\" x=\"0\" y=\"172.53\">P",
+        "R",
+        "I",
+        "V",
+        "A",
+        "T",
+        "E",
+        "L",
+        "A",
+        "B",
+        "E",
+        "L",
+        "O",
+        "R",
+        "P",
+        "R",
+        "O",
+        "J",
+        "E",
+        "C",
+        "T",
+        "I",
+        "D",
+        "E",
+        "NT",
+        "I",
+        "F",
+        "I",
+        "C",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N/tspan<tspan class=\"cls-1089\" x=\"0\" y=\"215.66\">AV",
+        "A",
+        "I",
+        "L",
+        "A",
+        "B",
+        "L",
+        "E",
+        "F",
+        "O",
+        "R",
+        "S",
+        "I",
+        "G",
+        "N",
+        "A",
+        "T",
+        "U",
+        "R",
+        "E",
+        "P",
+        "R",
+        "O",
+        "J",
+        "E",
+        "C",
+        "T",
+        "S",
+        "./tspan<tspan class=\"cls-728\" x=\"0\" y=\"301.92\">L",
+        "O",
+        "N",
+        "G",
+        "-",
+        "T",
+        "E",
+        "R",
+        "M",
+        "R",
+        "E",
+        "-",
+        "O",
+        "R",
+        "D",
+        "E",
+        "R",
+        "C",
+        "A",
+        "P",
+        "A",
+        "B",
+        "I",
+        "L",
+        "I",
+        "T",
+        "Y/tspan<tspan class=\"cls-1228\" x=\"0\" y=\"345.05\">C",
+        "O",
+        "N",
+        "SI",
+        "S",
+        "T",
+        "E",
+        "N",
+        "C",
+        "Y",
+        "F",
+        "O",
+        "R",
+        "M",
+        "U",
+        "L",
+        "T",
+        "I",
+        "-",
+        "P",
+        "H",
+        "A",
+        "S",
+        "E",
+        "D",
+        "E",
+        "V",
+        "E",
+        "L",
+        "O",
+        "P",
+        "M",
+        "E",
+        "N",
+        "T",
+        "S",
+        "./tspan"
+      ]
+    },
+    {
+      "x": 4904.0412,
+      "y": 6019.0826,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "24px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-287"
+      ],
+      "text": [
+        "<tspan class=\"cls-775\" x=\"0\" y=\"0\">P",
+        "E",
+        "R",
+        "F",
+        "O",
+        "R",
+        "M",
+        "A",
+        "N",
+        "C",
+        "E &amp;",
+        "U",
+        "S",
+        "E/tspan<tspan class=\"cls-1014\" x=\"0\" y=\"86.26\">H",
+        "O",
+        "S",
+        "P",
+        "I",
+        "T",
+        "A",
+        "L",
+        "I",
+        "T",
+        "Y",
+        "-",
+        "G",
+        "R",
+        "A",
+        "D",
+        "E",
+        "D",
+        "U",
+        "R",
+        "A",
+        "B",
+        "I",
+        "L",
+        "I",
+        "T",
+        "Y/tspan<tspan class=\"cls-374\" x=\"0\" y=\"129.39\">S",
+        "UI",
+        "T",
+        "A",
+        "B",
+        "L",
+        "E",
+        "F",
+        "O",
+        "R",
+        "H",
+        "O",
+        "T",
+        "E",
+        "L",
+        "S",
+        ",",
+        "L",
+        "O",
+        "B",
+        "B",
+        "I",
+        "E",
+        "S",
+        ", /tspan<tspan class=\"cls-374\" x=\"0\" y=\"172.53\">S",
+        "UI",
+        "T",
+        "E",
+        "S",
+        ",",
+        "A",
+        "N",
+        "D",
+        "P",
+        "U",
+        "B",
+        "L",
+        "I",
+        "C",
+        "S",
+        "P",
+        "A",
+        "C",
+        "E",
+        "S",
+        "./tspan<tspan class=\"cls-674\" x=\"0\" y=\"301.92\">T",
+        "R",
+        "A",
+        "FF",
+        "I",
+        "C",
+        "-",
+        "L",
+        "E",
+        "V",
+        "E",
+        "L",
+        "C",
+        "U",
+        "S",
+        "T",
+        "O",
+        "M",
+        "I",
+        "Z",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N/tspan<tspan class=\"cls-671\" x=\"0\" y=\"345.05\">E",
+        "N",
+        "G",
+        "I",
+        "N",
+        "EE",
+        "R",
+        "E",
+        "D",
+        "F",
+        "O",
+        "R",
+        "R",
+        "E",
+        "S",
+        "I",
+        "D",
+        "E",
+        "N",
+        "T",
+        "I",
+        "A",
+        "L",
+        ", /tspan<tspan class=\"cls-1228\" x=\"0\" y=\"388.18\">C",
+        "O",
+        "MM",
+        "E",
+        "R",
+        "C",
+        "I",
+        "A",
+        "L",
+        ",",
+        "O",
+        "R",
+        "M",
+        "I",
+        "X",
+        "E",
+        "D",
+        "-",
+        "U",
+        "S",
+        "E /tspan<tspan class=\"cls-740\" x=\"0\" y=\"431.31\">A",
+        "R",
+        "E",
+        "A",
+        "S",
+        "./tspan<tspan class=\"cls-131\" x=\"0\" y=\"474.45\">A",
+        "CO",
+        "U",
+        "S",
+        "T",
+        "I",
+        "C",
+        "A",
+        "N",
+        "D",
+        "C",
+        "O",
+        "M",
+        "F",
+        "O",
+        "R",
+        "T /tspan<tspan class=\"cls-767\" x=\"0\" y=\"517.58\">E",
+        "N",
+        "HA",
+        "N",
+        "C",
+        "E",
+        "M",
+        "E",
+        "N",
+        "T/tspan<tspan class=\"cls-1040\" x=\"0\" y=\"560.71\">I",
+        "M",
+        "P",
+        "R",
+        "O",
+        "V",
+        "E",
+        "D",
+        "S",
+        "O",
+        "U",
+        "N",
+        "D",
+        "A",
+        "B",
+        "S",
+        "O",
+        "R",
+        "P",
+        "T",
+        "I",
+        "O",
+        "N /tspan<tspan class=\"cls-740\" x=\"0\" y=\"603.84\">A",
+        "N",
+        "D",
+        "T",
+        "A",
+        "C",
+        "T",
+        "I",
+        "L",
+        "E",
+        "E",
+        "X",
+        "P",
+        "E",
+        "R",
+        "I",
+        "E",
+        "N",
+        "C",
+        "E",
+        "./tspan"
+      ]
+    },
+    {
+      "x": 5457.4375,
+      "y": 6019.0826,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "24px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-287"
+      ],
+      "text": [
+        "<tspan class=\"cls-795\" x=\"0\" y=\"0\">I",
+        "N",
+        "T",
+        "E",
+        "G",
+        "R",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N &amp;",
+        "S",
+        "U",
+        "P",
+        "P",
+        "O",
+        "R",
+        "T/tspan<tspan class=\"cls-1079\" x=\"0\" y=\"86.26\">A",
+        "R",
+        "C",
+        "H",
+        "I",
+        "T",
+        "E",
+        "C",
+        "T",
+        "U",
+        "R",
+        "A",
+        "L",
+        "C",
+        "O",
+        "O",
+        "R",
+        "D",
+        "IN",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N/tspan<tspan class=\"cls-740\" x=\"0\" y=\"129.39\">A",
+        "L",
+        "I",
+        "G",
+        "N",
+        "M",
+        "E",
+        "N",
+        "T",
+        "W",
+        "I",
+        "T",
+        "H",
+        "F",
+        "L",
+        "O",
+        "O",
+        "R",
+        "P",
+        "L",
+        "A",
+        "NS",
+        ", /tspan<tspan class=\"cls-1002\" x=\"0\" y=\"172.53\">F",
+        "U",
+        "R",
+        "N",
+        "I",
+        "T",
+        "U",
+        "R",
+        "E",
+        ",",
+        "A",
+        "N",
+        "D",
+        "L",
+        "I",
+        "G",
+        "H",
+        "T",
+        "I",
+        "N",
+        "G",
+        "./tspan<tspan class=\"cls-1241\" x=\"0\" y=\"301.92\">S",
+        "A",
+        "M",
+        "P",
+        "L",
+        "I",
+        "N",
+        "G &amp;",
+        "S",
+        "T",
+        "R",
+        "I",
+        "K",
+        "E",
+        "-",
+        "O",
+        "F",
+        "F",
+        "S/tspan<tspan class=\"cls-1201\" x=\"0\" y=\"345.05\">M",
+        "A",
+        "T",
+        "E",
+        "R",
+        "I",
+        "A",
+        "L",
+        "A",
+        "N",
+        "D",
+        "C",
+        "O",
+        "L",
+        "O",
+        "R",
+        "A",
+        "PP",
+        "R",
+        "O",
+        "V",
+        "A",
+        "L /tspan<tspan class=\"cls-224\" x=\"0\" y=\"388.18\">B",
+        "E",
+        "F",
+        "O",
+        "R",
+        "E",
+        "P",
+        "R",
+        "O",
+        "D",
+        "U",
+        "C",
+        "T",
+        "I",
+        "O",
+        "N",
+        "./tspan<tspan class=\"cls-836\" x=\"0\" y=\"474.45\">P",
+        "R",
+        "O",
+        "J",
+        "E",
+        "C",
+        "T",
+        "T",
+        "I",
+        "M",
+        "E",
+        "L",
+        "I",
+        "N",
+        "E",
+        "S/tspan<tspan class=\"cls-240\" x=\"0\" y=\"517.58\">D",
+        "E",
+        "F",
+        "I",
+        "N",
+        "E",
+        "D",
+        "L",
+        "E",
+        "A",
+        "D",
+        "T",
+        "I",
+        "M",
+        "E",
+        "S",
+        "A",
+        "L",
+        "I",
+        "G",
+        "N",
+        "E",
+        "D",
+        "W",
+        "I",
+        "T",
+        "H /tspan<tspan class=\"cls-1228\" x=\"0\" y=\"560.71\">C",
+        "O",
+        "N",
+        "S",
+        "T",
+        "R",
+        "U",
+        "C",
+        "T",
+        "I",
+        "O",
+        "N",
+        "S",
+        "C",
+        "H",
+        "E",
+        "D",
+        "U",
+        "L",
+        "E",
+        "S",
+        "./tspan"
+      ]
+    },
+    {
+      "x": 1027.4744,
+      "y": 2060.9604,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "109.49px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-207"
+      ],
+      "text": [
+        "<tspan class=\"cls-925\" x=\"0\" y=\"0\">Designed",
+        "b",
+        "y Ex",
+        "p",
+        "erts, /tspan<tspan class=\"cls-768\" x=\"0\" y=\"136.63\">C",
+        "r",
+        "af",
+        "t",
+        "ed with P",
+        "r",
+        "ecision./tspan"
+      ]
+    },
+    {
+      "x": 1151.9109,
+      "y": 13500.4249,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "134px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-64"
+      ],
+      "text": [
+        "‘‘ F",
+        "r",
+        "om s",
+        "k",
+        "e",
+        "t",
+        "c",
+        "h",
+        "t",
+        "o s",
+        "p",
+        "a",
+        "c",
+        "e’’"
+      ]
+    },
+    {
+      "x": 1663.6954,
+      "y": 5205.4133,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "160px",
+      "fontWeight": "700",
+      "letterSpacing": "-.02em",
+      "fill": null,
+      "classes": [
+        "cls-212"
+      ],
+      "text": [
+        "GIF."
+      ]
+    },
+    {
+      "x": 965.2802,
+      "y": 6215.1629,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": null,
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-86"
+      ],
+      "text": [
+        "<tspan class=\"cls-563\" x=\"0\" y=\"0\">01 — SHARE",
+        "Y",
+        "OUR VISI",
+        "O",
+        "N/tspan<tspan class=\"cls-495\" x=\"0\" y=\"59.53\">E",
+        "V",
+        "E",
+        "R",
+        "Y",
+        "P",
+        "R",
+        "O",
+        "J",
+        "E",
+        "C",
+        "T",
+        "B",
+        "E",
+        "G",
+        "I",
+        "N",
+        "S",
+        "W",
+        "I",
+        "T",
+        "H A",
+        "C",
+        "O",
+        "NV",
+        "E",
+        "R",
+        "S",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N",
+        ".",
+        "W",
+        "E",
+        "E",
+        "X",
+        "P",
+        "L",
+        "O",
+        "R",
+        "E",
+        "Y",
+        "O",
+        "U",
+        "R /tspan<tspan class=\"cls-664\" x=\"0\" y=\"119.06\">S",
+        "P",
+        "A",
+        "C",
+        "E",
+        ",",
+        "C",
+        "O",
+        "N",
+        "C",
+        "E",
+        "P",
+        "T",
+        ",",
+        "F",
+        "U",
+        "N",
+        "C",
+        "T",
+        "I",
+        "O",
+        "NA",
+        "L",
+        "N",
+        "EE",
+        "D",
+        "S",
+        ",",
+        "A",
+        "N",
+        "D",
+        "A",
+        "E",
+        "S",
+        "T",
+        "H",
+        "E",
+        "T",
+        "I",
+        "C",
+        "D",
+        "I",
+        "R",
+        "E",
+        "C",
+        "T",
+        "I",
+        "O",
+        "N",
+        "T",
+        "O /tspan<tspan class=\"cls-951\" x=\"0\" y=\"178.59\">U",
+        "N",
+        "D",
+        "E",
+        "R",
+        "S",
+        "T",
+        "A",
+        "N",
+        "D",
+        "T",
+        "H",
+        "E",
+        "A",
+        "T",
+        "M",
+        "OS",
+        "P",
+        "H",
+        "E",
+        "R",
+        "E",
+        "Y",
+        "O",
+        "U",
+        "W",
+        "A",
+        "N",
+        "T",
+        "T",
+        "O",
+        "C",
+        "R",
+        "E",
+        "A",
+        "T",
+        "E",
+        "./tspan<tspan class=\"cls-1173\" x=\"0\" y=\"297.65\">0",
+        "2 — DESIGN &amp; M",
+        "A",
+        "TERIAL EXP",
+        "L",
+        "OR",
+        "A",
+        "TI",
+        "O",
+        "N/tspan<tspan class=\"cls-859\" x=\"0\" y=\"357.18\">T",
+        "H",
+        "R",
+        "O",
+        "U",
+        "G",
+        "H",
+        "C",
+        "U",
+        "R",
+        "A",
+        "T",
+        "E",
+        "D",
+        "T",
+        "O",
+        "O",
+        "L",
+        "S —",
+        "M",
+        "A",
+        "T",
+        "E",
+        "R",
+        "I",
+        "A",
+        "L",
+        "S",
+        "A",
+        "M",
+        "P",
+        "L",
+        "E",
+        "S",
+        ",",
+        "C",
+        "O",
+        "N",
+        "S",
+        "T",
+        "R",
+        "U",
+        "C",
+        "T",
+        "I",
+        "O",
+        "N /tspan<tspan class=\"cls-859\" x=\"0\" y=\"416.71\">T",
+        "E",
+        "C",
+        "H",
+        "N",
+        "I",
+        "Q",
+        "U",
+        "E",
+        "S",
+        ",",
+        "F",
+        "I",
+        "N",
+        "I",
+        "S",
+        "H",
+        "E",
+        "S",
+        ",",
+        "A",
+        "N",
+        "D",
+        "O",
+        "V",
+        "E",
+        "R",
+        "1",
+        ",",
+        "00",
+        "0",
+        "C",
+        "O",
+        "L",
+        "O",
+        "R",
+        "P",
+        "O",
+        "M",
+        "P",
+        "S —",
+        "W",
+        "E",
+        "D",
+        "E",
+        "F",
+        "I",
+        "N",
+        "E /tspan<tspan class=\"cls-859\" x=\"0\" y=\"476.24\">T",
+        "H",
+        "E",
+        "R",
+        "U",
+        "G",
+        "’",
+        "S",
+        "C",
+        "HA",
+        "R",
+        "A",
+        "C",
+        "T",
+        "E",
+        "R",
+        ",",
+        "S",
+        "C",
+        "A",
+        "L",
+        "E",
+        ",",
+        "T",
+        "E",
+        "X",
+        "T",
+        "U",
+        "R",
+        "E",
+        ",",
+        "A",
+        "N",
+        "D",
+        "P",
+        "A",
+        "L",
+        "E",
+        "T",
+        "T",
+        "E",
+        "T",
+        "O",
+        "G",
+        "E",
+        "T",
+        "H",
+        "E",
+        "R",
+        "./tspan<tspan class=\"cls-1173\" x=\"0\" y=\"595.3\">0",
+        "3 — DESIGN DEVE",
+        "L",
+        "OPMENT/tspan<tspan class=\"cls-1190\" x=\"0\" y=\"654.83\">W",
+        "E",
+        "T",
+        "R",
+        "A",
+        "N",
+        "S",
+        "L",
+        "A",
+        "T",
+        "E",
+        "T",
+        "H",
+        "E",
+        "C",
+        "O",
+        "N",
+        "C",
+        "E",
+        "P",
+        "T",
+        "I",
+        "N",
+        "T",
+        "O A",
+        "D",
+        "E",
+        "T",
+        "A",
+        "I",
+        "L",
+        "E",
+        "D",
+        "2",
+        "D",
+        "D",
+        "E",
+        "S",
+        "I",
+        "G",
+        "N",
+        "D",
+        "O",
+        "C",
+        "U",
+        "M",
+        "E",
+        "N",
+        "T /tspan<tspan class=\"cls-943\" x=\"0\" y=\"714.36\">O",
+        "U",
+        "T",
+        "L",
+        "I",
+        "N",
+        "I",
+        "N",
+        "G",
+        "D",
+        "I",
+        "M",
+        "E",
+        "N",
+        "S",
+        "I",
+        "O",
+        "NS",
+        ",",
+        "M",
+        "A",
+        "T",
+        "E",
+        "R",
+        "I",
+        "AL",
+        "S",
+        ",",
+        "C",
+        "O",
+        "L",
+        "O",
+        "R",
+        "S",
+        ",",
+        "A",
+        "N",
+        "D",
+        "T",
+        "E",
+        "C",
+        "H",
+        "N",
+        "I",
+        "C",
+        "A",
+        "L /tspan<tspan class=\"cls-664\" x=\"0\" y=\"773.89\">S",
+        "P",
+        "E",
+        "C",
+        "I",
+        "F",
+        "I",
+        "C",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N",
+        "S —",
+        "E",
+        "N",
+        "S",
+        "U",
+        "R",
+        "I",
+        "N",
+        "G",
+        "C",
+        "L",
+        "A",
+        "R",
+        "I",
+        "T",
+        "Y",
+        "B",
+        "E",
+        "F",
+        "O",
+        "R",
+        "E",
+        "P",
+        "R",
+        "O",
+        "D",
+        "U",
+        "C",
+        "T",
+        "I",
+        "O",
+        "N",
+        "./tspan<tspan class=\"cls-563\" x=\"0\" y=\"892.95\">04 — REVIEW &amp; APP",
+        "R",
+        "O",
+        "V",
+        "AL/tspan<tspan class=\"cls-859\" x=\"0\" y=\"952.48\">T",
+        "H",
+        "E",
+        "D",
+        "E",
+        "S",
+        "I",
+        "G",
+        "N",
+        "I",
+        "S",
+        "R",
+        "E",
+        "F",
+        "I",
+        "N",
+        "E",
+        "D",
+        "C",
+        "O",
+        "L",
+        "L",
+        "A",
+        "B",
+        "O",
+        "R",
+        "A",
+        "T",
+        "I",
+        "V",
+        "E",
+        "L",
+        "Y",
+        "U",
+        "N",
+        "T",
+        "I",
+        "L",
+        "E",
+        "V",
+        "E",
+        "R",
+        "Y",
+        "D",
+        "E",
+        "T",
+        "A",
+        "I",
+        "L",
+        "I",
+        "S /tspan<tspan class=\"cls-900\" x=\"0\" y=\"1012.01\">A",
+        "L",
+        "I",
+        "G",
+        "N",
+        "E",
+        "D",
+        ".",
+        "O",
+        "N",
+        "C",
+        "E",
+        "A",
+        "PP",
+        "R",
+        "O",
+        "V",
+        "E",
+        "D",
+        "A",
+        "N",
+        "D",
+        "S",
+        "I",
+        "G",
+        "N",
+        "E",
+        "D",
+        ",",
+        "T",
+        "H",
+        "E",
+        "P",
+        "R",
+        "O",
+        "J",
+        "E",
+        "C",
+        "T",
+        "M",
+        "O",
+        "V",
+        "E",
+        "S",
+        "I",
+        "N",
+        "T",
+        "O /tspan<tspan class=\"cls-1136\" x=\"0\" y=\"1071.54\">F",
+        "A",
+        "B",
+        "R",
+        "I",
+        "C",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N",
+        "./tspan<tspan class=\"cls-563\" x=\"0\" y=\"1190.6\">05 — CRAFT &amp; DELIVE",
+        "R",
+        "Y/tspan<tspan class=\"cls-174\" x=\"0\" y=\"1250.13\">Y",
+        "O",
+        "U",
+        "R",
+        "R",
+        "U",
+        "G",
+        "I",
+        "S",
+        "HA",
+        "N",
+        "D",
+        "C",
+        "R",
+        "A",
+        "F",
+        "T",
+        "E",
+        "D",
+        "B",
+        "Y",
+        "E",
+        "X",
+        "P",
+        "E",
+        "R",
+        "T",
+        "A",
+        "R",
+        "T",
+        "I",
+        "S",
+        "A",
+        "N",
+        "S",
+        "A",
+        "N",
+        "D",
+        "D",
+        "E",
+        "L",
+        "I",
+        "V",
+        "E",
+        "R",
+        "E",
+        "D /tspan<tspan class=\"cls-1190\" x=\"0\" y=\"1309.66\">W",
+        "I",
+        "T",
+        "H",
+        "I",
+        "N",
+        "A",
+        "PP",
+        "R",
+        "O",
+        "X",
+        "I",
+        "M",
+        "A",
+        "T",
+        "E",
+        "L",
+        "Y",
+        "1",
+        "2",
+        "–",
+        "1",
+        "6",
+        "W",
+        "EE",
+        "K",
+        "S",
+        ",",
+        "R",
+        "E",
+        "A",
+        "D",
+        "Y",
+        "T",
+        "O",
+        "I",
+        "N",
+        "T",
+        "E",
+        "G",
+        "R",
+        "A",
+        "T",
+        "E",
+        "S",
+        "E",
+        "A",
+        "M",
+        "L",
+        "E",
+        "S",
+        "S",
+        "L",
+        "Y /tspan<tspan class=\"cls-139\" x=\"0\" y=\"1369.19\">I",
+        "N",
+        "T",
+        "O",
+        "IT",
+        "S",
+        "S",
+        "P",
+        "A",
+        "C",
+        "E",
+        "./tspan"
+      ]
+    },
+    {
+      "x": 964.7188,
+      "y": 5882.5564,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": null,
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#8c9789",
+      "classes": [
+        "cls-118"
+      ],
+      "text": [
+        "<tspan class=\"cls-937\" x=\"0\" y=\"0\">OUR CUS",
+        "T",
+        "OM COLLABOR",
+        "A",
+        "TIVE",
+        "JOURNEY /tspan<tspan class=\"cls-13\" x=\"0\" y=\"74.15\">G",
+        "u",
+        "i",
+        "d",
+        "e",
+        "d",
+        "b",
+        "y",
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n",
+        "e",
+        "x",
+        "p",
+        "e",
+        "r",
+        "t",
+        "i",
+        "s",
+        "e",
+        ",",
+        "a",
+        "r",
+        "t",
+        "i",
+        "s",
+        "a",
+        "n",
+        "a",
+        "l",
+        "k",
+        "n",
+        "o",
+        "w",
+        "l",
+        "e",
+        "d",
+        "g",
+        "e",
+        ",",
+        "a",
+        "n",
+        "d",
+        "r",
+        "e",
+        "f",
+        "i",
+        "n",
+        "e",
+        "d",
+        "m",
+        "a",
+        "t",
+        "e",
+        "ri",
+        "a",
+        "l",
+        "e",
+        "x",
+        "p",
+        "l",
+        "o",
+        "r",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        ".",
+        "/tspan"
+      ]
+    },
+    {
+      "x": 911.7885,
+      "y": 9634.9061,
+      "scale": 1,
+      "fontFamily": "Satoshi-Black, Satoshi",
+      "fontSize": "41px",
+      "fontWeight": "800",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-96"
+      ],
+      "text": [
+        "C",
+        "U",
+        "S",
+        "T",
+        "O",
+        "M →",
+        "B",
+        "E",
+        "S",
+        "P",
+        "O",
+        "K",
+        "E",
+        ",",
+        "E",
+        "X",
+        "P",
+        "R",
+        "E",
+        "S",
+        "S",
+        "I",
+        "V",
+        "E",
+        ",",
+        "O",
+        "N",
+        "E",
+        "-",
+        "O",
+        "F",
+        "-",
+        "A",
+        "-",
+        "K",
+        "I",
+        "N",
+        "D",
+        ",",
+        "D",
+        "E",
+        "S",
+        "I",
+        "G",
+        "N",
+        "-",
+        "L",
+        "E",
+        "D"
+      ]
+    },
+    {
+      "x": 2223.1594,
+      "y": 9110.6842,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "26.48px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#00565e",
+      "classes": [
+        "cls-229"
+      ],
+      "text": [
+        "E",
+        "x",
+        "p",
+        "l",
+        "o",
+        "r",
+        "e",
+        "O",
+        "u",
+        "r",
+        "C",
+        "u",
+        "s",
+        "t",
+        "o",
+        "m",
+        "C",
+        "a",
+        "t",
+        "a",
+        "l",
+        "o",
+        "g"
+      ]
+    },
+    {
+      "x": 9808.8546,
+      "y": 7864.8617,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": null,
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-86"
+      ],
+      "text": [
+        "<tspan class=\"cls-563\" x=\"0\" y=\"0\">01 — SHARE",
+        "Y",
+        "OUR VISI",
+        "O",
+        "N/tspan<tspan class=\"cls-495\" x=\"0\" y=\"57.53\">E",
+        "V",
+        "E",
+        "R",
+        "Y",
+        "P",
+        "R",
+        "O",
+        "J",
+        "E",
+        "C",
+        "T",
+        "B",
+        "E",
+        "G",
+        "I",
+        "N",
+        "S",
+        "W",
+        "I",
+        "T",
+        "H A",
+        "C",
+        "O",
+        "NV",
+        "E",
+        "R",
+        "S",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N",
+        ".",
+        "W",
+        "E",
+        "E",
+        "X",
+        "P",
+        "L",
+        "O",
+        "R",
+        "E",
+        "Y",
+        "O",
+        "U",
+        "R /tspan<tspan class=\"cls-664\" x=\"0\" y=\"115.06\">S",
+        "P",
+        "A",
+        "C",
+        "E",
+        ",",
+        "C",
+        "O",
+        "N",
+        "C",
+        "E",
+        "P",
+        "T",
+        ",",
+        "F",
+        "U",
+        "N",
+        "C",
+        "T",
+        "I",
+        "O",
+        "NA",
+        "L",
+        "N",
+        "EE",
+        "D",
+        "S",
+        ",",
+        "A",
+        "N",
+        "D",
+        "A",
+        "E",
+        "S",
+        "T",
+        "H",
+        "E",
+        "T",
+        "I",
+        "C",
+        "D",
+        "I",
+        "R",
+        "E",
+        "C",
+        "T",
+        "I",
+        "O",
+        "N",
+        "T",
+        "O /tspan<tspan class=\"cls-951\" x=\"0\" y=\"172.59\">U",
+        "N",
+        "D",
+        "E",
+        "R",
+        "S",
+        "T",
+        "A",
+        "N",
+        "D",
+        "T",
+        "H",
+        "E",
+        "A",
+        "T",
+        "M",
+        "OS",
+        "P",
+        "H",
+        "E",
+        "R",
+        "E",
+        "Y",
+        "O",
+        "U",
+        "W",
+        "A",
+        "N",
+        "T",
+        "T",
+        "O",
+        "C",
+        "R",
+        "E",
+        "A",
+        "T",
+        "E",
+        "./tspan<tspan class=\"cls-1173\" x=\"0\" y=\"287.65\">0",
+        "2 — DESIGN &amp; M",
+        "A",
+        "TERIAL EXP",
+        "L",
+        "OR",
+        "A",
+        "TI",
+        "O",
+        "N/tspan<tspan class=\"cls-859\" x=\"0\" y=\"345.18\">T",
+        "H",
+        "R",
+        "O",
+        "U",
+        "G",
+        "H",
+        "C",
+        "U",
+        "R",
+        "A",
+        "T",
+        "E",
+        "D",
+        "T",
+        "O",
+        "O",
+        "L",
+        "S —",
+        "M",
+        "A",
+        "T",
+        "E",
+        "R",
+        "I",
+        "A",
+        "L",
+        "S",
+        "A",
+        "M",
+        "P",
+        "L",
+        "E",
+        "S",
+        ",",
+        "C",
+        "O",
+        "N",
+        "S",
+        "T",
+        "R",
+        "U",
+        "C",
+        "T",
+        "I",
+        "O",
+        "N /tspan<tspan class=\"cls-859\" x=\"0\" y=\"402.71\">T",
+        "E",
+        "C",
+        "H",
+        "N",
+        "I",
+        "Q",
+        "U",
+        "E",
+        "S",
+        ",",
+        "F",
+        "I",
+        "N",
+        "I",
+        "S",
+        "H",
+        "E",
+        "S",
+        ",",
+        "A",
+        "N",
+        "D",
+        "O",
+        "V",
+        "E",
+        "R",
+        "1",
+        ",",
+        "00",
+        "0",
+        "C",
+        "O",
+        "L",
+        "O",
+        "R",
+        "P",
+        "O",
+        "M",
+        "P",
+        "S —",
+        "W",
+        "E",
+        "D",
+        "E",
+        "F",
+        "I",
+        "N",
+        "E /tspan<tspan class=\"cls-859\" x=\"0\" y=\"460.24\">T",
+        "H",
+        "E",
+        "R",
+        "U",
+        "G",
+        "’",
+        "S",
+        "C",
+        "HA",
+        "R",
+        "A",
+        "C",
+        "T",
+        "E",
+        "R",
+        ",",
+        "S",
+        "C",
+        "A",
+        "L",
+        "E",
+        ",",
+        "T",
+        "E",
+        "X",
+        "T",
+        "U",
+        "R",
+        "E",
+        ",",
+        "A",
+        "N",
+        "D",
+        "P",
+        "A",
+        "L",
+        "E",
+        "T",
+        "T",
+        "E",
+        "T",
+        "O",
+        "G",
+        "E",
+        "T",
+        "H",
+        "E",
+        "R",
+        "./tspan<tspan class=\"cls-1173\" x=\"0\" y=\"575.3\">0",
+        "3 — DESIGN DEVE",
+        "L",
+        "OPMENT/tspan<tspan class=\"cls-1190\" x=\"0\" y=\"632.83\">W",
+        "E",
+        "T",
+        "R",
+        "A",
+        "N",
+        "S",
+        "L",
+        "A",
+        "T",
+        "E",
+        "T",
+        "H",
+        "E",
+        "C",
+        "O",
+        "N",
+        "C",
+        "E",
+        "P",
+        "T",
+        "I",
+        "N",
+        "T",
+        "O A",
+        "D",
+        "E",
+        "T",
+        "A",
+        "I",
+        "L",
+        "E",
+        "D",
+        "2",
+        "D",
+        "D",
+        "E",
+        "S",
+        "I",
+        "G",
+        "N",
+        "D",
+        "O",
+        "C",
+        "U",
+        "M",
+        "E",
+        "N",
+        "T /tspan<tspan class=\"cls-943\" x=\"0\" y=\"690.36\">O",
+        "U",
+        "T",
+        "L",
+        "I",
+        "N",
+        "I",
+        "N",
+        "G",
+        "D",
+        "I",
+        "M",
+        "E",
+        "N",
+        "S",
+        "I",
+        "O",
+        "NS",
+        ",",
+        "M",
+        "A",
+        "T",
+        "E",
+        "R",
+        "I",
+        "AL",
+        "S",
+        ",",
+        "C",
+        "O",
+        "L",
+        "O",
+        "R",
+        "S",
+        ",",
+        "A",
+        "N",
+        "D",
+        "T",
+        "E",
+        "C",
+        "H",
+        "N",
+        "I",
+        "C",
+        "A",
+        "L /tspan<tspan class=\"cls-664\" x=\"0\" y=\"747.89\">S",
+        "P",
+        "E",
+        "C",
+        "I",
+        "F",
+        "I",
+        "C",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N",
+        "S —",
+        "E",
+        "N",
+        "S",
+        "U",
+        "R",
+        "I",
+        "N",
+        "G",
+        "C",
+        "L",
+        "A",
+        "R",
+        "I",
+        "T",
+        "Y",
+        "B",
+        "E",
+        "F",
+        "O",
+        "R",
+        "E",
+        "P",
+        "R",
+        "O",
+        "D",
+        "U",
+        "C",
+        "T",
+        "I",
+        "O",
+        "N",
+        "./tspan<tspan class=\"cls-563\" x=\"0\" y=\"862.95\">04 — REVIEW &amp; APP",
+        "R",
+        "O",
+        "V",
+        "AL/tspan<tspan class=\"cls-859\" x=\"0\" y=\"920.48\">T",
+        "H",
+        "E",
+        "D",
+        "E",
+        "S",
+        "I",
+        "G",
+        "N",
+        "I",
+        "S",
+        "R",
+        "E",
+        "F",
+        "I",
+        "N",
+        "E",
+        "D",
+        "C",
+        "O",
+        "L",
+        "L",
+        "A",
+        "B",
+        "O",
+        "R",
+        "A",
+        "T",
+        "I",
+        "V",
+        "E",
+        "L",
+        "Y",
+        "U",
+        "N",
+        "T",
+        "I",
+        "L",
+        "E",
+        "V",
+        "E",
+        "R",
+        "Y",
+        "D",
+        "E",
+        "T",
+        "A",
+        "I",
+        "L",
+        "I",
+        "S /tspan<tspan class=\"cls-900\" x=\"0\" y=\"978.01\">A",
+        "L",
+        "I",
+        "G",
+        "N",
+        "E",
+        "D",
+        ".",
+        "O",
+        "N",
+        "C",
+        "E",
+        "A",
+        "PP",
+        "R",
+        "O",
+        "V",
+        "E",
+        "D",
+        "A",
+        "N",
+        "D",
+        "S",
+        "I",
+        "G",
+        "N",
+        "E",
+        "D",
+        ",",
+        "T",
+        "H",
+        "E",
+        "P",
+        "R",
+        "O",
+        "J",
+        "E",
+        "C",
+        "T",
+        "M",
+        "O",
+        "V",
+        "E",
+        "S",
+        "I",
+        "N",
+        "T",
+        "O /tspan<tspan class=\"cls-1136\" x=\"0\" y=\"1035.54\">F",
+        "A",
+        "B",
+        "R",
+        "I",
+        "C",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N",
+        "./tspan<tspan class=\"cls-563\" x=\"0\" y=\"1150.6\">05 — CRAFT &amp; DELIVE",
+        "R",
+        "Y/tspan<tspan class=\"cls-174\" x=\"0\" y=\"1208.13\">Y",
+        "O",
+        "U",
+        "R",
+        "R",
+        "U",
+        "G",
+        "I",
+        "S",
+        "HA",
+        "N",
+        "D",
+        "C",
+        "R",
+        "A",
+        "F",
+        "T",
+        "E",
+        "D",
+        "B",
+        "Y",
+        "E",
+        "X",
+        "P",
+        "E",
+        "R",
+        "T",
+        "A",
+        "R",
+        "T",
+        "I",
+        "S",
+        "A",
+        "N",
+        "S",
+        "A",
+        "N",
+        "D",
+        "D",
+        "E",
+        "L",
+        "I",
+        "V",
+        "E",
+        "R",
+        "E",
+        "D /tspan<tspan class=\"cls-1190\" x=\"0\" y=\"1265.66\">W",
+        "I",
+        "T",
+        "H",
+        "I",
+        "N",
+        "A",
+        "PP",
+        "R",
+        "O",
+        "X",
+        "I",
+        "M",
+        "A",
+        "T",
+        "E",
+        "L",
+        "Y",
+        "1",
+        "2",
+        "–",
+        "1",
+        "6",
+        "W",
+        "EE",
+        "K",
+        "S",
+        ",",
+        "R",
+        "E",
+        "A",
+        "D",
+        "Y",
+        "T",
+        "O",
+        "I",
+        "N",
+        "T",
+        "E",
+        "G",
+        "R",
+        "A",
+        "T",
+        "E",
+        "S",
+        "E",
+        "A",
+        "M",
+        "L",
+        "E",
+        "S",
+        "S",
+        "L",
+        "Y /tspan<tspan class=\"cls-139\" x=\"0\" y=\"1323.19\">I",
+        "N",
+        "T",
+        "O",
+        "IT",
+        "S",
+        "S",
+        "P",
+        "A",
+        "C",
+        "E",
+        "./tspan"
+      ]
+    },
+    {
+      "x": 8010.3469,
+      "y": 9393.7124,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "203.34px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#8c9789",
+      "classes": [
+        "cls-15"
+      ],
+      "text": [
+        "CUS",
+        "T",
+        "OM"
+      ]
+    },
+    {
+      "x": 8034.9733,
+      "y": 8482.222,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "140px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#8c9789",
+      "classes": [
+        "cls-116"
+      ],
+      "text": [
+        "<tspan x=\"0\" y=\"0\">DESIGNED /tspan<tspan class=\"cls-521\" x=\"0\" y=\"165.21\">FOR S",
+        "P",
+        "A",
+        "CES/tspan<tspan x=\"0\" y=\"330.41\">WITH /tspan<tspan class=\"cls-521\" x=\"0\" y=\"495.62\">INTENTI",
+        "O",
+        "N./tspan"
+      ]
+    },
+    {
+      "x": 2163.7767,
+      "y": 6613.3633,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "79px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-204"
+      ],
+      "text": [
+        "<tspan x=\"0\" y=\"0\">AQUI /tspan<tspan x=\"0\" y=\"74.15\">VIDEO /tspan",
+        "Y",
+        "OUTUBE"
+      ]
+    }
+  ]
+}
