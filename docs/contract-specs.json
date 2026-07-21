@@ -1,0 +1,4503 @@
+{
+  "classMap": {
+    "cls-1": {
+      "letter-spacing": ".46em"
+    },
+    "cls-2": {
+      "letter-spacing": ".27em"
+    },
+    "cls-3": {
+      "letter-spacing": ".03em"
+    },
+    "cls-4": {
+      "letter-spacing": ".17em"
+    },
+    "cls-5": {
+      "letter-spacing": ".13em"
+    },
+    "cls-6": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-7": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-8": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "font-size": "42px",
+      "mix-blend-mode": "multiply"
+    },
+    "cls-9": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800"
+    },
+    "cls-10": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-11": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "-.02em"
+    },
+    "cls-12": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-13": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "-.1em"
+    },
+    "cls-14": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-15": {
+      "letter-spacing": "0em",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500"
+    },
+    "cls-16": {
+      "letter-spacing": ".13em"
+    },
+    "cls-17": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-18": {
+      "letter-spacing": "0em"
+    },
+    "cls-19": {
+      "letter-spacing": ".12em"
+    },
+    "cls-20": {
+      "fill": "#87402b"
+    },
+    "cls-21": {
+      "letter-spacing": "0em",
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi"
+    },
+    "cls-22": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-23": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.04em"
+    },
+    "cls-24": {
+      "font-weight": "300",
+      "fill": "#fff",
+      "font-size": "86.22px",
+      "font-family": "TheSeasons-Light, 'The Seasons'"
+    },
+    "cls-25": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-26": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-27": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-28": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-29": {
+      "font-weight": "300",
+      "fill": "#fff",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "font-size": "143.72px"
+    },
+    "cls-30": {
+      "font-weight": "300",
+      "fill": "#134d80",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "font-size": "150px"
+    },
+    "cls-31": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-32": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-33": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-34": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-35": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "font-size": "26px"
+    },
+    "cls-36": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-37": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".02em"
+    },
+    "cls-38": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-39": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-40": {
+      "font-weight": "300",
+      "fill": "#fff",
+      "font-family": "Fuji-Light, Fuji",
+      "font-size": "49.25px"
+    },
+    "cls-41": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-42": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-43": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi"
+    },
+    "cls-44": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-45": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "font-size": "30px"
+    },
+    "cls-46": {
+      "font-weight": "300",
+      "fill": "#134d80",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "font-size": "126px"
+    },
+    "cls-47": {
+      "letter-spacing": ".15em"
+    },
+    "cls-48": {
+      "letter-spacing": "0em"
+    },
+    "cls-49": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-50": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-51": {
+      "letter-spacing": ".17em"
+    },
+    "cls-52": {
+      "letter-spacing": "0em"
+    },
+    "cls-53": {
+      "clip-path": "url(#clippath-21)"
+    },
+    "cls-54": {
+      "letter-spacing": ".04em"
+    },
+    "cls-55": {
+      "letter-spacing": ".03em"
+    },
+    "cls-56": {
+      "letter-spacing": ".14em"
+    },
+    "cls-57": {
+      "letter-spacing": ".02em"
+    },
+    "cls-58": {
+      "letter-spacing": "0em"
+    },
+    "cls-59": {
+      "clip-path": "url(#clippath-6)"
+    },
+    "cls-60": {
+      "clip-path": "url(#clippath-7)"
+    },
+    "cls-61": {
+      "clip-path": "url(#clippath-17)"
+    },
+    "cls-62": {
+      "letter-spacing": ".13em"
+    },
+    "cls-63": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-64": {
+      "letter-spacing": ".13em"
+    },
+    "cls-65": {
+      "letter-spacing": ".04em"
+    },
+    "cls-66": {
+      "letter-spacing": ".28em"
+    },
+    "cls-67": {
+      "letter-spacing": ".16em"
+    },
+    "cls-68": {
+      "letter-spacing": ".16em"
+    },
+    "cls-69": {
+      "letter-spacing": ".29em"
+    },
+    "cls-70": {
+      "letter-spacing": ".13em"
+    },
+    "cls-71": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient-2)",
+      "opacity": ".5"
+    },
+    "cls-72": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient-3)",
+      "opacity": ".25"
+    },
+    "cls-73": {
+      "mix-blend-mode": "multiply",
+      "fill": "#134d80"
+    },
+    "cls-74": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient-5)"
+    },
+    "cls-75": {
+      "mix-blend-mode": "multiply"
+    },
+    "cls-76": {
+      "mix-blend-mode": "multiply",
+      "fill": "#384920"
+    },
+    "cls-77": {
+      "mix-blend-mode": "multiply",
+      "opacity": ".5",
+      "fill": "url(#linear-gradient)"
+    },
+    "cls-78": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient-6)"
+    },
+    "cls-79": {
+      "letter-spacing": ".03em"
+    },
+    "cls-80": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-81": {
+      "letter-spacing": ".16em"
+    },
+    "cls-82": {
+      "letter-spacing": ".17em"
+    },
+    "cls-83": {
+      "letter-spacing": ".16em"
+    },
+    "cls-84": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-85": {
+      "clip-path": "url(#clippath-15)"
+    },
+    "cls-86": {
+      "letter-spacing": ".12em"
+    },
+    "cls-87": {
+      "letter-spacing": ".16em"
+    },
+    "cls-88": {
+      "letter-spacing": ".16em"
+    },
+    "cls-89": {
+      "letter-spacing": ".16em"
+    },
+    "cls-90": {
+      "letter-spacing": ".08em"
+    },
+    "cls-91": {
+      "letter-spacing": ".13em"
+    },
+    "cls-92": {
+      "letter-spacing": ".12em"
+    },
+    "cls-93": {
+      "letter-spacing": ".18em"
+    },
+    "cls-94": {
+      "letter-spacing": ".12em"
+    },
+    "cls-95": {
+      "letter-spacing": ".11em"
+    },
+    "cls-96": {
+      "letter-spacing": ".12em"
+    },
+    "cls-97": {
+      "letter-spacing": ".21em"
+    },
+    "cls-98": {
+      "clip-path": "url(#clippath-18)"
+    },
+    "cls-99": {
+      "letter-spacing": ".03em"
+    },
+    "cls-100": {
+      "clip-path": "url(#clippath-4)"
+    },
+    "cls-101": {
+      "letter-spacing": ".1em"
+    },
+    "cls-102": {
+      "letter-spacing": ".17em"
+    },
+    "cls-103": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-104": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-105": {
+      "letter-spacing": ".12em"
+    },
+    "cls-106": {
+      "letter-spacing": ".02em"
+    },
+    "cls-107": {
+      "letter-spacing": ".14em"
+    },
+    "cls-108": {
+      "letter-spacing": ".16em"
+    },
+    "cls-109": {
+      "letter-spacing": "-.02em",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500"
+    },
+    "cls-110": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-111": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-112": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-113": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-114": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500"
+    },
+    "cls-115": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-116": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-117": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "font-size": "30px"
+    },
+    "cls-118": {
+      "letter-spacing": ".03em"
+    },
+    "cls-119": {
+      "letter-spacing": ".15em"
+    },
+    "cls-120": {
+      "letter-spacing": ".17em"
+    },
+    "cls-121": {
+      "letter-spacing": ".23em"
+    },
+    "cls-122": {
+      "letter-spacing": ".19em"
+    },
+    "cls-123": {
+      "font-family": "Helvetica-Bold, Helvetica",
+      "font-size": "15.1px",
+      "letter-spacing": ".1em",
+      "fill": "#fff",
+      "font-weight": "700"
+    },
+    "cls-124": {
+      "fill": "#fff",
+      "font-weight": "700",
+      "font-size": "71.48px",
+      "font-family": "TheSeasons-Bold, 'The Seasons'"
+    },
+    "cls-125": {
+      "fill": "#fff"
+    },
+    "cls-126": {
+      "fill": "#fff",
+      "font-family": "Satoshi-Regular, Satoshi",
+      "font-size": "72.33px",
+      "letter-spacing": ".02em"
+    },
+    "cls-127": {
+      "fill": "#fff",
+      "font-weight": "700",
+      "font-family": "Satoshi-Bold, Satoshi",
+      "font-size": "14.47px"
+    },
+    "cls-128": {
+      "fill": "#fff",
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "148.75px"
+    },
+    "cls-129": {
+      "fill": "#fff",
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "181.23px"
+    },
+    "cls-130": {
+      "font-weight": "700",
+      "fill": "#134d80",
+      "font-size": "102.53px",
+      "font-family": "Satoshi-Bold, Satoshi"
+    },
+    "cls-131": {
+      "letter-spacing": ".16em"
+    },
+    "cls-132": {
+      "letter-spacing": ".17em"
+    },
+    "cls-133": {
+      "letter-spacing": ".08em"
+    },
+    "cls-134": {
+      "letter-spacing": ".13em"
+    },
+    "cls-135": {
+      "letter-spacing": ".1em"
+    },
+    "cls-136": {
+      "letter-spacing": ".02em"
+    },
+    "cls-137": {
+      "letter-spacing": ".03em"
+    },
+    "cls-138": {
+      "font-size": "94.78px",
+      "fill": "#134d80",
+      "font-family": "TheSeasons-Regular, 'The Seasons'"
+    },
+    "cls-139": {
+      "fill": "#134d80"
+    },
+    "cls-140": {
+      "fill": "#134d80",
+      "font-family": "TheSeasons-Regular, 'The Seasons'",
+      "font-size": "55px"
+    },
+    "cls-141": {
+      "fill": "#134d80",
+      "font-family": "TheSeasons-Regular, 'The Seasons'",
+      "font-size": "56.47px"
+    },
+    "cls-142": {
+      "fill": "#134d80",
+      "font-family": "TheSeasons-Regular, 'The Seasons'",
+      "font-size": "141px",
+      "letter-spacing": "-.02em"
+    },
+    "cls-143": {
+      "letter-spacing": ".28em"
+    },
+    "cls-144": {
+      "letter-spacing": ".01em"
+    },
+    "cls-145": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-146": {
+      "letter-spacing": ".03em"
+    },
+    "cls-147": {
+      "letter-spacing": ".16em"
+    },
+    "cls-148": {
+      "letter-spacing": ".14em"
+    },
+    "cls-149": {
+      "stroke": "#fff",
+      "fill": "none",
+      "stroke-width": "4px",
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round"
+    },
+    "cls-150": {
+      "fill": "none"
+    },
+    "cls-151": {
+      "fill": "none",
+      "stroke-width": "4px",
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke": "gray"
+    },
+    "cls-152": {
+      "fill": "none",
+      "stroke": "#134d80",
+      "stroke-miterlimit": "10"
+    },
+    "cls-153": {
+      "fill": "none",
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke": "#2f1d10",
+      "stroke-width": "2px"
+    },
+    "cls-154": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke": "#393939",
+      "stroke-width": ".1px",
+      "fill": "#393939"
+    },
+    "cls-155": {
+      "letter-spacing": ".09em"
+    },
+    "cls-156": {
+      "letter-spacing": "0em"
+    },
+    "cls-157": {
+      "letter-spacing": ".11em"
+    },
+    "cls-158": {
+      "letter-spacing": ".13em"
+    },
+    "cls-159": {
+      "letter-spacing": ".03em"
+    },
+    "cls-160": {
+      "letter-spacing": ".03em"
+    },
+    "cls-161": {
+      "letter-spacing": ".02em"
+    },
+    "cls-162": {
+      "letter-spacing": ".13em"
+    },
+    "cls-163": {
+      "letter-spacing": ".13em"
+    },
+    "cls-164": {
+      "letter-spacing": ".12em"
+    },
+    "cls-165": {
+      "letter-spacing": ".11em"
+    },
+    "cls-166": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-167": {
+      "letter-spacing": ".03em"
+    },
+    "cls-168": {
+      "letter-spacing": ".02em"
+    },
+    "cls-169": {
+      "letter-spacing": ".12em"
+    },
+    "cls-170": {
+      "letter-spacing": ".03em"
+    },
+    "cls-171": {
+      "letter-spacing": ".12em"
+    },
+    "cls-172": {
+      "letter-spacing": ".03em"
+    },
+    "cls-173": {
+      "letter-spacing": ".12em"
+    },
+    "cls-174": {
+      "letter-spacing": ".12em"
+    },
+    "cls-175": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-176": {
+      "letter-spacing": ".12em"
+    },
+    "cls-177": {
+      "letter-spacing": ".16em"
+    },
+    "cls-178": {
+      "letter-spacing": ".15em"
+    },
+    "cls-179": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-180": {
+      "letter-spacing": ".13em"
+    },
+    "cls-181": {
+      "letter-spacing": ".02em"
+    },
+    "cls-182": {
+      "letter-spacing": ".07em"
+    },
+    "cls-183": {
+      "font-size": "16.48px"
+    },
+    "cls-184": {
+      "letter-spacing": ".13em"
+    },
+    "cls-185": {
+      "letter-spacing": ".13em"
+    },
+    "cls-186": {
+      "letter-spacing": ".07em"
+    },
+    "cls-187": {
+      "letter-spacing": ".18em"
+    },
+    "cls-188": {
+      "letter-spacing": ".05em"
+    },
+    "cls-189": {
+      "letter-spacing": ".16em"
+    },
+    "cls-190": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-191": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-192": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-193": {
+      "letter-spacing": ".16em"
+    },
+    "cls-194": {
+      "letter-spacing": ".13em"
+    },
+    "cls-195": {
+      "letter-spacing": ".17em"
+    },
+    "cls-196": {
+      "letter-spacing": ".17em"
+    },
+    "cls-197": {
+      "letter-spacing": ".05em"
+    },
+    "cls-198": {
+      "letter-spacing": ".17em"
+    },
+    "cls-199": {
+      "letter-spacing": "0em"
+    },
+    "cls-200": {
+      "letter-spacing": ".12em"
+    },
+    "cls-201": {
+      "letter-spacing": "0em"
+    },
+    "cls-202": {
+      "clip-path": "url(#clippath-9)"
+    },
+    "cls-203": {
+      "letter-spacing": ".17em"
+    },
+    "cls-204": {
+      "letter-spacing": ".46em"
+    },
+    "cls-205": {
+      "clip-path": "url(#clippath-10)"
+    },
+    "cls-206": {
+      "letter-spacing": ".21em"
+    },
+    "cls-207": {
+      "fill": "#c0833e"
+    },
+    "cls-208": {
+      "letter-spacing": ".17em"
+    },
+    "cls-209": {
+      "letter-spacing": ".01em"
+    },
+    "cls-210": {
+      "letter-spacing": ".15em"
+    },
+    "cls-211": {
+      "letter-spacing": ".17em"
+    },
+    "cls-212": {
+      "letter-spacing": ".03em"
+    },
+    "cls-213": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-214": {
+      "letter-spacing": ".17em"
+    },
+    "cls-215": {
+      "letter-spacing": ".02em"
+    },
+    "cls-216": {
+      "letter-spacing": ".08em"
+    },
+    "cls-217": {
+      "letter-spacing": ".17em"
+    },
+    "cls-218": {
+      "letter-spacing": ".17em"
+    },
+    "cls-219": {
+      "letter-spacing": ".13em"
+    },
+    "cls-220": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-221": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-222": {
+      "letter-spacing": ".29em"
+    },
+    "cls-223": {
+      "letter-spacing": ".01em"
+    },
+    "cls-224": {
+      "letter-spacing": ".04em"
+    },
+    "cls-225": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-226": {
+      "letter-spacing": ".17em"
+    },
+    "cls-227": {
+      "letter-spacing": ".16em"
+    },
+    "cls-228": {
+      "letter-spacing": ".02em"
+    },
+    "cls-229": {
+      "letter-spacing": "0em"
+    },
+    "cls-230": {
+      "letter-spacing": ".14em"
+    },
+    "cls-231": {
+      "letter-spacing": ".01em"
+    },
+    "cls-232": {
+      "letter-spacing": ".17em"
+    },
+    "cls-233": {
+      "letter-spacing": ".02em"
+    },
+    "cls-234": {
+      "letter-spacing": ".14em"
+    },
+    "cls-235": {
+      "letter-spacing": ".17em"
+    },
+    "cls-236": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-237": {
+      "letter-spacing": ".17em"
+    },
+    "cls-238": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-239": {
+      "letter-spacing": ".2em"
+    },
+    "cls-240": {
+      "letter-spacing": "0em"
+    },
+    "cls-241": {
+      "letter-spacing": ".13em"
+    },
+    "cls-242": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-243": {
+      "letter-spacing": ".17em"
+    },
+    "cls-244": {
+      "letter-spacing": ".18em"
+    },
+    "cls-245": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-246": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-247": {
+      "letter-spacing": ".3em"
+    },
+    "cls-248": {
+      "letter-spacing": ".16em"
+    },
+    "cls-249": {
+      "letter-spacing": ".14em"
+    },
+    "cls-250": {
+      "letter-spacing": ".13em"
+    },
+    "cls-251": {
+      "letter-spacing": ".17em"
+    },
+    "cls-252": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-253": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-254": {
+      "letter-spacing": ".02em"
+    },
+    "cls-255": {
+      "letter-spacing": ".14em"
+    },
+    "cls-256": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-257": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-258": {
+      "letter-spacing": ".13em"
+    },
+    "cls-259": {
+      "letter-spacing": ".17em"
+    },
+    "cls-260": {
+      "letter-spacing": ".13em"
+    },
+    "cls-261": {
+      "letter-spacing": ".13em"
+    },
+    "cls-262": {
+      "letter-spacing": ".12em"
+    },
+    "cls-263": {
+      "letter-spacing": ".16em"
+    },
+    "cls-264": {
+      "letter-spacing": ".15em"
+    },
+    "cls-265": {
+      "clip-path": "url(#clippath-11)"
+    },
+    "cls-266": {
+      "letter-spacing": ".15em"
+    },
+    "cls-267": {
+      "letter-spacing": ".17em"
+    },
+    "cls-268": {
+      "letter-spacing": ".08em"
+    },
+    "cls-269": {
+      "letter-spacing": ".01em"
+    },
+    "cls-270": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-271": {
+      "letter-spacing": ".29em"
+    },
+    "cls-272": {
+      "letter-spacing": ".14em"
+    },
+    "cls-273": {
+      "letter-spacing": ".2em"
+    },
+    "cls-274": {
+      "letter-spacing": ".13em"
+    },
+    "cls-275": {
+      "fill": "url(#linear-gradient-4)"
+    },
+    "cls-276": {
+      "letter-spacing": ".03em"
+    },
+    "cls-277": {
+      "letter-spacing": "0em"
+    },
+    "cls-278": {
+      "letter-spacing": ".16em"
+    },
+    "cls-279": {
+      "letter-spacing": ".17em"
+    },
+    "cls-280": {
+      "letter-spacing": ".12em"
+    },
+    "cls-281": {
+      "letter-spacing": ".03em"
+    },
+    "cls-282": {
+      "letter-spacing": ".08em"
+    },
+    "cls-283": {
+      "letter-spacing": ".16em"
+    },
+    "cls-284": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-285": {
+      "letter-spacing": ".17em"
+    },
+    "cls-286": {
+      "letter-spacing": ".17em"
+    },
+    "cls-287": {
+      "letter-spacing": ".18em"
+    },
+    "cls-288": {
+      "letter-spacing": ".02em"
+    },
+    "cls-289": {
+      "letter-spacing": ".17em"
+    },
+    "cls-290": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-291": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-292": {
+      "letter-spacing": ".16em"
+    },
+    "cls-293": {
+      "letter-spacing": ".14em"
+    },
+    "cls-294": {
+      "letter-spacing": ".03em"
+    },
+    "cls-295": {
+      "letter-spacing": ".16em"
+    },
+    "cls-296": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-297": {
+      "letter-spacing": ".12em"
+    },
+    "cls-298": {
+      "letter-spacing": ".03em"
+    },
+    "cls-299": {
+      "letter-spacing": ".11em"
+    },
+    "cls-300": {
+      "letter-spacing": ".03em"
+    },
+    "cls-301": {
+      "letter-spacing": ".12em"
+    },
+    "cls-302": {
+      "letter-spacing": "0em"
+    },
+    "cls-303": {
+      "letter-spacing": ".12em"
+    },
+    "cls-304": {
+      "letter-spacing": ".29em"
+    },
+    "cls-305": {
+      "letter-spacing": ".13em"
+    },
+    "cls-306": {
+      "letter-spacing": ".29em"
+    },
+    "cls-307": {
+      "letter-spacing": ".17em"
+    },
+    "cls-308": {
+      "letter-spacing": ".11em"
+    },
+    "cls-309": {
+      "letter-spacing": ".16em"
+    },
+    "cls-310": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-311": {
+      "letter-spacing": "0em"
+    },
+    "cls-312": {
+      "letter-spacing": ".16em"
+    },
+    "cls-313": {
+      "letter-spacing": ".12em"
+    },
+    "cls-314": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-315": {
+      "letter-spacing": ".02em"
+    },
+    "cls-316": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-317": {
+      "letter-spacing": ".29em"
+    },
+    "cls-318": {
+      "letter-spacing": ".03em"
+    },
+    "cls-319": {
+      "letter-spacing": ".12em"
+    },
+    "cls-320": {
+      "letter-spacing": ".12em"
+    },
+    "cls-321": {
+      "letter-spacing": ".46em"
+    },
+    "cls-322": {
+      "letter-spacing": ".03em"
+    },
+    "cls-323": {
+      "letter-spacing": "0em"
+    },
+    "cls-324": {
+      "letter-spacing": ".17em"
+    },
+    "cls-325": {
+      "letter-spacing": "0em"
+    },
+    "cls-326": {
+      "letter-spacing": ".16em"
+    },
+    "cls-327": {
+      "letter-spacing": ".14em"
+    },
+    "cls-328": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-329": {
+      "letter-spacing": ".14em"
+    },
+    "cls-330": {
+      "letter-spacing": ".17em"
+    },
+    "cls-331": {
+      "letter-spacing": ".02em"
+    },
+    "cls-332": {
+      "letter-spacing": ".31em"
+    },
+    "cls-333": {
+      "letter-spacing": ".02em"
+    },
+    "cls-334": {
+      "letter-spacing": ".03em"
+    },
+    "cls-335": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-336": {
+      "letter-spacing": ".28em"
+    },
+    "cls-337": {
+      "letter-spacing": ".16em"
+    },
+    "cls-338": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-339": {
+      "letter-spacing": ".12em"
+    },
+    "cls-340": {
+      "letter-spacing": ".13em"
+    },
+    "cls-341": {
+      "letter-spacing": ".12em"
+    },
+    "cls-342": {
+      "clip-path": "url(#clippath-1)"
+    },
+    "cls-343": {
+      "letter-spacing": ".08em"
+    },
+    "cls-344": {
+      "letter-spacing": ".01em"
+    },
+    "cls-345": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-346": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-347": {
+      "letter-spacing": ".15em"
+    },
+    "cls-348": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-349": {
+      "letter-spacing": ".03em"
+    },
+    "cls-350": {
+      "letter-spacing": ".3em"
+    },
+    "cls-351": {
+      "letter-spacing": ".16em"
+    },
+    "cls-352": {
+      "letter-spacing": ".17em"
+    },
+    "cls-353": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-354": {
+      "letter-spacing": ".14em"
+    },
+    "cls-355": {
+      "letter-spacing": ".28em"
+    },
+    "cls-356": {
+      "letter-spacing": ".03em"
+    },
+    "cls-357": {
+      "letter-spacing": "0em"
+    },
+    "cls-358": {
+      "letter-spacing": ".13em"
+    },
+    "cls-359": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-360": {
+      "letter-spacing": ".16em"
+    },
+    "cls-361": {
+      "letter-spacing": ".16em"
+    },
+    "cls-362": {
+      "letter-spacing": ".13em"
+    },
+    "cls-363": {
+      "letter-spacing": ".13em"
+    },
+    "cls-364": {
+      "letter-spacing": ".18em"
+    },
+    "cls-365": {
+      "letter-spacing": ".04em"
+    },
+    "cls-366": {
+      "letter-spacing": ".13em"
+    },
+    "cls-367": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-368": {
+      "letter-spacing": ".27em"
+    },
+    "cls-369": {
+      "letter-spacing": ".13em"
+    },
+    "cls-370": {
+      "letter-spacing": ".02em"
+    },
+    "cls-371": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-372": {
+      "letter-spacing": ".16em"
+    },
+    "cls-373": {
+      "letter-spacing": ".16em"
+    },
+    "cls-374": {
+      "letter-spacing": ".17em"
+    },
+    "cls-375": {
+      "letter-spacing": ".28em"
+    },
+    "cls-376": {
+      "fill": "#231f20"
+    },
+    "cls-377": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-378": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-379": {
+      "letter-spacing": ".29em"
+    },
+    "cls-380": {
+      "letter-spacing": ".03em"
+    },
+    "cls-381": {
+      "letter-spacing": ".02em"
+    },
+    "cls-382": {
+      "letter-spacing": ".03em"
+    },
+    "cls-383": {
+      "letter-spacing": ".2em"
+    },
+    "cls-384": {
+      "letter-spacing": ".13em"
+    },
+    "cls-385": {
+      "letter-spacing": ".03em"
+    },
+    "cls-386": {
+      "isolation": "isolate"
+    },
+    "cls-387": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-388": {
+      "letter-spacing": ".04em"
+    },
+    "cls-389": {
+      "letter-spacing": ".09em"
+    },
+    "cls-390": {
+      "letter-spacing": ".07em"
+    },
+    "cls-391": {
+      "letter-spacing": ".15em"
+    },
+    "cls-392": {
+      "letter-spacing": "0em"
+    },
+    "cls-393": {
+      "letter-spacing": ".17em"
+    },
+    "cls-394": {
+      "letter-spacing": ".17em"
+    },
+    "cls-395": {
+      "letter-spacing": ".17em"
+    },
+    "cls-396": {
+      "letter-spacing": ".29em"
+    },
+    "cls-397": {
+      "letter-spacing": ".14em"
+    },
+    "cls-398": {
+      "clip-path": "url(#clippath-5)"
+    },
+    "cls-399": {
+      "letter-spacing": ".13em"
+    },
+    "cls-400": {
+      "clip-path": "url(#clippath-20)"
+    },
+    "cls-401": {
+      "letter-spacing": ".13em"
+    },
+    "cls-402": {
+      "letter-spacing": ".13em"
+    },
+    "cls-403": {
+      "letter-spacing": ".11em"
+    },
+    "cls-404": {
+      "letter-spacing": ".15em"
+    },
+    "cls-405": {
+      "letter-spacing": ".17em"
+    },
+    "cls-406": {
+      "letter-spacing": ".05em"
+    },
+    "cls-407": {
+      "clip-path": "url(#clippath-8)"
+    },
+    "cls-408": {
+      "letter-spacing": ".29em"
+    },
+    "cls-409": {
+      "letter-spacing": "0em"
+    },
+    "cls-410": {
+      "letter-spacing": ".03em"
+    },
+    "cls-411": {
+      "letter-spacing": ".12em"
+    },
+    "cls-412": {
+      "letter-spacing": ".16em"
+    },
+    "cls-413": {
+      "letter-spacing": ".03em"
+    },
+    "cls-414": {
+      "letter-spacing": ".02em"
+    },
+    "cls-415": {
+      "letter-spacing": ".03em"
+    },
+    "cls-416": {
+      "letter-spacing": ".17em"
+    },
+    "cls-417": {
+      "letter-spacing": ".14em"
+    },
+    "cls-418": {
+      "letter-spacing": ".15em"
+    },
+    "cls-419": {
+      "letter-spacing": ".16em"
+    },
+    "cls-420": {
+      "letter-spacing": ".14em"
+    },
+    "cls-421": {
+      "letter-spacing": ".17em"
+    },
+    "cls-422": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-423": {
+      "letter-spacing": ".28em"
+    },
+    "cls-424": {
+      "letter-spacing": ".17em"
+    },
+    "cls-425": {
+      "letter-spacing": ".13em"
+    },
+    "cls-426": {
+      "letter-spacing": ".1em"
+    },
+    "cls-427": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-428": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-429": {
+      "letter-spacing": ".17em"
+    },
+    "cls-430": {
+      "letter-spacing": ".29em"
+    },
+    "cls-431": {
+      "letter-spacing": ".12em"
+    },
+    "cls-432": {
+      "letter-spacing": ".17em"
+    },
+    "cls-433": {
+      "letter-spacing": "0em"
+    },
+    "cls-434": {
+      "letter-spacing": "0em"
+    },
+    "cls-435": {
+      "letter-spacing": ".13em"
+    },
+    "cls-436": {
+      "letter-spacing": ".16em"
+    },
+    "cls-437": {
+      "letter-spacing": ".17em"
+    },
+    "cls-438": {
+      "letter-spacing": ".14em"
+    },
+    "cls-439": {
+      "letter-spacing": ".15em"
+    },
+    "cls-440": {
+      "letter-spacing": ".08em"
+    },
+    "cls-441": {
+      "letter-spacing": ".16em"
+    },
+    "cls-442": {
+      "letter-spacing": ".17em"
+    },
+    "cls-443": {
+      "letter-spacing": ".12em"
+    },
+    "cls-444": {
+      "letter-spacing": ".17em"
+    },
+    "cls-445": {
+      "letter-spacing": ".15em"
+    },
+    "cls-446": {
+      "clip-path": "url(#clippath-3)"
+    },
+    "cls-447": {
+      "letter-spacing": ".13em"
+    },
+    "cls-448": {
+      "letter-spacing": "0em"
+    },
+    "cls-449": {
+      "letter-spacing": ".17em"
+    },
+    "cls-450": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-451": {
+      "letter-spacing": ".17em"
+    },
+    "cls-452": {
+      "letter-spacing": "0em"
+    },
+    "cls-453": {
+      "letter-spacing": ".12em"
+    },
+    "cls-454": {
+      "letter-spacing": ".13em"
+    },
+    "cls-455": {
+      "letter-spacing": ".12em"
+    },
+    "cls-456": {
+      "letter-spacing": ".17em"
+    },
+    "cls-457": {
+      "letter-spacing": ".01em"
+    },
+    "cls-458": {
+      "letter-spacing": ".17em"
+    },
+    "cls-459": {
+      "letter-spacing": ".17em"
+    },
+    "cls-460": {
+      "letter-spacing": ".13em"
+    },
+    "cls-461": {
+      "letter-spacing": ".14em"
+    },
+    "cls-462": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-463": {
+      "letter-spacing": ".07em"
+    },
+    "cls-464": {
+      "letter-spacing": ".03em"
+    },
+    "cls-465": {
+      "letter-spacing": ".09em"
+    },
+    "cls-466": {
+      "letter-spacing": ".11em"
+    },
+    "cls-467": {
+      "letter-spacing": ".03em"
+    },
+    "cls-468": {
+      "letter-spacing": ".13em"
+    },
+    "cls-469": {
+      "letter-spacing": ".12em"
+    },
+    "cls-470": {
+      "letter-spacing": "0em"
+    },
+    "cls-471": {
+      "letter-spacing": ".12em"
+    },
+    "cls-472": {
+      "letter-spacing": ".11em"
+    },
+    "cls-473": {
+      "letter-spacing": ".3em"
+    },
+    "cls-474": {
+      "letter-spacing": ".17em"
+    },
+    "cls-475": {
+      "letter-spacing": ".13em"
+    },
+    "cls-476": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-477": {
+      "letter-spacing": ".17em"
+    },
+    "cls-478": {
+      "letter-spacing": ".12em"
+    },
+    "cls-479": {
+      "letter-spacing": ".04em"
+    },
+    "cls-480": {
+      "clip-path": "url(#clippath-12)"
+    },
+    "cls-481": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-482": {
+      "letter-spacing": ".02em"
+    },
+    "cls-483": {
+      "letter-spacing": ".13em"
+    },
+    "cls-484": {
+      "letter-spacing": ".17em"
+    },
+    "cls-485": {
+      "letter-spacing": ".02em"
+    },
+    "cls-486": {
+      "letter-spacing": ".27em"
+    },
+    "cls-487": {
+      "letter-spacing": ".17em"
+    },
+    "cls-488": {
+      "letter-spacing": ".13em"
+    },
+    "cls-489": {
+      "letter-spacing": ".13em"
+    },
+    "cls-490": {
+      "letter-spacing": "0em"
+    },
+    "cls-491": {
+      "letter-spacing": ".04em"
+    },
+    "cls-492": {
+      "letter-spacing": ".12em"
+    },
+    "cls-493": {
+      "letter-spacing": ".12em"
+    },
+    "cls-494": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-495": {
+      "letter-spacing": ".03em"
+    },
+    "cls-496": {
+      "clip-path": "url(#clippath-14)"
+    },
+    "cls-497": {
+      "letter-spacing": ".13em"
+    },
+    "cls-498": {
+      "letter-spacing": ".13em"
+    },
+    "cls-499": {
+      "letter-spacing": ".14em"
+    },
+    "cls-500": {
+      "letter-spacing": ".03em"
+    },
+    "cls-501": {
+      "letter-spacing": ".15em"
+    },
+    "cls-502": {
+      "letter-spacing": ".17em"
+    },
+    "cls-503": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-504": {
+      "letter-spacing": ".27em"
+    },
+    "cls-505": {
+      "letter-spacing": ".13em"
+    },
+    "cls-506": {
+      "letter-spacing": "0em"
+    },
+    "cls-507": {
+      "letter-spacing": ".13em"
+    },
+    "cls-508": {
+      "letter-spacing": ".26em"
+    },
+    "cls-509": {
+      "letter-spacing": ".13em"
+    },
+    "cls-510": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-511": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-512": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-513": {
+      "letter-spacing": ".17em"
+    },
+    "cls-514": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-515": {
+      "letter-spacing": ".17em"
+    },
+    "cls-516": {
+      "letter-spacing": ".11em"
+    },
+    "cls-517": {
+      "letter-spacing": ".16em"
+    },
+    "cls-518": {
+      "letter-spacing": ".16em"
+    },
+    "cls-519": {
+      "letter-spacing": ".02em"
+    },
+    "cls-520": {
+      "letter-spacing": ".17em"
+    },
+    "cls-521": {
+      "letter-spacing": ".02em"
+    },
+    "cls-522": {
+      "letter-spacing": ".03em"
+    },
+    "cls-523": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-524": {
+      "letter-spacing": ".1em"
+    },
+    "cls-525": {
+      "letter-spacing": "0em"
+    },
+    "cls-526": {
+      "letter-spacing": ".16em"
+    },
+    "cls-527": {
+      "letter-spacing": "-.12em"
+    },
+    "cls-528": {
+      "clip-path": "url(#clippath-19)"
+    },
+    "cls-529": {
+      "letter-spacing": ".16em"
+    },
+    "cls-530": {
+      "letter-spacing": ".17em"
+    },
+    "cls-531": {
+      "letter-spacing": ".16em"
+    },
+    "cls-532": {
+      "letter-spacing": ".03em"
+    },
+    "cls-533": {
+      "letter-spacing": ".17em"
+    },
+    "cls-534": {
+      "letter-spacing": "0em"
+    },
+    "cls-535": {
+      "letter-spacing": ".15em"
+    },
+    "cls-536": {
+      "letter-spacing": ".08em"
+    },
+    "cls-537": {
+      "letter-spacing": ".18em"
+    },
+    "cls-538": {
+      "letter-spacing": ".13em"
+    },
+    "cls-539": {
+      "letter-spacing": ".14em"
+    },
+    "cls-540": {
+      "letter-spacing": ".13em"
+    },
+    "cls-541": {
+      "letter-spacing": "-.1em"
+    },
+    "cls-542": {
+      "fill": "#e3d0bc"
+    },
+    "cls-543": {
+      "letter-spacing": ".13em"
+    },
+    "cls-544": {
+      "letter-spacing": ".17em"
+    },
+    "cls-545": {
+      "letter-spacing": ".03em"
+    },
+    "cls-546": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-547": {
+      "letter-spacing": ".12em"
+    },
+    "cls-548": {
+      "letter-spacing": ".12em"
+    },
+    "cls-549": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-550": {
+      "letter-spacing": ".08em"
+    },
+    "cls-551": {
+      "letter-spacing": ".14em"
+    },
+    "cls-552": {
+      "letter-spacing": ".29em"
+    },
+    "cls-553": {
+      "letter-spacing": ".17em"
+    },
+    "cls-554": {
+      "letter-spacing": ".18em"
+    },
+    "cls-555": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-556": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-557": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-558": {
+      "letter-spacing": ".17em"
+    },
+    "cls-559": {
+      "letter-spacing": ".03em"
+    },
+    "cls-560": {
+      "letter-spacing": ".07em"
+    },
+    "cls-561": {
+      "letter-spacing": ".03em"
+    },
+    "cls-562": {
+      "letter-spacing": ".12em"
+    },
+    "cls-563": {
+      "letter-spacing": ".03em"
+    },
+    "cls-564": {
+      "letter-spacing": "0em"
+    },
+    "cls-565": {
+      "letter-spacing": "0em"
+    },
+    "cls-566": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-567": {
+      "letter-spacing": ".17em"
+    },
+    "cls-568": {
+      "letter-spacing": "-.15em"
+    },
+    "cls-569": {
+      "letter-spacing": ".07em"
+    },
+    "cls-570": {
+      "letter-spacing": ".16em"
+    },
+    "cls-571": {
+      "letter-spacing": ".03em"
+    },
+    "cls-572": {
+      "fill": "#8c9789"
+    },
+    "cls-573": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-574": {
+      "letter-spacing": ".12em"
+    },
+    "cls-575": {
+      "letter-spacing": ".16em"
+    },
+    "cls-576": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-577": {
+      "letter-spacing": ".11em"
+    },
+    "cls-578": {
+      "fill": "#666",
+      "font-size": "39.44px"
+    },
+    "cls-579": {
+      "letter-spacing": ".3em"
+    },
+    "cls-580": {
+      "letter-spacing": ".13em"
+    },
+    "cls-581": {
+      "letter-spacing": ".13em"
+    },
+    "cls-582": {
+      "letter-spacing": ".12em"
+    },
+    "cls-583": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-584": {
+      "letter-spacing": ".12em"
+    },
+    "cls-585": {
+      "letter-spacing": ".03em"
+    },
+    "cls-586": {
+      "letter-spacing": ".02em"
+    },
+    "cls-587": {
+      "letter-spacing": ".13em"
+    },
+    "cls-588": {
+      "letter-spacing": ".18em"
+    },
+    "cls-589": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-590": {
+      "letter-spacing": ".03em"
+    },
+    "cls-591": {
+      "letter-spacing": ".29em"
+    },
+    "cls-592": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-593": {
+      "letter-spacing": ".13em"
+    },
+    "cls-594": {
+      "letter-spacing": ".16em"
+    },
+    "cls-595": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-596": {
+      "letter-spacing": ".11em"
+    },
+    "cls-597": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-598": {
+      "letter-spacing": ".03em"
+    },
+    "cls-599": {
+      "letter-spacing": ".29em"
+    },
+    "cls-600": {
+      "fill": "#393939"
+    },
+    "cls-601": {
+      "letter-spacing": ".03em"
+    },
+    "cls-602": {
+      "letter-spacing": ".02em"
+    },
+    "cls-603": {
+      "letter-spacing": ".01em"
+    },
+    "cls-604": {
+      "letter-spacing": ".28em"
+    },
+    "cls-605": {
+      "letter-spacing": ".29em"
+    },
+    "cls-606": {
+      "letter-spacing": ".17em"
+    },
+    "cls-607": {
+      "letter-spacing": ".13em"
+    },
+    "cls-608": {
+      "fill": "#4d9bd6"
+    },
+    "cls-609": {
+      "letter-spacing": ".16em"
+    },
+    "cls-610": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-611": {
+      "letter-spacing": ".02em"
+    },
+    "cls-612": {
+      "letter-spacing": ".16em"
+    },
+    "cls-613": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-614": {
+      "letter-spacing": ".16em"
+    },
+    "cls-615": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-616": {
+      "letter-spacing": ".17em"
+    },
+    "cls-617": {
+      "letter-spacing": ".16em"
+    },
+    "cls-618": {
+      "letter-spacing": ".16em"
+    },
+    "cls-619": {
+      "letter-spacing": ".04em"
+    },
+    "cls-620": {
+      "letter-spacing": ".16em"
+    },
+    "cls-621": {
+      "letter-spacing": ".17em"
+    },
+    "cls-622": {
+      "letter-spacing": ".15em"
+    },
+    "cls-623": {
+      "letter-spacing": ".03em"
+    },
+    "cls-624": {
+      "letter-spacing": ".29em"
+    },
+    "cls-625": {
+      "letter-spacing": ".11em"
+    },
+    "cls-626": {
+      "letter-spacing": ".04em"
+    },
+    "cls-627": {
+      "letter-spacing": ".13em"
+    },
+    "cls-628": {
+      "fill": "#b3b3b3"
+    },
+    "cls-629": {
+      "letter-spacing": ".17em"
+    },
+    "cls-630": {
+      "letter-spacing": ".15em"
+    },
+    "cls-631": {
+      "letter-spacing": ".29em"
+    },
+    "cls-632": {
+      "letter-spacing": ".03em"
+    },
+    "cls-633": {
+      "letter-spacing": "0em"
+    },
+    "cls-634": {
+      "letter-spacing": ".15em"
+    },
+    "cls-635": {
+      "letter-spacing": ".11em"
+    },
+    "cls-636": {
+      "letter-spacing": ".04em"
+    },
+    "cls-637": {
+      "letter-spacing": ".02em"
+    },
+    "cls-638": {
+      "letter-spacing": ".14em"
+    },
+    "cls-639": {
+      "letter-spacing": ".1em"
+    },
+    "cls-640": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-641": {
+      "letter-spacing": ".06em"
+    },
+    "cls-642": {
+      "letter-spacing": ".1em"
+    },
+    "cls-643": {
+      "letter-spacing": ".13em"
+    },
+    "cls-644": {
+      "letter-spacing": ".18em"
+    },
+    "cls-645": {
+      "letter-spacing": ".13em"
+    },
+    "cls-646": {
+      "letter-spacing": ".13em"
+    },
+    "cls-647": {
+      "letter-spacing": ".2em"
+    },
+    "cls-648": {
+      "letter-spacing": ".13em"
+    },
+    "cls-649": {
+      "letter-spacing": ".19em"
+    },
+    "cls-650": {
+      "letter-spacing": ".17em"
+    },
+    "cls-651": {
+      "letter-spacing": ".16em"
+    },
+    "cls-652": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-653": {
+      "letter-spacing": ".12em"
+    },
+    "cls-654": {
+      "letter-spacing": ".2em"
+    },
+    "cls-655": {
+      "letter-spacing": ".3em"
+    },
+    "cls-656": {
+      "letter-spacing": ".03em"
+    },
+    "cls-657": {
+      "letter-spacing": ".13em"
+    },
+    "cls-658": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-659": {
+      "letter-spacing": ".03em"
+    },
+    "cls-660": {
+      "letter-spacing": ".08em"
+    },
+    "cls-661": {
+      "letter-spacing": ".03em"
+    },
+    "cls-662": {
+      "letter-spacing": ".17em"
+    },
+    "cls-663": {
+      "letter-spacing": ".15em"
+    },
+    "cls-664": {
+      "letter-spacing": ".04em"
+    },
+    "cls-665": {
+      "letter-spacing": ".14em"
+    },
+    "cls-666": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-667": {
+      "letter-spacing": ".03em"
+    },
+    "cls-668": {
+      "letter-spacing": ".29em"
+    },
+    "cls-669": {
+      "clip-path": "url(#clippath-16)"
+    },
+    "cls-670": {
+      "letter-spacing": ".02em"
+    },
+    "cls-671": {
+      "letter-spacing": ".14em"
+    },
+    "cls-672": {
+      "clip-path": "url(#clippath-2)"
+    },
+    "cls-673": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-674": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-675": {
+      "letter-spacing": ".29em"
+    },
+    "cls-676": {
+      "letter-spacing": ".04em"
+    },
+    "cls-677": {
+      "letter-spacing": ".17em"
+    },
+    "cls-678": {
+      "letter-spacing": ".07em"
+    },
+    "cls-679": {
+      "letter-spacing": ".04em"
+    },
+    "cls-680": {
+      "letter-spacing": ".13em"
+    },
+    "cls-681": {
+      "letter-spacing": ".11em"
+    },
+    "cls-682": {
+      "letter-spacing": ".03em"
+    },
+    "cls-683": {
+      "letter-spacing": ".04em"
+    },
+    "cls-684": {
+      "letter-spacing": ".12em"
+    },
+    "cls-685": {
+      "letter-spacing": ".13em"
+    },
+    "cls-686": {
+      "letter-spacing": ".17em"
+    },
+    "cls-687": {
+      "letter-spacing": ".03em"
+    },
+    "cls-688": {
+      "letter-spacing": ".12em"
+    },
+    "cls-689": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-690": {
+      "letter-spacing": ".14em"
+    },
+    "cls-691": {
+      "letter-spacing": ".16em"
+    },
+    "cls-692": {
+      "letter-spacing": ".13em"
+    },
+    "cls-693": {
+      "letter-spacing": ".16em"
+    },
+    "cls-694": {
+      "letter-spacing": "0em"
+    },
+    "cls-695": {
+      "letter-spacing": ".06em"
+    },
+    "cls-696": {
+      "letter-spacing": ".16em"
+    },
+    "cls-697": {
+      "letter-spacing": ".13em"
+    },
+    "cls-698": {
+      "letter-spacing": ".14em"
+    },
+    "cls-699": {
+      "clip-path": "url(#clippath-13)"
+    },
+    "cls-700": {
+      "letter-spacing": ".12em"
+    },
+    "cls-701": {
+      "letter-spacing": "0em"
+    },
+    "cls-702": {
+      "letter-spacing": ".14em"
+    },
+    "cls-703": {
+      "letter-spacing": ".02em"
+    },
+    "cls-704": {
+      "letter-spacing": ".29em"
+    },
+    "cls-705": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-706": {
+      "letter-spacing": ".28em"
+    },
+    "cls-707": {
+      "letter-spacing": ".13em"
+    },
+    "cls-708": {
+      "letter-spacing": ".13em"
+    },
+    "cls-709": {
+      "letter-spacing": ".18em"
+    },
+    "cls-710": {
+      "letter-spacing": ".46em"
+    },
+    "cls-711": {
+      "letter-spacing": ".13em"
+    },
+    "cls-712": {
+      "letter-spacing": ".15em"
+    },
+    "cls-713": {
+      "letter-spacing": "0em"
+    },
+    "cls-714": {
+      "letter-spacing": ".06em"
+    },
+    "cls-715": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-716": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-717": {
+      "letter-spacing": ".03em"
+    },
+    "cls-718": {
+      "letter-spacing": ".17em"
+    },
+    "cls-719": {
+      "letter-spacing": ".12em"
+    },
+    "cls-720": {
+      "letter-spacing": ".11em"
+    },
+    "cls-721": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-722": {
+      "letter-spacing": ".18em"
+    },
+    "cls-723": {
+      "letter-spacing": "0em"
+    },
+    "cls-724": {
+      "letter-spacing": ".17em"
+    },
+    "cls-725": {
+      "letter-spacing": ".17em"
+    },
+    "cls-726": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-727": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-728": {
+      "letter-spacing": ".14em"
+    },
+    "cls-729": {
+      "letter-spacing": ".16em"
+    },
+    "cls-730": {
+      "letter-spacing": ".28em"
+    },
+    "cls-731": {
+      "letter-spacing": ".15em"
+    },
+    "cls-732": {
+      "letter-spacing": "0em"
+    },
+    "cls-733": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-734": {
+      "letter-spacing": ".17em"
+    },
+    "cls-735": {
+      "letter-spacing": ".11em"
+    },
+    "cls-736": {
+      "letter-spacing": ".17em"
+    },
+    "cls-737": {
+      "clip-path": "url(#clippath)"
+    },
+    "cls-738": {
+      "letter-spacing": ".17em"
+    },
+    "cls-739": {
+      "letter-spacing": ".12em"
+    },
+    "cls-740": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-741": {
+      "letter-spacing": ".18em"
+    },
+    "cls-742": {
+      "letter-spacing": ".13em"
+    },
+    "cls-743": {
+      "letter-spacing": "0em"
+    },
+    "cls-744": {
+      "letter-spacing": ".12em"
+    },
+    "cls-745": {
+      "letter-spacing": ".14em"
+    },
+    "cls-746": {
+      "letter-spacing": ".16em"
+    },
+    "cls-747": {
+      "letter-spacing": ".01em"
+    },
+    "cls-748": {
+      "letter-spacing": ".16em"
+    },
+    "cls-749": {
+      "letter-spacing": "0em"
+    },
+    "cls-750": {
+      "letter-spacing": ".17em"
+    },
+    "cls-751": {
+      "letter-spacing": ".1em"
+    },
+    "cls-752": {
+      "letter-spacing": ".02em"
+    },
+    "cls-753": {
+      "letter-spacing": ".29em"
+    },
+    "cls-754": {
+      "letter-spacing": ".12em"
+    },
+    "cls-755": {
+      "letter-spacing": ".13em"
+    },
+    "cls-756": {
+      "letter-spacing": ".11em"
+    },
+    "cls-757": {
+      "letter-spacing": ".17em"
+    },
+    "cls-758": {
+      "letter-spacing": ".12em"
+    },
+    "cls-759": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-760": {
+      "letter-spacing": ".13em"
+    },
+    "cls-761": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-762": {
+      "letter-spacing": "0em"
+    },
+    "cls-763": {
+      "letter-spacing": ".11em"
+    },
+    "cls-764": {
+      "letter-spacing": ".13em"
+    },
+    "cls-765": {
+      "letter-spacing": ".17em"
+    },
+    "cls-766": {
+      "letter-spacing": ".05em"
+    },
+    "cls-767": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-768": {
+      "letter-spacing": ".03em"
+    },
+    "cls-769": {
+      "letter-spacing": ".12em"
+    },
+    "cls-770": {
+      "letter-spacing": ".17em"
+    },
+    "cls-771": {
+      "letter-spacing": ".14em"
+    },
+    "cls-772": {
+      "letter-spacing": ".13em"
+    },
+    "cls-773": {
+      "letter-spacing": ".16em"
+    },
+    "cls-774": {
+      "letter-spacing": ".14em"
+    },
+    "cls-775": {
+      "letter-spacing": ".11em"
+    },
+    "cls-776": {
+      "letter-spacing": ".13em"
+    },
+    "cls-777": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-778": {
+      "letter-spacing": ".18em"
+    }
+  },
+  "colors": [
+    "#87402b",
+    "#fff",
+    "#134d80",
+    "url(#linear-gradient-2)",
+    "url(#linear-gradient-3)",
+    "url(#linear-gradient-5)",
+    "#384920",
+    "url(#linear-gradient)",
+    "url(#linear-gradient-6)",
+    "none",
+    "#393939",
+    "#c0833e",
+    "url(#linear-gradient-4)",
+    "#231f20",
+    "#e3d0bc",
+    "#8c9789",
+    "#666",
+    "#4d9bd6",
+    "#b3b3b3"
+  ],
+  "texts": [
+    {
+      "x": 1819.574,
+      "y": 975.2899,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "86.22px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-24"
+      ],
+      "text": [
+        "[F",
+        "r",
+        "om start",
+        "t",
+        "o finish]"
+      ]
+    },
+    {
+      "x": 1057.2688,
+      "y": 3599.8301,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "26px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-35"
+      ],
+      "text": [
+        "W",
+        "he",
+        "r",
+        "e",
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n",
+        "m",
+        "e",
+        "e",
+        "t",
+        "s",
+        "p",
+        "e",
+        "r",
+        "f",
+        "o",
+        "r",
+        "ma",
+        "nc",
+        "e",
+        ".",
+        "A",
+        "w",
+        "e",
+        "l",
+        "l",
+        "-",
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n",
+        "e",
+        "d",
+        "r",
+        "u",
+        "g",
+        "d",
+        "o",
+        "e",
+        "s",
+        "m",
+        "o",
+        "r",
+        "e",
+        "t",
+        "h",
+        "a",
+        "n",
+        "d",
+        "e",
+        "f",
+        "i",
+        "n",
+        "e a",
+        "f",
+        "l",
+        "o",
+        "o",
+        "r —",
+        "i",
+        "t",
+        "d",
+        "e",
+        "f",
+        "i",
+        "n",
+        "e",
+        "s",
+        "h",
+        "o",
+        "w a",
+        "s",
+        "p",
+        "ac",
+        "e",
+        "p",
+        "e",
+        "r",
+        "f",
+        "o",
+        "r",
+        "m",
+        "s",
+        ".",
+        "C",
+        "B",
+        "HA",
+        "L",
+        "I",
+        "C",
+        "o",
+        "n",
+        "t",
+        "r",
+        "a",
+        "c",
+        "t",
+        "d",
+        "e",
+        "v",
+        "e",
+        "l",
+        "o",
+        "p",
+        "s",
+        "b",
+        "e",
+        "s",
+        "p",
+        "o",
+        "k",
+        "e",
+        "t",
+        "e",
+        "x",
+        "t",
+        "i",
+        "l",
+        "e",
+        "s",
+        "o",
+        "l",
+        "u",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s",
+        "f",
+        "o",
+        "r",
+        "h",
+        "o",
+        "s",
+        "p",
+        "i",
+        "t",
+        "a",
+        "l",
+        "i",
+        "t",
+        "y",
+        ",",
+        "r",
+        "e",
+        "s",
+        "i",
+        "d",
+        "e",
+        "n",
+        "t",
+        "i",
+        "a",
+        "l",
+        ",",
+        "r",
+        "e",
+        "t",
+        "a",
+        "i",
+        "l",
+        "a",
+        "n",
+        "d",
+        "c",
+        "o",
+        "r",
+        "p",
+        "o",
+        "r",
+        "a",
+        "t",
+        "e",
+        "p",
+        "r",
+        "o",
+        "j",
+        "e",
+        "c",
+        "t",
+        "s",
+        ".",
+        "W",
+        "e",
+        "c",
+        "o",
+        "l",
+        "l",
+        "a",
+        "b",
+        "o",
+        "r",
+        "a",
+        "t",
+        "e",
+        "c",
+        "l",
+        "o",
+        "s",
+        "e",
+        "l",
+        "y",
+        "w",
+        "i",
+        "t",
+        "h",
+        "a",
+        "r",
+        "c",
+        "h",
+        "i",
+        "t",
+        "e",
+        "c",
+        "t",
+        "s",
+        "a",
+        "n",
+        "d",
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "ne",
+        "r",
+        "s",
+        "t",
+        "o",
+        "t",
+        "r",
+        "a",
+        "n",
+        "s",
+        "l",
+        "a",
+        "t",
+        "e",
+        "s",
+        "p",
+        "a",
+        "t",
+        "i",
+        "a",
+        "l",
+        "i",
+        "n",
+        "t",
+        "e",
+        "n",
+        "t",
+        "i",
+        "n",
+        "t",
+        "o",
+        "m",
+        "a",
+        "t",
+        "e",
+        "r",
+        "i",
+        "a",
+        "l",
+        ",",
+        "s",
+        "c",
+        "a",
+        "l",
+        "e",
+        "a",
+        "n",
+        "d",
+        "s",
+        "t",
+        "r",
+        "u",
+        "c",
+        "t",
+        "u",
+        "r",
+        "e —",
+        "c",
+        "r",
+        "e",
+        "a",
+        "t",
+        "i",
+        "n",
+        "g",
+        "p",
+        "i",
+        "e",
+        "c",
+        "e",
+        "s",
+        "t",
+        "h",
+        "a",
+        "t",
+        "a",
+        "r",
+        "e",
+        "n",
+        "o",
+        "t",
+        "d",
+        "e",
+        "c",
+        "o",
+        "r",
+        "a",
+        "t",
+        "i",
+        "v",
+        "e",
+        ",",
+        "b",
+        "u",
+        "t",
+        "s",
+        "t",
+        "r",
+        "a",
+        "t",
+        "e",
+        "g",
+        "i",
+        "c",
+        ".",
+        "F",
+        "r",
+        "o",
+        "m",
+        "h",
+        "o",
+        "t",
+        "e",
+        "l",
+        "l",
+        "o",
+        "b",
+        "b",
+        "i",
+        "e",
+        "s",
+        "t",
+        "o",
+        "b",
+        "o",
+        "u",
+        "t",
+        "i",
+        "q",
+        "u",
+        "e",
+        "w",
+        "o",
+        "r",
+        "k",
+        "s",
+        "p",
+        "ac",
+        "e",
+        "s",
+        "a",
+        "n",
+        "d",
+        "h",
+        "i",
+        "g",
+        "h",
+        "-",
+        "en",
+        "d",
+        "s",
+        "h",
+        "o",
+        "r",
+        "t",
+        "-",
+        "t",
+        "e",
+        "r",
+        "m",
+        "r",
+        "e",
+        "s",
+        "i",
+        "d",
+        "e",
+        "n",
+        "t",
+        "i",
+        "a",
+        "l",
+        "d",
+        "e",
+        "v",
+        "e",
+        "l",
+        "o",
+        "p",
+        "m",
+        "e",
+        "n",
+        "t",
+        "s",
+        ",",
+        "e",
+        "a",
+        "c",
+        "h",
+        "p",
+        "r",
+        "o",
+        "j",
+        "e",
+        "c",
+        "t",
+        "i",
+        "s",
+        "a",
+        "pp",
+        "r",
+        "o",
+        "a",
+        "c",
+        "h",
+        "e",
+        "d",
+        "w",
+        "i",
+        "t",
+        "h",
+        "p",
+        "r",
+        "e",
+        "c",
+        "i",
+        "s",
+        "i",
+        "o",
+        "n",
+        ",",
+        "t",
+        "e",
+        "c",
+        "h",
+        "n",
+        "i",
+        "c",
+        "a",
+        "l",
+        "u",
+        "n",
+        "d",
+        "e",
+        "r",
+        "s",
+        "t",
+        "a",
+        "n",
+        "d",
+        "i",
+        "n",
+        "g",
+        "a",
+        "n",
+        "d a",
+        "d",
+        "e",
+        "e",
+        "p",
+        "r",
+        "e",
+        "s",
+        "pe",
+        "c",
+        "t",
+        "f",
+        "o",
+        "r",
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n",
+        "i",
+        "n",
+        "t",
+        "e",
+        "g",
+        "r",
+        "i",
+        "t",
+        "y",
+        "."
+      ]
+    },
+    {
+      "x": 1778.7957,
+      "y": 5934.8334,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": null,
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [],
+      "text": [
+        "<tspan class=\"cls-521\" x=\"0\" y=\"0\">01 — St",
+        "r",
+        "a",
+        "t",
+        "e",
+        "gic Consultation/tspan<tspan class=\"cls-178\" x=\"0\" y=\"66.26\">E",
+        "v",
+        "e",
+        "r",
+        "y",
+        "p",
+        "r",
+        "o",
+        "j",
+        "e",
+        "c",
+        "t",
+        "b",
+        "e",
+        "g",
+        "i",
+        "n",
+        "s",
+        "w",
+        "i",
+        "t",
+        "h",
+        "a",
+        "l",
+        "i",
+        "g",
+        "n",
+        "m",
+        "e",
+        "n",
+        "t",
+        ".",
+        "W",
+        "e",
+        "r",
+        "e",
+        "v",
+        "i",
+        "e",
+        "w",
+        "t",
+        "h",
+        "e /tspan<tspan class=\"cls-132\" x=\"0\" y=\"99.39\">s",
+        "p",
+        "a",
+        "t",
+        "i",
+        "a",
+        "l",
+        "c",
+        "o",
+        "nce",
+        "p",
+        "t",
+        ",",
+        "p",
+        "e",
+        "r",
+        "f",
+        "o",
+        "r",
+        "ma",
+        "nc",
+        "e",
+        "r",
+        "e",
+        "q",
+        "u",
+        "i",
+        "r",
+        "e",
+        "m",
+        "e",
+        "n",
+        "t",
+        "s",
+        "a",
+        "n",
+        "d",
+        "a",
+        "e",
+        "s",
+        "t",
+        "h",
+        "e",
+        "t",
+        "i",
+        "c /tspan<tspan class=\"cls-526\" x=\"0\" y=\"132.53\">d",
+        "i",
+        "r",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "t",
+        "o",
+        "e",
+        "s",
+        "t",
+        "a",
+        "b",
+        "l",
+        "i",
+        "s",
+        "h a",
+        "c",
+        "l",
+        "e",
+        "a",
+        "r",
+        "f",
+        "r",
+        "a",
+        "m",
+        "e",
+        "w",
+        "o",
+        "r",
+        "k",
+        "./tspan<tspan class=\"cls-104\" x=\"0\" y=\"229.33\">0",
+        "2 — Con",
+        "c",
+        "e",
+        "p",
+        "t D",
+        "e",
+        "v",
+        "e",
+        "l",
+        "o",
+        "pment/tspan<tspan class=\"cls-211\" x=\"0\" y=\"295.59\">S",
+        "c",
+        "a",
+        "l",
+        "e",
+        ",",
+        "p",
+        "a",
+        "t",
+        "t",
+        "e",
+        "r",
+        "n",
+        ",",
+        "c",
+        "o",
+        "l",
+        "o",
+        "r",
+        "a",
+        "n",
+        "d",
+        "m",
+        "a",
+        "t",
+        "e",
+        "r",
+        "i",
+        "a",
+        "l",
+        "a",
+        "r",
+        "e",
+        "r",
+        "e",
+        "f",
+        "i",
+        "n",
+        "e",
+        "d",
+        "t",
+        "o",
+        "r",
+        "e",
+        "s",
+        "p",
+        "o",
+        "n",
+        "d /tspan<tspan class=\"cls-119\" x=\"0\" y=\"328.73\">t",
+        "o",
+        "t",
+        "h",
+        "e",
+        "i",
+        "d",
+        "e",
+        "n",
+        "t",
+        "i",
+        "t",
+        "y",
+        "o",
+        "f",
+        "t",
+        "h",
+        "e",
+        "p",
+        "r",
+        "o",
+        "j",
+        "e",
+        "c",
+        "t",
+        ".",
+        "D",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n",
+        "s",
+        "m",
+        "a",
+        "y",
+        "e",
+        "v",
+        "o",
+        "l",
+        "v",
+        "e",
+        "f",
+        "r",
+        "o",
+        "m /tspan<tspan class=\"cls-444\" x=\"0\" y=\"361.86\">o",
+        "u",
+        "r",
+        "e",
+        "x",
+        "i",
+        "s",
+        "t",
+        "i",
+        "n",
+        "g",
+        "c",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s",
+        "o",
+        "r",
+        "b",
+        "e",
+        "d",
+        "e",
+        "v",
+        "e",
+        "l",
+        "o",
+        "pe",
+        "d",
+        "e",
+        "n",
+        "t",
+        "i",
+        "r",
+        "e",
+        "l",
+        "y",
+        "f",
+        "r",
+        "o",
+        "m /tspan<tspan class=\"cls-513\" x=\"0\" y=\"394.99\">s",
+        "c",
+        "r",
+        "a",
+        "t",
+        "c",
+        "h",
+        "./tspan<tspan class=\"cls-367\" x=\"0\" y=\"491.79\">0",
+        "3 —",
+        "T",
+        "e",
+        "c",
+        "hni",
+        "c",
+        "al Definition &amp; Sam",
+        "p",
+        "ling/tspan<tspan class=\"cls-698\" x=\"0\" y=\"558.06\">W",
+        "e",
+        "p",
+        "r",
+        "o",
+        "v",
+        "i",
+        "d",
+        "e a",
+        "c",
+        "o",
+        "m",
+        "p",
+        "r",
+        "ehe",
+        "n",
+        "s",
+        "i",
+        "v",
+        "e",
+        "p",
+        "r",
+        "o",
+        "p",
+        "o",
+        "s",
+        "a",
+        "l",
+        "i",
+        "n",
+        "c",
+        "l",
+        "u",
+        "d",
+        "i",
+        "n",
+        "g",
+        "v",
+        "i",
+        "s",
+        "u",
+        "a",
+        "l /tspan<tspan class=\"cls-736\" x=\"0\" y=\"591.19\">d",
+        "o",
+        "c",
+        "u",
+        "m",
+        "e",
+        "n",
+        "t",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        ",",
+        "m",
+        "a",
+        "t",
+        "e",
+        "r",
+        "i",
+        "a",
+        "l",
+        "s",
+        "pe",
+        "c",
+        "i",
+        "f",
+        "i",
+        "c",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s",
+        "a",
+        "n",
+        "d",
+        "c",
+        "u",
+        "s",
+        "t",
+        "o",
+        "m",
+        "h",
+        "a",
+        "n",
+        "d /tspan<tspan class=\"cls-232\" x=\"0\" y=\"624.32\">s",
+        "a",
+        "m",
+        "p",
+        "l",
+        "e",
+        "s",
+        "f",
+        "o",
+        "r",
+        "e",
+        "v",
+        "a",
+        "l",
+        "u",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        ".",
+        "S",
+        "a",
+        "m",
+        "p",
+        "l",
+        "i",
+        "n",
+        "g",
+        "t",
+        "y",
+        "p",
+        "i",
+        "c",
+        "a",
+        "l",
+        "l",
+        "y",
+        "r",
+        "e",
+        "q",
+        "u",
+        "i",
+        "r",
+        "e",
+        "s 3",
+        "–",
+        "4 /tspan<tspan class=\"cls-594\" x=\"0\" y=\"657.45\">w",
+        "e",
+        "e",
+        "k",
+        "s",
+        "./tspan<tspan class=\"cls-521\" x=\"0\" y=\"754.26\">04 — A",
+        "p",
+        "p",
+        "r",
+        "o",
+        "v",
+        "al &amp; P",
+        "r",
+        "o",
+        "duction/tspan<tspan class=\"cls-445\" x=\"0\" y=\"787.39\">F",
+        "o",
+        "l",
+        "l",
+        "o",
+        "w",
+        "i",
+        "n",
+        "g",
+        "a",
+        "pp",
+        "r",
+        "o",
+        "v",
+        "a",
+        "l",
+        ",",
+        "e",
+        "a",
+        "c",
+        "h",
+        "p",
+        "i",
+        "e",
+        "c",
+        "e",
+        "i",
+        "s",
+        "h",
+        "a",
+        "n",
+        "d",
+        "c",
+        "r",
+        "a",
+        "f",
+        "t",
+        "e",
+        "d",
+        "w",
+        "i",
+        "t",
+        "h /tspan<tspan class=\"cls-535\" x=\"0\" y=\"820.52\">t",
+        "e",
+        "c",
+        "h",
+        "n",
+        "i",
+        "c",
+        "a",
+        "l",
+        "p",
+        "r",
+        "e",
+        "c",
+        "i",
+        "s",
+        "i",
+        "o",
+        "n",
+        ".",
+        "P",
+        "r",
+        "o",
+        "d",
+        "u",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "t",
+        "i",
+        "m",
+        "e",
+        "l",
+        "i",
+        "n",
+        "e",
+        "s",
+        "r",
+        "a",
+        "n",
+        "g",
+        "e",
+        "b",
+        "e",
+        "t",
+        "w",
+        "e",
+        "e",
+        "n /tspan<tspan class=\"cls-663\" x=\"0\" y=\"853.65\">2",
+        "1",
+        "–",
+        "2",
+        "6",
+        "w",
+        "e",
+        "e",
+        "k",
+        "s",
+        "d",
+        "e",
+        "p",
+        "en",
+        "d",
+        "i",
+        "n",
+        "g",
+        "o",
+        "n",
+        "c",
+        "o",
+        "m",
+        "p",
+        "l",
+        "e",
+        "x",
+        "i",
+        "t",
+        "y",
+        "a",
+        "n",
+        "d",
+        "v",
+        "o",
+        "l",
+        "u",
+        "m",
+        "e",
+        "./tspan<tspan class=\"cls-521\" x=\"0\" y=\"950.46\">05 —",
+        "L",
+        "ogistics &amp; D",
+        "e",
+        "li",
+        "v",
+        "ery/tspan<tspan class=\"cls-698\" x=\"0\" y=\"1016.72\">W",
+        "e",
+        "c",
+        "o",
+        "o",
+        "r",
+        "d",
+        "i",
+        "n",
+        "a",
+        "t",
+        "e",
+        "i",
+        "n",
+        "t",
+        "e",
+        "r",
+        "n",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        "a",
+        "l",
+        "s",
+        "h",
+        "i",
+        "p",
+        "p",
+        "i",
+        "n",
+        "g",
+        "a",
+        "n",
+        "d",
+        "c",
+        "u",
+        "s",
+        "t",
+        "o",
+        "m",
+        "s /tspan<tspan class=\"cls-662\" x=\"0\" y=\"1049.85\">ma",
+        "n",
+        "a",
+        "g",
+        "e",
+        "m",
+        "e",
+        "n",
+        "t",
+        "t",
+        "o",
+        "e",
+        "n",
+        "s",
+        "u",
+        "r",
+        "e",
+        "s",
+        "e",
+        "a",
+        "m",
+        "l",
+        "e",
+        "s",
+        "s",
+        "g",
+        "l",
+        "o",
+        "b",
+        "a",
+        "l",
+        "d",
+        "e",
+        "l",
+        "i",
+        "v",
+        "e",
+        "r",
+        "y",
+        "./tspan"
+      ]
+    },
+    {
+      "x": 1055.0566,
+      "y": 3296.3471,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "150px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#134d80",
+      "classes": [
+        "cls-30"
+      ],
+      "text": [
+        "Whe",
+        "r",
+        "e design meets",
+        "p",
+        "er",
+        "f",
+        "orman",
+        "c",
+        "e."
+      ]
+    },
+    {
+      "x": 1432.9844,
+      "y": 5664.8896,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "141px",
+      "fontWeight": null,
+      "letterSpacing": "-.02em",
+      "fill": "#134d80",
+      "classes": [
+        "cls-142"
+      ],
+      "text": [
+        "The"
+      ]
+    },
+    {
+      "x": 1890.5618,
+      "y": 5605.5032,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "94.78px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#134d80",
+      "classes": [
+        "cls-138"
+      ],
+      "text": [
+        "C",
+        "r",
+        "e",
+        "ati",
+        "v",
+        "e",
+        "P",
+        "r",
+        "oc",
+        "ess"
+      ]
+    },
+    {
+      "x": 1788.4518,
+      "y": 221.5377,
+      "scale": 1,
+      "fontFamily": "Helvetica-Bold, Helvetica",
+      "fontSize": "15.1px",
+      "fontWeight": "700",
+      "letterSpacing": ".1em",
+      "fill": "#fff",
+      "classes": [
+        "cls-123"
+      ],
+      "text": [
+        "cbhali.com"
+      ]
+    },
+    {
+      "x": 931.9195,
+      "y": 3182.8616,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "56.47px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#134d80",
+      "classes": [
+        "cls-141"
+      ],
+      "text": [
+        "<tspan x=\"0\" y=\"0\">C/tspan<tspan x=\"3.64\" y=\"105.04\">B/tspan<tspan x=\"13.38\" y=\"315.13\">|/tspan<tspan x=\".42\" y=\"525.22\">H/tspan<tspan x=\"7.91\" y=\"630.26\">ª/tspan<tspan x=\"5.59\" y=\"735.31\">L/tspan<tspan x=\"14.57\" y=\"840.35\">i/tspan"
+      ]
+    },
+    {
+      "x": 1736.0024,
+      "y": 328.5705,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "71.48px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-124"
+      ],
+      "text": [
+        "H",
+        "a",
+        "L",
+        "i"
+      ]
+    },
+    {
+      "x": 2221.0105,
+      "y": 10364.28,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "16.48px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-183"
+      ],
+      "text": [
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n",
+        "e",
+        "d",
+        "b",
+        "y",
+        "@",
+        "_",
+        "P",
+        "a",
+        "r",
+        "g",
+        "o",
+        "-",
+        "S",
+        "a",
+        "n",
+        "t",
+        "a",
+        "M",
+        "a",
+        "r",
+        "t",
+        "a /",
+        "C",
+        "o",
+        "l",
+        "o",
+        "m",
+        "b",
+        "i",
+        "a",
+        "20",
+        "2",
+        "6",
+        "."
+      ]
+    },
+    {
+      "x": 1667.7095,
+      "y": 9599.3756,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "181.23px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-129"
+      ],
+      "text": [
+        "H",
+        "a",
+        "L",
+        "i"
+      ]
+    },
+    {
+      "x": 2068.1368,
+      "y": 9493.5905,
+      "scale": 1,
+      "fontFamily": "Satoshi-Regular, Satoshi",
+      "fontSize": "72.33px",
+      "fontWeight": null,
+      "letterSpacing": ".02em",
+      "fill": "#fff",
+      "classes": [
+        "cls-126"
+      ],
+      "text": [
+        "®"
+      ]
+    },
+    {
+      "x": 1708.3071,
+      "y": 9650.2506,
+      "scale": 1,
+      "fontFamily": "Satoshi-Bold, Satoshi",
+      "fontSize": "14.47px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-127"
+      ],
+      "text": [
+        "C",
+        "R",
+        "A",
+        "F",
+        "T",
+        "E",
+        "D",
+        "F",
+        "O",
+        "R",
+        "V",
+        "I",
+        "S",
+        "I",
+        "O",
+        "NA",
+        "R",
+        "I",
+        "E",
+        "S"
+      ]
+    },
+    {
+      "x": 1024.782,
+      "y": 10134.9831,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-117"
+      ],
+      "text": [
+        "H",
+        "o",
+        "m",
+        "e",
+        "C",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s",
+        "C",
+        "u",
+        "s",
+        "t",
+        "o",
+        "m",
+        "C",
+        "o",
+        "n",
+        "t",
+        "r",
+        "a",
+        "c",
+        "t"
+      ]
+    },
+    {
+      "x": 1345.0427,
+      "y": 10134.5622,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-45"
+      ],
+      "text": [
+        "I",
+        "n",
+        "t",
+        "r",
+        "o &amp;",
+        "f",
+        "e",
+        "a",
+        "t",
+        "u",
+        "r",
+        "e",
+        "d",
+        "P",
+        "r",
+        "o",
+        "d",
+        "u",
+        "c",
+        "t",
+        "c",
+        "a",
+        "t",
+        "a",
+        "l",
+        "o",
+        "g",
+        "F",
+        "o",
+        "r",
+        "P",
+        "r",
+        "o",
+        "f",
+        "e",
+        "s",
+        "s",
+        "i",
+        "o",
+        "n",
+        "a",
+        "l",
+        "s",
+        "F",
+        "r",
+        "o",
+        "m",
+        "b",
+        "e",
+        "g",
+        "i",
+        "n",
+        "n",
+        "i",
+        "n",
+        "g",
+        "t",
+        "o",
+        "en",
+        "d"
+      ]
+    },
+    {
+      "x": 1744.1298,
+      "y": 10134.9831,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-117"
+      ],
+      "text": [
+        "A",
+        "b",
+        "o",
+        "u",
+        "t",
+        "U",
+        "s",
+        "B",
+        "l",
+        "o",
+        "g &amp;",
+        "I",
+        "n",
+        "s",
+        "p",
+        "i",
+        "r",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        "C",
+        "o",
+        "n",
+        "t",
+        "a",
+        "c",
+        "t &amp;",
+        "D",
+        "e",
+        "a",
+        "l",
+        "e",
+        "r",
+        "s"
+      ]
+    },
+    {
+      "x": 2124.7618,
+      "y": 10134.5622,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-45"
+      ],
+      "text": [
+        "O",
+        "u",
+        "r",
+        "s",
+        "t",
+        "o",
+        "r",
+        "y",
+        "B",
+        "l",
+        "o",
+        "g &amp;",
+        "I",
+        "n",
+        "s",
+        "p",
+        "i",
+        "r",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        "A",
+        "u",
+        "t",
+        "h",
+        "o",
+        "r",
+        "i",
+        "z",
+        "e",
+        "d",
+        "p",
+        "r",
+        "e",
+        "f",
+        "e",
+        "r",
+        "r",
+        "e",
+        "d",
+        "p",
+        "a",
+        "r",
+        "t",
+        "ne",
+        "r",
+        "s"
+      ]
+    },
+    {
+      "x": 1284.6973,
+      "y": 836.5208,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "143.72px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-29"
+      ],
+      "text": [
+        "C",
+        "O",
+        "NTR",
+        "A",
+        "CT"
+      ]
+    },
+    {
+      "x": 261.15,
+      "y": 755.23,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "39.44px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#666",
+      "classes": [
+        "cls-578"
+      ],
+      "text": [
+        "<tspan class=\"cls-576\" x=\"0\" y=\"0\">H",
+        "o",
+        "m",
+        "e/tspan<tspan class=\"cls-325\" x=\"0\" y=\"86.26\">C",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s/tspan<tspan class=\"cls-721\" x=\"0\" y=\"172.53\">C",
+        "u",
+        "s",
+        "t",
+        "o",
+        "m/tspan<tspan class=\"cls-732\" x=\"0\" y=\"258.79\">C",
+        "o",
+        "n",
+        "t",
+        "r",
+        "a",
+        "c",
+        "t/tspan<tspan class=\"cls-476\" x=\"0\" y=\"345.05\">A",
+        "b",
+        "o",
+        "u",
+        "t",
+        "U",
+        "s/tspan<tspan class=\"cls-476\" x=\"0\" y=\"431.32\">B",
+        "l",
+        "o",
+        "g",
+        "[",
+        "C",
+        "B",
+        "A",
+        "t",
+        "e",
+        "l",
+        "i",
+        "e",
+        "r",
+        "] /tspan<tspan class=\"cls-325\" x=\"0\" y=\"517.58\">C",
+        "o",
+        "n",
+        "t",
+        "a",
+        "c",
+        "t &amp;",
+        "D",
+        "e",
+        "a",
+        "l",
+        "e",
+        "r",
+        "s/tspan"
+      ]
+    },
+    {
+      "x": 1055.0573,
+      "y": 3023.3659,
+      "scale": 1,
+      "fontFamily": "Satoshi-Bold, Satoshi",
+      "fontSize": "102.53px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#134d80",
+      "classes": [
+        "cls-130"
+      ],
+      "text": [
+        "C",
+        "O",
+        "NT",
+        "R",
+        "A",
+        "C",
+        "T"
+      ]
+    },
+    {
+      "x": 1025.9376,
+      "y": 6067.2235,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "126px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#134d80",
+      "classes": [
+        "cls-46"
+      ],
+      "text": [
+        "R",
+        "esidential, <tspan x=\"0\" y=\"187.21\">Hospitality, /tspan",
+        "R",
+        "etail <tspan x=\"0\" y=\"561.62\">and /tspan",
+        "B",
+        "e",
+        "y",
+        "ond"
+      ]
+    },
+    {
+      "x": 1073.5502,
+      "y": 2018.9562,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "148.75px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-128"
+      ],
+      "text": [
+        "F",
+        "r",
+        "om vision",
+        "t",
+        "o",
+        "r",
+        "e",
+        "ality,",
+        "e",
+        "v",
+        "ery detail is sha",
+        "p",
+        "ed",
+        "with",
+        "c",
+        "a",
+        "r",
+        "e."
+      ]
+    },
+    {
+      "x": 1244.368,
+      "y": 9067.8864,
+      "scale": 1,
+      "fontFamily": "Satoshi-Black, Satoshi",
+      "fontSize": "42px",
+      "fontWeight": "800",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-8"
+      ],
+      "text": [
+        "C",
+        "O",
+        "N",
+        "T",
+        "R",
+        "A",
+        "C",
+        "T →",
+        "P",
+        "E",
+        "R",
+        "F",
+        "O",
+        "R",
+        "M",
+        "A",
+        "N",
+        "C",
+        "E",
+        "-",
+        "D",
+        "R",
+        "I",
+        "V",
+        "E",
+        "N",
+        "R",
+        "E",
+        "P",
+        "E",
+        "AT",
+        "A",
+        "B",
+        "L",
+        "E",
+        ",",
+        "R",
+        "E",
+        "G",
+        "U",
+        "L",
+        "A",
+        "T",
+        "I",
+        "O",
+        "N",
+        "-",
+        "R",
+        "E",
+        "A",
+        "D",
+        "Y"
+      ]
+    },
+    {
+      "x": 1965.3769,
+      "y": 7329.5691,
+      "scale": 1,
+      "fontFamily": "Fuji-Light, Fuji",
+      "fontSize": "49.25px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-40"
+      ],
+      "text": [
+        "H",
+        "o",
+        "t",
+        "e",
+        "l",
+        "I",
+        "r",
+        "o",
+        "tam",
+        "a –",
+        "S",
+        "a",
+        "n",
+        "t",
+        "a",
+        "M",
+        "a",
+        "r",
+        "t",
+        "a",
+        "b",
+        "y",
+        "i",
+        "n",
+        "t",
+        "e",
+        "r",
+        "i",
+        "o",
+        "r",
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n",
+        "e",
+        "r",
+        "I",
+        "sa",
+        "b",
+        "e",
+        "l",
+        "P",
+        "a",
+        "r",
+        "r",
+        "a",
+        "."
+      ]
+    }
+  ]
+}
