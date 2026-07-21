@@ -8,8 +8,7 @@ export default function Hero() {
 
       <MenuButton className="cshero__menu" />
       <a className="cshero__logo" href="/" aria-label="CB Hali home">
-        <img className="cshero__logo-mark" src="/svg/logo-mark.svg" alt="" />
-        <span className="cshero__logo-text">HaLi</span>
+        <img className="cshero__logo-img" src="/images/brand/logo-banner.png" alt="CB HaLi" />
       </a>
       <button className="cshero__search" aria-label="Search">
         <svg viewBox="0 0 44 44" fill="none" stroke="#fff" strokeWidth="4" strokeLinecap="round">
@@ -25,11 +24,7 @@ export default function Hero() {
         Crafted with Precision.
       </p>
 
-      <div className="cshero__zoom" aria-hidden="true">
-        <span>+</span>
-        <span className="cshero__zoom-circle" />
-        <span>&minus;</span>
-      </div>
+      <img className="cshero__zoom" src="/images/icons/custom/icono1.png" alt="" aria-hidden="true" />
     </section>
   );
 }

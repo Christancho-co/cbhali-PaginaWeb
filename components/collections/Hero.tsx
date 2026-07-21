@@ -8,8 +8,7 @@ export default function Hero() {
 
       <MenuButton className="chero__menu" />
       <a className="chero__logo" href="/" aria-label="CB Hali home">
-        <img className="chero__logo-mark" src="/svg/logo-mark.svg" alt="" />
-        <span className="chero__logo-text">HaLi</span>
+        <img className="chero__logo-img" src="/images/brand/logo-banner.png" alt="CB HaLi" />
       </a>
       <button className="chero__search" aria-label="Search">
         <svg viewBox="0 0 44 44" fill="none" stroke="#fff" strokeWidth="4" strokeLinecap="round">
@@ -29,34 +28,13 @@ export default function Hero() {
 
       <div className="chero__icons" aria-hidden="true">
         <span className="chero__icons-row">
-          <span className="chero__icon">
-            <svg viewBox="0 0 40 40" fill="none" stroke="#fff" strokeWidth="1.5">
-              <circle cx="28" cy="10" r="2.6" />
-              <path d="M14 16v18M20 16v18M26 16v18" />
-            </svg>
-          </span>
-          <span className="chero__icon">
-            <svg viewBox="0 0 40 40" fill="none" stroke="#fff" strokeWidth="1.5">
-              <path d="M12 6v28M20 6v28M28 6v28" />
-            </svg>
-          </span>
+          <img className="chero__icon" src="/images/icons/collections/icono2.png" alt="" />
+          <img className="chero__icon" src="/images/icons/collections/icono1.png" alt="" />
         </span>
         <span className="chero__icons-row">
-          <span className="chero__icon">
-            <svg viewBox="0 0 40 40" fill="none" stroke="#fff" strokeWidth="1.5">
-              <path d="M6 12c3-4 6-4 9 0s6 4 9 0 6-4 9 0M6 20c3-4 6-4 9 0s6 4 9 0 6-4 9 0M6 28c3-4 6-4 9 0s6 4 9 0 6-4 9 0" />
-            </svg>
-          </span>
-          <span className="chero__icon">
-            <svg viewBox="0 0 40 40" fill="none" stroke="#fff" strokeWidth="1.5">
-              <circle cx="20" cy="20" r="5" fill="#fff" />
-            </svg>
-          </span>
-          <span className="chero__icon">
-            <svg viewBox="0 0 40 40" fill="none" stroke="#fff" strokeWidth="1.5">
-              <path d="M8 8c2.6 3 5.2 3 7.8 0s5.2-3 7.8 0 5.2 3 7.8 0M8 16c2.6 3 5.2 3 7.8 0s5.2-3 7.8 0 5.2 3 7.8 0M8 24c2.6 3 5.2 3 7.8 0s5.2-3 7.8 0 5.2 3 7.8 0M8 32c2.6 3 5.2 3 7.8 0s5.2-3 7.8 0 5.2 3 7.8 0" />
-            </svg>
-          </span>
+          <img className="chero__icon" src="/images/icons/collections/icono3.png" alt="" />
+          <img className="chero__icon" src="/images/icons/collections/icono4.png" alt="" />
+          <img className="chero__icon" src="/images/icons/collections/icono5.png" alt="" />
         </span>
       </div>
 

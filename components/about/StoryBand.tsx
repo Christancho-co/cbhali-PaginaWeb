@@ -2,7 +2,7 @@ export default function StoryBand() {
   return (
     <section className="abstoryband">
       <h2 className="abstoryband__title">
-        The <span className="abstoryband__mark">CB</span> Story
+        The <img className="abstoryband__mark" src="/images/icons/about/icono2.png" alt="CB" /> Story
       </h2>
 
       <div className="abstoryband__photos">

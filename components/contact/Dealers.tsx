@@ -50,6 +50,7 @@ export default function Dealers() {
   return (
     <section className="cndealers">
       <img className="cndealers__bg" src="/images/contact/dealers-bg.webp" alt="" />
+      <img className="cndealers__ornament" src="/images/icons/contact/icono2.png" alt="" aria-hidden="true" />
 
       <div className="cndealers__intro">
         <p>info@cbhali.com</p>
@@ -85,11 +86,7 @@ export default function Dealers() {
             )}
           </div>
         ))}
-        <span className="cndealers__map" aria-hidden="true">
-          <svg viewBox="0 0 100 120" fill="none" stroke="#c0833e" strokeWidth="2">
-            <path d="M40 5 55 5 58 15 70 18 72 30 65 40 68 55 60 65 62 80 50 95 45 110 35 100 30 85 20 75 25 60 15 50 20 35 30 25 28 12Z" />
-          </svg>
-        </span>
+        <img className="cndealers__map" src="/images/icons/contact/icono3.png" alt="" aria-hidden="true" />
       </div>
 
       <h2 className="cndealers__title cndealers__title--dev">Brand developers.</h2>

@@ -8,8 +8,7 @@ export default function Hero() {
 
       <MenuButton className="blhero__menu" />
       <a className="blhero__logo" href="/" aria-label="CB Hali home">
-        <img className="blhero__logo-mark" src="/svg/logo-mark.svg" alt="" />
-        <span className="blhero__logo-text">HaLi</span>
+        <img className="blhero__logo-img" src="/images/brand/logo-banner.png" alt="CB HaLi" />
       </a>
       <button className="blhero__search" aria-label="Search">
         <svg viewBox="0 0 44 44" fill="none" stroke="#fff" strokeWidth="4" strokeLinecap="round">
@@ -30,13 +29,8 @@ export default function Hero() {
         </svg>
       </span>
 
-      <p className="blhero__brand">
-        <span className="blhero__brand-mark">CB</span> The <em>Atelier</em>
-      </p>
-      <div className="blhero__chevrons" aria-hidden="true">
-        <svg viewBox="0 0 60 32"><polyline points="4,4 30,26 56,4" /></svg>
-        <svg viewBox="0 0 60 32"><polyline points="4,4 30,26 56,4" /></svg>
-      </div>
+      <img className="blhero__brand" src="/images/icons/blog/icono1.png" alt="The CB Atelier" />
+      <img className="blhero__chevrons" src="/images/icons/blog/icono2.png" alt="" aria-hidden="true" />
     </section>
   );
 }

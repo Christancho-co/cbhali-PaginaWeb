@@ -1,6 +1,7 @@
 export default function Intro() {
   return (
     <section className="ctintro">
+      <img className="ctintro__building" src="/images/icons/contract/icono2.png" alt="" aria-hidden="true" />
       <h2 className="ctintro__eyebrow">CONTRACT</h2>
       <h3 className="ctintro__title">Where design meets performance.</h3>
       <hr />

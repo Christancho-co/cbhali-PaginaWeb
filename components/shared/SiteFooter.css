@@ -44,29 +44,10 @@
 .sfoot__lockup {
   position: absolute;
   left: 50%;
-  top: calc(var(--u) * 240);
+  top: calc(var(--u) * 192);
   transform: translateX(-50%);
-  text-align: center;
 }
-.sfoot__mark { width: calc(var(--u) * 90); height: auto; margin: 0 auto calc(var(--u) * 8); }
-.sfoot__hali {
-  display: block;
-  font-family: var(--font-seasons);
-  font-weight: 700;
-  font-size: calc(var(--u) * 118);
-  color: #fff;
-  line-height: 1;
-}
-.sfoot__reg { display: none; }
-.sfoot__tagline {
-  display: block;
-  margin-top: calc(var(--u) * 12);
-  font-family: var(--font-satoshi);
-  font-weight: 700;
-  font-size: calc(var(--u) * 15.4);
-  letter-spacing: 0.08em;
-  color: #fff;
-}
+.sfoot__banner { display: block; width: calc(var(--u) * 531); height: auto; }
 
 /* ---------------- CUERPO (nav / redes / legal) ---------------- */
 

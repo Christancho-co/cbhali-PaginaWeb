@@ -35,7 +35,7 @@ export default function PostsGrid() {
       <div className="blposts__head">
         <span className="blposts__label">Latest News</span>
         <h2 className="blposts__title">
-          The <span className="blposts__mark">CB</span> Atelier
+          The <img className="blposts__mark" src="/images/icons/blog/icono3.png" alt="CB" /> Atelier
         </h2>
         <span className="blposts__label">Upcoming Events</span>
       </div>
@@ -59,7 +59,7 @@ export default function PostsGrid() {
       </div>
 
       <div className="blposts__foot">
-        <span className="blposts__scroll" aria-hidden="true">&darr;</span>
+        <img className="blposts__scroll" src="/images/icons/blog/icono4.png" alt="" aria-hidden="true" />
         <a className="blposts__cta" href="/collections">
           <span>Explore Our Catalog</span>
           <svg viewBox="0 0 33 33" fill="none" stroke="#00565e" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">

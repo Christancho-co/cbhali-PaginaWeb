@@ -20,15 +20,14 @@
 .abhero__menu { position: absolute; left: calc(var(--u) * 40); top: calc(var(--u) * 56); width: calc(var(--u) * 36); height: calc(var(--u) * 20); display: flex; flex-direction: column; justify-content: space-between; }
 .abhero__menu span { display: block; width: 100%; height: calc(var(--u) * 2.5); background: #fff; border-radius: 2px; }
 .abhero__logo { position: absolute; left: 0; top: calc(var(--u) * 30); width: 100%; text-align: center; pointer-events: none; }
-.abhero__logo-mark, .abhero__logo-text { pointer-events: auto; }
-.abhero__logo-mark { display: inline-block; width: calc(var(--u) * 40); height: calc(var(--u) * 40); vertical-align: middle; }
-.abhero__logo-text { display: inline-block; margin-left: calc(var(--u) * 14); vertical-align: middle; font-family: var(--font-seasons); font-weight: 700; font-size: calc(var(--u) * 45); color: #fff; }
+.abhero__logo-img { display: inline-block; height: calc(var(--u) * 55); width: auto; pointer-events: auto; vertical-align: middle; }
+
 .abhero__search { position: absolute; right: calc(var(--u) * 40); top: calc(var(--u) * 40); width: calc(var(--u) * 30); height: calc(var(--u) * 30); }
 .abhero__search svg { width: 100%; height: 100%; }
 
 .abhero__mark {
-  position: absolute; left: 0; top: calc(var(--u) * 700); width: 100%; text-align: center;
-  font-family: var(--font-seasons); font-weight: 700; font-size: calc(var(--u) * 95); color: #fff; line-height: 1;
+  position: absolute; left: 50%; transform: translateX(-50%); top: calc(var(--u) * 680);
+  width: calc(var(--u) * 105); height: auto;
 }
 .abhero__title {
   position: absolute; left: 0; top: calc(var(--u) * 820); width: 100%; text-align: center;
@@ -39,7 +38,7 @@
 
 .abstoryband { position: relative; background: var(--cream-paper); padding: clamp(3rem, 8vw, 5.5rem) clamp(1.25rem, 6vw, 5.5rem); }
 .abstoryband__title { text-align: center; font-family: var(--font-seasons); font-weight: 700; font-size: clamp(1.8rem, 3.2vw, 2.6rem); color: #333; margin-bottom: clamp(2rem, 6vw, 3.5rem); }
-.abstoryband__mark { font-family: var(--font-seasons); }
+.abstoryband__mark { display: inline-block; height: 1.35em; width: auto; vertical-align: -0.35em; margin: 0 0.1em; }
 .abstoryband__photos { display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(0.5rem, 1.5vw, 1rem); }
 .abstoryband__photos img { width: 100%; aspect-ratio: 3/4; object-fit: cover; filter: grayscale(1) sepia(0.15); }
 
@@ -57,7 +56,7 @@
 
 .abvalues { position: relative; background: var(--cream-paper); padding: clamp(2rem, 6vw, 4rem) clamp(1.25rem, 6vw, 5.5rem) clamp(3rem, 7vw, 5rem); }
 .abvalues__title { display: flex; align-items: flex-start; gap: 1rem; font-family: var(--font-seasons); font-weight: 300; font-size: clamp(2.2rem, 4.5vw, 3.6rem); line-height: 1.1; color: #b3b3b3; }
-.abvalues__mark { font-weight: 700; color: #384920; font-size: 0.55em; }
+.abvalues__mark { width: 1.6em; height: auto; flex: none; margin-top: 0.1em; }
 
 .abvalues__list { margin-top: clamp(2rem, 5vw, 3rem); display: flex; flex-direction: column; gap: 1.5rem; max-width: 1100px; }
 .abvalues__list p { font-family: var(--font-satoshi); font-weight: 400; font-size: 0.85rem; letter-spacing: 0.01em; line-height: 1.8; text-transform: uppercase; color: #4a4a48; }

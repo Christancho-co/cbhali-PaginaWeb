@@ -7,10 +7,7 @@ export default function SiteFooter({ bgImage }: { bgImage: string }) {
         <img className="sfoot__rug" src={bgImage} alt="" />
         <div className="sfoot__fade" />
         <div className="sfoot__lockup">
-          <img className="sfoot__mark" src="/svg/logo-mark-white.svg" alt="" />
-          <span className="sfoot__hali">HaLi</span>
-          <span className="sfoot__reg">®</span>
-          <span className="sfoot__tagline">CRAFTED FOR VISIONARIES</span>
+          <img className="sfoot__banner" src="/images/brand/banner-footer.png" alt="CB HaLi — Crafted for visionaries" />
         </div>
       </div>
 

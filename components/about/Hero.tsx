@@ -8,8 +8,7 @@ export default function Hero() {
 
       <MenuButton className="abhero__menu" />
       <a className="abhero__logo" href="/" aria-label="CB Hali home">
-        <img className="abhero__logo-mark" src="/svg/logo-mark.svg" alt="" />
-        <span className="abhero__logo-text">HaLi</span>
+        <img className="abhero__logo-img" src="/images/brand/logo-banner.png" alt="CB HaLi" />
       </a>
       <button className="abhero__search" aria-label="Search">
         <svg viewBox="0 0 44 44" fill="none" stroke="#fff" strokeWidth="4" strokeLinecap="round">
@@ -17,7 +16,7 @@ export default function Hero() {
         </svg>
       </button>
 
-      <p className="abhero__mark">CB</p>
+      <img className="abhero__mark" src="/images/icons/about/icono1.png" alt="" aria-hidden="true" />
       <h1 className="abhero__title">About Us</h1>
     </section>
   );

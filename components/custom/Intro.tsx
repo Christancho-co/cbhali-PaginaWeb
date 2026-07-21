@@ -9,13 +9,7 @@ export default function Intro() {
           <br />
           WITH <strong>INTENTION.</strong>
         </h2>
-        <span className="csintro__icon" aria-hidden="true">
-          <svg viewBox="0 0 40 52" fill="none" stroke="#8c9789" strokeWidth="1.5">
-            <rect x="1" y="1" width="38" height="50" rx="8" />
-            <circle cx="20" cy="20" r="9" fill="#8c9789" stroke="none" />
-            <path d="M14 33h12M16 38h8M17.5 42h5" />
-          </svg>
-        </span>
+        <img className="csintro__icon" src="/images/icons/custom/icono2.png" alt="" aria-hidden="true" />
       </div>
 
       <p className="csintro__copy">
@@ -30,9 +24,7 @@ export default function Intro() {
         pieces that belong entirely to the spaces they inhabit, and nowhere else.
       </p>
 
-      <div className="csintro__chevrons" aria-hidden="true">
-        <svg viewBox="0 0 60 32"><polyline points="4,4 30,26 56,4" /></svg>
-      </div>
+      <img className="csintro__chevrons" src="/images/icons/custom/icono3.png" alt="" aria-hidden="true" />
     </section>
   );
 }

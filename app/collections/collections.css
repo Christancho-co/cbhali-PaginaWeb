@@ -35,12 +35,7 @@
 .chero__menu span { display: block; width: 100%; height: calc(var(--u) * 2.5); background: #fff; border-radius: 2px; }
 
 .chero__logo { position: absolute; left: 0; top: calc(var(--u) * 30); width: 100%; text-align: center; pointer-events: none; }
-.chero__logo-mark, .chero__logo-text { pointer-events: auto; }
-.chero__logo-mark { display: inline-block; width: calc(var(--u) * 40); height: calc(var(--u) * 40); vertical-align: middle; }
-.chero__logo-text {
-  display: inline-block; margin-left: calc(var(--u) * 14); vertical-align: middle;
-  font-family: var(--font-seasons); font-weight: 700; font-size: calc(var(--u) * 45); color: #fff;
-}
+.chero__logo-img { display: inline-block; height: calc(var(--u) * 55); width: auto; pointer-events: auto; vertical-align: middle; }
 
 .chero__search { position: absolute; right: calc(var(--u) * 40); top: calc(var(--u) * 40); width: calc(var(--u) * 30); height: calc(var(--u) * 30); }
 .chero__search svg { width: 100%; height: 100%; }
@@ -64,15 +59,11 @@
 .chero__tags strong { font-weight: 700; }
 
 .chero__icons {
-  position: absolute; right: calc(var(--u) * 150); top: calc(var(--u) * 500);
-  display: flex; flex-direction: column; gap: calc(var(--u) * 14);
+  position: absolute; right: calc(var(--u) * 120); top: calc(var(--u) * 672);
+  display: flex; flex-direction: column; align-items: flex-end; gap: calc(var(--u) * 28);
 }
-.chero__icons-row { display: flex; gap: calc(var(--u) * 14); }
-.chero__icon {
-  width: calc(var(--u) * 64); height: calc(var(--u) * 64);
-  border: 1.5px solid #fff; display: flex; align-items: center; justify-content: center;
-}
-.chero__icon svg { width: 55%; height: 55%; }
+.chero__icons-row { display: flex; justify-content: flex-end; gap: calc(var(--u) * 26); }
+.chero__icon { height: calc(var(--u) * 140); width: auto; }
 
 .chero__dots {
   position: absolute; right: calc(var(--u) * 55); top: calc(var(--u) * 690);
@@ -113,17 +104,23 @@
   line-height: 1.7;
   color: var(--ink);
 }
+.cintro__circles {
+  position: absolute;
+  right: clamp(2rem, 9vw, 10rem);
+  top: 0;
+  width: clamp(30px, 2.4vw, 48px);
+}
 .cintro__truck {
   position: absolute;
-  right: clamp(1.25rem, 8vw, 9rem);
-  top: 42%;
-  width: clamp(70px, 6vw, 96px);
+  right: clamp(4rem, 25vw, 30rem);
+  bottom: clamp(1rem, 4vw, 3.5rem);
+  width: clamp(80px, 6.5vw, 125px);
 }
 .cintro__chevrons {
-  margin-top: clamp(2.5rem, 6vw, 4rem);
-  width: 44px;
+  display: block;
+  margin: clamp(2.5rem, 6vw, 4rem) auto 0;
+  width: clamp(24px, 1.8vw, 34px);
 }
-.cintro__chevrons svg { width: 100%; stroke: var(--terracotta); fill: none; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
 
 /* ---------------- QUOTES ---------------- */
 

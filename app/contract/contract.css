@@ -20,9 +20,8 @@
 .cthero__menu { position: absolute; left: calc(var(--u) * 40); top: calc(var(--u) * 56); width: calc(var(--u) * 36); height: calc(var(--u) * 20); display: flex; flex-direction: column; justify-content: space-between; }
 .cthero__menu span { display: block; width: 100%; height: calc(var(--u) * 2.5); background: #fff; border-radius: 2px; }
 .cthero__logo { position: absolute; left: 0; top: calc(var(--u) * 30); width: 100%; text-align: center; pointer-events: none; }
-.cthero__logo-mark, .cthero__logo-text { pointer-events: auto; }
-.cthero__logo-mark { display: inline-block; width: calc(var(--u) * 40); height: calc(var(--u) * 40); vertical-align: middle; }
-.cthero__logo-text { display: inline-block; margin-left: calc(var(--u) * 14); vertical-align: middle; font-family: var(--font-seasons); font-weight: 700; font-size: calc(var(--u) * 45); color: #fff; }
+.cthero__logo-img { display: inline-block; height: calc(var(--u) * 55); width: auto; pointer-events: auto; vertical-align: middle; }
+
 .cthero__search { position: absolute; right: calc(var(--u) * 40); top: calc(var(--u) * 40); width: calc(var(--u) * 30); height: calc(var(--u) * 30); }
 .cthero__search svg { width: 100%; height: 100%; }
 
@@ -31,8 +30,7 @@
   font-family: var(--font-seasons); font-weight: 300; font-size: calc(var(--u) * 143.72);
   letter-spacing: 0.03em; color: #fff;
 }
-.cthero__doc { position: absolute; right: calc(var(--u) * 120); top: calc(var(--u) * 380); width: calc(var(--u) * 70); height: calc(var(--u) * 70); }
-.cthero__doc svg { width: 100%; height: 100%; }
+.cthero__doc { position: absolute; right: calc(var(--u) * 120); top: calc(var(--u) * 380); width: calc(var(--u) * 70); height: auto; }
 .cthero__tag {
   position: absolute; left: calc(var(--u) * 100); top: calc(var(--u) * 545);
   font-family: var(--font-seasons); font-style: italic; font-weight: 300; font-size: calc(var(--u) * 60);
@@ -59,6 +57,7 @@
 /* ---------------- INTRO ---------------- */
 
 .ctintro { position: relative; background: #000; padding: clamp(2.5rem, 6vw, 4.5rem) clamp(1.25rem, 6vw, 5.5rem) clamp(3rem, 7vw, 5rem); }
+.ctintro__building { position: absolute; right: clamp(4rem, 16vw, 18rem); top: clamp(-3rem, -5vw, -2rem); width: clamp(28px, 2.4vw, 46px); }
 .ctintro__eyebrow { font-family: var(--font-satoshi); font-weight: 700; font-size: clamp(1.6rem, 3vw, 2.4rem); letter-spacing: 0.03em; color: var(--navy); }
 .ctintro__title { margin-top: 0.5rem; font-family: var(--font-seasons); font-weight: 300; font-size: clamp(1.9rem, 3.4vw, 2.9rem); color: var(--navy); }
 .ctintro__copy { margin-top: clamp(2rem, 5vw, 3rem); max-width: 900px; font-family: var(--font-satoshi); font-weight: 300; font-size: 0.9rem; line-height: 1.75; color: #c9ccd3; }
@@ -67,15 +66,14 @@ hr { border: none; border-top: 1px solid rgba(19,77,128,.35); margin-top: 1.5rem
 /* ---------------- PROCESS ---------------- */
 
 .ctprocess { position: relative; background: #000; padding: clamp(3rem, 7vw, 5rem) clamp(1.25rem, 6vw, 5.5rem); display: grid; grid-template-columns: 60px 1fr; column-gap: clamp(1.5rem, 4vw, 3rem); }
-.ctprocess__vertical { grid-row: 1 / 3; display: flex; flex-direction: column; gap: 0.6em; font-family: var(--font-seasons); font-size: clamp(1.4rem, 2.4vw, 2rem); color: var(--navy); line-height: 1; }
+.ctprocess__vertical { grid-row: 1 / 3; width: clamp(9px, 0.8vw, 15px); height: auto; align-self: start; }
 .ctprocess__head { grid-column: 2; }
 .ctprocess__head h2 { font-family: var(--font-seasons); font-weight: 300; font-size: clamp(1.8rem, 3.4vw, 2.8rem); color: var(--navy); }
 .ctprocess__mark { font-weight: 700; }
 
 .ctprocess__body { grid-column: 2; margin-top: clamp(2rem, 5vw, 3.5rem); display: grid; grid-template-columns: 1fr 1.3fr; gap: clamp(2rem, 5vw, 4rem); }
 .ctprocess__rhr { font-family: var(--font-seasons); font-weight: 300; font-size: clamp(1.6rem, 3vw, 2.5rem); line-height: 1.35; color: var(--navy); }
-.ctprocess__cube { display: inline-block; width: 44px; height: 44px; margin-top: 1.5rem; }
-.ctprocess__cube svg { width: 100%; height: 100%; }
+.ctprocess__cube { display: inline-block; width: 44px; height: auto; margin-top: 1.5rem; }
 
 .ctprocess__steps { display: flex; flex-direction: column; gap: clamp(1.5rem, 3.5vw, 2.25rem); }
 .ctprocess__steps h4 { font-family: var(--font-seasons); font-weight: 400; font-size: clamp(1.05rem, 1.6vw, 1.3rem); color: var(--navy); }

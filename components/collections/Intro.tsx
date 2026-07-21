@@ -13,21 +13,9 @@ export default function Intro() {
         Discover the collection that resonates with your space — and with you.
       </p>
 
-      <div className="cintro__truck" aria-hidden="true">
-        <svg viewBox="0 0 96 96" fill="none">
-          <rect x="4" y="4" width="52" height="60" rx="4" stroke="#c0833e" strokeWidth="4" />
-          <circle cx="30" cy="28" r="9" fill="#c0833e" />
-          <path d="M14 56c2-10 10-16 16-16s14 6 16 16" fill="#c0833e" />
-          <path d="M56 34h20l14 14v14a4 4 0 0 1-4 4H56z" fill="#87402b" />
-          <rect x="60" y="38" width="14" height="10" fill="#fff" />
-          <circle cx="66" cy="70" r="7" fill="#231f20" />
-          <circle cx="86" cy="70" r="7" fill="#231f20" />
-        </svg>
-      </div>
-
-      <div className="cintro__chevrons" aria-hidden="true">
-        <svg viewBox="0 0 60 32"><polyline points="4,4 30,26 56,4" /></svg>
-      </div>
+      <img className="cintro__circles" src="/images/icons/collections/icono6.png" alt="" aria-hidden="true" />
+      <img className="cintro__truck" src="/images/icons/collections/icono7.png" alt="" aria-hidden="true" />
+      <img className="cintro__chevrons" src="/images/icons/collections/icono8.png" alt="" aria-hidden="true" />
     </section>
   );
 }

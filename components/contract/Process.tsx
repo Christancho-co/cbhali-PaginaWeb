@@ -1,5 +1,3 @@
-const VERTICAL = ['C', 'B', '|', 'H', 'a', 'L', 'i'];
-
 const STEPS = [
   {
     n: '01',
@@ -31,11 +29,7 @@ const STEPS = [
 export default function Process() {
   return (
     <section className="ctprocess">
-      <div className="ctprocess__vertical" aria-hidden="true">
-        {VERTICAL.map((ch, i) => (
-          <span key={i}>{ch}</span>
-        ))}
-      </div>
+      <img className="ctprocess__vertical" src="/images/icons/contract/icono3.png" alt="" aria-hidden="true" />
 
       <div className="ctprocess__head">
         <h2>
@@ -53,12 +47,7 @@ export default function Process() {
           <br />
           and Beyond
         </h3>
-        <span className="ctprocess__cube" aria-hidden="true">
-          <svg viewBox="0 0 40 40" fill="none" stroke="#134d80" strokeWidth="1.5">
-            <path d="M20 3 36 12v16L20 37 4 28V12Z" />
-            <path d="M4 12l16 9 16-9M20 21v16" />
-          </svg>
-        </span>
+        <img className="ctprocess__cube" src="/images/icons/contract/icono8.png" alt="" aria-hidden="true" />
 
         <ol className="ctprocess__steps">
           {STEPS.map((s) => (

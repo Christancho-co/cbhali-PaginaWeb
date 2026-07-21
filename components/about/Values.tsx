@@ -20,7 +20,7 @@ export default function Values() {
   return (
     <section className="abvalues">
       <h2 className="abvalues__title">
-        <span className="abvalues__mark">CB</span>
+        <img className="abvalues__mark" src="/images/icons/about/icono3.png" alt="" aria-hidden="true" />
         <span>
           Our
           <br />

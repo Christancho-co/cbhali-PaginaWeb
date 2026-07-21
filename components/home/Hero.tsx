@@ -12,8 +12,7 @@ export default function Hero() {
       <MenuButton className="hero__menu" />
 
       <a className="hero__logo" href="/" aria-label="CB Hali home">
-        <img className="hero__logo-mark" src="/svg/logo-mark.svg" alt="" />
-        <span className="hero__logo-text">HaLi</span>
+        <img className="hero__logo-img" src="/images/brand/logo-banner.png" alt="CB HaLi" />
       </a>
 
       <button className="hero__search" aria-label="Search">
