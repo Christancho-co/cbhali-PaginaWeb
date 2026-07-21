@@ -1,9 +1,9 @@
 import './SiteFooter.css';
 
-// Redes reales de CB Hali. LinkedIn aún sin URL: el icono se muestra sin enlace.
+// Redes reales de CB Hali.
 const SOCIALS: { label: string; href: string | null; icon: string }[] = [
   { label: 'YouTube', href: 'https://www.youtube.com/@cb_hali', icon: 'youtube' },
-  { label: 'LinkedIn', href: null, icon: 'linkedin' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/company/cbhali/', icon: 'linkedin' },
   { label: 'Instagram', href: 'https://www.instagram.com/cb_hali/', icon: 'instagram' },
   { label: 'Facebook', href: 'https://www.facebook.com/alfombras.cbrugs.1/', icon: 'facebook' },
 ];
