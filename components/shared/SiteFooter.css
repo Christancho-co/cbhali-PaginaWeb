@@ -1,0 +1,97 @@
+/* Footer reutilizable en todas las páginas internas: misma composición que
+   el footer del Home (imagen con fade + lockup + nav + redes + legal), pero
+   en flujo normal (no posicionado sobre un lienzo absoluto) para que cada
+   página lo integre sin duplicar coordenadas por página. */
+
+.sfoot {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  background: #fff;
+}
+
+.sfoot__bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.sfoot__fade {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 60%;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0), #fff 85%);
+}
+
+.sfoot__inner {
+  position: relative;
+  padding: clamp(3rem, 9vw, 7rem) clamp(1.25rem, 6vw, 5.5rem) 2.5rem;
+}
+
+.sfoot__lockup {
+  text-align: center;
+  margin-bottom: clamp(2.5rem, 8vw, 6rem);
+}
+.sfoot__mark { width: clamp(48px, 5vw, 64px); height: auto; margin: 0 auto 0.5rem; }
+.sfoot__hali {
+  display: block;
+  font-family: var(--font-seasons);
+  font-weight: 700;
+  font-size: clamp(2.2rem, 5vw, 3.6rem);
+  color: #fff;
+  line-height: 1;
+}
+.sfoot__reg { display: none; }
+.sfoot__tagline {
+  display: block;
+  margin-top: 0.6rem;
+  font-family: var(--font-satoshi);
+  font-weight: 700;
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  color: #fff;
+}
+
+.sfoot__row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem 5rem;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.sfoot__nav { display: flex; flex-direction: column; gap: 0.9rem; }
+.sfoot__nav a {
+  font-family: var(--font-satoshi);
+  font-weight: 500;
+  font-size: 1.05rem;
+  letter-spacing: 0.03em;
+  color: var(--ink);
+}
+.sfoot__social { width: 34px; height: auto; margin-left: auto; }
+
+.sfoot__bottom {
+  margin-top: clamp(2.5rem, 7vw, 5rem);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.75rem 2rem;
+}
+.sfoot__legal,
+.sfoot__credit {
+  font-family: var(--font-satoshi);
+  font-weight: 300;
+  font-size: 0.72rem;
+  letter-spacing: 0.03em;
+  color: var(--ink);
+}
+.sfoot__credit strong { font-weight: 700; }
+
+@media (max-width: 720px) {
+  .sfoot__row { flex-direction: column; gap: 1.75rem; }
+  .sfoot__social { margin-left: 0; flex-direction: row; }
+  .sfoot__bottom { flex-direction: column; }
+}

@@ -1,0 +1,6728 @@
+{
+  "classMap": {
+    "cls-1": {
+      "letter-spacing": ".24em"
+    },
+    "cls-2": {
+      "letter-spacing": ".23em"
+    },
+    "cls-3": {
+      "letter-spacing": ".2em",
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi"
+    },
+    "cls-4": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".2em"
+    },
+    "cls-5": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-6": {
+      "font-weight": "300",
+      "fill": "#2f1d10",
+      "font-size": "106.56px",
+      "font-family": "TheSeasons-Light, 'The Seasons'"
+    },
+    "cls-7": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".2em"
+    },
+    "cls-8": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-9": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".2em"
+    },
+    "cls-10": {
+      "font-weight": "300",
+      "fill": "#87402b",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "font-size": "112.76px"
+    },
+    "cls-11": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".19em"
+    },
+    "cls-12": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".2em"
+    },
+    "cls-13": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-14": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".22em"
+    },
+    "cls-15": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".22em"
+    },
+    "cls-16": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-17": {
+      "font-weight": "300",
+      "fill": "#fff",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "font-size": "172.4px"
+    },
+    "cls-18": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-19": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".2em"
+    },
+    "cls-20": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-21": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-22": {
+      "font-weight": "300",
+      "fill": "#8e4300",
+      "font-family": "TheSeasons-LightItalic, 'The Seasons'",
+      "font-size": "60px",
+      "font-style": "italic"
+    },
+    "cls-23": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-24": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "font-size": "25.57px"
+    },
+    "cls-25": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".2em"
+    },
+    "cls-26": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".22em"
+    },
+    "cls-27": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "font-size": "21px"
+    },
+    "cls-28": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-29": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".21em"
+    },
+    "cls-30": {
+      "font-weight": "300",
+      "fill": "#fff",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "font-size": "70.46px"
+    },
+    "cls-31": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".18em"
+    },
+    "cls-32": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".2em"
+    },
+    "cls-33": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".22em"
+    },
+    "cls-34": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".21em"
+    },
+    "cls-35": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".21em"
+    },
+    "cls-36": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-37": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-38": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-39": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi"
+    },
+    "cls-40": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.04em"
+    },
+    "cls-41": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".18em"
+    },
+    "cls-42": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-43": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".2em"
+    },
+    "cls-44": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".13em"
+    },
+    "cls-45": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-46": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".02em"
+    },
+    "cls-47": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-48": {
+      "letter-spacing": ".14em"
+    },
+    "cls-49": {
+      "letter-spacing": ".23em"
+    },
+    "cls-50": {
+      "letter-spacing": ".23em"
+    },
+    "cls-51": {
+      "letter-spacing": ".22em"
+    },
+    "cls-52": {
+      "letter-spacing": ".23em"
+    },
+    "cls-53": {
+      "letter-spacing": ".23em"
+    },
+    "cls-54": {
+      "fill": "#87402b"
+    },
+    "cls-55": {
+      "letter-spacing": ".25em"
+    },
+    "cls-56": {
+      "letter-spacing": ".2em"
+    },
+    "cls-57": {
+      "letter-spacing": ".23em"
+    },
+    "cls-58": {
+      "letter-spacing": ".13em"
+    },
+    "cls-59": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-60": {
+      "letter-spacing": ".12em"
+    },
+    "cls-61": {
+      "font-size": "131.7px",
+      "letter-spacing": "-.02em",
+      "fill": "#fff",
+      "font-family": "TheSeasons-Regular, 'The Seasons'"
+    },
+    "cls-62": {
+      "fill": "#fff",
+      "font-family": "Helvetica-Bold, Helvetica",
+      "font-size": "15.1px",
+      "letter-spacing": ".1em",
+      "font-weight": "700"
+    },
+    "cls-63": {
+      "fill": "#fff",
+      "font-family": "TheSeasons-Regular, 'The Seasons'",
+      "font-size": "150.62px",
+      "letter-spacing": "-.02em"
+    },
+    "cls-64": {
+      "fill": "#fff",
+      "font-weight": "700",
+      "font-size": "71.48px",
+      "font-family": "TheSeasons-Bold, 'The Seasons'"
+    },
+    "cls-65": {
+      "fill": "#fff",
+      "font-size": "40px"
+    },
+    "cls-66": {
+      "fill": "#fff",
+      "font-family": "TheSeasons-Regular, 'The Seasons'",
+      "font-size": "108.79px",
+      "letter-spacing": "-.02em"
+    },
+    "cls-67": {
+      "fill": "#fff"
+    },
+    "cls-68": {
+      "fill": "#fff",
+      "font-family": "TheSeasons-Regular, 'The Seasons'",
+      "letter-spacing": "-.02em",
+      "font-size": "127.38px"
+    },
+    "cls-69": {
+      "fill": "#fff",
+      "font-family": "TheSeasons-Regular, 'The Seasons'",
+      "font-size": "223.6px"
+    },
+    "cls-70": {
+      "fill": "#fff",
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "175.57px"
+    },
+    "cls-71": {
+      "fill": "#fff",
+      "font-family": "TheSeasons-Regular, 'The Seasons'",
+      "font-size": "127.38px",
+      "letter-spacing": "-.02em"
+    },
+    "cls-72": {
+      "fill": "#fff",
+      "font-family": "TheSeasons-Regular, 'The Seasons'",
+      "font-size": "137.45px"
+    },
+    "cls-73": {
+      "fill": "#fff",
+      "font-size": "70.07px",
+      "letter-spacing": ".02em",
+      "font-family": "Satoshi-Regular, Satoshi"
+    },
+    "cls-74": {
+      "fill": "#fff",
+      "font-weight": "700",
+      "font-family": "Satoshi-Bold, Satoshi",
+      "font-size": "14.01px"
+    },
+    "cls-75": {
+      "letter-spacing": ".13em"
+    },
+    "cls-76": {
+      "letter-spacing": ".15em"
+    },
+    "cls-77": {
+      "letter-spacing": ".24em"
+    },
+    "cls-78": {
+      "letter-spacing": ".23em"
+    },
+    "cls-79": {
+      "letter-spacing": ".23em"
+    },
+    "cls-80": {
+      "letter-spacing": ".19em"
+    },
+    "cls-81": {
+      "stroke-miterlimit": "10",
+      "stroke": "#2f1d10",
+      "fill": "none"
+    },
+    "cls-82": {
+      "stroke-miterlimit": "10",
+      "stroke": "#2f1d10",
+      "fill": "#f4e9e1"
+    },
+    "cls-83": {
+      "stroke-miterlimit": "10",
+      "stroke": "#2f1d10",
+      "fill": "none",
+      "mix-blend-mode": "multiply"
+    },
+    "cls-84": {
+      "stroke-miterlimit": "10",
+      "fill": "none",
+      "stroke-width": "4px",
+      "stroke": "#c0833e"
+    },
+    "cls-85": {
+      "stroke-miterlimit": "10",
+      "stroke": "#2f1d10",
+      "fill": "#e3d0bc"
+    },
+    "cls-86": {
+      "stroke-miterlimit": "10",
+      "stroke": "#2f1d10",
+      "fill": "#fff6ee"
+    },
+    "cls-87": {
+      "fill": "none",
+      "stroke-width": "4px",
+      "stroke": "#fff",
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round"
+    },
+    "cls-88": {
+      "fill": "none"
+    },
+    "cls-89": {
+      "fill": "none",
+      "stroke": "#fff",
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "5px"
+    },
+    "cls-90": {
+      "fill": "none",
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke": "#c0833e",
+      "stroke-width": "15px"
+    },
+    "cls-91": {
+      "letter-spacing": ".24em"
+    },
+    "cls-92": {
+      "letter-spacing": ".14em"
+    },
+    "cls-93": {
+      "letter-spacing": ".24em"
+    },
+    "cls-94": {
+      "letter-spacing": ".19em"
+    },
+    "cls-95": {
+      "letter-spacing": ".23em"
+    },
+    "cls-96": {
+      "letter-spacing": ".13em"
+    },
+    "cls-97": {
+      "letter-spacing": ".14em"
+    },
+    "cls-98": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-99": {
+      "letter-spacing": ".15em"
+    },
+    "cls-100": {
+      "letter-spacing": ".15em"
+    },
+    "cls-101": {
+      "letter-spacing": "0em"
+    },
+    "cls-102": {
+      "letter-spacing": ".04em"
+    },
+    "cls-103": {
+      "letter-spacing": ".15em"
+    },
+    "cls-104": {
+      "letter-spacing": ".14em"
+    },
+    "cls-105": {
+      "letter-spacing": ".23em"
+    },
+    "cls-106": {
+      "clip-path": "url(#clippath-6)"
+    },
+    "cls-107": {
+      "clip-path": "url(#clippath-7)"
+    },
+    "cls-108": {
+      "letter-spacing": ".23em"
+    },
+    "cls-109": {
+      "letter-spacing": ".21em"
+    },
+    "cls-110": {
+      "letter-spacing": ".23em"
+    },
+    "cls-111": {
+      "letter-spacing": ".23em"
+    },
+    "cls-112": {
+      "letter-spacing": ".14em"
+    },
+    "cls-113": {
+      "letter-spacing": ".14em"
+    },
+    "cls-114": {
+      "letter-spacing": ".23em"
+    },
+    "cls-115": {
+      "letter-spacing": ".15em"
+    },
+    "cls-116": {
+      "letter-spacing": ".11em"
+    },
+    "cls-117": {
+      "letter-spacing": ".23em"
+    },
+    "cls-118": {
+      "letter-spacing": ".14em"
+    },
+    "cls-119": {
+      "letter-spacing": ".23em"
+    },
+    "cls-120": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-121": {
+      "letter-spacing": ".03em"
+    },
+    "cls-122": {
+      "letter-spacing": ".23em"
+    },
+    "cls-123": {
+      "letter-spacing": ".03em"
+    },
+    "cls-124": {
+      "letter-spacing": ".23em"
+    },
+    "cls-125": {
+      "letter-spacing": "0em",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500"
+    },
+    "cls-126": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-127": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500"
+    },
+    "cls-128": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-129": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-130": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-131": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-132": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "0em"
+    },
+    "cls-133": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "letter-spacing": "-.02em"
+    },
+    "cls-134": {
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-weight": "500",
+      "font-size": "30px"
+    },
+    "cls-135": {
+      "letter-spacing": ".15em"
+    },
+    "cls-136": {
+      "letter-spacing": ".23em"
+    },
+    "cls-137": {
+      "letter-spacing": ".21em"
+    },
+    "cls-138": {
+      "letter-spacing": ".14em"
+    },
+    "cls-139": {
+      "letter-spacing": ".22em"
+    },
+    "cls-140": {
+      "letter-spacing": ".23em"
+    },
+    "cls-141": {
+      "letter-spacing": ".21em"
+    },
+    "cls-142": {
+      "letter-spacing": ".23em"
+    },
+    "cls-143": {
+      "letter-spacing": ".04em"
+    },
+    "cls-144": {
+      "letter-spacing": ".22em"
+    },
+    "cls-145": {
+      "letter-spacing": ".15em"
+    },
+    "cls-146": {
+      "letter-spacing": ".26em"
+    },
+    "cls-147": {
+      "letter-spacing": ".23em"
+    },
+    "cls-148": {
+      "letter-spacing": ".23em"
+    },
+    "cls-149": {
+      "letter-spacing": ".15em"
+    },
+    "cls-150": {
+      "clip-path": "url(#clippath-4)"
+    },
+    "cls-151": {
+      "letter-spacing": ".23em"
+    },
+    "cls-152": {
+      "letter-spacing": ".07em"
+    },
+    "cls-153": {
+      "letter-spacing": ".22em"
+    },
+    "cls-154": {
+      "letter-spacing": ".23em"
+    },
+    "cls-155": {
+      "letter-spacing": ".14em"
+    },
+    "cls-156": {
+      "letter-spacing": ".23em"
+    },
+    "cls-157": {
+      "letter-spacing": ".24em"
+    },
+    "cls-158": {
+      "letter-spacing": ".24em"
+    },
+    "cls-159": {
+      "letter-spacing": ".03em"
+    },
+    "cls-160": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-161": {
+      "letter-spacing": ".08em"
+    },
+    "cls-162": {
+      "letter-spacing": ".15em"
+    },
+    "cls-163": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-164": {
+      "letter-spacing": ".17em"
+    },
+    "cls-165": {
+      "letter-spacing": ".22em"
+    },
+    "cls-166": {
+      "letter-spacing": ".21em"
+    },
+    "cls-167": {
+      "letter-spacing": ".24em"
+    },
+    "cls-168": {
+      "letter-spacing": ".23em"
+    },
+    "cls-169": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-170": {
+      "letter-spacing": ".23em"
+    },
+    "cls-171": {
+      "letter-spacing": ".15em"
+    },
+    "cls-172": {
+      "letter-spacing": ".14em"
+    },
+    "cls-173": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient-2)",
+      "opacity": ".5"
+    },
+    "cls-174": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient)"
+    },
+    "cls-175": {
+      "letter-spacing": ".2em"
+    },
+    "cls-176": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke": "#393939",
+      "stroke-width": ".1px",
+      "fill": "#393939"
+    },
+    "cls-177": {
+      "letter-spacing": ".22em"
+    },
+    "cls-178": {
+      "letter-spacing": ".23em"
+    },
+    "cls-179": {
+      "letter-spacing": ".14em"
+    },
+    "cls-180": {
+      "letter-spacing": ".15em"
+    },
+    "cls-181": {
+      "letter-spacing": ".24em"
+    },
+    "cls-182": {
+      "letter-spacing": ".23em"
+    },
+    "cls-183": {
+      "letter-spacing": ".22em"
+    },
+    "cls-184": {
+      "letter-spacing": ".14em"
+    },
+    "cls-185": {
+      "letter-spacing": ".24em"
+    },
+    "cls-186": {
+      "letter-spacing": ".23em"
+    },
+    "cls-187": {
+      "letter-spacing": ".23em"
+    },
+    "cls-188": {
+      "letter-spacing": ".21em"
+    },
+    "cls-189": {
+      "letter-spacing": ".07em"
+    },
+    "cls-190": {
+      "letter-spacing": ".23em"
+    },
+    "cls-191": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-192": {
+      "letter-spacing": ".11em"
+    },
+    "cls-193": {
+      "letter-spacing": ".23em"
+    },
+    "cls-194": {
+      "letter-spacing": ".22em"
+    },
+    "cls-195": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-196": {
+      "letter-spacing": ".23em"
+    },
+    "cls-197": {
+      "letter-spacing": ".04em"
+    },
+    "cls-198": {
+      "letter-spacing": ".08em"
+    },
+    "cls-199": {
+      "letter-spacing": ".15em"
+    },
+    "cls-200": {
+      "letter-spacing": ".22em"
+    },
+    "cls-201": {
+      "letter-spacing": ".23em"
+    },
+    "cls-202": {
+      "letter-spacing": ".04em"
+    },
+    "cls-203": {
+      "letter-spacing": ".22em"
+    },
+    "cls-204": {
+      "letter-spacing": ".14em"
+    },
+    "cls-205": {
+      "letter-spacing": ".14em"
+    },
+    "cls-206": {
+      "letter-spacing": ".24em"
+    },
+    "cls-207": {
+      "letter-spacing": ".22em"
+    },
+    "cls-208": {
+      "letter-spacing": ".02em"
+    },
+    "cls-209": {
+      "letter-spacing": ".24em"
+    },
+    "cls-210": {
+      "letter-spacing": "0em"
+    },
+    "cls-211": {
+      "letter-spacing": "0em",
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800"
+    },
+    "cls-212": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "-.1em"
+    },
+    "cls-213": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-214": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": ".2em"
+    },
+    "cls-215": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800"
+    },
+    "cls-216": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-217": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "-.02em"
+    },
+    "cls-218": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": ".21em"
+    },
+    "cls-219": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": ".22em"
+    },
+    "cls-220": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": ".21em"
+    },
+    "cls-221": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": ".2em"
+    },
+    "cls-222": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-223": {
+      "letter-spacing": ".23em"
+    },
+    "cls-224": {
+      "letter-spacing": ".22em"
+    },
+    "cls-225": {
+      "letter-spacing": ".15em"
+    },
+    "cls-226": {
+      "letter-spacing": ".24em"
+    },
+    "cls-227": {
+      "font-size": "16.48px"
+    },
+    "cls-228": {
+      "letter-spacing": ".11em"
+    },
+    "cls-229": {
+      "letter-spacing": ".26em"
+    },
+    "cls-230": {
+      "letter-spacing": ".18em"
+    },
+    "cls-231": {
+      "letter-spacing": "0em"
+    },
+    "cls-232": {
+      "letter-spacing": ".03em"
+    },
+    "cls-233": {
+      "letter-spacing": ".24em"
+    },
+    "cls-234": {
+      "letter-spacing": ".13em"
+    },
+    "cls-235": {
+      "letter-spacing": ".04em"
+    },
+    "cls-236": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-237": {
+      "letter-spacing": ".03em"
+    },
+    "cls-238": {
+      "letter-spacing": ".15em"
+    },
+    "cls-239": {
+      "letter-spacing": ".23em"
+    },
+    "cls-240": {
+      "letter-spacing": "0em"
+    },
+    "cls-241": {
+      "letter-spacing": ".14em"
+    },
+    "cls-242": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-243": {
+      "letter-spacing": ".24em"
+    },
+    "cls-244": {
+      "letter-spacing": ".23em"
+    },
+    "cls-245": {
+      "letter-spacing": ".23em"
+    },
+    "cls-246": {
+      "letter-spacing": ".16em"
+    },
+    "cls-247": {
+      "letter-spacing": ".15em"
+    },
+    "cls-248": {
+      "letter-spacing": ".15em"
+    },
+    "cls-249": {
+      "letter-spacing": ".22em"
+    },
+    "cls-250": {
+      "letter-spacing": ".03em"
+    },
+    "cls-251": {
+      "letter-spacing": ".21em"
+    },
+    "cls-252": {
+      "letter-spacing": ".24em"
+    },
+    "cls-253": {
+      "letter-spacing": ".15em"
+    },
+    "cls-254": {
+      "letter-spacing": ".15em"
+    },
+    "cls-255": {
+      "fill": "#c0833e"
+    },
+    "cls-256": {
+      "letter-spacing": ".13em"
+    },
+    "cls-257": {
+      "letter-spacing": ".13em"
+    },
+    "cls-258": {
+      "letter-spacing": ".22em"
+    },
+    "cls-259": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-260": {
+      "letter-spacing": ".23em"
+    },
+    "cls-261": {
+      "letter-spacing": ".16em"
+    },
+    "cls-262": {
+      "letter-spacing": ".21em"
+    },
+    "cls-263": {
+      "letter-spacing": ".22em"
+    },
+    "cls-264": {
+      "letter-spacing": ".24em"
+    },
+    "cls-265": {
+      "letter-spacing": ".23em"
+    },
+    "cls-266": {
+      "letter-spacing": ".24em"
+    },
+    "cls-267": {
+      "letter-spacing": ".12em"
+    },
+    "cls-268": {
+      "letter-spacing": ".03em"
+    },
+    "cls-269": {
+      "letter-spacing": ".23em"
+    },
+    "cls-270": {
+      "letter-spacing": ".24em"
+    },
+    "cls-271": {
+      "letter-spacing": ".23em"
+    },
+    "cls-272": {
+      "letter-spacing": ".1em"
+    },
+    "cls-273": {
+      "letter-spacing": "0em"
+    },
+    "cls-274": {
+      "letter-spacing": ".16em"
+    },
+    "cls-275": {
+      "letter-spacing": ".22em"
+    },
+    "cls-276": {
+      "letter-spacing": ".12em"
+    },
+    "cls-277": {
+      "letter-spacing": ".18em"
+    },
+    "cls-278": {
+      "letter-spacing": ".23em"
+    },
+    "cls-279": {
+      "letter-spacing": ".15em"
+    },
+    "cls-280": {
+      "letter-spacing": ".14em"
+    },
+    "cls-281": {
+      "letter-spacing": ".24em"
+    },
+    "cls-282": {
+      "letter-spacing": ".23em"
+    },
+    "cls-283": {
+      "letter-spacing": ".23em"
+    },
+    "cls-284": {
+      "letter-spacing": ".03em"
+    },
+    "cls-285": {
+      "letter-spacing": ".23em"
+    },
+    "cls-286": {
+      "letter-spacing": ".23em"
+    },
+    "cls-287": {
+      "letter-spacing": ".24em"
+    },
+    "cls-288": {
+      "letter-spacing": ".23em"
+    },
+    "cls-289": {
+      "letter-spacing": ".26em"
+    },
+    "cls-290": {
+      "letter-spacing": ".15em"
+    },
+    "cls-291": {
+      "letter-spacing": ".24em"
+    },
+    "cls-292": {
+      "letter-spacing": ".16em"
+    },
+    "cls-293": {
+      "letter-spacing": ".15em"
+    },
+    "cls-294": {
+      "letter-spacing": "0em"
+    },
+    "cls-295": {
+      "letter-spacing": ".07em"
+    },
+    "cls-296": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-297": {
+      "letter-spacing": ".23em"
+    },
+    "cls-298": {
+      "letter-spacing": ".23em"
+    },
+    "cls-299": {
+      "letter-spacing": "0em"
+    },
+    "cls-300": {
+      "letter-spacing": ".22em"
+    },
+    "cls-301": {
+      "letter-spacing": ".13em"
+    },
+    "cls-302": {
+      "letter-spacing": ".23em"
+    },
+    "cls-303": {
+      "letter-spacing": ".23em"
+    },
+    "cls-304": {
+      "letter-spacing": ".16em"
+    },
+    "cls-305": {
+      "letter-spacing": ".23em"
+    },
+    "cls-306": {
+      "letter-spacing": ".23em"
+    },
+    "cls-307": {
+      "letter-spacing": ".15em"
+    },
+    "cls-308": {
+      "letter-spacing": ".14em"
+    },
+    "cls-309": {
+      "letter-spacing": ".22em"
+    },
+    "cls-310": {
+      "letter-spacing": ".15em"
+    },
+    "cls-311": {
+      "letter-spacing": ".15em"
+    },
+    "cls-312": {
+      "letter-spacing": ".15em"
+    },
+    "cls-313": {
+      "letter-spacing": ".15em"
+    },
+    "cls-314": {
+      "letter-spacing": ".15em"
+    },
+    "cls-315": {
+      "letter-spacing": ".26em"
+    },
+    "cls-316": {
+      "letter-spacing": ".03em"
+    },
+    "cls-317": {
+      "letter-spacing": ".23em"
+    },
+    "cls-318": {
+      "letter-spacing": ".21em"
+    },
+    "cls-319": {
+      "letter-spacing": ".21em"
+    },
+    "cls-320": {
+      "letter-spacing": ".15em"
+    },
+    "cls-321": {
+      "letter-spacing": ".23em"
+    },
+    "cls-322": {
+      "letter-spacing": ".23em"
+    },
+    "cls-323": {
+      "letter-spacing": ".23em"
+    },
+    "cls-324": {
+      "letter-spacing": ".18em"
+    },
+    "cls-325": {
+      "letter-spacing": ".08em"
+    },
+    "cls-326": {
+      "letter-spacing": ".15em"
+    },
+    "cls-327": {
+      "letter-spacing": ".03em"
+    },
+    "cls-328": {
+      "letter-spacing": ".15em"
+    },
+    "cls-329": {
+      "letter-spacing": ".18em"
+    },
+    "cls-330": {
+      "letter-spacing": ".21em"
+    },
+    "cls-331": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-332": {
+      "letter-spacing": ".24em"
+    },
+    "cls-333": {
+      "letter-spacing": ".24em"
+    },
+    "cls-334": {
+      "letter-spacing": ".22em"
+    },
+    "cls-335": {
+      "letter-spacing": ".15em"
+    },
+    "cls-336": {
+      "letter-spacing": ".15em"
+    },
+    "cls-337": {
+      "letter-spacing": ".23em"
+    },
+    "cls-338": {
+      "letter-spacing": ".15em"
+    },
+    "cls-339": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-340": {
+      "letter-spacing": ".03em"
+    },
+    "cls-341": {
+      "letter-spacing": ".03em"
+    },
+    "cls-342": {
+      "letter-spacing": ".23em"
+    },
+    "cls-343": {
+      "letter-spacing": ".22em"
+    },
+    "cls-344": {
+      "letter-spacing": ".23em"
+    },
+    "cls-345": {
+      "letter-spacing": ".21em"
+    },
+    "cls-346": {
+      "letter-spacing": ".13em"
+    },
+    "cls-347": {
+      "letter-spacing": ".22em"
+    },
+    "cls-348": {
+      "letter-spacing": ".24em"
+    },
+    "cls-349": {
+      "letter-spacing": ".16em"
+    },
+    "cls-350": {
+      "letter-spacing": ".12em"
+    },
+    "cls-351": {
+      "letter-spacing": ".22em"
+    },
+    "cls-352": {
+      "letter-spacing": ".07em"
+    },
+    "cls-353": {
+      "letter-spacing": ".15em"
+    },
+    "cls-354": {
+      "letter-spacing": ".08em"
+    },
+    "cls-355": {
+      "letter-spacing": ".19em"
+    },
+    "cls-356": {
+      "letter-spacing": ".2em"
+    },
+    "cls-357": {
+      "letter-spacing": "0em"
+    },
+    "cls-358": {
+      "letter-spacing": ".22em"
+    },
+    "cls-359": {
+      "letter-spacing": ".23em"
+    },
+    "cls-360": {
+      "letter-spacing": ".16em"
+    },
+    "cls-361": {
+      "letter-spacing": ".15em"
+    },
+    "cls-362": {
+      "letter-spacing": ".2em"
+    },
+    "cls-363": {
+      "letter-spacing": ".04em"
+    },
+    "cls-364": {
+      "letter-spacing": ".23em"
+    },
+    "cls-365": {
+      "letter-spacing": ".14em"
+    },
+    "cls-366": {
+      "letter-spacing": ".13em"
+    },
+    "cls-367": {
+      "letter-spacing": ".22em"
+    },
+    "cls-368": {
+      "letter-spacing": ".23em"
+    },
+    "cls-369": {
+      "letter-spacing": ".23em"
+    },
+    "cls-370": {
+      "letter-spacing": ".2em"
+    },
+    "cls-371": {
+      "letter-spacing": "0em"
+    },
+    "cls-372": {
+      "letter-spacing": ".15em"
+    },
+    "cls-373": {
+      "letter-spacing": ".15em"
+    },
+    "cls-374": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-375": {
+      "letter-spacing": ".15em"
+    },
+    "cls-376": {
+      "letter-spacing": ".23em"
+    },
+    "cls-377": {
+      "letter-spacing": ".14em"
+    },
+    "cls-378": {
+      "letter-spacing": ".22em"
+    },
+    "cls-379": {
+      "letter-spacing": ".15em"
+    },
+    "cls-380": {
+      "letter-spacing": ".12em"
+    },
+    "cls-381": {
+      "letter-spacing": ".22em"
+    },
+    "cls-382": {
+      "letter-spacing": ".24em"
+    },
+    "cls-383": {
+      "letter-spacing": ".23em"
+    },
+    "cls-384": {
+      "letter-spacing": "0em"
+    },
+    "cls-385": {
+      "fill": "url(#linear-gradient-3)"
+    },
+    "cls-386": {
+      "letter-spacing": ".23em"
+    },
+    "cls-387": {
+      "letter-spacing": ".23em"
+    },
+    "cls-388": {
+      "letter-spacing": ".23em"
+    },
+    "cls-389": {
+      "letter-spacing": ".23em"
+    },
+    "cls-390": {
+      "letter-spacing": ".22em"
+    },
+    "cls-391": {
+      "letter-spacing": ".14em"
+    },
+    "cls-392": {
+      "letter-spacing": ".22em"
+    },
+    "cls-393": {
+      "letter-spacing": ".23em"
+    },
+    "cls-394": {
+      "letter-spacing": "0em"
+    },
+    "cls-395": {
+      "letter-spacing": ".24em"
+    },
+    "cls-396": {
+      "clip-path": "url(#clippath-1)"
+    },
+    "cls-397": {
+      "letter-spacing": ".23em"
+    },
+    "cls-398": {
+      "letter-spacing": ".14em"
+    },
+    "cls-399": {
+      "letter-spacing": ".23em"
+    },
+    "cls-400": {
+      "letter-spacing": ".22em"
+    },
+    "cls-401": {
+      "letter-spacing": ".15em"
+    },
+    "cls-402": {
+      "letter-spacing": ".23em"
+    },
+    "cls-403": {
+      "letter-spacing": ".13em"
+    },
+    "cls-404": {
+      "letter-spacing": ".23em"
+    },
+    "cls-405": {
+      "letter-spacing": ".23em"
+    },
+    "cls-406": {
+      "letter-spacing": ".14em"
+    },
+    "cls-407": {
+      "letter-spacing": ".14em"
+    },
+    "cls-408": {
+      "letter-spacing": ".23em"
+    },
+    "cls-409": {
+      "letter-spacing": ".14em"
+    },
+    "cls-410": {
+      "letter-spacing": ".23em"
+    },
+    "cls-411": {
+      "letter-spacing": ".23em"
+    },
+    "cls-412": {
+      "letter-spacing": "-.08em"
+    },
+    "cls-413": {
+      "letter-spacing": ".03em"
+    },
+    "cls-414": {
+      "letter-spacing": ".04em"
+    },
+    "cls-415": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-416": {
+      "letter-spacing": ".15em"
+    },
+    "cls-417": {
+      "letter-spacing": ".21em"
+    },
+    "cls-418": {
+      "letter-spacing": ".24em"
+    },
+    "cls-419": {
+      "letter-spacing": ".04em"
+    },
+    "cls-420": {
+      "letter-spacing": ".03em"
+    },
+    "cls-421": {
+      "letter-spacing": ".23em"
+    },
+    "cls-422": {
+      "letter-spacing": ".15em"
+    },
+    "cls-423": {
+      "letter-spacing": ".15em"
+    },
+    "cls-424": {
+      "letter-spacing": ".24em"
+    },
+    "cls-425": {
+      "letter-spacing": ".14em"
+    },
+    "cls-426": {
+      "letter-spacing": ".2em"
+    },
+    "cls-427": {
+      "letter-spacing": ".23em"
+    },
+    "cls-428": {
+      "letter-spacing": ".15em"
+    },
+    "cls-429": {
+      "letter-spacing": ".22em"
+    },
+    "cls-430": {
+      "letter-spacing": ".15em"
+    },
+    "cls-431": {
+      "letter-spacing": ".16em"
+    },
+    "cls-432": {
+      "letter-spacing": ".14em"
+    },
+    "cls-433": {
+      "letter-spacing": ".15em"
+    },
+    "cls-434": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-435": {
+      "letter-spacing": ".22em"
+    },
+    "cls-436": {
+      "letter-spacing": ".03em"
+    },
+    "cls-437": {
+      "isolation": "isolate"
+    },
+    "cls-438": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-439": {
+      "letter-spacing": ".24em"
+    },
+    "cls-440": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-441": {
+      "letter-spacing": ".14em"
+    },
+    "cls-442": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-443": {
+      "letter-spacing": ".23em"
+    },
+    "cls-444": {
+      "letter-spacing": ".23em"
+    },
+    "cls-445": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-446": {
+      "letter-spacing": ".24em"
+    },
+    "cls-447": {
+      "letter-spacing": ".13em"
+    },
+    "cls-448": {
+      "letter-spacing": ".23em"
+    },
+    "cls-449": {
+      "letter-spacing": ".16em"
+    },
+    "cls-450": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-451": {
+      "letter-spacing": ".04em"
+    },
+    "cls-452": {
+      "letter-spacing": ".22em"
+    },
+    "cls-453": {
+      "letter-spacing": ".24em"
+    },
+    "cls-454": {
+      "letter-spacing": ".21em"
+    },
+    "cls-455": {
+      "clip-path": "url(#clippath-5)"
+    },
+    "cls-456": {
+      "letter-spacing": ".24em"
+    },
+    "cls-457": {
+      "letter-spacing": ".23em"
+    },
+    "cls-458": {
+      "letter-spacing": ".14em"
+    },
+    "cls-459": {
+      "letter-spacing": ".24em"
+    },
+    "cls-460": {
+      "letter-spacing": ".15em"
+    },
+    "cls-461": {
+      "letter-spacing": ".22em"
+    },
+    "cls-462": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-463": {
+      "letter-spacing": ".15em"
+    },
+    "cls-464": {
+      "letter-spacing": ".15em"
+    },
+    "cls-465": {
+      "letter-spacing": ".23em"
+    },
+    "cls-466": {
+      "letter-spacing": ".03em"
+    },
+    "cls-467": {
+      "letter-spacing": ".15em"
+    },
+    "cls-468": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-469": {
+      "letter-spacing": ".22em"
+    },
+    "cls-470": {
+      "letter-spacing": ".18em"
+    },
+    "cls-471": {
+      "letter-spacing": ".23em"
+    },
+    "cls-472": {
+      "letter-spacing": ".23em"
+    },
+    "cls-473": {
+      "letter-spacing": ".23em"
+    },
+    "cls-474": {
+      "letter-spacing": ".22em"
+    },
+    "cls-475": {
+      "letter-spacing": ".14em"
+    },
+    "cls-476": {
+      "letter-spacing": ".22em"
+    },
+    "cls-477": {
+      "letter-spacing": ".25em"
+    },
+    "cls-478": {
+      "letter-spacing": ".18em"
+    },
+    "cls-479": {
+      "letter-spacing": ".15em"
+    },
+    "cls-480": {
+      "letter-spacing": ".08em"
+    },
+    "cls-481": {
+      "letter-spacing": ".23em"
+    },
+    "cls-482": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-483": {
+      "letter-spacing": ".22em"
+    },
+    "cls-484": {
+      "letter-spacing": ".26em"
+    },
+    "cls-485": {
+      "letter-spacing": ".15em"
+    },
+    "cls-486": {
+      "letter-spacing": ".23em"
+    },
+    "cls-487": {
+      "letter-spacing": ".15em"
+    },
+    "cls-488": {
+      "letter-spacing": ".15em"
+    },
+    "cls-489": {
+      "letter-spacing": ".15em"
+    },
+    "cls-490": {
+      "letter-spacing": ".23em"
+    },
+    "cls-491": {
+      "letter-spacing": ".23em"
+    },
+    "cls-492": {
+      "letter-spacing": ".14em"
+    },
+    "cls-493": {
+      "letter-spacing": ".23em"
+    },
+    "cls-494": {
+      "letter-spacing": ".15em"
+    },
+    "cls-495": {
+      "letter-spacing": "-.08em"
+    },
+    "cls-496": {
+      "letter-spacing": ".23em"
+    },
+    "cls-497": {
+      "letter-spacing": ".04em"
+    },
+    "cls-498": {
+      "clip-path": "url(#clippath-3)"
+    },
+    "cls-499": {
+      "letter-spacing": ".23em"
+    },
+    "cls-500": {
+      "letter-spacing": ".03em"
+    },
+    "cls-501": {
+      "letter-spacing": ".24em"
+    },
+    "cls-502": {
+      "letter-spacing": "0em"
+    },
+    "cls-503": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-504": {
+      "letter-spacing": ".22em"
+    },
+    "cls-505": {
+      "letter-spacing": ".22em"
+    },
+    "cls-506": {
+      "letter-spacing": ".03em"
+    },
+    "cls-507": {
+      "letter-spacing": ".15em"
+    },
+    "cls-508": {
+      "letter-spacing": ".15em"
+    },
+    "cls-509": {
+      "letter-spacing": ".23em"
+    },
+    "cls-510": {
+      "letter-spacing": ".25em"
+    },
+    "cls-511": {
+      "letter-spacing": ".23em"
+    },
+    "cls-512": {
+      "letter-spacing": ".23em"
+    },
+    "cls-513": {
+      "letter-spacing": ".22em"
+    },
+    "cls-514": {
+      "letter-spacing": ".24em"
+    },
+    "cls-515": {
+      "letter-spacing": ".23em"
+    },
+    "cls-516": {
+      "letter-spacing": ".14em"
+    },
+    "cls-517": {
+      "letter-spacing": ".2em"
+    },
+    "cls-518": {
+      "letter-spacing": "0em"
+    },
+    "cls-519": {
+      "letter-spacing": ".16em"
+    },
+    "cls-520": {
+      "letter-spacing": ".03em"
+    },
+    "cls-521": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-522": {
+      "letter-spacing": ".15em"
+    },
+    "cls-523": {
+      "letter-spacing": ".22em"
+    },
+    "cls-524": {
+      "letter-spacing": ".23em"
+    },
+    "cls-525": {
+      "letter-spacing": ".15em"
+    },
+    "cls-526": {
+      "letter-spacing": ".02em"
+    },
+    "cls-527": {
+      "letter-spacing": ".18em"
+    },
+    "cls-528": {
+      "letter-spacing": ".24em"
+    },
+    "cls-529": {
+      "letter-spacing": ".22em"
+    },
+    "cls-530": {
+      "letter-spacing": ".23em"
+    },
+    "cls-531": {
+      "letter-spacing": ".13em"
+    },
+    "cls-532": {
+      "letter-spacing": ".15em"
+    },
+    "cls-533": {
+      "letter-spacing": ".14em"
+    },
+    "cls-534": {
+      "letter-spacing": ".07em"
+    },
+    "cls-535": {
+      "letter-spacing": ".03em"
+    },
+    "cls-536": {
+      "letter-spacing": ".23em"
+    },
+    "cls-537": {
+      "letter-spacing": ".23em"
+    },
+    "cls-538": {
+      "letter-spacing": ".09em"
+    },
+    "cls-539": {
+      "letter-spacing": ".15em"
+    },
+    "cls-540": {
+      "letter-spacing": ".25em"
+    },
+    "cls-541": {
+      "letter-spacing": ".23em"
+    },
+    "cls-542": {
+      "letter-spacing": ".15em"
+    },
+    "cls-543": {
+      "letter-spacing": ".23em"
+    },
+    "cls-544": {
+      "letter-spacing": ".15em"
+    },
+    "cls-545": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-546": {
+      "letter-spacing": ".23em"
+    },
+    "cls-547": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-548": {
+      "letter-spacing": ".15em"
+    },
+    "cls-549": {
+      "letter-spacing": ".23em"
+    },
+    "cls-550": {
+      "letter-spacing": ".14em"
+    },
+    "cls-551": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-552": {
+      "letter-spacing": ".18em"
+    },
+    "cls-553": {
+      "letter-spacing": "-.1em"
+    },
+    "cls-554": {
+      "letter-spacing": ".04em"
+    },
+    "cls-555": {
+      "letter-spacing": "-.08em"
+    },
+    "cls-556": {
+      "letter-spacing": ".24em"
+    },
+    "cls-557": {
+      "letter-spacing": ".18em"
+    },
+    "cls-558": {
+      "letter-spacing": ".03em"
+    },
+    "cls-559": {
+      "letter-spacing": ".22em"
+    },
+    "cls-560": {
+      "letter-spacing": ".15em"
+    },
+    "cls-561": {
+      "letter-spacing": ".24em"
+    },
+    "cls-562": {
+      "letter-spacing": ".23em"
+    },
+    "cls-563": {
+      "letter-spacing": ".24em"
+    },
+    "cls-564": {
+      "letter-spacing": ".23em"
+    },
+    "cls-565": {
+      "letter-spacing": ".23em"
+    },
+    "cls-566": {
+      "letter-spacing": ".23em"
+    },
+    "cls-567": {
+      "letter-spacing": "-.08em"
+    },
+    "cls-568": {
+      "letter-spacing": ".16em"
+    },
+    "cls-569": {
+      "letter-spacing": ".23em"
+    },
+    "cls-570": {
+      "letter-spacing": ".13em"
+    },
+    "cls-571": {
+      "letter-spacing": ".07em"
+    },
+    "cls-572": {
+      "letter-spacing": ".22em"
+    },
+    "cls-573": {
+      "letter-spacing": "-.09em"
+    },
+    "cls-574": {
+      "letter-spacing": ".23em"
+    },
+    "cls-575": {
+      "letter-spacing": ".23em"
+    },
+    "cls-576": {
+      "letter-spacing": ".22em"
+    },
+    "cls-577": {
+      "letter-spacing": ".04em"
+    },
+    "cls-578": {
+      "letter-spacing": ".23em"
+    },
+    "cls-579": {
+      "letter-spacing": ".11em"
+    },
+    "cls-580": {
+      "letter-spacing": ".14em"
+    },
+    "cls-581": {
+      "letter-spacing": ".15em"
+    },
+    "cls-582": {
+      "letter-spacing": ".22em"
+    },
+    "cls-583": {
+      "letter-spacing": ".07em"
+    },
+    "cls-584": {
+      "letter-spacing": ".21em"
+    },
+    "cls-585": {
+      "letter-spacing": ".24em"
+    },
+    "cls-586": {
+      "letter-spacing": ".07em"
+    },
+    "cls-587": {
+      "letter-spacing": ".23em"
+    },
+    "cls-588": {
+      "letter-spacing": ".03em"
+    },
+    "cls-589": {
+      "letter-spacing": ".26em"
+    },
+    "cls-590": {
+      "letter-spacing": ".23em"
+    },
+    "cls-591": {
+      "letter-spacing": ".23em"
+    },
+    "cls-592": {
+      "letter-spacing": ".02em"
+    },
+    "cls-593": {
+      "letter-spacing": ".26em"
+    },
+    "cls-594": {
+      "letter-spacing": ".12em"
+    },
+    "cls-595": {
+      "letter-spacing": ".15em"
+    },
+    "cls-596": {
+      "letter-spacing": ".23em"
+    },
+    "cls-597": {
+      "letter-spacing": ".15em"
+    },
+    "cls-598": {
+      "letter-spacing": ".14em"
+    },
+    "cls-599": {
+      "letter-spacing": ".24em"
+    },
+    "cls-600": {
+      "letter-spacing": ".14em"
+    },
+    "cls-601": {
+      "letter-spacing": ".23em"
+    },
+    "cls-602": {
+      "letter-spacing": ".15em"
+    },
+    "cls-603": {
+      "letter-spacing": ".23em"
+    },
+    "cls-604": {
+      "letter-spacing": ".23em"
+    },
+    "cls-605": {
+      "letter-spacing": ".23em"
+    },
+    "cls-606": {
+      "letter-spacing": ".02em"
+    },
+    "cls-607": {
+      "letter-spacing": ".13em"
+    },
+    "cls-608": {
+      "letter-spacing": ".05em"
+    },
+    "cls-609": {
+      "letter-spacing": ".25em"
+    },
+    "cls-610": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-611": {
+      "letter-spacing": ".13em"
+    },
+    "cls-612": {
+      "letter-spacing": ".14em"
+    },
+    "cls-613": {
+      "font-family": "Satoshi-Regular, Satoshi",
+      "fill": "gray",
+      "font-size": "25px"
+    },
+    "cls-614": {
+      "letter-spacing": ".22em"
+    },
+    "cls-615": {
+      "letter-spacing": ".16em"
+    },
+    "cls-616": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-617": {
+      "letter-spacing": ".24em"
+    },
+    "cls-618": {
+      "letter-spacing": ".21em"
+    },
+    "cls-619": {
+      "letter-spacing": ".15em"
+    },
+    "cls-620": {
+      "letter-spacing": ".2em"
+    },
+    "cls-621": {
+      "letter-spacing": ".03em"
+    },
+    "cls-622": {
+      "letter-spacing": ".16em"
+    },
+    "cls-623": {
+      "letter-spacing": ".24em"
+    },
+    "cls-624": {
+      "letter-spacing": ".23em"
+    },
+    "cls-625": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-626": {
+      "letter-spacing": ".22em"
+    },
+    "cls-627": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-628": {
+      "letter-spacing": ".21em"
+    },
+    "cls-629": {
+      "letter-spacing": ".15em"
+    },
+    "cls-630": {
+      "letter-spacing": ".15em"
+    },
+    "cls-631": {
+      "letter-spacing": ".13em"
+    },
+    "cls-632": {
+      "letter-spacing": ".03em"
+    },
+    "cls-633": {
+      "letter-spacing": ".21em"
+    },
+    "cls-634": {
+      "letter-spacing": "0em"
+    },
+    "cls-635": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-636": {
+      "letter-spacing": ".16em"
+    },
+    "cls-637": {
+      "letter-spacing": ".22em"
+    },
+    "cls-638": {
+      "letter-spacing": ".23em"
+    },
+    "cls-639": {
+      "letter-spacing": ".21em"
+    },
+    "cls-640": {
+      "letter-spacing": ".23em"
+    },
+    "cls-641": {
+      "letter-spacing": ".23em"
+    },
+    "cls-642": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-643": {
+      "letter-spacing": ".15em"
+    },
+    "cls-644": {
+      "letter-spacing": ".22em"
+    },
+    "cls-645": {
+      "letter-spacing": ".23em"
+    },
+    "cls-646": {
+      "fill": "#393939"
+    },
+    "cls-647": {
+      "letter-spacing": ".22em"
+    },
+    "cls-648": {
+      "letter-spacing": ".14em"
+    },
+    "cls-649": {
+      "letter-spacing": ".15em"
+    },
+    "cls-650": {
+      "letter-spacing": ".23em"
+    },
+    "cls-651": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-652": {
+      "letter-spacing": ".16em"
+    },
+    "cls-653": {
+      "letter-spacing": ".22em"
+    },
+    "cls-654": {
+      "letter-spacing": ".23em"
+    },
+    "cls-655": {
+      "letter-spacing": ".03em"
+    },
+    "cls-656": {
+      "letter-spacing": ".14em"
+    },
+    "cls-657": {
+      "letter-spacing": ".14em"
+    },
+    "cls-658": {
+      "letter-spacing": ".15em"
+    },
+    "cls-659": {
+      "letter-spacing": ".15em"
+    },
+    "cls-660": {
+      "letter-spacing": ".13em"
+    },
+    "cls-661": {
+      "letter-spacing": ".13em"
+    },
+    "cls-662": {
+      "letter-spacing": "0em"
+    },
+    "cls-663": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-664": {
+      "letter-spacing": ".23em"
+    },
+    "cls-665": {
+      "letter-spacing": ".08em"
+    },
+    "cls-666": {
+      "letter-spacing": ".14em"
+    },
+    "cls-667": {
+      "letter-spacing": ".26em"
+    },
+    "cls-668": {
+      "letter-spacing": ".14em"
+    },
+    "cls-669": {
+      "letter-spacing": ".14em"
+    },
+    "cls-670": {
+      "letter-spacing": ".23em"
+    },
+    "cls-671": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-672": {
+      "letter-spacing": ".24em"
+    },
+    "cls-673": {
+      "letter-spacing": ".22em"
+    },
+    "cls-674": {
+      "letter-spacing": ".13em"
+    },
+    "cls-675": {
+      "letter-spacing": ".14em"
+    },
+    "cls-676": {
+      "letter-spacing": ".15em"
+    },
+    "cls-677": {
+      "letter-spacing": ".23em"
+    },
+    "cls-678": {
+      "letter-spacing": ".23em"
+    },
+    "cls-679": {
+      "letter-spacing": ".23em"
+    },
+    "cls-680": {
+      "letter-spacing": ".19em"
+    },
+    "cls-681": {
+      "letter-spacing": ".22em"
+    },
+    "cls-682": {
+      "letter-spacing": ".23em"
+    },
+    "cls-683": {
+      "letter-spacing": ".22em"
+    },
+    "cls-684": {
+      "letter-spacing": ".22em"
+    },
+    "cls-685": {
+      "letter-spacing": "0em"
+    },
+    "cls-686": {
+      "letter-spacing": ".13em"
+    },
+    "cls-687": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-688": {
+      "letter-spacing": ".23em"
+    },
+    "cls-689": {
+      "letter-spacing": ".19em"
+    },
+    "cls-690": {
+      "letter-spacing": ".13em"
+    },
+    "cls-691": {
+      "letter-spacing": ".14em"
+    },
+    "cls-692": {
+      "letter-spacing": ".24em"
+    },
+    "cls-693": {
+      "letter-spacing": ".25em"
+    },
+    "cls-694": {
+      "letter-spacing": ".23em"
+    },
+    "cls-695": {
+      "letter-spacing": ".15em"
+    },
+    "cls-696": {
+      "letter-spacing": ".22em"
+    },
+    "cls-697": {
+      "letter-spacing": ".2em"
+    },
+    "cls-698": {
+      "letter-spacing": ".23em"
+    },
+    "cls-699": {
+      "letter-spacing": ".22em"
+    },
+    "cls-700": {
+      "letter-spacing": ".23em"
+    },
+    "cls-701": {
+      "letter-spacing": ".22em"
+    },
+    "cls-702": {
+      "letter-spacing": ".15em"
+    },
+    "cls-703": {
+      "letter-spacing": ".18em"
+    },
+    "cls-704": {
+      "letter-spacing": ".22em"
+    },
+    "cls-705": {
+      "letter-spacing": ".16em"
+    },
+    "cls-706": {
+      "letter-spacing": ".22em"
+    },
+    "cls-707": {
+      "letter-spacing": ".23em"
+    },
+    "cls-708": {
+      "letter-spacing": ".15em"
+    },
+    "cls-709": {
+      "letter-spacing": ".15em"
+    },
+    "cls-710": {
+      "letter-spacing": ".23em"
+    },
+    "cls-711": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-712": {
+      "letter-spacing": ".15em"
+    },
+    "cls-713": {
+      "letter-spacing": ".22em"
+    },
+    "cls-714": {
+      "letter-spacing": ".23em"
+    },
+    "cls-715": {
+      "clip-path": "url(#clippath-2)"
+    },
+    "cls-716": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-717": {
+      "letter-spacing": ".25em"
+    },
+    "cls-718": {
+      "letter-spacing": ".24em"
+    },
+    "cls-719": {
+      "letter-spacing": ".24em"
+    },
+    "cls-720": {
+      "fill": "gray"
+    },
+    "cls-721": {
+      "letter-spacing": ".23em"
+    },
+    "cls-722": {
+      "letter-spacing": ".15em"
+    },
+    "cls-723": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-724": {
+      "letter-spacing": ".14em"
+    },
+    "cls-725": {
+      "letter-spacing": ".14em"
+    },
+    "cls-726": {
+      "letter-spacing": ".14em"
+    },
+    "cls-727": {
+      "letter-spacing": ".2em"
+    },
+    "cls-728": {
+      "letter-spacing": ".23em"
+    },
+    "cls-729": {
+      "letter-spacing": ".24em"
+    },
+    "cls-730": {
+      "letter-spacing": ".2em"
+    },
+    "cls-731": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-732": {
+      "letter-spacing": ".23em"
+    },
+    "cls-733": {
+      "letter-spacing": ".11em"
+    },
+    "cls-734": {
+      "letter-spacing": ".22em"
+    },
+    "cls-735": {
+      "letter-spacing": ".23em"
+    },
+    "cls-736": {
+      "letter-spacing": ".15em"
+    },
+    "cls-737": {
+      "letter-spacing": ".23em"
+    },
+    "cls-738": {
+      "letter-spacing": ".23em"
+    },
+    "cls-739": {
+      "letter-spacing": ".23em"
+    },
+    "cls-740": {
+      "letter-spacing": ".12em"
+    },
+    "cls-741": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-742": {
+      "letter-spacing": ".15em"
+    },
+    "cls-743": {
+      "letter-spacing": ".07em"
+    },
+    "cls-744": {
+      "letter-spacing": ".23em"
+    },
+    "cls-745": {
+      "letter-spacing": ".03em"
+    },
+    "cls-746": {
+      "letter-spacing": ".15em"
+    },
+    "cls-747": {
+      "letter-spacing": ".21em"
+    },
+    "cls-748": {
+      "letter-spacing": ".22em"
+    },
+    "cls-749": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-750": {
+      "letter-spacing": ".23em"
+    },
+    "cls-751": {
+      "letter-spacing": ".23em"
+    },
+    "cls-752": {
+      "letter-spacing": ".23em"
+    },
+    "cls-753": {
+      "letter-spacing": ".15em"
+    },
+    "cls-754": {
+      "letter-spacing": ".23em"
+    },
+    "cls-755": {
+      "letter-spacing": ".23em"
+    },
+    "cls-756": {
+      "letter-spacing": ".22em"
+    },
+    "cls-757": {
+      "letter-spacing": ".22em"
+    },
+    "cls-758": {
+      "letter-spacing": ".23em"
+    },
+    "cls-759": {
+      "letter-spacing": ".23em"
+    },
+    "cls-760": {
+      "letter-spacing": ".14em"
+    },
+    "cls-761": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-762": {
+      "letter-spacing": ".23em"
+    },
+    "cls-763": {
+      "letter-spacing": ".22em"
+    },
+    "cls-764": {
+      "letter-spacing": ".15em"
+    },
+    "cls-765": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-766": {
+      "letter-spacing": ".08em"
+    },
+    "cls-767": {
+      "letter-spacing": ".22em"
+    },
+    "cls-768": {
+      "letter-spacing": ".15em"
+    },
+    "cls-769": {
+      "letter-spacing": ".24em"
+    },
+    "cls-770": {
+      "letter-spacing": ".23em"
+    },
+    "cls-771": {
+      "letter-spacing": "0em"
+    },
+    "cls-772": {
+      "letter-spacing": ".13em"
+    },
+    "cls-773": {
+      "letter-spacing": ".14em"
+    },
+    "cls-774": {
+      "letter-spacing": ".15em"
+    },
+    "cls-775": {
+      "letter-spacing": ".14em"
+    },
+    "cls-776": {
+      "letter-spacing": ".23em"
+    },
+    "cls-777": {
+      "letter-spacing": ".16em"
+    },
+    "cls-778": {
+      "letter-spacing": ".23em"
+    },
+    "cls-779": {
+      "letter-spacing": ".24em"
+    },
+    "cls-780": {
+      "letter-spacing": ".23em"
+    },
+    "cls-781": {
+      "letter-spacing": ".16em"
+    },
+    "cls-782": {
+      "letter-spacing": ".24em"
+    },
+    "cls-783": {
+      "letter-spacing": ".23em"
+    },
+    "cls-784": {
+      "letter-spacing": ".08em"
+    },
+    "cls-785": {
+      "letter-spacing": ".15em"
+    },
+    "cls-786": {
+      "letter-spacing": ".24em"
+    },
+    "cls-787": {
+      "letter-spacing": ".15em"
+    },
+    "cls-788": {
+      "letter-spacing": ".25em"
+    },
+    "cls-789": {
+      "letter-spacing": ".23em"
+    },
+    "cls-790": {
+      "letter-spacing": ".23em"
+    },
+    "cls-791": {
+      "letter-spacing": ".23em"
+    },
+    "cls-792": {
+      "letter-spacing": ".23em"
+    },
+    "cls-793": {
+      "letter-spacing": ".15em"
+    },
+    "cls-794": {
+      "letter-spacing": ".21em"
+    },
+    "cls-795": {
+      "letter-spacing": ".13em"
+    },
+    "cls-796": {
+      "letter-spacing": ".16em"
+    },
+    "cls-797": {
+      "letter-spacing": ".18em"
+    },
+    "cls-798": {
+      "letter-spacing": ".14em"
+    },
+    "cls-799": {
+      "clip-path": "url(#clippath)"
+    },
+    "cls-800": {
+      "letter-spacing": ".23em"
+    },
+    "cls-801": {
+      "letter-spacing": ".23em"
+    },
+    "cls-802": {
+      "letter-spacing": ".23em"
+    },
+    "cls-803": {
+      "letter-spacing": ".15em"
+    },
+    "cls-804": {
+      "letter-spacing": ".23em"
+    },
+    "cls-805": {
+      "letter-spacing": ".15em"
+    },
+    "cls-806": {
+      "letter-spacing": ".24em"
+    },
+    "cls-807": {
+      "letter-spacing": ".23em"
+    },
+    "cls-808": {
+      "letter-spacing": ".15em"
+    },
+    "cls-809": {
+      "letter-spacing": ".15em"
+    },
+    "cls-810": {
+      "letter-spacing": ".23em"
+    },
+    "cls-811": {
+      "letter-spacing": ".15em"
+    },
+    "cls-812": {
+      "letter-spacing": ".2em"
+    },
+    "cls-813": {
+      "letter-spacing": ".22em"
+    },
+    "cls-814": {
+      "letter-spacing": ".14em"
+    },
+    "cls-815": {
+      "letter-spacing": ".23em"
+    },
+    "cls-816": {
+      "letter-spacing": ".14em"
+    },
+    "cls-817": {
+      "letter-spacing": ".23em"
+    },
+    "cls-818": {
+      "letter-spacing": ".09em"
+    },
+    "cls-819": {
+      "letter-spacing": ".04em"
+    },
+    "cls-820": {
+      "letter-spacing": ".22em"
+    },
+    "cls-821": {
+      "letter-spacing": ".22em"
+    },
+    "cls-822": {
+      "letter-spacing": ".15em"
+    },
+    "cls-823": {
+      "letter-spacing": ".07em"
+    },
+    "cls-824": {
+      "letter-spacing": ".16em"
+    },
+    "cls-825": {
+      "letter-spacing": ".22em"
+    },
+    "cls-826": {
+      "letter-spacing": ".24em"
+    },
+    "cls-827": {
+      "letter-spacing": ".24em"
+    },
+    "cls-828": {
+      "letter-spacing": ".23em"
+    },
+    "cls-829": {
+      "letter-spacing": ".22em"
+    },
+    "cls-830": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-831": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-832": {
+      "letter-spacing": ".26em"
+    },
+    "cls-833": {
+      "letter-spacing": ".24em"
+    },
+    "cls-834": {
+      "letter-spacing": ".22em"
+    },
+    "cls-835": {
+      "letter-spacing": ".23em"
+    },
+    "cls-836": {
+      "letter-spacing": ".23em"
+    },
+    "cls-837": {
+      "letter-spacing": ".22em"
+    },
+    "cls-838": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-839": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-840": {
+      "letter-spacing": ".14em"
+    },
+    "cls-841": {
+      "letter-spacing": ".22em"
+    },
+    "cls-842": {
+      "letter-spacing": ".04em"
+    },
+    "cls-843": {
+      "letter-spacing": ".23em"
+    },
+    "cls-844": {
+      "letter-spacing": ".23em"
+    }
+  },
+  "colors": [
+    "#2f1d10",
+    "#87402b",
+    "#fff",
+    "#8e4300",
+    "none",
+    "#f4e9e1",
+    "#e3d0bc",
+    "#fff6ee",
+    "url(#linear-gradient-2)",
+    "url(#linear-gradient)",
+    "#393939",
+    "#c0833e",
+    "url(#linear-gradient-3)",
+    "gray"
+  ],
+  "texts": [
+    {
+      "x": 923.31,
+      "y": 79.09,
+      "scale": 1,
+      "fontFamily": "Helvetica-Bold, Helvetica",
+      "fontSize": "15.1px",
+      "fontWeight": "700",
+      "letterSpacing": ".1em",
+      "fill": "#fff",
+      "classes": [
+        "cls-62"
+      ],
+      "text": [
+        "cbhali.com"
+      ]
+    },
+    {
+      "x": 870.86,
+      "y": 186.13,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "71.48px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-64"
+      ],
+      "text": [
+        "H",
+        "a",
+        "L",
+        "i"
+      ]
+    },
+    {
+      "x": 807.513,
+      "y": 10270.5578,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "175.57px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-70"
+      ],
+      "text": [
+        "H",
+        "a",
+        "L",
+        "i"
+      ]
+    },
+    {
+      "x": 1195.4422,
+      "y": 10168.0734,
+      "scale": 1,
+      "fontFamily": "Satoshi-Regular, Satoshi",
+      "fontSize": "70.07px",
+      "fontWeight": null,
+      "letterSpacing": ".02em",
+      "fill": "#fff",
+      "classes": [
+        "cls-73"
+      ],
+      "text": [
+        "®"
+      ]
+    },
+    {
+      "x": 846.8126,
+      "y": 10319.8449,
+      "scale": 1,
+      "fontFamily": "Satoshi-Bold, Satoshi",
+      "fontSize": "14.01px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-74"
+      ],
+      "text": [
+        "C",
+        "R",
+        "A",
+        "F",
+        "T",
+        "E",
+        "D",
+        "F",
+        "O",
+        "R",
+        "V",
+        "I",
+        "S",
+        "I",
+        "O",
+        "NA",
+        "R",
+        "I",
+        "E",
+        "S"
+      ]
+    },
+    {
+      "x": 108.68,
+      "y": 674.9,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "172.4px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-17"
+      ],
+      "text": [
+        "C",
+        "o",
+        "llections"
+      ]
+    },
+    {
+      "x": 115.21,
+      "y": 765.14,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "70.46px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-30"
+      ],
+      "text": [
+        "A",
+        "v",
+        "aila",
+        "b",
+        "le N",
+        "o",
+        "w /",
+        "R",
+        "e",
+        "ady",
+        "t",
+        "o Ship"
+      ]
+    },
+    {
+      "x": 139.4378,
+      "y": 1209.1425,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "40px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-65"
+      ],
+      "text": [
+        "E",
+        "Q",
+        "U",
+        "U",
+        "S -",
+        "S",
+        "O",
+        "M",
+        "A -",
+        "M",
+        "A",
+        "N",
+        "C",
+        "HAH",
+        "A",
+        "-",
+        "A",
+        "M",
+        "HA",
+        "R",
+        "A -",
+        "A",
+        "R",
+        "Y",
+        "A -",
+        "M",
+        "A",
+        "O",
+        "R",
+        "I -",
+        "NU",
+        "M",
+        "U <tspan class=\"cls-618\" x=\"84.76\" y=\"67.13\">S",
+        "E",
+        "R",
+        "E",
+        "N",
+        "U",
+        "S -",
+        "S",
+        "O",
+        "L",
+        "A",
+        "T",
+        "I",
+        "U",
+        "M -",
+        "M",
+        "I",
+        "N",
+        "O",
+        "S -",
+        "F",
+        "O",
+        "R",
+        "A -",
+        "H",
+        "E",
+        "L",
+        "I",
+        "O",
+        "S -",
+        "V",
+        "I",
+        "N",
+        "T",
+        "A",
+        "G",
+        "E/tspan"
+      ]
+    },
+    {
+      "x": 275.6672,
+      "y": 2501.078,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "25.57px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-24"
+      ],
+      "text": [
+        "E",
+        "a",
+        "c",
+        "h",
+        "c",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "i",
+        "s a",
+        "c",
+        "h",
+        "a",
+        "p",
+        "t",
+        "e",
+        "r",
+        "o",
+        "f",
+        "o",
+        "u",
+        "r",
+        "s",
+        "t",
+        "o",
+        "r",
+        "y",
+        ".",
+        "O",
+        "u",
+        "r",
+        "r",
+        "u",
+        "g",
+        "s",
+        "a",
+        "r",
+        "e",
+        "n",
+        "o",
+        "t",
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n",
+        "e",
+        "d",
+        "a",
+        "s",
+        "i",
+        "s",
+        "o",
+        "l",
+        "a",
+        "t",
+        "e",
+        "d",
+        "p",
+        "i",
+        "e",
+        "c",
+        "e",
+        "s",
+        ",",
+        "b",
+        "u",
+        "t",
+        "a",
+        "s",
+        "c",
+        "u",
+        "r",
+        "a",
+        "t",
+        "e",
+        "d",
+        "f",
+        "a",
+        "m",
+        "il",
+        "i",
+        "e",
+        "s",
+        "t",
+        "h",
+        "a",
+        "t",
+        "e",
+        "x",
+        "p",
+        "r",
+        "e",
+        "s",
+        "s",
+        "t",
+        "h",
+        "e",
+        "e",
+        "s",
+        "s",
+        "en",
+        "c",
+        "e",
+        "o",
+        "f",
+        "o",
+        "u",
+        "r",
+        "b",
+        "r",
+        "a",
+        "n",
+        "d —",
+        "b",
+        "a",
+        "l",
+        "a",
+        "nc",
+        "e",
+        ",",
+        "c",
+        "r",
+        "a",
+        "f",
+        "t",
+        "s",
+        "ma",
+        "n",
+        "s",
+        "h",
+        "i",
+        "p",
+        ",",
+        "a",
+        "n",
+        "d",
+        "q",
+        "u",
+        "i",
+        "e",
+        "t",
+        "s",
+        "o",
+        "p",
+        "h",
+        "i",
+        "s",
+        "t",
+        "i",
+        "c",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        ".",
+        "E",
+        "v",
+        "e",
+        "r",
+        "y",
+        "c",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "e",
+        "x",
+        "p",
+        "l",
+        "o",
+        "r",
+        "e",
+        "s a",
+        "d",
+        "i",
+        "s",
+        "t",
+        "i",
+        "n",
+        "c",
+        "t",
+        "i",
+        "de",
+        "a",
+        ",",
+        "m",
+        "oo",
+        "d",
+        ",",
+        "o",
+        "r",
+        "m",
+        "a",
+        "t",
+        "e",
+        "r",
+        "i",
+        "a",
+        "l",
+        "l",
+        "a",
+        "n",
+        "gu",
+        "ag",
+        "e",
+        ",",
+        "w",
+        "h",
+        "i",
+        "l",
+        "e",
+        "r",
+        "e",
+        "m",
+        "a",
+        "i",
+        "n",
+        "i",
+        "n",
+        "g",
+        "c",
+        "o",
+        "n",
+        "n",
+        "e",
+        "c",
+        "t",
+        "e",
+        "d",
+        "b",
+        "y a",
+        "s",
+        "h",
+        "a",
+        "r",
+        "e",
+        "d",
+        "p",
+        "h",
+        "i",
+        "l",
+        "o",
+        "s",
+        "o",
+        "p",
+        "h",
+        "y",
+        "o",
+        "f",
+        "t",
+        "i",
+        "m",
+        "e",
+        "l",
+        "e",
+        "s",
+        "s",
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n",
+        "a",
+        "n",
+        "d",
+        "i",
+        "n",
+        "t",
+        "e",
+        "n",
+        "t",
+        "i",
+        "o",
+        "n",
+        "a",
+        "l",
+        "l",
+        "i",
+        "v",
+        "i",
+        "n",
+        "g",
+        ".",
+        "F",
+        "r",
+        "o",
+        "m",
+        "s",
+        "u",
+        "b",
+        "t",
+        "l",
+        "e",
+        "t",
+        "e",
+        "x",
+        "t",
+        "u",
+        "r",
+        "e",
+        "s",
+        "t",
+        "o",
+        "e",
+        "x",
+        "p",
+        "r",
+        "e",
+        "s",
+        "s",
+        "i",
+        "v",
+        "e",
+        "w",
+        "e",
+        "a",
+        "v",
+        "e",
+        "s",
+        ",",
+        "e",
+        "a",
+        "c",
+        "h",
+        "c",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "r",
+        "e",
+        "f",
+        "l",
+        "e",
+        "c",
+        "t",
+        "s a",
+        "w",
+        "a",
+        "y",
+        "o",
+        "f",
+        "i",
+        "n",
+        "h",
+        "a",
+        "b",
+        "i",
+        "t",
+        "i",
+        "n",
+        "g",
+        "s",
+        "p",
+        "ac",
+        "e",
+        ":",
+        "c",
+        "a",
+        "l",
+        "m",
+        ",",
+        "h",
+        "o",
+        "n",
+        "e",
+        "s",
+        "t",
+        ",",
+        "a",
+        "n",
+        "d",
+        "en",
+        "d",
+        "u",
+        "r",
+        "i",
+        "n",
+        "g",
+        ".",
+        "T",
+        "o",
+        "g",
+        "e",
+        "t",
+        "he",
+        "r",
+        ",",
+        "t",
+        "h",
+        "e",
+        "y",
+        "f",
+        "o",
+        "r",
+        "m a",
+        "c",
+        "o",
+        "h",
+        "e",
+        "s",
+        "i",
+        "v",
+        "e",
+        "u",
+        "n",
+        "i",
+        "v",
+        "e",
+        "r",
+        "s",
+        "e",
+        "w",
+        "he",
+        "r",
+        "e",
+        "f",
+        "o",
+        "r",
+        "m",
+        ",",
+        "f",
+        "u",
+        "n",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        ",",
+        "a",
+        "n",
+        "d",
+        "e",
+        "m",
+        "o",
+        "t",
+        "i",
+        "o",
+        "n",
+        "m",
+        "e",
+        "e",
+        "t",
+        ".",
+        "D",
+        "i",
+        "s",
+        "c",
+        "o",
+        "v",
+        "e",
+        "r",
+        "t",
+        "h",
+        "e",
+        "c",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "t",
+        "h",
+        "a",
+        "t",
+        "r",
+        "e",
+        "s",
+        "o",
+        "n",
+        "a",
+        "t",
+        "e",
+        "s",
+        "w",
+        "i",
+        "t",
+        "h",
+        "y",
+        "o",
+        "u",
+        "r",
+        "s",
+        "p",
+        "ac",
+        "e —",
+        "a",
+        "n",
+        "d",
+        "w",
+        "i",
+        "t",
+        "h",
+        "y",
+        "o",
+        "u",
+        "."
+      ]
+    },
+    {
+      "x": 275.6671,
+      "y": 2294.6801,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "106.56px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#2f1d10",
+      "classes": [
+        "cls-6"
+      ],
+      "text": [
+        "C",
+        "o",
+        "llections"
+      ]
+    },
+    {
+      "x": 1367.6555,
+      "y": 11073.1909,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "16.48px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-227"
+      ],
+      "text": [
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n",
+        "e",
+        "d",
+        "b",
+        "y",
+        "@",
+        "_",
+        "P",
+        "a",
+        "r",
+        "g",
+        "o",
+        "-",
+        "S",
+        "a",
+        "n",
+        "t",
+        "a",
+        "M",
+        "a",
+        "r",
+        "t",
+        "a /",
+        "C",
+        "o",
+        "l",
+        "o",
+        "m",
+        "b",
+        "i",
+        "a",
+        "20",
+        "2",
+        "6",
+        "."
+      ]
+    },
+    {
+      "x": 143.614,
+      "y": 10797.0594,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-134"
+      ],
+      "text": [
+        "H",
+        "o",
+        "m",
+        "e",
+        "C",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s",
+        "C",
+        "u",
+        "s",
+        "t",
+        "o",
+        "m",
+        "C",
+        "o",
+        "n",
+        "t",
+        "r",
+        "a",
+        "c",
+        "t"
+      ]
+    },
+    {
+      "x": 138.4302,
+      "y": 11075.8967,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "21px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-27"
+      ],
+      "text": [
+        "P",
+        "r",
+        "o",
+        "d",
+        "u",
+        "c",
+        "t",
+        "c",
+        "a",
+        "t",
+        "a",
+        "l",
+        "o",
+        "g -",
+        "T",
+        "e",
+        "r",
+        "m",
+        "s &amp;",
+        "C",
+        "o",
+        "n",
+        "d",
+        "i",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s -",
+        "C",
+        "o",
+        "m",
+        "e",
+        "r",
+        "c",
+        "i",
+        "a",
+        "l",
+        "T",
+        "e",
+        "r",
+        "m",
+        "s -",
+        "C",
+        "a",
+        "r",
+        "e &amp;",
+        "m",
+        "a",
+        "i",
+        "n",
+        "t",
+        "e",
+        "n",
+        "a",
+        "nc",
+        "e -",
+        "P",
+        "a",
+        "r",
+        "t",
+        "ne",
+        "r",
+        "P",
+        "r",
+        "o",
+        "g",
+        "r",
+        "a",
+        "m"
+      ]
+    },
+    {
+      "x": 416.0915,
+      "y": 10797.0594,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-134"
+      ],
+      "text": [
+        "A",
+        "b",
+        "o",
+        "u",
+        "t",
+        "U",
+        "s",
+        "B",
+        "l",
+        "o",
+        "g &amp;",
+        "I",
+        "n",
+        "s",
+        "p",
+        "i",
+        "r",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        "C",
+        "o",
+        "n",
+        "t",
+        "a",
+        "c",
+        "t &amp;",
+        "D",
+        "e",
+        "a",
+        "l",
+        "e",
+        "r",
+        "s"
+      ]
+    },
+    {
+      "x": 277.0196,
+      "y": 1667.7208,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "112.76px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#87402b",
+      "classes": [
+        "cls-10"
+      ],
+      "text": [
+        "Cu",
+        "r",
+        "a",
+        "t",
+        "ed pie",
+        "c",
+        "es",
+        "A",
+        "v",
+        "aila",
+        "b",
+        "le",
+        "f",
+        "or",
+        "Immedia",
+        "t",
+        "e",
+        "Deli",
+        "v",
+        "ery."
+      ]
+    },
+    {
+      "x": 1012.2023,
+      "y": 3443.6879,
+      "scale": 1,
+      "fontFamily": "Satoshi-Regular, Satoshi",
+      "fontSize": "25px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-613"
+      ],
+      "text": [
+        "I",
+        "n",
+        "s",
+        "p",
+        "i",
+        "r",
+        "e",
+        "d",
+        "b",
+        "y",
+        "t",
+        "h",
+        "e",
+        "m",
+        "e",
+        "a",
+        "n",
+        "i",
+        "n",
+        "g",
+        "o",
+        "f",
+        "i",
+        "t",
+        "s",
+        "n",
+        "a",
+        "m",
+        "e —",
+        "c",
+        "o",
+        "m",
+        "m",
+        "o",
+        "n",
+        ",",
+        "n",
+        "a",
+        "t",
+        "u",
+        "r",
+        "a",
+        "l",
+        ",",
+        "e",
+        "s",
+        "s",
+        "e",
+        "n",
+        "t",
+        "i",
+        "a",
+        "l —",
+        "M",
+        "A",
+        "O",
+        "R",
+        "I",
+        "e",
+        "m",
+        "b",
+        "r",
+        "a",
+        "c",
+        "e",
+        "s",
+        "t",
+        "h",
+        "e",
+        "q",
+        "u",
+        "i",
+        "e",
+        "t",
+        "s",
+        "t",
+        "r",
+        "e",
+        "n",
+        "g",
+        "t",
+        "h",
+        "o",
+        "f",
+        "ra",
+        "w",
+        "m",
+        "a",
+        "t",
+        "e",
+        "r",
+        "i",
+        "a",
+        "l",
+        "s",
+        ".",
+        "C",
+        "r",
+        "a",
+        "f",
+        "t",
+        "e",
+        "d",
+        "i",
+        "n",
+        "1",
+        "0",
+        "0",
+        "%",
+        "w",
+        "o",
+        "o",
+        "l",
+        ",",
+        "e",
+        "a",
+        "c",
+        "h",
+        "p",
+        "i",
+        "e",
+        "c",
+        "e",
+        "c",
+        "e",
+        "l",
+        "e",
+        "b",
+        "r",
+        "a",
+        "t",
+        "e",
+        "s",
+        "t",
+        "e",
+        "x",
+        "t",
+        "u",
+        "r",
+        "e",
+        "i",
+        "n",
+        "i",
+        "t",
+        "s",
+        "mo",
+        "s",
+        "t",
+        "h",
+        "o",
+        "n",
+        "e",
+        "s",
+        "t",
+        "f",
+        "o",
+        "r",
+        "m",
+        ".",
+        "W",
+        "o",
+        "v",
+        "e",
+        "n",
+        "r",
+        "a",
+        "t",
+        "h",
+        "e",
+        "r",
+        "t",
+        "h",
+        "a",
+        "n",
+        "t",
+        "u",
+        "f",
+        "t",
+        "e",
+        "d",
+        ",",
+        "i",
+        "t",
+        "s",
+        "s",
+        "t",
+        "r",
+        "u",
+        "c",
+        "t",
+        "u",
+        "r",
+        "e",
+        "r",
+        "e",
+        "v",
+        "e",
+        "a",
+        "l",
+        "s a",
+        "m",
+        "o",
+        "r",
+        "e",
+        "o",
+        "r",
+        "g",
+        "a",
+        "n",
+        "i",
+        "c",
+        ",",
+        "g",
+        "r",
+        "o",
+        "u",
+        "n",
+        "d",
+        "e",
+        "d",
+        "c",
+        "h",
+        "a",
+        "r",
+        "a",
+        "c",
+        "t",
+        "e",
+        "r",
+        ".",
+        "Th",
+        "e",
+        "f",
+        "i",
+        "n",
+        "i",
+        "s",
+        "h",
+        "i",
+        "s",
+        "t",
+        "a",
+        "c",
+        "t",
+        "i",
+        "l",
+        "e",
+        ",",
+        "s",
+        "l",
+        "ig",
+        "h",
+        "t",
+        "l",
+        "y",
+        "r",
+        "u",
+        "s",
+        "t",
+        "i",
+        "c",
+        ",",
+        "i",
+        "n",
+        "t",
+        "e",
+        "n",
+        "t",
+        "i",
+        "o",
+        "n",
+        "a",
+        "l",
+        "l",
+        "y",
+        "i",
+        "m",
+        "p",
+        "e",
+        "r",
+        "f",
+        "e",
+        "c",
+        "t —",
+        "e",
+        "c",
+        "h",
+        "o",
+        "i",
+        "n",
+        "g",
+        "t",
+        "h",
+        "e",
+        "g",
+        "r",
+        "o",
+        "w",
+        "i",
+        "n",
+        "g",
+        "m",
+        "o",
+        "v",
+        "e",
+        "m",
+        "e",
+        "n",
+        "t",
+        "t",
+        "o",
+        "w",
+        "a",
+        "r",
+        "d",
+        "n",
+        "a",
+        "t",
+        "u",
+        "r",
+        "a",
+        "l",
+        "f",
+        "i",
+        "b",
+        "e",
+        "r",
+        "s",
+        "a",
+        "n",
+        "d",
+        "e",
+        "l",
+        "e",
+        "m",
+        "e",
+        "n",
+        "t",
+        "a",
+        "l",
+        "i",
+        "n",
+        "t",
+        "e",
+        "r",
+        "i",
+        "o",
+        "r",
+        "s",
+        ".",
+        "D",
+        "e",
+        "s",
+        "ig",
+        "n",
+        "e",
+        "d",
+        "i",
+        "n",
+        "n",
+        "e",
+        "u",
+        "t",
+        "r",
+        "a",
+        "l",
+        "p",
+        "a",
+        "l",
+        "e",
+        "t",
+        "t",
+        "e",
+        "s",
+        "w",
+        "i",
+        "t",
+        "h",
+        "s",
+        "e",
+        "l",
+        "e",
+        "c",
+        "t",
+        "t",
+        "o",
+        "n",
+        "a",
+        "l",
+        "e",
+        "x",
+        "p",
+        "l",
+        "o",
+        "r",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s",
+        ",",
+        "M",
+        "A",
+        "O",
+        "R",
+        "I",
+        "b",
+        "ri",
+        "n",
+        "g",
+        "s",
+        "w",
+        "a",
+        "r",
+        "m",
+        "t",
+        "h",
+        ",",
+        "d",
+        "u",
+        "r",
+        "a",
+        "b",
+        "i",
+        "l",
+        "i",
+        "t",
+        "y",
+        "a",
+        "n",
+        "d",
+        "u",
+        "n",
+        "d",
+        "e",
+        "r",
+        "s",
+        "t",
+        "a",
+        "t",
+        "e",
+        "d",
+        "p",
+        "r",
+        "e",
+        "s",
+        "e",
+        "n",
+        "c",
+        "e",
+        "t",
+        "o",
+        "h",
+        "ig",
+        "h",
+        "-",
+        "t",
+        "r",
+        "a",
+        "f",
+        "f",
+        "i",
+        "c",
+        "s",
+        "p",
+        "a",
+        "c",
+        "e",
+        "s",
+        "."
+      ]
+    },
+    {
+      "x": 117.435,
+      "y": 4607.4884,
+      "scale": 1,
+      "fontFamily": "Satoshi-Regular, Satoshi",
+      "fontSize": "25px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-613"
+      ],
+      "text": [
+        "R",
+        "o",
+        "o",
+        "t",
+        "e",
+        "d",
+        "i",
+        "n",
+        "t",
+        "h",
+        "e",
+        "i",
+        "d",
+        "e",
+        "a",
+        "o",
+        "f",
+        "t",
+        "h",
+        "e",
+        "bo",
+        "d",
+        "y",
+        "a",
+        "s",
+        "t",
+        "h",
+        "e",
+        "v",
+        "e",
+        "s",
+        "s",
+        "e",
+        "l",
+        "o",
+        "f",
+        "t",
+        "h",
+        "e",
+        "s",
+        "o",
+        "u",
+        "l",
+        ",",
+        "S",
+        "O",
+        "M",
+        "A",
+        "i",
+        "s",
+        "c",
+        "o",
+        "n",
+        "c",
+        "e",
+        "i",
+        "v",
+        "e",
+        "d",
+        "a",
+        "s a",
+        "q",
+        "u",
+        "i",
+        "e",
+        "t",
+        "p",
+        "r",
+        "e",
+        "s",
+        "e",
+        "n",
+        "c",
+        "e —",
+        "r",
+        "e",
+        "f",
+        "i",
+        "n",
+        "e",
+        "d",
+        ",",
+        "i",
+        "n",
+        "t",
+        "e",
+        "n",
+        "t",
+        "i",
+        "o",
+        "n",
+        "a",
+        "l",
+        "a",
+        "n",
+        "d",
+        "d",
+        "e",
+        "e",
+        "p",
+        "l",
+        "y",
+        "h",
+        "a",
+        "r",
+        "m",
+        "o",
+        "ni",
+        "o",
+        "u",
+        "s",
+        ".S",
+        "u",
+        "b",
+        "l",
+        "i",
+        "m",
+        "e",
+        "l",
+        "y",
+        "s",
+        "o",
+        "f",
+        "t",
+        "a",
+        "n",
+        "d",
+        "m",
+        "o",
+        "n",
+        "o",
+        "c",
+        "h",
+        "r",
+        "o",
+        "m",
+        "a",
+        "t",
+        "i",
+        "c",
+        ",",
+        "i",
+        "t",
+        "r",
+        "e",
+        "v",
+        "e",
+        "a",
+        "l",
+        "s",
+        "i",
+        "t",
+        "s",
+        "d",
+        "e",
+        "s",
+        "ig",
+        "n",
+        "t",
+        "h",
+        "r",
+        "o",
+        "u",
+        "g",
+        "h",
+        "s",
+        "u",
+        "b",
+        "t",
+        "l",
+        "e",
+        "d",
+        "e",
+        "t",
+        "a",
+        "i",
+        "l",
+        "i",
+        "n",
+        "g",
+        "r",
+        "a",
+        "t",
+        "h",
+        "e",
+        "r",
+        "t",
+        "h",
+        "a",
+        "n",
+        "c",
+        "o",
+        "n",
+        "t",
+        "r",
+        "a",
+        "s",
+        "t",
+        ".",
+        "I",
+        "t",
+        "s",
+        "s",
+        "o",
+        "p",
+        "h",
+        "i",
+        "s",
+        "t",
+        "i",
+        "c",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        "l",
+        "i",
+        "e",
+        "s",
+        "i",
+        "n",
+        "r",
+        "e",
+        "s",
+        "t",
+        "r",
+        "a",
+        "i",
+        "n",
+        "t —",
+        "i",
+        "n",
+        "t",
+        "h",
+        "e",
+        "b",
+        "a",
+        "l",
+        "a",
+        "n",
+        "c",
+        "e",
+        "b",
+        "e",
+        "t",
+        "w",
+        "e",
+        "e",
+        "n",
+        "t",
+        "e",
+        "x",
+        "t",
+        "u",
+        "r",
+        "e",
+        ",",
+        "t",
+        "o",
+        "n",
+        "e",
+        "a",
+        "n",
+        "d",
+        "p",
+        "r",
+        "o",
+        "p",
+        "o",
+        "r",
+        "t",
+        "i",
+        "o",
+        "n",
+        ".",
+        "D",
+        "e",
+        "s",
+        "ig",
+        "n",
+        "e",
+        "d",
+        "i",
+        "n",
+        "t",
+        "i",
+        "m",
+        "e",
+        "l",
+        "e",
+        "s",
+        "s",
+        "n",
+        "e",
+        "u",
+        "t",
+        "r",
+        "a",
+        "l",
+        "s",
+        ",",
+        "S",
+        "O",
+        "M",
+        "A",
+        "a",
+        "d",
+        "a",
+        "p",
+        "t",
+        "s",
+        "e",
+        "f",
+        "f",
+        "o",
+        "r",
+        "t",
+        "l",
+        "e",
+        "s",
+        "s",
+        "l",
+        "y",
+        "t",
+        "o",
+        "d",
+        "i",
+        "v",
+        "e",
+        "r",
+        "s",
+        "e",
+        "i",
+        "n",
+        "t",
+        "e",
+        "r",
+        "i",
+        "o",
+        "r",
+        "s",
+        ",",
+        "b",
+        "ri",
+        "n",
+        "g",
+        "i",
+        "n",
+        "g",
+        "w",
+        "a",
+        "r",
+        "m",
+        "t",
+        "h",
+        "a",
+        "n",
+        "d",
+        "c",
+        "a",
+        "l",
+        "m",
+        "t",
+        "o",
+        "m",
+        "e",
+        "d",
+        "i",
+        "u",
+        "m",
+        "t",
+        "o",
+        "l",
+        "o",
+        "w",
+        "-",
+        "t",
+        "r",
+        "a",
+        "f",
+        "f",
+        "i",
+        "c",
+        "s",
+        "p",
+        "a",
+        "c",
+        "e",
+        "s",
+        "."
+      ]
+    },
+    {
+      "x": 39.7848,
+      "y": 3266.1128,
+      "scale": 1,
+      "fontFamily": "TheSeasons-LightItalic, 'The Seasons'",
+      "fontSize": "60px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#8e4300",
+      "classes": [
+        "cls-22"
+      ],
+      "text": [
+        "It is",
+        "n",
+        "ot",
+        "a",
+        "b",
+        "o",
+        "ut",
+        "so",
+        "ft",
+        "n",
+        "e",
+        "ss. /// It is",
+        "a",
+        "b",
+        "o",
+        "ut su",
+        "b",
+        "s",
+        "ta",
+        "n",
+        "c",
+        "e."
+      ]
+    },
+    {
+      "x": 103.2334,
+      "y": 4386.5917,
+      "scale": 1,
+      "fontFamily": "TheSeasons-LightItalic, 'The Seasons'",
+      "fontSize": "60px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#8e4300",
+      "classes": [
+        "cls-22"
+      ],
+      "text": [
+        "It is",
+        "n",
+        "ot",
+        "a",
+        "b",
+        "o",
+        "ut",
+        "s",
+        "ta",
+        "t",
+        "e",
+        "m",
+        "ent. /// It is",
+        "a",
+        "b",
+        "o",
+        "ut",
+        "e",
+        "s",
+        "s",
+        "e",
+        "n",
+        "c",
+        "e."
+      ]
+    },
+    {
+      "x": 1035.3892,
+      "y": 5591.6735,
+      "scale": 1,
+      "fontFamily": "Satoshi-Regular, Satoshi",
+      "fontSize": "25px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-613"
+      ],
+      "text": [
+        "E",
+        "Q",
+        "U",
+        "U",
+        "S",
+        "m",
+        "o",
+        "v",
+        "e",
+        "s",
+        "i",
+        "n",
+        "q",
+        "u",
+        "i",
+        "e",
+        "t",
+        "r",
+        "e",
+        "p",
+        "e",
+        "t",
+        "i",
+        "t",
+        "i",
+        "o",
+        "n",
+        ".",
+        "L",
+        "i",
+        "n",
+        "e",
+        "s",
+        "a",
+        "l",
+        "ig",
+        "n",
+        ",",
+        "f",
+        "o",
+        "r",
+        "m",
+        "s",
+        "r",
+        "e",
+        "t",
+        "u",
+        "r",
+        "n",
+        ",",
+        "a",
+        "n",
+        "d",
+        "s",
+        "t",
+        "r",
+        "u",
+        "c",
+        "t",
+        "u",
+        "r",
+        "e",
+        "r",
+        "e",
+        "v",
+        "e",
+        "a",
+        "l",
+        "s",
+        "i",
+        "t",
+        "s",
+        "e",
+        "l",
+        "f",
+        "t",
+        "h",
+        "r",
+        "o",
+        "u",
+        "g",
+        "h",
+        "s",
+        "u",
+        "b",
+        "t",
+        "l",
+        "e",
+        "s",
+        "h",
+        "i",
+        "f",
+        "t",
+        "s",
+        "i",
+        "n",
+        "he",
+        "ig",
+        "h",
+        "t",
+        "a",
+        "n",
+        "d",
+        "s",
+        "h",
+        "a",
+        "d",
+        "o",
+        "w",
+        ".",
+        "H",
+        "a",
+        "n",
+        "d",
+        "-",
+        "c",
+        "a",
+        "r",
+        "v",
+        "e",
+        "d",
+        "g",
+        "r",
+        "i",
+        "d",
+        "s",
+        "c",
+        "r",
+        "e",
+        "a",
+        "t",
+        "e",
+        "d",
+        "e",
+        "p",
+        "t",
+        "h",
+        "y",
+        "o",
+        "u",
+        "do",
+        "n",
+        "’",
+        "t",
+        "j",
+        "u",
+        "s",
+        "t",
+        "s",
+        "e",
+        "e —",
+        "y",
+        "o",
+        "u",
+        "s",
+        "e",
+        "n",
+        "s",
+        "e",
+        ".",
+        "C",
+        "r",
+        "a",
+        "f",
+        "t",
+        "e",
+        "d",
+        "i",
+        "n",
+        "l",
+        "u",
+        "m",
+        "i",
+        "no",
+        "u",
+        "s",
+        "T",
+        "e",
+        "n",
+        "c",
+        "e",
+        "l",
+        ",",
+        "i",
+        "t",
+        "s",
+        "s",
+        "u",
+        "r",
+        "f",
+        "a",
+        "c",
+        "e",
+        "i",
+        "s",
+        "e",
+        "x",
+        "c",
+        "e",
+        "p",
+        "t",
+        "i",
+        "o",
+        "n",
+        "a",
+        "l",
+        "l",
+        "y",
+        "s",
+        "o",
+        "f",
+        "t",
+        ",",
+        "a",
+        "l",
+        "l",
+        "o",
+        "w",
+        "i",
+        "n",
+        "g",
+        "l",
+        "ig",
+        "h",
+        "t",
+        "t",
+        "o",
+        "gl",
+        "i",
+        "d",
+        "e",
+        "a",
+        "c",
+        "r",
+        "o",
+        "s",
+        "s",
+        "i",
+        "t",
+        "s",
+        "g",
+        "e",
+        "o",
+        "m",
+        "e",
+        "t",
+        "r",
+        "y",
+        "w",
+        "i",
+        "t",
+        "h",
+        "q",
+        "u",
+        "i",
+        "e",
+        "t",
+        "i",
+        "n",
+        "t",
+        "en",
+        "s",
+        "i",
+        "t",
+        "y",
+        ".",
+        "B",
+        "a",
+        "l",
+        "a",
+        "n",
+        "c",
+        "e",
+        "d",
+        "i",
+        "n",
+        "r",
+        "e",
+        "f",
+        "i",
+        "n",
+        "e",
+        "d",
+        "n",
+        "e",
+        "u",
+        "t",
+        "r",
+        "a",
+        "l",
+        "s",
+        ",",
+        "E",
+        "Q",
+        "U",
+        "U",
+        "S",
+        "f",
+        "e",
+        "e",
+        "l",
+        "s",
+        "g",
+        "r",
+        "o",
+        "u",
+        "n",
+        "d",
+        "e",
+        "d",
+        "y",
+        "e",
+        "t",
+        "e",
+        "l",
+        "e",
+        "v",
+        "a",
+        "t",
+        "e",
+        "d — a",
+        "c",
+        "o",
+        "m",
+        "p",
+        "o",
+        "s",
+        "i",
+        "t",
+        "i",
+        "o",
+        "n",
+        "o",
+        "f",
+        "d",
+        "i",
+        "s",
+        "c",
+        "i",
+        "p",
+        "l",
+        "i",
+        "n",
+        "e",
+        "a",
+        "n",
+        "d",
+        "s",
+        "o",
+        "f",
+        "t",
+        "n",
+        "e",
+        "s",
+        "s",
+        ",",
+        "h",
+        "e",
+        "l",
+        "d",
+        "i",
+        "n",
+        "p",
+        "e",
+        "r",
+        "f",
+        "e",
+        "c",
+        "t",
+        "t",
+        "e",
+        "n",
+        "s",
+        "i",
+        "o",
+        "n",
+        "."
+      ]
+    },
+    {
+      "x": 111.3725,
+      "y": 6809.435,
+      "scale": 1,
+      "fontFamily": "Satoshi-Regular, Satoshi",
+      "fontSize": "25px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-613"
+      ],
+      "text": [
+        "M",
+        "e",
+        "a",
+        "n",
+        "i",
+        "n",
+        "g",
+        "p",
+        "l",
+        "e",
+        "a",
+        "s",
+        "i",
+        "n",
+        "g",
+        ",",
+        "b",
+        "e",
+        "a",
+        "u",
+        "t",
+        "i",
+        "f",
+        "u",
+        "l",
+        "a",
+        "n",
+        "d",
+        "g",
+        "r",
+        "a",
+        "c",
+        "i",
+        "o",
+        "u",
+        "s",
+        ",",
+        "AM",
+        "H",
+        "A",
+        "R",
+        "A",
+        "u",
+        "n",
+        "f",
+        "o",
+        "l",
+        "d",
+        "s",
+        "a",
+        "s a",
+        "q",
+        "u",
+        "i",
+        "e",
+        "t",
+        "e",
+        "x",
+        "p",
+        "r",
+        "e",
+        "s",
+        "s",
+        "i",
+        "o",
+        "n",
+        "o",
+        "f",
+        "w",
+        "a",
+        "r",
+        "m",
+        "t",
+        "h",
+        "a",
+        "n",
+        "d",
+        "d",
+        "e",
+        "p",
+        "t",
+        "h",
+        ".",
+        "W",
+        "o",
+        "v",
+        "e",
+        "n",
+        "i",
+        "n",
+        "N",
+        "e",
+        "w",
+        "Z",
+        "e",
+        "a",
+        "l",
+        "a",
+        "n",
+        "d",
+        "w",
+        "o",
+        "o",
+        "l",
+        "t",
+        "h",
+        "r",
+        "o",
+        "u",
+        "g",
+        "h a",
+        "r",
+        "e",
+        "f",
+        "i",
+        "n",
+        "e",
+        "d",
+        "l",
+        "o",
+        "o",
+        "m",
+        "t",
+        "e",
+        "c",
+        "h",
+        "n",
+        "i",
+        "q",
+        "u",
+        "e",
+        ",",
+        "i",
+        "t",
+        "s",
+        "s",
+        "u",
+        "r",
+        "f",
+        "a",
+        "c",
+        "e",
+        "r",
+        "e",
+        "v",
+        "e",
+        "a",
+        "l",
+        "s",
+        "a",
+        "n",
+        "u",
+        "n",
+        "e",
+        "x",
+        "p",
+        "e",
+        "c",
+        "t",
+        "e",
+        "d",
+        "s",
+        "o",
+        "f",
+        "t",
+        "n",
+        "e",
+        "s",
+        "s —",
+        "g",
+        "e",
+        "n",
+        "t",
+        "l",
+        "e",
+        "t",
+        "o",
+        "t",
+        "h",
+        "e",
+        "t",
+        "o",
+        "u",
+        "c",
+        "h",
+        ",",
+        "y",
+        "e",
+        "t",
+        "i",
+        "n",
+        "h",
+        "e",
+        "r",
+        "e",
+        "n",
+        "t",
+        "l",
+        "y",
+        "s",
+        "t",
+        "r",
+        "o",
+        "n",
+        "g",
+        ".",
+        "E",
+        "a",
+        "r",
+        "t",
+        "h",
+        "-",
+        "t",
+        "o",
+        "n",
+        "e",
+        "d",
+        "c",
+        "o",
+        "m",
+        "p",
+        "o",
+        "s",
+        "i",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s",
+        "m",
+        "o",
+        "v",
+        "e",
+        "s",
+        "u",
+        "b",
+        "t",
+        "l",
+        "y",
+        "a",
+        "c",
+        "r",
+        "o",
+        "s",
+        "s",
+        "v",
+        "a",
+        "r",
+        "i",
+        "e",
+        "d",
+        "d",
+        "e",
+        "s",
+        "ig",
+        "n",
+        "s",
+        ",",
+        "e",
+        "a",
+        "c",
+        "h",
+        "c",
+        "a",
+        "r",
+        "r",
+        "y",
+        "i",
+        "n",
+        "g a",
+        "g",
+        "r",
+        "o",
+        "u",
+        "n",
+        "d",
+        "e",
+        "d",
+        "e",
+        "l",
+        "e",
+        "g",
+        "a",
+        "n",
+        "c",
+        "e",
+        "s",
+        "h",
+        "a",
+        "p",
+        "e",
+        "d",
+        "b",
+        "y",
+        "t",
+        "e",
+        "x",
+        "t",
+        "u",
+        "r",
+        "e",
+        "a",
+        "n",
+        "d",
+        "t",
+        "o",
+        "n",
+        "e",
+        ".",
+        "B",
+        "e",
+        "n",
+        "e",
+        "a",
+        "t",
+        "h",
+        "i",
+        "t",
+        "s",
+        "d",
+        "e",
+        "l",
+        "i",
+        "ca",
+        "c",
+        "y",
+        "l",
+        "i",
+        "e",
+        "s",
+        "t",
+        "h",
+        "e",
+        "en",
+        "d",
+        "u",
+        "ri",
+        "n",
+        "g",
+        "r",
+        "e",
+        "s",
+        "i",
+        "l",
+        "i",
+        "e",
+        "n",
+        "c",
+        "e",
+        "o",
+        "f",
+        "w",
+        "o",
+        "o",
+        "l",
+        ",",
+        "a",
+        "l",
+        "l",
+        "o",
+        "w",
+        "i",
+        "n",
+        "g",
+        "t",
+        "h",
+        "e",
+        "p",
+        "i",
+        "e",
+        "c",
+        "e",
+        "t",
+        "o",
+        "ho",
+        "l",
+        "d",
+        "s",
+        "p",
+        "a",
+        "c",
+        "e",
+        "w",
+        "i",
+        "t",
+        "h",
+        "b",
+        "o",
+        "t",
+        "h",
+        "t",
+        "en",
+        "d",
+        "e",
+        "r",
+        "n",
+        "e",
+        "s",
+        "s",
+        "a",
+        "n",
+        "d",
+        "s",
+        "t",
+        "r",
+        "e",
+        "n",
+        "g",
+        "t",
+        "h",
+        "."
+      ]
+    },
+    {
+      "x": 1010.6323,
+      "y": 8008.7453,
+      "scale": 1,
+      "fontFamily": "Satoshi-Regular, Satoshi",
+      "fontSize": "25px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-613"
+      ],
+      "text": [
+        "N",
+        "a",
+        "m",
+        "e",
+        "d",
+        "a",
+        "f",
+        "t",
+        "e",
+        "r",
+        "t",
+        "h",
+        "e",
+        "s",
+        "u",
+        "n",
+        ",",
+        "H",
+        "E",
+        "L",
+        "I",
+        "O",
+        "S",
+        "r",
+        "a",
+        "d",
+        "i",
+        "a",
+        "t",
+        "e",
+        "s",
+        "s",
+        "t",
+        "r",
+        "e",
+        "n",
+        "g",
+        "t",
+        "h",
+        "a",
+        "n",
+        "d",
+        "c",
+        "l",
+        "a",
+        "ri",
+        "t",
+        "y",
+        ".",
+        "I",
+        "t",
+        "s",
+        "p",
+        "r",
+        "e",
+        "s",
+        "e",
+        "n",
+        "c",
+        "e",
+        "i",
+        "s",
+        "b",
+        "o",
+        "l",
+        "d",
+        "y",
+        "e",
+        "t",
+        "r",
+        "e",
+        "f",
+        "i",
+        "n",
+        "e",
+        "d —",
+        "d",
+        "e",
+        "f",
+        "i",
+        "n",
+        "e",
+        "d",
+        "b",
+        "y",
+        "p",
+        "o",
+        "w",
+        "e",
+        "r",
+        "f",
+        "u",
+        "l",
+        "t",
+        "o",
+        "n",
+        "a",
+        "l",
+        "c",
+        "o",
+        "m",
+        "p",
+        "o",
+        "s",
+        "i",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s",
+        "t",
+        "h",
+        "a",
+        "t",
+        "s",
+        "h",
+        "i",
+        "f",
+        "t",
+        "b",
+        "e",
+        "a",
+        "u",
+        "t",
+        "i",
+        "f",
+        "u",
+        "l",
+        "l",
+        "y",
+        "u",
+        "n",
+        "d",
+        "e",
+        "r",
+        "n",
+        "a",
+        "t",
+        "u",
+        "r",
+        "a",
+        "l",
+        "l",
+        "ig",
+        "h",
+        "t",
+        ".",
+        "C",
+        "r",
+        "a",
+        "f",
+        "t",
+        "e",
+        "d",
+        "i",
+        "n",
+        "r",
+        "e",
+        "c",
+        "y",
+        "c",
+        "l",
+        "e",
+        "d",
+        "P",
+        ".",
+        "E",
+        ".",
+        "T",
+        ",",
+        "t",
+        "h",
+        "e",
+        "s",
+        "u",
+        "r",
+        "f",
+        "a",
+        "c",
+        "e",
+        "c",
+        "a",
+        "rr",
+        "i",
+        "e",
+        "s",
+        "a",
+        "n",
+        "u",
+        "n",
+        "e",
+        "x",
+        "p",
+        "e",
+        "c",
+        "t",
+        "e",
+        "d",
+        "s",
+        "o",
+        "f",
+        "t",
+        "n",
+        "e",
+        "s",
+        "s",
+        ",",
+        "e",
+        "c",
+        "h",
+        "o",
+        "i",
+        "n",
+        "g",
+        "t",
+        "h",
+        "e",
+        "c",
+        "o",
+        "m",
+        "f",
+        "o",
+        "r",
+        "t",
+        "o",
+        "f",
+        "w",
+        "o",
+        "o",
+        "l",
+        "w",
+        "h",
+        "i",
+        "l",
+        "e",
+        "d",
+        "e",
+        "s",
+        "ig",
+        "n",
+        "e",
+        "d",
+        "t",
+        "o",
+        "en",
+        "d",
+        "u",
+        "r",
+        "e",
+        "t",
+        "h",
+        "e",
+        "e",
+        "l",
+        "e",
+        "m",
+        "e",
+        "n",
+        "t",
+        "s",
+        ".",
+        "R",
+        "e",
+        "s",
+        "i",
+        "s",
+        "t",
+        "a",
+        "n",
+        "t",
+        ",",
+        "r",
+        "e",
+        "s",
+        "i",
+        "l",
+        "i",
+        "e",
+        "n",
+        "t",
+        "a",
+        "n",
+        "d",
+        "u",
+        "n",
+        "w",
+        "a",
+        "v",
+        "e",
+        "ri",
+        "n",
+        "g",
+        "b",
+        "e",
+        "n",
+        "e",
+        "a",
+        "t",
+        "h",
+        "t",
+        "h",
+        "e",
+        "s",
+        "u",
+        "n",
+        ",",
+        "i",
+        "t",
+        "m",
+        "o",
+        "v",
+        "e",
+        "s",
+        "e",
+        "f",
+        "f",
+        "o",
+        "r",
+        "t",
+        "l",
+        "e",
+        "s",
+        "s",
+        "l",
+        "y",
+        "b",
+        "e",
+        "t",
+        "w",
+        "e",
+        "e",
+        "n",
+        "i",
+        "n",
+        "t",
+        "e",
+        "r",
+        "i",
+        "o",
+        "r",
+        "a",
+        "n",
+        "d",
+        "e",
+        "x",
+        "t",
+        "e",
+        "r",
+        "i",
+        "o",
+        "r",
+        "s",
+        "p",
+        "a",
+        "c",
+        "e",
+        "s",
+        "."
+      ]
+    },
+    {
+      "x": 107.5873,
+      "y": 8981.3052,
+      "scale": 1,
+      "fontFamily": "Satoshi-Regular, Satoshi",
+      "fontSize": "25px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-613"
+      ],
+      "text": [
+        "M",
+        "e",
+        "a",
+        "n",
+        "i",
+        "n",
+        "g",
+        "d",
+        "e",
+        "s",
+        "i",
+        "r",
+        "e",
+        "d",
+        "a",
+        "n",
+        "d",
+        "c",
+        "h",
+        "o",
+        "s",
+        "e",
+        "n",
+        ",",
+        "MA",
+        "N",
+        "C",
+        "H",
+        "A",
+        "H",
+        "A",
+        "e",
+        "x",
+        "p",
+        "r",
+        "e",
+        "s",
+        "s",
+        "e",
+        "s",
+        "d",
+        "e",
+        "s",
+        "ig",
+        "n",
+        "a",
+        "s",
+        "a",
+        "n",
+        "a",
+        "c",
+        "t",
+        "o",
+        "f",
+        "i",
+        "n",
+        "t",
+        "e",
+        "n",
+        "t",
+        "i",
+        "o",
+        "n",
+        ".",
+        "I",
+        "t",
+        "s",
+        "c",
+        "o",
+        "m",
+        "p",
+        "o",
+        "s",
+        "i",
+        "t",
+        "i",
+        "o",
+        "n",
+        "f",
+        "e",
+        "e",
+        "l",
+        "s",
+        "f",
+        "r",
+        "e",
+        "e",
+        "y",
+        "e",
+        "t",
+        "d",
+        "e",
+        "l",
+        "i",
+        "b",
+        "e",
+        "r",
+        "a",
+        "t",
+        "e —",
+        "b",
+        "o",
+        "l",
+        "d",
+        "i",
+        "n",
+        "c",
+        "h",
+        "a",
+        "r",
+        "a",
+        "c",
+        "t",
+        "e",
+        "r",
+        ",",
+        "y",
+        "e",
+        "t",
+        "d",
+        "e",
+        "e",
+        "p",
+        "l",
+        "y",
+        "c",
+        "o",
+        "n",
+        "s",
+        "i",
+        "d",
+        "e",
+        "r",
+        "e",
+        "d",
+        ".",
+        "H",
+        "a",
+        "n",
+        "d",
+        "t",
+        "u",
+        "f",
+        "t",
+        "e",
+        "d",
+        "i",
+        "n",
+        "l",
+        "u",
+        "m",
+        "i",
+        "no",
+        "u",
+        "s",
+        "T",
+        "e",
+        "n",
+        "c",
+        "e",
+        "l",
+        ",",
+        "s",
+        "c",
+        "u",
+        "l",
+        "p",
+        "t",
+        "e",
+        "d",
+        "r",
+        "e",
+        "l",
+        "i",
+        "e",
+        "f",
+        "a",
+        "n",
+        "d",
+        "b",
+        "o",
+        "u",
+        "c",
+        "l",
+        "é",
+        "d",
+        "e",
+        "t",
+        "a",
+        "i",
+        "l",
+        "i",
+        "n",
+        "g",
+        "c",
+        "r",
+        "e",
+        "a",
+        "t",
+        "e",
+        "l",
+        "a",
+        "y",
+        "e",
+        "r",
+        "e",
+        "d",
+        "d",
+        "e",
+        "p",
+        "t",
+        "h",
+        "w",
+        "i",
+        "t",
+        "h",
+        "i",
+        "n",
+        "r",
+        "e",
+        "f",
+        "i",
+        "n",
+        "e",
+        "d",
+        "n",
+        "e",
+        "u",
+        "t",
+        "r",
+        "a",
+        "l",
+        "t",
+        "o",
+        "n",
+        "e",
+        "s",
+        ",",
+        "g",
+        "i",
+        "v",
+        "i",
+        "n",
+        "g",
+        "t",
+        "h",
+        "e",
+        "p",
+        "i",
+        "e",
+        "c",
+        "e",
+        "p",
+        "r",
+        "e",
+        "s",
+        "e",
+        "n",
+        "c",
+        "e",
+        "w",
+        "i",
+        "t",
+        "ho",
+        "u",
+        "t",
+        "o",
+        "v",
+        "e",
+        "r",
+        "p",
+        "o",
+        "w",
+        "e",
+        "ri",
+        "n",
+        "g",
+        "i",
+        "t",
+        "s",
+        "s",
+        "u",
+        "r",
+        "r",
+        "o",
+        "u",
+        "n",
+        "d",
+        "i",
+        "n",
+        "g",
+        "s",
+        ".",
+        "S",
+        "o",
+        "f",
+        "t",
+        "t",
+        "o",
+        "t",
+        "h",
+        "e",
+        "t",
+        "o",
+        "u",
+        "c",
+        "h",
+        "a",
+        "n",
+        "d",
+        "b",
+        "a",
+        "l",
+        "a",
+        "n",
+        "c",
+        "e",
+        "d",
+        "i",
+        "n",
+        "s",
+        "c",
+        "a",
+        "l",
+        "e",
+        ",",
+        "MA",
+        "N",
+        "C",
+        "H",
+        "A",
+        "H",
+        "A",
+        "e",
+        "n",
+        "h",
+        "a",
+        "n",
+        "c",
+        "e",
+        "s a",
+        "s",
+        "p",
+        "a",
+        "c",
+        "e",
+        "b",
+        "y",
+        "c",
+        "o",
+        "m",
+        "p",
+        "l",
+        "e",
+        "t",
+        "i",
+        "n",
+        "g",
+        "i",
+        "t",
+        "."
+      ]
+    },
+    {
+      "x": 158.7414,
+      "y": 5383.4389,
+      "scale": 1,
+      "fontFamily": "TheSeasons-LightItalic, 'The Seasons'",
+      "fontSize": "60px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#8e4300",
+      "classes": [
+        "cls-22"
+      ],
+      "text": [
+        "It is",
+        "n",
+        "ot",
+        "a",
+        "b",
+        "o",
+        "ut",
+        "d",
+        "e",
+        "c",
+        "o",
+        "r",
+        "ati",
+        "o",
+        "n. /// It is",
+        "a",
+        "b",
+        "o",
+        "ut",
+        "o",
+        "r",
+        "d",
+        "er"
+      ]
+    },
+    {
+      "x": 126.942,
+      "y": 6503.7865,
+      "scale": 1,
+      "fontFamily": "TheSeasons-LightItalic, 'The Seasons'",
+      "fontSize": "60px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#8e4300",
+      "classes": [
+        "cls-22"
+      ],
+      "text": [
+        "in",
+        "s",
+        "tills a",
+        "s",
+        "en",
+        "s",
+        "e",
+        "o",
+        "f",
+        "c",
+        "a",
+        "lm",
+        "c",
+        "o",
+        "nfi",
+        "d",
+        "e",
+        "n",
+        "c",
+        "e —a",
+        "so",
+        "ft",
+        "n",
+        "e",
+        "ss",
+        "that w",
+        "e",
+        "l",
+        "c",
+        "o",
+        "m",
+        "e",
+        "s, a",
+        "s",
+        "tru",
+        "c",
+        "tu",
+        "r",
+        "e that endu",
+        "r",
+        "e",
+        "s."
+      ]
+    },
+    {
+      "x": 135.3756,
+      "y": 7743.4953,
+      "scale": 1,
+      "fontFamily": "TheSeasons-LightItalic, 'The Seasons'",
+      "fontSize": "60px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#8e4300",
+      "classes": [
+        "cls-22"
+      ],
+      "text": [
+        "do",
+        "e",
+        "s",
+        "n",
+        "ot",
+        "r",
+        "e",
+        "t",
+        "r",
+        "e",
+        "at f",
+        "r",
+        "o",
+        "m light. /// It liv",
+        "e",
+        "s in it."
+      ]
+    },
+    {
+      "x": 154.4422,
+      "y": 8839.7937,
+      "scale": 1,
+      "fontFamily": "TheSeasons-LightItalic, 'The Seasons'",
+      "fontSize": "60px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#8e4300",
+      "classes": [
+        "cls-22"
+      ],
+      "text": [
+        "It is",
+        "n",
+        "ot a",
+        "c",
+        "ci",
+        "d",
+        "ent",
+        "a",
+        "l. /// It is in",
+        "t",
+        "enti",
+        "o",
+        "n",
+        "a",
+        "l."
+      ]
+    },
+    {
+      "x": 114.3591,
+      "y": 4167.6758,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "223.6px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-69"
+      ],
+      "text": [
+        "M",
+        "A",
+        "ORI"
+      ]
+    },
+    {
+      "x": 220.1551,
+      "y": 3593.0508,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "223.6px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-69"
+      ],
+      "text": [
+        "M",
+        "A",
+        "ORI"
+      ]
+    },
+    {
+      "x": 142.9483,
+      "y": 5354.436,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "127.38px",
+      "fontWeight": null,
+      "letterSpacing": "-.02em",
+      "fill": "#fff",
+      "classes": [
+        "cls-68"
+      ],
+      "text": [
+        "SOMA"
+      ]
+    },
+    {
+      "x": 1445.5625,
+      "y": 4640.767,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "127.38px",
+      "fontWeight": null,
+      "letterSpacing": "-.02em",
+      "fill": "#fff",
+      "classes": [
+        "cls-71"
+      ],
+      "text": [
+        "SOMA"
+      ]
+    },
+    {
+      "x": 1107.214,
+      "y": 5182.4063,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "127.38px",
+      "fontWeight": null,
+      "letterSpacing": "-.02em",
+      "fill": "#fff",
+      "classes": [
+        "cls-71"
+      ],
+      "text": [
+        "SOMA"
+      ]
+    },
+    {
+      "x": 978.536,
+      "y": 7497.8373,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "150.62px",
+      "fontWeight": null,
+      "letterSpacing": "-.02em",
+      "fill": "#fff",
+      "classes": [
+        "cls-63"
+      ],
+      "text": [
+        "AMHARA"
+      ]
+    },
+    {
+      "x": 1182.3774,
+      "y": 6890.2936,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "150.62px",
+      "fontWeight": null,
+      "letterSpacing": "-.02em",
+      "fill": "#fff",
+      "classes": [
+        "cls-63"
+      ],
+      "text": [
+        "AMHARA"
+      ]
+    },
+    {
+      "x": 146.6067,
+      "y": 8582.2121,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "137.45px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-72"
+      ],
+      "text": [
+        "HELI",
+        "O",
+        "S"
+      ]
+    },
+    {
+      "x": 324.9789,
+      "y": 8041.7908,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "137.45px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-72"
+      ],
+      "text": [
+        "HELI",
+        "O",
+        "S"
+      ]
+    },
+    {
+      "x": 1128.1281,
+      "y": 9591.1798,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "108.79px",
+      "fontWeight": null,
+      "letterSpacing": "-.02em",
+      "fill": "#fff",
+      "classes": [
+        "cls-66"
+      ],
+      "text": [
+        "MANCHAHA"
+      ]
+    },
+    {
+      "x": 1128.529,
+      "y": 9076.837,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "108.79px",
+      "fontWeight": null,
+      "letterSpacing": "-.02em",
+      "fill": "#fff",
+      "classes": [
+        "cls-66"
+      ],
+      "text": [
+        "MANCHAHA"
+      ]
+    },
+    {
+      "x": 431.4168,
+      "y": 5632.0934,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "131.7px",
+      "fontWeight": null,
+      "letterSpacing": "-.02em",
+      "fill": "#fff",
+      "classes": [
+        "cls-61"
+      ],
+      "text": [
+        "EQUUS"
+      ]
+    },
+    {
+      "x": 154.2918,
+      "y": 6247.1296,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Regular, 'The Seasons'",
+      "fontSize": "131.7px",
+      "fontWeight": null,
+      "letterSpacing": "-.02em",
+      "fill": "#fff",
+      "classes": [
+        "cls-61"
+      ],
+      "text": [
+        "EQUUS"
+      ]
+    }
+  ]
+}
