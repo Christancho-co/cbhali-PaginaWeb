@@ -8,9 +8,14 @@ const ICONS: Record<string, JSX.Element> = {
   Handmade: (
     <path d="M4 13c2-2 4-2 6 0l1 1M4 13l7 7c1 1 2 1 3 0l6-6c1-1 1-2 0-3l-1-1c-1-1-2-1-3 0l-3 3M9 9l3-3c1-1 2-1 3 0l1 1" />
   ),
+  Handcrafted: (
+    <path d="M4 13c2-2 4-2 6 0l1 1M4 13l7 7c1 1 2 1 3 0l6-6c1-1 1-2 0-3l-1-1c-1-1-2-1-3 0l-3 3M9 9l3-3c1-1 2-1 3 0l1 1" />
+  ),
   'Stain Resistance': <path d="M12 3 5 10a7 7 0 1 0 14 0l-7-7Zm0 15v-6m-3 3h6" />,
+  'Stain Resistant': <path d="M12 3 5 10a7 7 0 1 0 14 0l-7-7Zm0 15v-6m-3 3h6" />,
   Resistant: <path d="M12 3 5 10a7 7 0 1 0 14 0l-7-7Zm0 15v-6m-3 3h6" />,
   Durability: <path d="M12 3 4 6v6c0 5 3.4 7.4 8 9 4.6-1.6 8-4 8-9V6l-8-3Z" />,
+  Durable: <path d="M12 3 4 6v6c0 5 3.4 7.4 8 9 4.6-1.6 8-4 8-9V6l-8-3Z" />,
   Biodegradable: (
     <path d="M5 19c8 1 12-3 13-11-8 0-12 3-13 11Zm0 0c1-4 3-6 6-7" />
   ),

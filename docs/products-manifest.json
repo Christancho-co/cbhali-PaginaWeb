@@ -1,4 +1,41 @@
 {
+  "maori": [
+    {
+      "code": "024-0026",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "024-0027",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "024-0028",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "024-0030",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "024-0031",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "024-0032",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "024-0033",
+      "colorName": null,
+      "thumbCount": 3
+    }
+  ],
   "aluna": [
     {
       "code": "043-0001",

@@ -14,7 +14,7 @@ export default function CollectionsPage() {
       <Quote>
         It is not about softness. /// It is about substance.
       </Quote>
-      <CollectionRow name="MAORI" image="/images/collections/maori.webp" alt="MAORI rug leaning against a terracotta wall" side="left">
+      <CollectionRow name="MAORI" image="/images/collections/maori.webp" alt="MAORI rug leaning against a terracotta wall" side="left" href="/collections/maori/024-0026">
         Inspired by the meaning of its name — common, natural, essential — MAORI embraces the
         quiet strength of raw materials. Crafted in 100% wool, each piece celebrates texture in
         its most honest form. Woven rather than tufted, its structure reveals a more organic,

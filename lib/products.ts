@@ -13,6 +13,31 @@ export type CollectionData = {
 
 export const COLLECTIONS: CollectionData[] = [
   {
+    slug: 'maori',
+    name: 'MAORI',
+    number: '024',
+    description: [
+      'Maori is born from the union of pattern, texture, and balance. Its open design brings visual lightness and a natural sense of harmony, creating pieces that are serene, functional, and sophisticated.',
+      'The collection explores the beauty of simplicity through a light, clean, and thoughtfully composed aesthetic. Each piece creates a subtle connection between space and material, bringing a sense of calm, openness, and contemporary presence, where functionality is transformed into balance and serenity.',
+    ],
+    specs: { material: 'Hand Loom', pileHeight: '8mm', texture: 'Rugged', shape: 'Rectangle', backing: 'Yes' },
+    details: ['Hypoallergenic', 'Durable', 'Stain Resistant', 'Handcrafted'],
+    sizes: [
+      { size: '2.00x3.00m', status: 'In stock' },
+      { size: '2.50x3.50m', status: 'Coming Soon' },
+      { size: '3.00x4.00m', status: 'out stock' },
+    ],
+    skus: [
+      { code: '024-0026', colorName: null, thumbCount: 2 },
+      { code: '024-0027', colorName: null, thumbCount: 2 },
+      { code: '024-0028', colorName: null, thumbCount: 2 },
+      { code: '024-0030', colorName: null, thumbCount: 3 },
+      { code: '024-0031', colorName: null, thumbCount: 3 },
+      { code: '024-0032', colorName: null, thumbCount: 2 },
+      { code: '024-0033', colorName: null, thumbCount: 3 },
+    ],
+  },
+  {
     slug: 'aluna',
     name: 'ALUNA',
     number: '043',

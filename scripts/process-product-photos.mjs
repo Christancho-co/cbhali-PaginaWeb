@@ -9,6 +9,7 @@ const ROOT = 'C:/Users/Crist/Downloads/Material CB Hali/Material CB Hali/new col
 const OUT = 'public/images/products';
 
 const COLLECTIONS = [
+  { slug: 'maori', dir: 'MAORI-20260721T181539Z-1-001/MAORI' },
   { slug: 'aluna', dir: 'ALUNA-20260715T135254Z-1-001/ALUNA' },
   { slug: 'amhara', dir: 'AMHARA-20260721T181125Z-1-001/AMHARA' },
   { slug: 'arya', dir: 'ARYA-20260715T135256Z-1-001/ARYA' },
