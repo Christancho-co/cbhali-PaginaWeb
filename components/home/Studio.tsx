@@ -3,7 +3,12 @@ export default function Studio() {
     <>
       <div className="studio__fade only-m" />
       <div className="studio__video">
-        <img src="/images/home/video-thumb.webp" alt="CB RUGS — Seres del Multiverso, making of video" />
+        <iframe
+          src="https://www.youtube.com/embed/vA2o-9G3j4w"
+          title="CB Hali x Tutappeti: &quot;Le cube&quot; by Marietta &amp; Ximena Mallol"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen
+        />
       </div>
 
       <img className="studio__team" src="/images/home/team.webp" alt="The CB Hali team" />
