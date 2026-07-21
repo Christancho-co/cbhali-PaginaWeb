@@ -156,45 +156,13 @@
 
 /* ---------------- MANIFESTO ---------------- */
 
-.mani__lockup { position: absolute; left: 0; top: 0; width: 100%; }
-.mani__mark {
+.mani__lockup {
   position: absolute;
-  left: calc(var(--u) * 677);
+  left: 50%;
   top: calc(var(--u) * 1510.5);
-  width: calc(var(--u) * 145);
-  height: calc(var(--u) * 195);
+  transform: translateX(-50%);
 }
-.mani__hali {
-  position: absolute;
-  left: calc(var(--u) * 821);
-  top: calc(var(--u) * 1546);
-  font-family: var(--font-seasons);
-  font-weight: 700;
-  font-size: calc(var(--u) * 159.92);
-  line-height: 1;
-  color: var(--ochre);
-}
-.mani__reg {
-  position: absolute;
-  left: calc(var(--u) * 1175);
-  top: calc(var(--u) * 1536);
-  font-family: var(--font-satoshi);
-  font-weight: 400;
-  font-size: calc(var(--u) * 63.82);
-  line-height: 1;
-  letter-spacing: 0.02em;
-  color: var(--ochre);
-}
-.mani__tagline {
-  position: absolute;
-  left: calc(var(--u) * 856);
-  top: calc(var(--u) * 1712);
-  font-family: var(--font-satoshi);
-  font-weight: 700;
-  font-size: calc(var(--u) * 12.76);
-  letter-spacing: 0.08em;
-  color: var(--brown);
-}
+.mani__banner { display: block; width: calc(var(--u) * 560); height: auto; }
 
 .mani__title {
   position: absolute;
@@ -548,10 +516,8 @@
   .hero__chevrons svg { stroke-width: 5; }
 
   /* ---------- MANIFESTO ---------- */
-  .mani__mark--m { position: absolute; left: calc(var(--u) * 320); top: calc(var(--u) * 1825); width: calc(var(--u) * 150); height: calc(var(--u) * 200); }
-  .mani__hali { left: calc(var(--u) * 425); top: calc(var(--u) * 1866.5); color: var(--brown); }
-  .mani__reg { left: calc(var(--u) * 779); top: calc(var(--u) * 1857.5); color: var(--brown); }
-  .mani__tagline { left: calc(var(--u) * 460); top: calc(var(--u) * 2032.5); }
+  .mani__lockup { top: calc(var(--u) * 1825); }
+  .mani__banner { width: calc(var(--u) * 480); }
 
   .mani__title { top: calc(var(--u) * 2148); line-height: calc(var(--u) * 98.53); }
   .mani__copy { left: calc(var(--u) * 140); top: calc(var(--u) * 2543); width: calc(var(--u) * 845); }

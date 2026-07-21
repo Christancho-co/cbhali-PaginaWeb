@@ -4,11 +4,7 @@ export default function Manifesto() {
       <div className="page__bg page__bg--cream" />
 
       <div className="mani__lockup">
-        <img className="mani__mark only-d" src="/svg/logo-mark-ochre.svg" alt="" />
-        <img className="mani__mark mani__mark--m only-m" src="/svg/logo-mark-brown.svg" alt="" />
-        <span className="mani__hali">HaLi</span>
-        <span className="mani__reg">®</span>
-        <span className="mani__tagline">CRAFTED FOR VISIONARIES</span>
+        <img className="mani__banner" src="/images/brand/banner-footer-ochre.png" alt="CB HaLi — Crafted for visionaries" />
       </div>
 
       <h2 className="mani__title">
