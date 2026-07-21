@@ -69,7 +69,15 @@
   letter-spacing: 0.04em;
   color: var(--ink);
 }
-.sfoot__social { grid-column: 3; width: calc(var(--u) * 80); height: auto; justify-self: end; align-self: start; }
+.sfoot__social {
+  grid-column: 3;
+  justify-self: end;
+  align-self: start;
+  display: flex;
+  flex-direction: column;
+  gap: calc(var(--u) * 10);
+}
+.sfoot__social img { display: block; width: calc(var(--u) * 43); height: auto; }
 
 .sfoot__legal,
 .sfoot__credit {
@@ -104,7 +112,8 @@
     letter-spacing: 0.04em;
     color: #666;
   }
-  .sfoot__social-m { width: calc(var(--u) * 110); height: auto; }
+  .sfoot__social-m { display: flex; flex-direction: column; gap: calc(var(--u) * 19); }
+  .sfoot__social-m img { display: block; width: calc(var(--u) * 85); height: auto; }
 
   .sfoot__legal {
     margin-top: calc(var(--u) * 130);

@@ -1,5 +1,30 @@
 import './SiteFooter.css';
 
+// Redes reales de CB Hali. LinkedIn aún sin URL: el icono se muestra sin enlace.
+const SOCIALS: { label: string; href: string | null; icon: string }[] = [
+  { label: 'YouTube', href: 'https://www.youtube.com/@cb_hali', icon: 'youtube' },
+  { label: 'LinkedIn', href: null, icon: 'linkedin' },
+  { label: 'Instagram', href: 'https://www.instagram.com/cb_hali/', icon: 'instagram' },
+  { label: 'Facebook', href: 'https://www.facebook.com/alfombras.cbrugs.1/', icon: 'facebook' },
+];
+
+function SocialLinks({ variant }: { variant: 'd' | 'm' }) {
+  const prefix = variant === 'd' ? '/svg/social-' : '/svg/social-m-';
+  return (
+    <>
+      {SOCIALS.map((s) =>
+        s.href ? (
+          <a key={s.label} href={s.href} target="_blank" rel="noopener noreferrer" aria-label={s.label}>
+            <img src={`${prefix}${s.icon}.svg`} alt="" />
+          </a>
+        ) : (
+          <img key={s.label} src={`${prefix}${s.icon}.svg`} alt={s.label} />
+        ),
+      )}
+    </>
+  );
+}
+
 export default function SiteFooter({ bgImage }: { bgImage: string }) {
   return (
     <footer className="sfoot">
@@ -23,7 +48,9 @@ export default function SiteFooter({ bgImage }: { bgImage: string }) {
           <a href="/blog">Blog &amp; Inspiration</a>
           <a href="/contact">Contact &amp; Dealers</a>
         </nav>
-        <img className="sfoot__social" src="/svg/icons-social.svg" alt="YouTube, LinkedIn, Instagram and Facebook" />
+        <div className="sfoot__social">
+          <SocialLinks variant="d" />
+        </div>
 
         <img className="sfoot__mono-m" src="/svg/logo-mark-black.svg" alt="CB Hali" />
         <div className="sfoot__row-m">
@@ -36,7 +63,9 @@ export default function SiteFooter({ bgImage }: { bgImage: string }) {
             <a href="/blog">Blog [CB Atelier]</a>
             <a href="/contact">Contact &amp; Dealers</a>
           </nav>
-          <img className="sfoot__social-m" src="/svg/icons-social-mobile.svg" alt="YouTube, LinkedIn, Instagram and Facebook" />
+          <div className="sfoot__social-m">
+            <SocialLinks variant="m" />
+          </div>
         </div>
 
         <p className="sfoot__legal">
