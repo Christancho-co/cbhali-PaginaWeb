@@ -24,7 +24,7 @@
   left: 0;
   top: 0;
   height: 100dvh;
-  width: min(45vw, 700px);
+  width: min(420px, 90vw);
   background: #fff;
   z-index: 91;
   transform: translateX(-100%);
