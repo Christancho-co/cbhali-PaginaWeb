@@ -6,6 +6,7 @@ import Gallery from '@/components/product/Gallery';
 import Accordion from '@/components/product/Accordion';
 import DetailIcon from '@/components/product/DetailIcon';
 import ScrollRow from '@/components/product/ScrollRow';
+import ExploreMore from '@/components/product/ExploreMore';
 import SiteFooter from '@/components/shared/SiteFooter';
 
 export function generateStaticParams() {
@@ -138,20 +139,7 @@ export default function ProductPage({ params }: { params: { slug: string; code: 
         ]}
       />
 
-      <section className="pmore">
-        <h2>Explore more collections</h2>
-        <ScrollRow className="pmore__row">
-          {others.map((c) => (
-            <Link key={c.slug} href={`/collections/${c.slug}/${c.cover.code}`} className="pmore__item">
-              <img src={`/images/products/${c.slug}/${c.cover.code}/main.webp`} alt={c.name} />
-              <span>
-                {c.name} {c.number}
-                {c.cover.colorName ? <><br />{c.cover.colorName}</> : null}
-              </span>
-            </Link>
-          ))}
-        </ScrollRow>
-      </section>
+      <ExploreMore all={others} />
 
       <SiteFooter bgImage="/images/collections/footer-bg.webp" />
     </main>

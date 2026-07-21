@@ -118,6 +118,7 @@
 
 .pmore { margin: clamp(3rem, 7vw, 5rem) 0 clamp(2rem, 5vw, 3rem); text-align: center; }
 .pmore h2 { font-family: var(--font-satoshi); font-weight: 700; font-size: 1.5rem; color: var(--ink); margin-bottom: 2rem; }
+.pmore__row.scrollrow { justify-content: center; }
 .pmore__row .scrollrow__track { justify-content: center; }
 .pmore__item { flex: none; width: 220px; text-align: left; }
 .pmore__item img { width: 100%; aspect-ratio: 4/5; object-fit: cover; }

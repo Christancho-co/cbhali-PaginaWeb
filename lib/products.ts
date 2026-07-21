@@ -251,7 +251,7 @@ export function getProduct(slug: string, code: string) {
   return { collection, sku };
 }
 
-export function otherCollections(slug: string, count = 4) {
+export function otherCollections(slug: string) {
   const others = COLLECTIONS.filter((c) => c.slug !== slug);
-  return others.slice(0, count).map((c) => ({ ...c, cover: c.skus[0] }));
+  return others.map((c) => ({ ...c, cover: c.skus[0] }));
 }
