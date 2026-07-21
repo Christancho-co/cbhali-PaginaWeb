@@ -1,0 +1,76 @@
+/* ============================================================
+   About Us — hero absoluto (--u:100vw/1920); resto en flujo,
+   paleta cálida crema (#f7f2e8) y fotografía en blanco y negro.
+   ============================================================ */
+
+.abpage {
+  --u: calc(100vw / 1920);
+  --cream-paper: #f7f2e8;
+  width: 100%;
+  overflow: hidden;
+  background: #000;
+}
+
+/* ---------------- HERO ---------------- */
+
+.abhero { position: relative; width: 100%; height: calc(var(--u) * 1200); overflow: hidden; background: #000; }
+.abhero__img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; filter: grayscale(1) contrast(1.05); }
+.abhero__shade { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,.5), rgba(0,0,0,0) 35%, rgba(0,0,0,.35)); }
+
+.abhero__menu { position: absolute; left: calc(var(--u) * 40); top: calc(var(--u) * 56); width: calc(var(--u) * 36); height: calc(var(--u) * 20); display: flex; flex-direction: column; justify-content: space-between; }
+.abhero__menu span { display: block; width: 100%; height: calc(var(--u) * 2.5); background: #fff; border-radius: 2px; }
+.abhero__logo { position: absolute; left: 0; top: calc(var(--u) * 30); width: 100%; text-align: center; }
+.abhero__logo-mark { display: inline-block; width: calc(var(--u) * 40); height: calc(var(--u) * 40); vertical-align: middle; }
+.abhero__logo-text { display: inline-block; margin-left: calc(var(--u) * 14); vertical-align: middle; font-family: var(--font-seasons); font-weight: 700; font-size: calc(var(--u) * 45); color: #fff; }
+.abhero__search { position: absolute; right: calc(var(--u) * 40); top: calc(var(--u) * 40); width: calc(var(--u) * 30); height: calc(var(--u) * 30); }
+.abhero__search svg { width: 100%; height: 100%; }
+
+.abhero__mark {
+  position: absolute; left: 0; top: calc(var(--u) * 700); width: 100%; text-align: center;
+  font-family: var(--font-seasons); font-weight: 700; font-size: calc(var(--u) * 95); color: #fff; line-height: 1;
+}
+.abhero__title {
+  position: absolute; left: 0; top: calc(var(--u) * 820); width: 100%; text-align: center;
+  font-family: var(--font-seasons); font-weight: 300; font-size: calc(var(--u) * 151.45); color: #fff;
+}
+
+/* ---------------- STORY BAND (3 fotos) ---------------- */
+
+.abstoryband { position: relative; background: var(--cream-paper); padding: clamp(3rem, 8vw, 5.5rem) clamp(1.25rem, 6vw, 5.5rem); }
+.abstoryband__title { text-align: center; font-family: var(--font-seasons); font-weight: 700; font-size: clamp(1.8rem, 3.2vw, 2.6rem); color: #333; margin-bottom: clamp(2rem, 6vw, 3.5rem); }
+.abstoryband__mark { font-family: var(--font-seasons); }
+.abstoryband__photos { display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(0.5rem, 1.5vw, 1rem); }
+.abstoryband__photos img { width: 100%; aspect-ratio: 3/4; object-fit: cover; filter: grayscale(1) sepia(0.15); }
+
+/* ---------------- STORY TEXT ---------------- */
+
+.abstory { position: relative; background: var(--cream-paper); padding: clamp(3rem, 7vw, 5rem) clamp(1.25rem, 6vw, 5.5rem); }
+.abstory__title { font-family: var(--font-seasons); font-weight: 300; font-size: clamp(2.2rem, 4.5vw, 3.6rem); line-height: 1.2; color: #b3b3b3; }
+.abstory__plus { color: #8c9789; margin: 0 0.15em; }
+.abstory__copy { margin-top: clamp(2rem, 5vw, 3rem); max-width: 1100px; }
+.abstory__copy p { font-family: var(--font-satoshi); font-weight: 400; font-size: 0.85rem; letter-spacing: 0.01em; line-height: 1.8; text-transform: uppercase; color: #4a4a48; }
+.abstory__copy p + p { margin-top: 1.25rem; }
+.abstory__copy strong { font-weight: 700; }
+
+/* ---------------- VALUES ---------------- */
+
+.abvalues { position: relative; background: var(--cream-paper); padding: clamp(2rem, 6vw, 4rem) clamp(1.25rem, 6vw, 5.5rem) clamp(3rem, 7vw, 5rem); }
+.abvalues__title { display: flex; align-items: flex-start; gap: 1rem; font-family: var(--font-seasons); font-weight: 300; font-size: clamp(2.2rem, 4.5vw, 3.6rem); line-height: 1.1; color: #b3b3b3; }
+.abvalues__mark { font-weight: 700; color: #384920; font-size: 0.55em; }
+
+.abvalues__list { margin-top: clamp(2rem, 5vw, 3rem); display: flex; flex-direction: column; gap: 1.5rem; max-width: 1100px; }
+.abvalues__list p { font-family: var(--font-satoshi); font-weight: 400; font-size: 0.85rem; letter-spacing: 0.01em; line-height: 1.8; text-transform: uppercase; color: #4a4a48; }
+
+/* ---------------- TEAM ---------------- */
+
+.abteam { position: relative; background: var(--cream-paper); padding: clamp(2rem, 6vw, 3.5rem) clamp(1.25rem, 6vw, 5.5rem) clamp(3rem, 7vw, 5rem); }
+.abteam__credits { font-family: var(--font-satoshi); font-weight: 400; font-size: 0.8rem; letter-spacing: 0.02em; line-height: 1.9; color: #1a1a18; text-align: center; max-width: 1200px; margin: 0 auto clamp(2rem, 6vw, 3.5rem); }
+.abteam__grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: clamp(0.4rem, 1vw, 0.75rem); }
+.abteam__grid img { width: 100%; aspect-ratio: 3/4; object-fit: cover; filter: grayscale(1) sepia(0.15); }
+.abteam__signature { margin-top: clamp(2.5rem, 6vw, 4rem); text-align: center; font-family: var(--font-signature); font-size: clamp(1.6rem, 3.4vw, 2.4rem); color: #384920; }
+.abteam hr { margin-top: clamp(2rem, 5vw, 3rem); border: none; border-top: 1px solid rgba(0,0,0,.15); }
+
+@media (max-width: 820px) {
+  .abstoryband__photos { grid-template-columns: repeat(3, 1fr); }
+  .abteam__grid { grid-template-columns: repeat(3, 1fr); }
+}
