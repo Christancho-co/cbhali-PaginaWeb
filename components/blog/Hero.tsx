@@ -1,10 +1,12 @@
+import MenuButton from '@/components/shared/MenuButton';
+
 export default function Hero() {
   return (
     <section className="blhero">
       <img className="blhero__img" src="/images/blog/hero.webp" alt="Detail of a dark fringed rug on a patterned tile floor" />
       <div className="blhero__shade" />
 
-      <button className="blhero__menu" aria-label="Open menu"><span /><span /><span /></button>
+      <MenuButton className="blhero__menu" />
       <a className="blhero__logo" href="/" aria-label="CB Hali home">
         <img className="blhero__logo-mark" src="/svg/logo-mark.svg" alt="" />
         <span className="blhero__logo-text">HaLi</span>

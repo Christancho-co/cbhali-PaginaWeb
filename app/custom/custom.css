@@ -23,7 +23,8 @@
 .cshero__menu { position: absolute; left: calc(var(--u) * 40); top: calc(var(--u) * 56); width: calc(var(--u) * 36); height: calc(var(--u) * 20); display: flex; flex-direction: column; justify-content: space-between; }
 .cshero__menu span { display: block; width: 100%; height: calc(var(--u) * 2.5); background: #fff; border-radius: 2px; }
 
-.cshero__logo { position: absolute; left: 0; top: calc(var(--u) * 30); width: 100%; text-align: center; }
+.cshero__logo { position: absolute; left: 0; top: calc(var(--u) * 30); width: 100%; text-align: center; pointer-events: none; }
+.cshero__logo-mark, .cshero__logo-text { pointer-events: auto; }
 .cshero__logo-mark { display: inline-block; width: calc(var(--u) * 40); height: calc(var(--u) * 40); vertical-align: middle; }
 .cshero__logo-text { display: inline-block; margin-left: calc(var(--u) * 14); vertical-align: middle; font-family: var(--font-seasons); font-weight: 700; font-size: calc(var(--u) * 45); color: #fff; }
 .cshero__search { position: absolute; right: calc(var(--u) * 40); top: calc(var(--u) * 40); width: calc(var(--u) * 30); height: calc(var(--u) * 30); }

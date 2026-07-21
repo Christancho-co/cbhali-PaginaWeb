@@ -62,7 +62,8 @@
 }
 .hero__menu span { display: block; width: 100%; height: calc(var(--u) * 2.5); background: #fff; border-radius: 2px; }
 
-.hero__logo { position: absolute; left: 0; top: 0; width: 100%; height: calc(var(--u) * 130); }
+.hero__logo { position: absolute; left: 0; top: 0; width: 100%; height: calc(var(--u) * 130); pointer-events: none; }
+.hero__logo-mark, .hero__logo-text { pointer-events: auto; }
 .hero__logo-mark {
   position: absolute;
   left: calc(var(--u) * 787);

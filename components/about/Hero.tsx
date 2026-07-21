@@ -1,10 +1,12 @@
+import MenuButton from '@/components/shared/MenuButton';
+
 export default function Hero() {
   return (
     <section className="abhero">
       <img className="abhero__img" src="/images/about/hero.webp" alt="Hands working with wool yarn, black and white" />
       <div className="abhero__shade" />
 
-      <button className="abhero__menu" aria-label="Open menu"><span /><span /><span /></button>
+      <MenuButton className="abhero__menu" />
       <a className="abhero__logo" href="/" aria-label="CB Hali home">
         <img className="abhero__logo-mark" src="/svg/logo-mark.svg" alt="" />
         <span className="abhero__logo-text">HaLi</span>

@@ -1,12 +1,12 @@
+import MenuButton from '@/components/shared/MenuButton';
+
 export default function Hero() {
   return (
     <section className="cshero">
       <img className="cshero__img" src="/images/custom/hero.webp" alt="Wave-pattern custom rug on a coastal wall" />
       <div className="cshero__shade" />
 
-      <button className="cshero__menu" aria-label="Open menu">
-        <span /><span /><span />
-      </button>
+      <MenuButton className="cshero__menu" />
       <a className="cshero__logo" href="/" aria-label="CB Hali home">
         <img className="cshero__logo-mark" src="/svg/logo-mark.svg" alt="" />
         <span className="cshero__logo-text">HaLi</span>

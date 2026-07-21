@@ -1,3 +1,5 @@
+import MenuButton from '@/components/shared/MenuButton';
+
 export default function Hero() {
   return (
     <section className="hero">
@@ -7,11 +9,7 @@ export default function Hero() {
       <div className="hero__shade hero__shade--top" />
       <div className="hero__shade hero__shade--bottom" />
 
-      <button className="hero__menu" aria-label="Open menu">
-        <span />
-        <span />
-        <span />
-      </button>
+      <MenuButton className="hero__menu" />
 
       <a className="hero__logo" href="/" aria-label="CB Hali home">
         <img className="hero__logo-mark" src="/svg/logo-mark.svg" alt="" />

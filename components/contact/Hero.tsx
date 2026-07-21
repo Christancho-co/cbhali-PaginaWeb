@@ -1,10 +1,12 @@
+import MenuButton from '@/components/shared/MenuButton';
+
 export default function Hero() {
   return (
     <section className="cnhero">
       <img className="cnhero__img" src="/images/contact/hero.webp" alt="Ivy growing on a terracotta brick wall" />
       <div className="cnhero__shade" />
 
-      <button className="cnhero__menu" aria-label="Open menu"><span /><span /><span /></button>
+      <MenuButton className="cnhero__menu" />
       <a className="cnhero__logo" href="/" aria-label="CB Hali home">
         <img className="cnhero__logo-mark" src="/svg/logo-mark.svg" alt="" />
         <span className="cnhero__logo-text">HaLi</span>

@@ -34,7 +34,8 @@
 }
 .chero__menu span { display: block; width: 100%; height: calc(var(--u) * 2.5); background: #fff; border-radius: 2px; }
 
-.chero__logo { position: absolute; left: 0; top: calc(var(--u) * 30); width: 100%; text-align: center; }
+.chero__logo { position: absolute; left: 0; top: calc(var(--u) * 30); width: 100%; text-align: center; pointer-events: none; }
+.chero__logo-mark, .chero__logo-text { pointer-events: auto; }
 .chero__logo-mark { display: inline-block; width: calc(var(--u) * 40); height: calc(var(--u) * 40); vertical-align: middle; }
 .chero__logo-text {
   display: inline-block; margin-left: calc(var(--u) * 14); vertical-align: middle;

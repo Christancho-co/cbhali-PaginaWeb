@@ -1,14 +1,12 @@
+import MenuButton from '@/components/shared/MenuButton';
+
 export default function Hero() {
   return (
     <section className="chero">
       <img className="chero__img" src="/images/collections/hero-rolls.webp" alt="Rolled CB Hali rugs" />
       <div className="chero__shade" />
 
-      <button className="chero__menu" aria-label="Open menu">
-        <span />
-        <span />
-        <span />
-      </button>
+      <MenuButton className="chero__menu" />
       <a className="chero__logo" href="/" aria-label="CB Hali home">
         <img className="chero__logo-mark" src="/svg/logo-mark.svg" alt="" />
         <span className="chero__logo-text">HaLi</span>

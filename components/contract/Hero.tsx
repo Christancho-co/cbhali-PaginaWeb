@@ -1,10 +1,12 @@
+import MenuButton from '@/components/shared/MenuButton';
+
 export default function Hero() {
   return (
     <section className="cthero">
       <img className="cthero__img" src="/images/contract/hero.webp" alt="Living room with a custom contract rug" />
       <div className="cthero__shade" />
 
-      <button className="cthero__menu" aria-label="Open menu"><span /><span /><span /></button>
+      <MenuButton className="cthero__menu" />
       <a className="cthero__logo" href="/" aria-label="CB Hali home">
         <img className="cthero__logo-mark" src="/svg/logo-mark.svg" alt="" />
         <span className="cthero__logo-text">HaLi</span>
