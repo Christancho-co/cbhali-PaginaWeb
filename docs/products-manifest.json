@@ -1,0 +1,273 @@
+{
+  "aluna": [
+    {
+      "code": "043-0001",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "043-0002",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "043-0003",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "043-0004",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "043-0005",
+      "colorName": null,
+      "thumbCount": 3
+    }
+  ],
+  "amhara": [
+    {
+      "code": "039-0001",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "039-0005",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "039-0006",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "039-0007",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "039-0008",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "039-0009",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "039-0010",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "039-0011",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "039-0012",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "039-0013",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "039-0014",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "039-0015",
+      "colorName": null,
+      "thumbCount": 3
+    }
+  ],
+  "arya": [
+    {
+      "code": "037-0001",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "037-0002",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "037-0003",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "037-0004",
+      "colorName": null,
+      "thumbCount": 2
+    }
+  ],
+  "equus": [
+    {
+      "code": "041-0001",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "041-0002",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "041-0003",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "041-0004",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "041-0005",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "041-0006",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "041-0007",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "041-0008",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "041-0009",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "041-0010",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "041-0011",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "041-0012",
+      "colorName": null,
+      "thumbCount": 1
+    },
+    {
+      "code": "041-0013",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "041-0014",
+      "colorName": null,
+      "thumbCount": 2
+    }
+  ],
+  "helios": [
+    {
+      "code": "038-0001",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "038-0002",
+      "colorName": null,
+      "thumbCount": 3
+    }
+  ],
+  "lattice": [
+    {
+      "code": "031-0008",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "031-0010",
+      "colorName": "Verde Olivo",
+      "thumbCount": 3
+    },
+    {
+      "code": "031-0011",
+      "colorName": "Azul Noche",
+      "thumbCount": 2
+    },
+    {
+      "code": "031-009-Amarillo Mostaza",
+      "colorName": null,
+      "thumbCount": 3
+    }
+  ],
+  "manchaha": [
+    {
+      "code": "040-0001",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "040-0002",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "040-0003",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "040-0004",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "040-0005",
+      "colorName": null,
+      "thumbCount": 3
+    }
+  ],
+  "soma": [
+    {
+      "code": "030-0009",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "030-0010",
+      "colorName": null,
+      "thumbCount": 3
+    },
+    {
+      "code": "030-0011",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "030-0012",
+      "colorName": null,
+      "thumbCount": 2
+    },
+    {
+      "code": "030-0013",
+      "colorName": null,
+      "thumbCount": 2
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+/* ============================================================
+   Página de producto (por colección + colorway), fiel al PDF
+   "WEB-PLANTILLA" del paquete: galería + info a la derecha,
+   acordeón de detalles, y carrusel "Explore more collections".
+   ============================================================ */
+
+.ppage {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem clamp(1.25rem, 5vw, 3rem) 0;
+  background: #fff;
+}
+
+.pbreadcrumb {
+  font-family: var(--font-satoshi);
+  font-size: 0.85rem;
+  color: var(--gray-soft);
+  margin-bottom: 1.5rem;
+}
+.pbreadcrumb a { color: var(--gray-soft); text-decoration: underline; }
+.pbreadcrumb span { color: var(--ink); }
+
+.ptop {
+  display: grid;
+  grid-template-columns: 1.1fr 1fr;
+  gap: clamp(2rem, 5vw, 4rem);
+}
+
+/* ---------------- GALLERY ---------------- */
+
+.pgallery__main {
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+  background: #f2f2f2;
+}
+.pgallery__main img { width: 100%; height: 100%; object-fit: cover; }
+
+.pgallery__thumbs { display: flex; align-items: center; gap: 0.6rem; margin-top: 0.75rem; }
+.pgallery__thumb {
+  flex: 1;
+  aspect-ratio: 1;
+  overflow: hidden;
+  border: 2px solid transparent;
+  opacity: 0.7;
+}
+.pgallery__thumb.is-active { border-color: var(--ink); opacity: 1; }
+.pgallery__thumb img { width: 100%; height: 100%; object-fit: cover; }
+.pgallery__nav { flex: none; width: 24px; color: var(--gray-soft); }
+.pgallery__nav svg { width: 100%; height: auto; }
+
+/* ---------------- INFO ---------------- */
+
+.pinfo__title {
+  font-family: var(--font-satoshi);
+  font-weight: 800;
+  font-size: clamp(1.8rem, 3.5vw, 2.6rem);
+  color: var(--ink);
+}
+.pinfo__title span { font-weight: 800; }
+.pinfo__code { margin-top: 0.35rem; font-family: var(--font-satoshi); font-size: 0.8rem; font-style: italic; color: var(--gray-soft); }
+
+.pinfo__label {
+  margin-top: 2rem;
+  font-family: var(--font-satoshi);
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: var(--ink);
+}
+
+.pcolors { margin-top: 1rem; }
+.pcolors__item { flex: none; width: 90px; text-align: center; }
+.pcolors__item img { width: 90px; height: 90px; object-fit: cover; border-radius: 50%; margin-bottom: 0.4rem; }
+.pcolors__item span { font-family: var(--font-satoshi); font-size: 0.7rem; color: var(--gray-soft); line-height: 1.3; }
+
+.psizes { margin-top: 1rem; display: flex; flex-wrap: wrap; gap: 0.75rem; }
+.psizes__item {
+  display: flex; flex-direction: column; align-items: center; gap: 0.3rem;
+  border: 1px solid #ccc; border-radius: 999px; padding: 0.6rem 1.1rem; min-width: 110px;
+}
+.psizes__size { font-family: var(--font-satoshi); font-weight: 500; font-size: 0.85rem; color: var(--ink); }
+.psizes__status { font-family: var(--font-satoshi); font-style: italic; font-size: 0.72rem; color: var(--gray-soft); }
+
+.pdetails { margin-top: 1rem; display: grid; grid-template-columns: 1fr 1fr; gap: 1rem 1.5rem; }
+.pdetails__item { display: flex; align-items: center; gap: 0.6rem; font-family: var(--font-satoshi); font-size: 0.95rem; color: var(--ink); }
+.pdetails__icon { flex: none; width: 26px; height: 26px; color: var(--terracotta); }
+.pdetails__icon svg { width: 100%; height: 100%; }
+
+.pinfo__help { margin-top: 1.75rem; font-family: var(--font-satoshi); font-size: 0.9rem; color: var(--ink); }
+.pinfo__help em { color: var(--gray-soft); font-style: italic; }
+
+/* ---------------- SCROLL ROW (compartido: colores / explore more) ---------------- */
+
+.scrollrow { position: relative; display: flex; align-items: center; gap: 0.5rem; }
+.scrollrow__track { display: flex; gap: 1rem; overflow-x: auto; scroll-behavior: smooth; scrollbar-width: none; }
+.scrollrow__track::-webkit-scrollbar { display: none; }
+.scrollrow__nav { flex: none; width: 22px; color: var(--gray-soft); }
+.scrollrow__nav svg { width: 100%; height: auto; }
+
+/* ---------------- ACORDEÓN ---------------- */
+
+.paccordion { margin-top: clamp(2.5rem, 6vw, 4rem); border-top: 1px solid #ddd; }
+.paccordion__item { border-bottom: 1px solid #ddd; }
+.paccordion__head {
+  width: 100%; display: flex; justify-content: space-between; align-items: center;
+  padding: 1rem 0; font-family: var(--font-satoshi); font-weight: 700; font-size: 1rem; color: var(--ink);
+}
+.paccordion__toggle { font-size: 1.3rem; color: var(--gray-soft); }
+.paccordion__body { padding-bottom: 1.5rem; font-family: var(--font-satoshi); font-size: 0.9rem; line-height: 1.75; color: var(--gray-text); max-width: 900px; }
+.paccordion__body h3 { font-family: var(--font-seasons); font-weight: 400; font-size: 1.6rem; color: var(--ink); margin-bottom: 0.75rem; }
+.paccordion__body p + p { margin-top: 1rem; }
+.pspecs { line-height: 2; }
+
+.pdownloads { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+.pdownloads button { border: 1px solid #ccc; border-radius: 999px; padding: 0.6rem 1.25rem; font-family: var(--font-satoshi); font-size: 0.85rem; color: var(--ink); }
+
+/* ---------------- EXPLORE MORE ---------------- */
+
+.pmore { margin: clamp(3rem, 7vw, 5rem) 0 clamp(2rem, 5vw, 3rem); text-align: center; }
+.pmore h2 { font-family: var(--font-satoshi); font-weight: 700; font-size: 1.5rem; color: var(--ink); margin-bottom: 2rem; }
+.pmore__row .scrollrow__track { justify-content: center; }
+.pmore__item { flex: none; width: 220px; text-align: left; }
+.pmore__item img { width: 100%; aspect-ratio: 4/5; object-fit: cover; }
+.pmore__item span { display: block; margin-top: 0.5rem; font-family: var(--font-satoshi); font-size: 0.85rem; color: var(--ink); }
+
+@media (max-width: 820px) {
+  .ptop { grid-template-columns: 1fr; }
+  .pdetails { grid-template-columns: 1fr; }
+  .pmore__item { width: 160px; }
+}
