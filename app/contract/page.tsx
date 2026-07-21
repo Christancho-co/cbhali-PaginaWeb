@@ -6,7 +6,7 @@ import Intro from '@/components/contract/Intro';
 import Process from '@/components/contract/Process';
 import Gallery from '@/components/contract/Gallery';
 import Tagline from '@/components/contract/Tagline';
-import SiteFooterExpanded from '@/components/shared/SiteFooterExpanded';
+import SiteFooter from '@/components/shared/SiteFooter';
 
 export default function ContractPage() {
   return (
@@ -18,7 +18,7 @@ export default function ContractPage() {
       <Process />
       <Gallery />
       <Tagline />
-      <SiteFooterExpanded bgImage="/images/contract/footer-bg.webp" />
+      <SiteFooter bgImage="/images/contract/footer-bg.webp" />
     </main>
   );
 }

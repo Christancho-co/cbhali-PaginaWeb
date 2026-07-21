@@ -7,7 +7,7 @@ import Statement from '@/components/home/Statement';
 import Studio from '@/components/home/Studio';
 import Instagram from '@/components/home/Instagram';
 import Showcase from '@/components/home/Showcase';
-import SiteFooterExpanded from '@/components/shared/SiteFooterExpanded';
+import SiteFooter from '@/components/shared/SiteFooter';
 
 export default function HomePage() {
   return (
@@ -22,7 +22,7 @@ export default function HomePage() {
         <Instagram />
         <Showcase />
       </main>
-      <SiteFooterExpanded bgImage="/images/home/footer-rug.webp" />
+      <SiteFooter bgImage="/images/home/footer-rug.webp" />
     </>
   );
 }

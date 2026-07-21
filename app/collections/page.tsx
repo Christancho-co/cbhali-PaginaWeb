@@ -3,7 +3,7 @@ import Hero from '@/components/collections/Hero';
 import Intro from '@/components/collections/Intro';
 import Quote from '@/components/collections/Quote';
 import CollectionRow from '@/components/collections/CollectionRow';
-import SiteFooterExpanded from '@/components/shared/SiteFooterExpanded';
+import SiteFooter from '@/components/shared/SiteFooter';
 
 export default function CollectionsPage() {
   return (
@@ -84,7 +84,7 @@ export default function CollectionsPage() {
         completing it.
       </CollectionRow>
 
-      <SiteFooterExpanded bgImage="/images/collections/footer-bg.webp" />
+      <SiteFooter bgImage="/images/collections/footer-bg.webp" />
     </main>
   );
 }

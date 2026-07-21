@@ -6,7 +6,7 @@ import Journey from '@/components/custom/Journey';
 import Author from '@/components/custom/Author';
 import Believe from '@/components/custom/Believe';
 import SketchBand from '@/components/custom/SketchBand';
-import SiteFooterExpanded from '@/components/shared/SiteFooterExpanded';
+import SiteFooter from '@/components/shared/SiteFooter';
 
 export default function CustomPage() {
   return (
@@ -18,7 +18,7 @@ export default function CustomPage() {
       <Author />
       <Believe />
       <SketchBand />
-      <SiteFooterExpanded bgImage="/images/custom/footer-bg.webp" />
+      <SiteFooter bgImage="/images/custom/footer-bg.webp" />
     </main>
   );
 }

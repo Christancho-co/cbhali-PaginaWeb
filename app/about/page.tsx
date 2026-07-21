@@ -4,7 +4,7 @@ import StoryBand from '@/components/about/StoryBand';
 import Story from '@/components/about/Story';
 import Values from '@/components/about/Values';
 import Team from '@/components/about/Team';
-import SiteFooterExpanded from '@/components/shared/SiteFooterExpanded';
+import SiteFooter from '@/components/shared/SiteFooter';
 
 export default function AboutPage() {
   return (
@@ -14,7 +14,7 @@ export default function AboutPage() {
       <Story />
       <Values />
       <Team />
-      <SiteFooterExpanded bgImage="/images/about/footer-bg.webp" />
+      <SiteFooter bgImage="/images/about/footer-bg.webp" />
     </main>
   );
 }
