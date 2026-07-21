@@ -7,20 +7,22 @@ import Statement from '@/components/home/Statement';
 import Studio from '@/components/home/Studio';
 import Instagram from '@/components/home/Instagram';
 import Showcase from '@/components/home/Showcase';
-import Footer from '@/components/home/Footer';
+import SiteFooterExpanded from '@/components/shared/SiteFooterExpanded';
 
 export default function HomePage() {
   return (
-    <main className="page">
-      <Hero />
-      <Manifesto />
-      <Product />
-      <Catalog />
-      <Statement />
-      <Studio />
-      <Instagram />
-      <Showcase />
-      <Footer />
-    </main>
+    <>
+      <main className="page">
+        <Hero />
+        <Manifesto />
+        <Product />
+        <Catalog />
+        <Statement />
+        <Studio />
+        <Instagram />
+        <Showcase />
+      </main>
+      <SiteFooterExpanded bgImage="/images/home/footer-rug.webp" />
+    </>
   );
 }

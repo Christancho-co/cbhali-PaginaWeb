@@ -8,7 +8,7 @@
 .page {
   position: relative;
   width: 100%;
-  height: calc(var(--u) * 13190);
+  height: calc(var(--u) * 11983);
   overflow: hidden;
   background: var(--white);
 }
@@ -21,7 +21,6 @@
 .page__bg--cream   { top: calc(var(--u) * 1284);  height: calc(var(--u) * 3006); background: var(--cream); }
 .page__bg--gray    { top: calc(var(--u) * 5653);  height: calc(var(--u) * 1992); background: var(--gray-bg); }
 .page__bg--warm    { top: calc(var(--u) * 7645);  height: calc(var(--u) * 1308); background: var(--cream-warm); }
-.page__bg--footer  { top: calc(var(--u) * 12633); height: calc(var(--u) * 557);  background: var(--white); }
 
 /* ---------------- HERO ---------------- */
 
@@ -452,7 +451,6 @@
 .product__frame { z-index: 1; }
 .insta__stairs, .insta__waves, .insta__phone { z-index: 2; }
 .studio__video, .studio__team, .news { z-index: 3; }
-.foot__fade, .foot__lockup, .page__bg--footer, .foot__nav, .foot__social, .foot__legal, .foot__credit { z-index: 4; }
 
 /* ---------------- SHOWCASE ---------------- */
 
@@ -476,107 +474,6 @@
   color: #fff;
 }
 
-/* ---------------- FOOTER ---------------- */
-
-.foot__rug {
-  position: absolute;
-  left: calc(var(--u) * -1);
-  top: calc(var(--u) * 10924.5);
-  width: calc(var(--u) * 1923);
-  height: calc(var(--u) * 2266);
-  object-fit: cover;
-  object-position: center top;
-  z-index: 0;
-}
-.foot__fade {
-  position: absolute;
-  left: 0;
-  top: calc(var(--u) * 12340);
-  width: 100%;
-  height: calc(var(--u) * 300);
-  background: linear-gradient(180deg, rgba(255,255,255,0), #fff);
-}
-
-.foot__lockup { position: absolute; left: 0; top: 0; width: 100%; }
-.foot__mark {
-  position: absolute;
-  left: calc(var(--u) * 768);
-  top: calc(var(--u) * 12150);
-  width: calc(var(--u) * 100);
-  height: calc(var(--u) * 134);
-}
-.foot__hali {
-  position: absolute;
-  left: calc(var(--u) * 880);
-  top: calc(var(--u) * 12191);
-  font-family: var(--font-seasons);
-  font-weight: 700;
-  font-size: calc(var(--u) * 117.99);
-  line-height: 1;
-  color: #fff;
-}
-.foot__reg {
-  position: absolute;
-  left: calc(var(--u) * 1119);
-  top: calc(var(--u) * 12188);
-  font-family: var(--font-satoshi);
-  font-weight: 400;
-  font-size: calc(var(--u) * 47.09);
-  line-height: 1;
-  color: #fff;
-}
-.foot__tagline {
-  position: absolute;
-  left: calc(var(--u) * 839);
-  top: calc(var(--u) * 12317);
-  font-family: var(--font-satoshi);
-  font-weight: 700;
-  font-size: calc(var(--u) * 15.39);
-  letter-spacing: 0.08em;
-  color: #fff;
-}
-
-.foot__nav { position: absolute; display: flex; flex-direction: column; }
-.foot__nav a {
-  font-family: var(--font-satoshi);
-  font-weight: 500;
-  font-size: calc(var(--u) * 30);
-  line-height: calc(var(--u) * 52.38);
-  letter-spacing: 0.04em;
-  color: var(--ink);
-}
-.foot__nav--a { left: calc(var(--u) * 158); top: calc(var(--u) * 12752); }
-.foot__nav--b { left: calc(var(--u) * 431); top: calc(var(--u) * 12752); }
-
-.foot__social {
-  position: absolute;
-  left: calc(var(--u) * 1692);
-  top: calc(var(--u) * 12735.5);
-  width: calc(var(--u) * 80);
-  height: calc(var(--u) * 260);
-}
-
-.foot__legal {
-  position: absolute;
-  left: calc(var(--u) * 153);
-  top: calc(var(--u) * 13040);
-  font-family: var(--font-satoshi);
-  font-weight: 300;
-  font-size: calc(var(--u) * 21);
-  letter-spacing: 0.04em;
-  color: var(--ink);
-}
-.foot__credit {
-  position: absolute;
-  left: calc(var(--u) * 1383);
-  top: calc(var(--u) * 13043);
-  font-family: var(--font-satoshi);
-  font-weight: 300;
-  font-size: calc(var(--u) * 16.48);
-  color: var(--ink);
-}
-.foot__credit strong { font-weight: 700; }
-
 /* ============================================================
    MÓVIL — artboard móvil del diseño (1125 px de ancho, página
    de 15.440 px de alto; origen (5105, 300) del lienzo SVG).
@@ -590,12 +487,11 @@
   .only-d { display: none; }
   .only-m { display: block; }
 
-  .page { height: calc(var(--u) * 15440); }
+  .page { height: calc(var(--u) * 13630); }
 
   .page__bg--cream  { top: calc(var(--u) * 1707);  height: calc(var(--u) * 3230); }
   .page__bg--gray   { top: calc(var(--u) * 6323);  height: calc(var(--u) * 1677); }
   .page__bg--warm   { top: calc(var(--u) * 8000);  height: calc(var(--u) * 3948); }
-  .page__bg--footer { top: calc(var(--u) * 13684); height: calc(var(--u) * 1756); }
 
   /* ---------- HERO ---------- */
   .hero { height: calc(var(--u) * 1707); }
@@ -712,41 +608,4 @@
     z-index: 1;
   }
 
-  /* ---------- FOOTER ---------- */
-  .foot__rug, .foot__fade, .foot__lockup { display: none; }
-  .foot__mono-m { position: absolute; left: calc(var(--u) * 485); top: calc(var(--u) * 13755); width: calc(var(--u) * 115); height: calc(var(--u) * 185); z-index: 4; }
-  .foot__nav-m { position: absolute; left: calc(var(--u) * 360); top: calc(var(--u) * 14072); display: flex; flex-direction: column; z-index: 4; }
-  .foot__nav-m a {
-    font-family: var(--font-satoshi);
-    font-weight: 400;
-    font-size: calc(var(--u) * 39.44);
-    line-height: calc(var(--u) * 122.26);
-    letter-spacing: 0.04em;
-    color: #666;
-  }
-  .foot__nav-m a.is-current { color: var(--ink); font-weight: 500; }
-  .foot__social-m { position: absolute; left: calc(var(--u) * 915); top: calc(var(--u) * 14095); width: calc(var(--u) * 110); height: calc(var(--u) * 425); z-index: 4; }
-
-  .foot__legal {
-    left: 0;
-    top: calc(var(--u) * 15056);
-    width: 100%;
-    text-align: center;
-    font-size: calc(var(--u) * 36);
-    line-height: calc(var(--u) * 45.35);
-    padding: 0 calc(var(--u) * 100);
-  }
-  .foot__rights {
-    position: absolute;
-    left: 0;
-    top: calc(var(--u) * 15290);
-    width: 100%;
-    text-align: center;
-    font-family: var(--font-satoshi);
-    font-weight: 700;
-    font-size: calc(var(--u) * 34.56);
-    color: var(--ink);
-    z-index: 4;
-  }
-  .foot__credit { left: 0; top: calc(var(--u) * 15350); width: 100%; text-align: center; font-size: calc(var(--u) * 24); }
 }
