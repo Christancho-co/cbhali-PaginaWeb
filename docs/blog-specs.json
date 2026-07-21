@@ -1,0 +1,5848 @@
+{
+  "classMap": {
+    "cls-1": {
+      "letter-spacing": ".09em"
+    },
+    "cls-2": {
+      "letter-spacing": ".07em"
+    },
+    "cls-3": {
+      "letter-spacing": ".12em"
+    },
+    "cls-4": {
+      "letter-spacing": ".09em"
+    },
+    "cls-5": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "fill": "#384920",
+      "font-size": "11.66px"
+    },
+    "cls-6": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-7": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-8": {
+      "font-weight": "300",
+      "font-size": "55.94px",
+      "font-family": "TheSeasons-Light, 'The Seasons'"
+    },
+    "cls-9": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-10": {
+      "font-weight": "300",
+      "fill": "gray",
+      "font-size": "55.94px",
+      "font-family": "OpenSans-Light, 'Open Sans'"
+    },
+    "cls-11": {
+      "font-weight": "300",
+      "fill": "#fff",
+      "font-size": "38.82px",
+      "font-family": "TheSeasons-LightItalic, 'The Seasons'",
+      "font-style": "italic"
+    },
+    "cls-12": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-13": {
+      "font-weight": "300",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "font-size": "35.07px"
+    },
+    "cls-14": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-15": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-16": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".02em"
+    },
+    "cls-17": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-18": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-19": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "fill": "#666"
+    },
+    "cls-20": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-21": {
+      "font-weight": "300",
+      "fill": "gray",
+      "font-family": "OpenSans-Light, 'Open Sans'",
+      "font-size": "58.35px"
+    },
+    "cls-22": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-23": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-24": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-25": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-26": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-27": {
+      "font-weight": "300",
+      "fill": "gray",
+      "font-family": "OpenSans-Light, 'Open Sans'",
+      "font-size": "35.07px"
+    },
+    "cls-28": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-29": {
+      "font-weight": "300",
+      "fill": "#fff",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "font-size": "131.67px"
+    },
+    "cls-30": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-31": {
+      "font-weight": "300",
+      "fill": "#fff",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "font-size": "146.91px"
+    },
+    "cls-32": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-33": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.03em"
+    },
+    "cls-34": {
+      "font-weight": "300",
+      "fill": "gray",
+      "font-size": "58.28px",
+      "font-family": "OpenSans-Light, 'Open Sans'"
+    },
+    "cls-35": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-36": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-37": {
+      "font-weight": "300",
+      "fill": "gray",
+      "font-family": "OpenSans-Light, 'Open Sans'",
+      "font-size": "55.83px"
+    },
+    "cls-38": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-39": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-40": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-41": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.04em"
+    },
+    "cls-42": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-43": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi"
+    },
+    "cls-44": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.04em"
+    },
+    "cls-45": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-46": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-47": {
+      "font-weight": "300",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "font-size": "58.35px",
+      "letter-spacing": "-.04em"
+    },
+    "cls-48": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "font-size": "30px"
+    },
+    "cls-49": {
+      "font-weight": "300",
+      "fill": "#fff",
+      "font-family": "TheSeasons-LightItalic, 'The Seasons'",
+      "font-style": "italic",
+      "font-size": "83.82px"
+    },
+    "cls-50": {
+      "font-weight": "300",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "font-size": "55.83px"
+    },
+    "cls-51": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-52": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-53": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-54": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-55": {
+      "font-weight": "300",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "font-size": "35.07px",
+      "letter-spacing": "-.04em"
+    },
+    "cls-56": {
+      "font-weight": "300",
+      "font-size": "58.28px",
+      "font-family": "TheSeasons-Light, 'The Seasons'",
+      "letter-spacing": "-.04em"
+    },
+    "cls-57": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": ".02em"
+    },
+    "cls-58": {
+      "font-weight": "300",
+      "font-family": "Satoshi-Light, Satoshi",
+      "letter-spacing": "-.01em"
+    },
+    "cls-59": {
+      "fill": "#384920",
+      "font-size": "11.66px",
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi"
+    },
+    "cls-60": {
+      "fill": "#384920",
+      "font-family": "BrigendSignature, 'Brigend Signature'",
+      "font-size": "91.63px"
+    },
+    "cls-61": {
+      "fill": "#384920",
+      "font-size": "11.66px",
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800"
+    },
+    "cls-62": {
+      "fill": "#384920",
+      "mix-blend-mode": "multiply"
+    },
+    "cls-63": {
+      "fill": "#384920"
+    },
+    "cls-64": {
+      "letter-spacing": ".09em"
+    },
+    "cls-65": {
+      "letter-spacing": ".11em"
+    },
+    "cls-66": {
+      "letter-spacing": ".04em"
+    },
+    "cls-67": {
+      "letter-spacing": ".01em"
+    },
+    "cls-68": {
+      "letter-spacing": ".09em"
+    },
+    "cls-69": {
+      "letter-spacing": ".05em"
+    },
+    "cls-70": {
+      "letter-spacing": ".05em"
+    },
+    "cls-71": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-72": {
+      "font-weight": "700",
+      "fill": "gray",
+      "font-family": "OpenSans-Bold, 'Open Sans'",
+      "font-size": "58.28px"
+    },
+    "cls-73": {
+      "font-weight": "700",
+      "font-size": "93.76px",
+      "fill": "#fff",
+      "font-family": "TheSeasons-Bold, 'The Seasons'"
+    },
+    "cls-74": {
+      "font-weight": "700",
+      "fill": "#fff",
+      "font-family": "Helvetica-Bold, Helvetica",
+      "font-size": "15.1px",
+      "letter-spacing": ".1em"
+    },
+    "cls-75": {
+      "font-weight": "700",
+      "fill": "#fff",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "71.48px"
+    },
+    "cls-76": {
+      "font-weight": "700",
+      "font-family": "OpenSans-Bold, 'Open Sans'",
+      "fill": "#606060",
+      "font-size": "12px"
+    },
+    "cls-77": {
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "fill": "#231f20",
+      "font-size": "54.21px"
+    },
+    "cls-78": {
+      "font-weight": "700",
+      "fill": "#231f20",
+      "font-size": "4.33px",
+      "font-family": "Satoshi-Bold, Satoshi"
+    },
+    "cls-79": {
+      "font-weight": "700",
+      "fill": "gray",
+      "font-family": "OpenSans-Bold, 'Open Sans'",
+      "font-size": "55.83px"
+    },
+    "cls-80": {
+      "font-weight": "700",
+      "fill": "#011b2f",
+      "font-family": "OpenSans-Extrabold, 'Open Sans'",
+      "font-size": "24px"
+    },
+    "cls-81": {
+      "font-weight": "700",
+      "fill": "#fff",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "202.43px"
+    },
+    "cls-82": {
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "116.69px"
+    },
+    "cls-83": {
+      "font-weight": "700",
+      "fill": "#231f20",
+      "font-size": "5.29px",
+      "letter-spacing": ".08em",
+      "font-family": "HelveticaNeue-Bold, 'Helvetica Neue'"
+    },
+    "cls-84": {
+      "font-weight": "700",
+      "fill": "#fff",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "175.57px"
+    },
+    "cls-85": {
+      "font-weight": "700",
+      "font-family": "Satoshi-Bold, Satoshi",
+      "font-size": "34.79px"
+    },
+    "cls-86": {
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "111.89px"
+    },
+    "cls-87": {
+      "font-weight": "700",
+      "font-family": "Satoshi-Bold, Satoshi"
+    },
+    "cls-88": {
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "111.66px"
+    },
+    "cls-89": {
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "fill": "#333",
+      "font-size": "73.3px"
+    },
+    "cls-90": {
+      "font-weight": "700",
+      "fill": "#231f20",
+      "font-family": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "font-size": "16.86px"
+    },
+    "cls-91": {
+      "font-weight": "700",
+      "fill": "gray",
+      "font-family": "OpenSans-Bold, 'Open Sans'",
+      "font-size": "58.35px"
+    },
+    "cls-92": {
+      "font-weight": "700",
+      "fill": "gray",
+      "font-family": "OpenSans-Bold, 'Open Sans'",
+      "font-size": "55.94px"
+    },
+    "cls-93": {
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "70.14px"
+    },
+    "cls-94": {
+      "font-weight": "700",
+      "fill": "gray",
+      "font-family": "OpenSans-Bold, 'Open Sans'",
+      "font-size": "35.07px"
+    },
+    "cls-95": {
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "font-size": "116.56px"
+    },
+    "cls-96": {
+      "font-weight": "700",
+      "fill": "#fff",
+      "font-family": "Satoshi-Bold, Satoshi",
+      "font-size": "14.01px"
+    },
+    "cls-97": {
+      "font-weight": "700",
+      "font-family": "TheSeasons-Bold, 'The Seasons'",
+      "fill": "#333",
+      "font-size": "69.51px"
+    },
+    "cls-98": {
+      "fill": "#87402b"
+    },
+    "cls-99": {
+      "letter-spacing": ".1em"
+    },
+    "cls-100": {
+      "letter-spacing": ".08em"
+    },
+    "cls-101": {
+      "letter-spacing": "0em"
+    },
+    "cls-102": {
+      "letter-spacing": ".1em"
+    },
+    "cls-103": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-104": {
+      "letter-spacing": ".09em"
+    },
+    "cls-105": {
+      "letter-spacing": ".08em"
+    },
+    "cls-106": {
+      "letter-spacing": ".1em"
+    },
+    "cls-107": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-108": {
+      "letter-spacing": "0em"
+    },
+    "cls-109": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-110": {
+      "letter-spacing": ".02em"
+    },
+    "cls-111": {
+      "letter-spacing": ".09em"
+    },
+    "cls-112": {
+      "letter-spacing": ".03em"
+    },
+    "cls-113": {
+      "letter-spacing": "0em"
+    },
+    "cls-114": {
+      "letter-spacing": "0em"
+    },
+    "cls-115": {
+      "letter-spacing": ".08em"
+    },
+    "cls-116": {
+      "letter-spacing": "-.08em"
+    },
+    "cls-117": {
+      "letter-spacing": "0em"
+    },
+    "cls-118": {
+      "letter-spacing": "0em"
+    },
+    "cls-119": {
+      "letter-spacing": ".04em"
+    },
+    "cls-120": {
+      "letter-spacing": ".09em"
+    },
+    "cls-121": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-122": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-123": {
+      "clip-path": "url(#clippath-6)"
+    },
+    "cls-124": {
+      "clip-path": "url(#clippath-7)"
+    },
+    "cls-125": {
+      "letter-spacing": ".1em"
+    },
+    "cls-126": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-127": {
+      "letter-spacing": "0em"
+    },
+    "cls-128": {
+      "letter-spacing": "0em"
+    },
+    "cls-129": {
+      "letter-spacing": "0em"
+    },
+    "cls-130": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-131": {
+      "fill": "url(#linear-gradient-2)",
+      "mix-blend-mode": "multiply"
+    },
+    "cls-132": {
+      "mix-blend-mode": "multiply",
+      "fill": "#c0833e"
+    },
+    "cls-133": {
+      "mix-blend-mode": "multiply",
+      "fill": "none",
+      "stroke": "#a75d26",
+      "stroke-miterlimit": "10",
+      "stroke-width": ".28px"
+    },
+    "cls-134": {
+      "mix-blend-mode": "multiply",
+      "fill": "none",
+      "stroke-miterlimit": "10",
+      "stroke-width": ".28px",
+      "stroke": "#134d80"
+    },
+    "cls-135": {
+      "mix-blend-mode": "multiply",
+      "fill": "#a75d26"
+    },
+    "cls-136": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient-4)"
+    },
+    "cls-137": {
+      "mix-blend-mode": "multiply",
+      "fill": "none",
+      "stroke-miterlimit": "10",
+      "stroke-width": ".28px",
+      "stroke": "#c0833e"
+    },
+    "cls-138": {
+      "mix-blend-mode": "multiply",
+      "fill": "#134d80"
+    },
+    "cls-139": {
+      "mix-blend-mode": "multiply",
+      "fill": "#8c9789"
+    },
+    "cls-140": {
+      "mix-blend-mode": "multiply",
+      "fill": "#c1b49a",
+      "opacity": ".5"
+    },
+    "cls-141": {
+      "mix-blend-mode": "multiply",
+      "fill": "none",
+      "stroke-miterlimit": "10",
+      "stroke-width": ".28px",
+      "stroke": "#384920"
+    },
+    "cls-142": {
+      "mix-blend-mode": "multiply"
+    },
+    "cls-143": {
+      "mix-blend-mode": "multiply",
+      "fill": "url(#linear-gradient)"
+    },
+    "cls-144": {
+      "mix-blend-mode": "multiply",
+      "fill": "none",
+      "stroke-miterlimit": "10",
+      "stroke-width": ".28px",
+      "stroke": "#8c9789"
+    },
+    "cls-145": {
+      "letter-spacing": "0em"
+    },
+    "cls-146": {
+      "letter-spacing": ".08em"
+    },
+    "cls-147": {
+      "fill": "#fff"
+    },
+    "cls-148": {
+      "fill": "#fff",
+      "stroke-miterlimit": "10",
+      "stroke": "gray"
+    },
+    "cls-149": {
+      "fill": "#fff",
+      "font-family": "OpenSans-Semibold, 'Open Sans'",
+      "font-size": "42.81px",
+      "font-weight": "600"
+    },
+    "cls-150": {
+      "fill": "#fff",
+      "font-size": "44.78px",
+      "font-family": "Satoshi-Regular, Satoshi"
+    },
+    "cls-151": {
+      "fill": "#fff",
+      "font-family": "OpenSans, 'Open Sans'",
+      "font-size": "25.21px"
+    },
+    "cls-152": {
+      "fill": "#fff",
+      "font-family": "Satoshi-Regular, Satoshi",
+      "font-size": "70.07px",
+      "letter-spacing": ".02em"
+    },
+    "cls-153": {
+      "letter-spacing": ".09em"
+    },
+    "cls-154": {
+      "letter-spacing": ".07em"
+    },
+    "cls-155": {
+      "letter-spacing": ".03em"
+    },
+    "cls-156": {
+      "letter-spacing": ".03em"
+    },
+    "cls-157": {
+      "letter-spacing": "0em",
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi"
+    },
+    "cls-158": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-size": "26.48px",
+      "fill": "#00565e"
+    },
+    "cls-159": {
+      "font-weight": "500",
+      "font-family": "HelveticaNeue-Medium, 'Helvetica Neue'",
+      "font-size": "6.27px",
+      "letter-spacing": ".08em",
+      "fill": "#231f20"
+    },
+    "cls-160": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-161": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-162": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-163": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi"
+    },
+    "cls-164": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-165": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-166": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-167": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-168": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-169": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-170": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-171": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-172": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-173": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-174": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "0em"
+    },
+    "cls-175": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-176": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "letter-spacing": "-.02em"
+    },
+    "cls-177": {
+      "font-weight": "500",
+      "font-family": "Satoshi-Medium, Satoshi",
+      "font-size": "30px"
+    },
+    "cls-178": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-179": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-180": {
+      "letter-spacing": ".11em"
+    },
+    "cls-181": {
+      "letter-spacing": ".06em"
+    },
+    "cls-182": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-183": {
+      "fill": "#00565e",
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "2px",
+      "stroke": "#00565e"
+    },
+    "cls-184": {
+      "letter-spacing": ".03em"
+    },
+    "cls-185": {
+      "letter-spacing": ".05em"
+    },
+    "cls-186": {
+      "letter-spacing": ".11em"
+    },
+    "cls-187": {
+      "letter-spacing": ".04em"
+    },
+    "cls-188": {
+      "letter-spacing": ".03em"
+    },
+    "cls-189": {
+      "letter-spacing": ".11em"
+    },
+    "cls-190": {
+      "letter-spacing": ".14em"
+    },
+    "cls-191": {
+      "letter-spacing": ".11em"
+    },
+    "cls-192": {
+      "letter-spacing": ".03em"
+    },
+    "cls-193": {
+      "clip-path": "url(#clippath-4)"
+    },
+    "cls-194": {
+      "letter-spacing": "0em"
+    },
+    "cls-195": {
+      "fill": "#231f20"
+    },
+    "cls-196": {
+      "fill": "#231f20",
+      "font-family": "HelveticaNeue-UltraLight, 'Helvetica Neue'",
+      "font-weight": "100",
+      "letter-spacing": ".06em",
+      "font-size": "16.86px"
+    },
+    "cls-197": {
+      "fill": "#231f20",
+      "font-family": "Satoshi-Regular, Satoshi",
+      "font-size": "21.63px",
+      "letter-spacing": ".02em"
+    },
+    "cls-198": {
+      "letter-spacing": ".01em"
+    },
+    "cls-199": {
+      "letter-spacing": ".11em"
+    },
+    "cls-200": {
+      "letter-spacing": ".02em"
+    },
+    "cls-201": {
+      "fill": "#606060",
+      "font-family": "OpenSans, 'Open Sans'",
+      "font-size": "25.21px"
+    },
+    "cls-202": {
+      "letter-spacing": ".07em"
+    },
+    "cls-203": {
+      "letter-spacing": ".03em"
+    },
+    "cls-204": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-205": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-206": {
+      "letter-spacing": ".03em"
+    },
+    "cls-207": {
+      "letter-spacing": ".1em"
+    },
+    "cls-208": {
+      "letter-spacing": ".2em"
+    },
+    "cls-209": {
+      "letter-spacing": ".11em"
+    },
+    "cls-210": {
+      "letter-spacing": ".09em"
+    },
+    "cls-211": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-212": {
+      "letter-spacing": ".1em"
+    },
+    "cls-213": {
+      "letter-spacing": ".07em"
+    },
+    "cls-214": {
+      "letter-spacing": ".09em"
+    },
+    "cls-215": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "fill": "none",
+      "stroke": "#fff",
+      "stroke-width": "4px"
+    },
+    "cls-216": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "fill": "none",
+      "stroke": "#fff",
+      "stroke-width": "2px"
+    },
+    "cls-217": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "fill": "none",
+      "stroke-width": "10px",
+      "stroke": "#384920"
+    },
+    "cls-218": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "fill": "none",
+      "stroke-width": "4px",
+      "stroke": "gray"
+    },
+    "cls-219": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke": "#393939",
+      "stroke-width": ".1px",
+      "fill": "#393939"
+    },
+    "cls-220": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "fill": "none",
+      "stroke": "#00565e"
+    },
+    "cls-221": {
+      "fill": "none"
+    },
+    "cls-222": {
+      "fill": "none",
+      "stroke-miterlimit": "10",
+      "stroke-width": ".28px",
+      "stroke": "#87402b"
+    },
+    "cls-223": {
+      "fill": "none",
+      "stroke-miterlimit": "10",
+      "stroke": "red",
+      "stroke-width": ".25px"
+    },
+    "cls-224": {
+      "fill": "none",
+      "stroke-miterlimit": "10",
+      "stroke-width": ".28px",
+      "stroke": "#e3d0bc"
+    },
+    "cls-225": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-226": {
+      "letter-spacing": ".03em"
+    },
+    "cls-227": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-228": {
+      "letter-spacing": "-.12em"
+    },
+    "cls-229": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-230": {
+      "letter-spacing": "0em"
+    },
+    "cls-231": {
+      "letter-spacing": ".09em"
+    },
+    "cls-232": {
+      "letter-spacing": ".02em"
+    },
+    "cls-233": {
+      "letter-spacing": ".02em"
+    },
+    "cls-234": {
+      "letter-spacing": ".14em"
+    },
+    "cls-235": {
+      "letter-spacing": "-.22em"
+    },
+    "cls-236": {
+      "letter-spacing": ".09em"
+    },
+    "cls-237": {
+      "letter-spacing": ".08em"
+    },
+    "cls-238": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-239": {
+      "letter-spacing": ".1em"
+    },
+    "cls-240": {
+      "letter-spacing": "0em"
+    },
+    "cls-241": {
+      "letter-spacing": ".11em"
+    },
+    "cls-242": {
+      "letter-spacing": ".04em"
+    },
+    "cls-243": {
+      "letter-spacing": ".11em"
+    },
+    "cls-244": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-245": {
+      "fill": "#c0833e"
+    },
+    "cls-246": {
+      "letter-spacing": ".12em"
+    },
+    "cls-247": {
+      "letter-spacing": ".04em"
+    },
+    "cls-248": {
+      "letter-spacing": "0em"
+    },
+    "cls-249": {
+      "letter-spacing": ".11em"
+    },
+    "cls-250": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-251": {
+      "letter-spacing": ".02em"
+    },
+    "cls-252": {
+      "letter-spacing": ".13em"
+    },
+    "cls-253": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-254": {
+      "letter-spacing": "0em",
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800"
+    },
+    "cls-255": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-256": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "-.1em"
+    },
+    "cls-257": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-258": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800"
+    },
+    "cls-259": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-260": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "-.02em"
+    },
+    "cls-261": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-262": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "-.02em"
+    },
+    "cls-263": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-264": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-265": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "0em"
+    },
+    "cls-266": {
+      "font-family": "Satoshi-Black, Satoshi",
+      "font-weight": "800",
+      "letter-spacing": "-.1em"
+    },
+    "cls-267": {
+      "font-size": "16.48px"
+    },
+    "cls-268": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-269": {
+      "letter-spacing": ".03em"
+    },
+    "cls-270": {
+      "letter-spacing": ".03em"
+    },
+    "cls-271": {
+      "letter-spacing": ".04em"
+    },
+    "cls-272": {
+      "letter-spacing": ".03em"
+    },
+    "cls-273": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-274": {
+      "letter-spacing": ".02em"
+    },
+    "cls-275": {
+      "letter-spacing": "-.14em"
+    },
+    "cls-276": {
+      "letter-spacing": ".06em"
+    },
+    "cls-277": {
+      "clip-path": "url(#clippath-9)"
+    },
+    "cls-278": {
+      "letter-spacing": ".03em"
+    },
+    "cls-279": {
+      "letter-spacing": ".11em"
+    },
+    "cls-280": {
+      "letter-spacing": ".09em"
+    },
+    "cls-281": {
+      "clip-path": "url(#clippath-10)"
+    },
+    "cls-282": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-283": {
+      "letter-spacing": ".03em"
+    },
+    "cls-284": {
+      "letter-spacing": ".1em"
+    },
+    "cls-285": {
+      "letter-spacing": "0em"
+    },
+    "cls-286": {
+      "letter-spacing": ".01em"
+    },
+    "cls-287": {
+      "letter-spacing": ".11em"
+    },
+    "cls-288": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-289": {
+      "letter-spacing": ".09em"
+    },
+    "cls-290": {
+      "letter-spacing": ".13em"
+    },
+    "cls-291": {
+      "letter-spacing": ".03em"
+    },
+    "cls-292": {
+      "letter-spacing": ".09em"
+    },
+    "cls-293": {
+      "letter-spacing": ".03em"
+    },
+    "cls-294": {
+      "letter-spacing": ".03em"
+    },
+    "cls-295": {
+      "letter-spacing": ".01em"
+    },
+    "cls-296": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-297": {
+      "letter-spacing": ".08em"
+    },
+    "cls-298": {
+      "letter-spacing": ".11em"
+    },
+    "cls-299": {
+      "letter-spacing": ".1em"
+    },
+    "cls-300": {
+      "letter-spacing": ".1em"
+    },
+    "cls-301": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-302": {
+      "fill": "#666",
+      "font-size": "39.44px"
+    },
+    "cls-303": {
+      "letter-spacing": ".03em"
+    },
+    "cls-304": {
+      "letter-spacing": ".09em"
+    },
+    "cls-305": {
+      "letter-spacing": ".02em"
+    },
+    "cls-306": {
+      "letter-spacing": ".09em"
+    },
+    "cls-307": {
+      "letter-spacing": ".09em"
+    },
+    "cls-308": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-309": {
+      "letter-spacing": ".03em"
+    },
+    "cls-310": {
+      "letter-spacing": ".1em"
+    },
+    "cls-311": {
+      "letter-spacing": ".1em"
+    },
+    "cls-312": {
+      "letter-spacing": ".1em"
+    },
+    "cls-313": {
+      "letter-spacing": "0em"
+    },
+    "cls-314": {
+      "letter-spacing": ".02em"
+    },
+    "cls-315": {
+      "letter-spacing": ".05em"
+    },
+    "cls-316": {
+      "letter-spacing": ".08em"
+    },
+    "cls-317": {
+      "letter-spacing": ".08em"
+    },
+    "cls-318": {
+      "letter-spacing": ".03em"
+    },
+    "cls-319": {
+      "letter-spacing": ".09em"
+    },
+    "cls-320": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-321": {
+      "letter-spacing": ".07em"
+    },
+    "cls-322": {
+      "letter-spacing": ".1em"
+    },
+    "cls-323": {
+      "letter-spacing": ".03em"
+    },
+    "cls-324": {
+      "letter-spacing": ".09em"
+    },
+    "cls-325": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-326": {
+      "font-size": "39.7px"
+    },
+    "cls-327": {
+      "letter-spacing": ".09em"
+    },
+    "cls-328": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-329": {
+      "letter-spacing": "-.09em"
+    },
+    "cls-330": {
+      "clip-path": "url(#clippath-11)"
+    },
+    "cls-331": {
+      "letter-spacing": ".09em"
+    },
+    "cls-332": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-333": {
+      "letter-spacing": ".1em"
+    },
+    "cls-334": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-335": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-336": {
+      "letter-spacing": ".1em"
+    },
+    "cls-337": {
+      "letter-spacing": ".03em"
+    },
+    "cls-338": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-339": {
+      "letter-spacing": ".03em"
+    },
+    "cls-340": {
+      "letter-spacing": "0em"
+    },
+    "cls-341": {
+      "letter-spacing": "0em"
+    },
+    "cls-342": {
+      "letter-spacing": ".1em"
+    },
+    "cls-343": {
+      "letter-spacing": ".03em"
+    },
+    "cls-344": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-345": {
+      "letter-spacing": ".01em"
+    },
+    "cls-346": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-347": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-348": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-349": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-350": {
+      "letter-spacing": ".09em"
+    },
+    "cls-351": {
+      "letter-spacing": ".03em"
+    },
+    "cls-352": {
+      "letter-spacing": ".03em"
+    },
+    "cls-353": {
+      "letter-spacing": ".06em"
+    },
+    "cls-354": {
+      "letter-spacing": ".03em"
+    },
+    "cls-355": {
+      "letter-spacing": ".02em"
+    },
+    "cls-356": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-357": {
+      "letter-spacing": ".09em"
+    },
+    "cls-358": {
+      "letter-spacing": ".09em"
+    },
+    "cls-359": {
+      "letter-spacing": ".08em"
+    },
+    "cls-360": {
+      "letter-spacing": "0em"
+    },
+    "cls-361": {
+      "letter-spacing": ".1em"
+    },
+    "cls-362": {
+      "letter-spacing": ".04em"
+    },
+    "cls-363": {
+      "letter-spacing": ".08em"
+    },
+    "cls-364": {
+      "letter-spacing": ".12em"
+    },
+    "cls-365": {
+      "letter-spacing": ".01em"
+    },
+    "cls-366": {
+      "letter-spacing": "0em"
+    },
+    "cls-367": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-368": {
+      "letter-spacing": "0em"
+    },
+    "cls-369": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-370": {
+      "letter-spacing": ".09em"
+    },
+    "cls-371": {
+      "letter-spacing": ".1em"
+    },
+    "cls-372": {
+      "letter-spacing": ".03em"
+    },
+    "cls-373": {
+      "letter-spacing": ".07em"
+    },
+    "cls-374": {
+      "letter-spacing": ".04em"
+    },
+    "cls-375": {
+      "letter-spacing": ".08em"
+    },
+    "cls-376": {
+      "letter-spacing": ".09em"
+    },
+    "cls-377": {
+      "letter-spacing": ".08em"
+    },
+    "cls-378": {
+      "letter-spacing": ".09em"
+    },
+    "cls-379": {
+      "letter-spacing": ".12em"
+    },
+    "cls-380": {
+      "letter-spacing": ".11em"
+    },
+    "cls-381": {
+      "fill": "url(#linear-gradient-3)"
+    },
+    "cls-382": {
+      "letter-spacing": ".09em"
+    },
+    "cls-383": {
+      "letter-spacing": ".1em"
+    },
+    "cls-384": {
+      "letter-spacing": ".12em"
+    },
+    "cls-385": {
+      "letter-spacing": ".09em"
+    },
+    "cls-386": {
+      "clip-path": "url(#clippath-1)"
+    },
+    "cls-387": {
+      "letter-spacing": ".08em"
+    },
+    "cls-388": {
+      "letter-spacing": ".1em"
+    },
+    "cls-389": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-390": {
+      "letter-spacing": ".11em"
+    },
+    "cls-391": {
+      "letter-spacing": ".1em"
+    },
+    "cls-392": {
+      "letter-spacing": ".09em"
+    },
+    "cls-393": {
+      "fill": "#f2f2f2"
+    },
+    "cls-394": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-395": {
+      "letter-spacing": ".1em"
+    },
+    "cls-396": {
+      "letter-spacing": ".11em"
+    },
+    "cls-397": {
+      "letter-spacing": ".04em"
+    },
+    "cls-398": {
+      "letter-spacing": ".02em"
+    },
+    "cls-399": {
+      "letter-spacing": ".05em"
+    },
+    "cls-400": {
+      "letter-spacing": "0em"
+    },
+    "cls-401": {
+      "letter-spacing": ".1em"
+    },
+    "cls-402": {
+      "letter-spacing": ".03em"
+    },
+    "cls-403": {
+      "letter-spacing": ".04em"
+    },
+    "cls-404": {
+      "letter-spacing": ".03em"
+    },
+    "cls-405": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-406": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-407": {
+      "letter-spacing": ".1em"
+    },
+    "cls-408": {
+      "letter-spacing": "0em"
+    },
+    "cls-409": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-410": {
+      "letter-spacing": ".04em"
+    },
+    "cls-411": {
+      "letter-spacing": ".08em"
+    },
+    "cls-412": {
+      "letter-spacing": ".11em"
+    },
+    "cls-413": {
+      "letter-spacing": ".06em"
+    },
+    "cls-414": {
+      "letter-spacing": ".03em"
+    },
+    "cls-415": {
+      "letter-spacing": ".11em"
+    },
+    "cls-416": {
+      "letter-spacing": ".09em"
+    },
+    "cls-417": {
+      "letter-spacing": ".03em"
+    },
+    "cls-418": {
+      "letter-spacing": ".07em"
+    },
+    "cls-419": {
+      "letter-spacing": ".07em"
+    },
+    "cls-420": {
+      "letter-spacing": ".03em"
+    },
+    "cls-421": {
+      "letter-spacing": "0em"
+    },
+    "cls-422": {
+      "letter-spacing": "0em"
+    },
+    "cls-423": {
+      "letter-spacing": ".03em"
+    },
+    "cls-424": {
+      "letter-spacing": ".02em"
+    },
+    "cls-425": {
+      "isolation": "isolate"
+    },
+    "cls-426": {
+      "letter-spacing": ".01em"
+    },
+    "cls-427": {
+      "letter-spacing": "-.08em"
+    },
+    "cls-428": {
+      "letter-spacing": "0em"
+    },
+    "cls-429": {
+      "fill": "#f7f2e8"
+    },
+    "cls-430": {
+      "letter-spacing": ".11em"
+    },
+    "cls-431": {
+      "letter-spacing": ".05em"
+    },
+    "cls-432": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-433": {
+      "letter-spacing": ".04em"
+    },
+    "cls-434": {
+      "clip-path": "url(#clippath-5)"
+    },
+    "cls-435": {
+      "letter-spacing": ".1em"
+    },
+    "cls-436": {
+      "letter-spacing": ".1em"
+    },
+    "cls-437": {
+      "letter-spacing": ".12em"
+    },
+    "cls-438": {
+      "letter-spacing": ".03em"
+    },
+    "cls-439": {
+      "letter-spacing": ".09em"
+    },
+    "cls-440": {
+      "letter-spacing": ".08em"
+    },
+    "cls-441": {
+      "clip-path": "url(#clippath-8)"
+    },
+    "cls-442": {
+      "letter-spacing": "0em"
+    },
+    "cls-443": {
+      "letter-spacing": "0em"
+    },
+    "cls-444": {
+      "letter-spacing": ".08em"
+    },
+    "cls-445": {
+      "letter-spacing": ".13em"
+    },
+    "cls-446": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-447": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-448": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-449": {
+      "letter-spacing": ".1em"
+    },
+    "cls-450": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-451": {
+      "letter-spacing": ".09em"
+    },
+    "cls-452": {
+      "fill": "#8c9789"
+    },
+    "cls-453": {
+      "letter-spacing": "0em"
+    },
+    "cls-454": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-455": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-456": {
+      "letter-spacing": ".09em"
+    },
+    "cls-457": {
+      "letter-spacing": ".08em"
+    },
+    "cls-458": {
+      "letter-spacing": ".11em"
+    },
+    "cls-459": {
+      "letter-spacing": ".03em"
+    },
+    "cls-460": {
+      "letter-spacing": "0em"
+    },
+    "cls-461": {
+      "letter-spacing": ".1em"
+    },
+    "cls-462": {
+      "letter-spacing": "0em"
+    },
+    "cls-463": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-464": {
+      "letter-spacing": ".12em"
+    },
+    "cls-465": {
+      "letter-spacing": "0em"
+    },
+    "cls-466": {
+      "letter-spacing": ".11em"
+    },
+    "cls-467": {
+      "letter-spacing": "-.09em"
+    },
+    "cls-468": {
+      "letter-spacing": ".14em"
+    },
+    "cls-469": {
+      "letter-spacing": "0em"
+    },
+    "cls-470": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-471": {
+      "letter-spacing": "0em"
+    },
+    "cls-472": {
+      "letter-spacing": "0em"
+    },
+    "cls-473": {
+      "letter-spacing": ".1em"
+    },
+    "cls-474": {
+      "letter-spacing": ".1em"
+    },
+    "cls-475": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-476": {
+      "letter-spacing": ".04em"
+    },
+    "cls-477": {
+      "letter-spacing": ".04em"
+    },
+    "cls-478": {
+      "clip-path": "url(#clippath-3)"
+    },
+    "cls-479": {
+      "letter-spacing": ".11em"
+    },
+    "cls-480": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-481": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-482": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-483": {
+      "letter-spacing": ".02em"
+    },
+    "cls-484": {
+      "letter-spacing": ".03em"
+    },
+    "cls-485": {
+      "letter-spacing": ".11em"
+    },
+    "cls-486": {
+      "letter-spacing": ".03em"
+    },
+    "cls-487": {
+      "letter-spacing": ".08em"
+    },
+    "cls-488": {
+      "letter-spacing": ".11em"
+    },
+    "cls-489": {
+      "letter-spacing": ".03em"
+    },
+    "cls-490": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-491": {
+      "letter-spacing": "0em"
+    },
+    "cls-492": {
+      "letter-spacing": ".11em"
+    },
+    "cls-493": {
+      "letter-spacing": ".09em"
+    },
+    "cls-494": {
+      "letter-spacing": "0em"
+    },
+    "cls-495": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-496": {
+      "letter-spacing": ".07em"
+    },
+    "cls-497": {
+      "letter-spacing": "0em"
+    },
+    "cls-498": {
+      "letter-spacing": ".09em"
+    },
+    "cls-499": {
+      "letter-spacing": ".12em"
+    },
+    "cls-500": {
+      "letter-spacing": ".09em"
+    },
+    "cls-501": {
+      "letter-spacing": ".09em"
+    },
+    "cls-502": {
+      "letter-spacing": "0em"
+    },
+    "cls-503": {
+      "letter-spacing": ".03em"
+    },
+    "cls-504": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-505": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-506": {
+      "letter-spacing": "0em"
+    },
+    "cls-507": {
+      "letter-spacing": ".01em"
+    },
+    "cls-508": {
+      "clip-path": "url(#clippath-12)"
+    },
+    "cls-509": {
+      "letter-spacing": ".1em"
+    },
+    "cls-510": {
+      "letter-spacing": "0em"
+    },
+    "cls-511": {
+      "letter-spacing": ".1em"
+    },
+    "cls-512": {
+      "letter-spacing": ".09em"
+    },
+    "cls-513": {
+      "letter-spacing": ".08em"
+    },
+    "cls-514": {
+      "letter-spacing": ".08em"
+    },
+    "cls-515": {
+      "letter-spacing": ".06em"
+    },
+    "cls-516": {
+      "letter-spacing": "0em"
+    },
+    "cls-517": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-518": {
+      "letter-spacing": ".09em"
+    },
+    "cls-519": {
+      "letter-spacing": ".08em"
+    },
+    "cls-520": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-521": {
+      "letter-spacing": ".08em"
+    },
+    "cls-522": {
+      "letter-spacing": ".03em"
+    },
+    "cls-523": {
+      "letter-spacing": ".09em"
+    },
+    "cls-524": {
+      "letter-spacing": ".12em"
+    },
+    "cls-525": {
+      "letter-spacing": ".1em"
+    },
+    "cls-526": {
+      "letter-spacing": ".09em"
+    },
+    "cls-527": {
+      "fill": "#333"
+    },
+    "cls-528": {
+      "letter-spacing": ".03em"
+    },
+    "cls-529": {
+      "letter-spacing": ".09em"
+    },
+    "cls-530": {
+      "letter-spacing": "0em"
+    },
+    "cls-531": {
+      "letter-spacing": ".08em"
+    },
+    "cls-532": {
+      "letter-spacing": ".04em"
+    },
+    "cls-533": {
+      "letter-spacing": ".01em"
+    },
+    "cls-534": {
+      "letter-spacing": ".01em"
+    },
+    "cls-535": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-536": {
+      "letter-spacing": ".1em"
+    },
+    "cls-537": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-538": {
+      "letter-spacing": ".13em"
+    },
+    "cls-539": {
+      "letter-spacing": ".11em"
+    },
+    "cls-540": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-541": {
+      "letter-spacing": ".09em"
+    },
+    "cls-542": {
+      "letter-spacing": ".08em"
+    },
+    "cls-543": {
+      "letter-spacing": ".02em"
+    },
+    "cls-544": {
+      "letter-spacing": ".11em"
+    },
+    "cls-545": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-546": {
+      "letter-spacing": ".08em"
+    },
+    "cls-547": {
+      "letter-spacing": "0em"
+    },
+    "cls-548": {
+      "letter-spacing": "0em"
+    },
+    "cls-549": {
+      "letter-spacing": "0em"
+    },
+    "cls-550": {
+      "letter-spacing": ".04em"
+    },
+    "cls-551": {
+      "letter-spacing": ".09em"
+    },
+    "cls-552": {
+      "letter-spacing": ".09em"
+    },
+    "cls-553": {
+      "letter-spacing": "0em"
+    },
+    "cls-554": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-555": {
+      "letter-spacing": ".02em"
+    },
+    "cls-556": {
+      "letter-spacing": "0em"
+    },
+    "cls-557": {
+      "letter-spacing": ".12em"
+    },
+    "cls-558": {
+      "letter-spacing": ".1em"
+    },
+    "cls-559": {
+      "letter-spacing": ".03em"
+    },
+    "cls-560": {
+      "letter-spacing": ".11em"
+    },
+    "cls-561": {
+      "letter-spacing": ".06em"
+    },
+    "cls-562": {
+      "letter-spacing": "-.05em"
+    },
+    "cls-563": {
+      "letter-spacing": ".09em"
+    },
+    "cls-564": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-565": {
+      "letter-spacing": ".09em"
+    },
+    "cls-566": {
+      "letter-spacing": ".12em"
+    },
+    "cls-567": {
+      "letter-spacing": ".11em"
+    },
+    "cls-568": {
+      "letter-spacing": ".02em"
+    },
+    "cls-569": {
+      "letter-spacing": ".11em"
+    },
+    "cls-570": {
+      "letter-spacing": ".12em"
+    },
+    "cls-571": {
+      "fill": "#e3d0bc"
+    },
+    "cls-572": {
+      "letter-spacing": ".04em"
+    },
+    "cls-573": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-574": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-575": {
+      "letter-spacing": ".11em"
+    },
+    "cls-576": {
+      "letter-spacing": ".13em"
+    },
+    "cls-577": {
+      "letter-spacing": ".03em"
+    },
+    "cls-578": {
+      "letter-spacing": ".09em"
+    },
+    "cls-579": {
+      "letter-spacing": ".09em"
+    },
+    "cls-580": {
+      "letter-spacing": "0em"
+    },
+    "cls-581": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-582": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-583": {
+      "letter-spacing": ".02em"
+    },
+    "cls-584": {
+      "letter-spacing": "-.03em"
+    },
+    "cls-585": {
+      "letter-spacing": ".14em"
+    },
+    "cls-586": {
+      "letter-spacing": ".09em"
+    },
+    "cls-587": {
+      "letter-spacing": ".02em"
+    },
+    "cls-588": {
+      "letter-spacing": ".03em"
+    },
+    "cls-589": {
+      "letter-spacing": ".12em"
+    },
+    "cls-590": {
+      "letter-spacing": ".08em"
+    },
+    "cls-591": {
+      "letter-spacing": ".05em"
+    },
+    "cls-592": {
+      "letter-spacing": ".11em"
+    },
+    "cls-593": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-594": {
+      "letter-spacing": ".02em"
+    },
+    "cls-595": {
+      "letter-spacing": ".02em"
+    },
+    "cls-596": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-597": {
+      "letter-spacing": ".06em"
+    },
+    "cls-598": {
+      "letter-spacing": ".1em"
+    },
+    "cls-599": {
+      "letter-spacing": "0em"
+    },
+    "cls-600": {
+      "fill": "#5e6367"
+    },
+    "cls-601": {
+      "letter-spacing": ".1em"
+    },
+    "cls-602": {
+      "letter-spacing": ".1em"
+    },
+    "cls-603": {
+      "letter-spacing": ".11em"
+    },
+    "cls-604": {
+      "letter-spacing": ".09em"
+    },
+    "cls-605": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-606": {
+      "letter-spacing": ".03em"
+    },
+    "cls-607": {
+      "letter-spacing": ".1em"
+    },
+    "cls-608": {
+      "letter-spacing": ".11em"
+    },
+    "cls-609": {
+      "letter-spacing": ".1em"
+    },
+    "cls-610": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-611": {
+      "letter-spacing": ".05em"
+    },
+    "cls-612": {
+      "letter-spacing": ".1em"
+    },
+    "cls-613": {
+      "letter-spacing": ".02em"
+    },
+    "cls-614": {
+      "letter-spacing": ".07em"
+    },
+    "cls-615": {
+      "letter-spacing": ".12em"
+    },
+    "cls-616": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-617": {
+      "letter-spacing": ".13em"
+    },
+    "cls-618": {
+      "letter-spacing": ".03em"
+    },
+    "cls-619": {
+      "letter-spacing": ".09em"
+    },
+    "cls-620": {
+      "letter-spacing": ".09em"
+    },
+    "cls-621": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-622": {
+      "letter-spacing": ".08em"
+    },
+    "cls-623": {
+      "letter-spacing": ".11em"
+    },
+    "cls-624": {
+      "letter-spacing": ".1em"
+    },
+    "cls-625": {
+      "fill": "#393939"
+    },
+    "cls-626": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-627": {
+      "letter-spacing": ".09em"
+    },
+    "cls-628": {
+      "letter-spacing": ".05em"
+    },
+    "cls-629": {
+      "letter-spacing": ".1em"
+    },
+    "cls-630": {
+      "letter-spacing": ".01em"
+    },
+    "cls-631": {
+      "letter-spacing": ".03em"
+    },
+    "cls-632": {
+      "letter-spacing": ".12em"
+    },
+    "cls-633": {
+      "letter-spacing": ".09em"
+    },
+    "cls-634": {
+      "letter-spacing": ".08em"
+    },
+    "cls-635": {
+      "letter-spacing": ".08em"
+    },
+    "cls-636": {
+      "letter-spacing": ".11em"
+    },
+    "cls-637": {
+      "letter-spacing": "0em"
+    },
+    "cls-638": {
+      "letter-spacing": ".12em"
+    },
+    "cls-639": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-640": {
+      "letter-spacing": ".09em"
+    },
+    "cls-641": {
+      "letter-spacing": ".09em"
+    },
+    "cls-642": {
+      "letter-spacing": ".1em"
+    },
+    "cls-643": {
+      "letter-spacing": ".08em"
+    },
+    "cls-644": {
+      "fill": "#b3b3b3"
+    },
+    "cls-645": {
+      "letter-spacing": "0em"
+    },
+    "cls-646": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-647": {
+      "letter-spacing": ".1em"
+    },
+    "cls-648": {
+      "letter-spacing": ".11em"
+    },
+    "cls-649": {
+      "letter-spacing": ".08em"
+    },
+    "cls-650": {
+      "letter-spacing": "-.07em"
+    },
+    "cls-651": {
+      "letter-spacing": ".11em"
+    },
+    "cls-652": {
+      "letter-spacing": ".03em"
+    },
+    "cls-653": {
+      "letter-spacing": ".02em"
+    },
+    "cls-654": {
+      "letter-spacing": ".1em"
+    },
+    "cls-655": {
+      "letter-spacing": ".08em"
+    },
+    "cls-656": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-657": {
+      "letter-spacing": ".13em"
+    },
+    "cls-658": {
+      "letter-spacing": ".09em"
+    },
+    "cls-659": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-660": {
+      "letter-spacing": ".11em"
+    },
+    "cls-661": {
+      "letter-spacing": ".09em"
+    },
+    "cls-662": {
+      "letter-spacing": ".1em"
+    },
+    "cls-663": {
+      "letter-spacing": ".09em"
+    },
+    "cls-664": {
+      "clip-path": "url(#clippath-2)"
+    },
+    "cls-665": {
+      "letter-spacing": ".05em"
+    },
+    "cls-666": {
+      "letter-spacing": ".08em"
+    },
+    "cls-667": {
+      "letter-spacing": ".12em"
+    },
+    "cls-668": {
+      "letter-spacing": ".09em"
+    },
+    "cls-669": {
+      "letter-spacing": ".11em"
+    },
+    "cls-670": {
+      "letter-spacing": ".11em"
+    },
+    "cls-671": {
+      "letter-spacing": ".08em"
+    },
+    "cls-672": {
+      "letter-spacing": ".08em"
+    },
+    "cls-673": {
+      "letter-spacing": ".11em"
+    },
+    "cls-674": {
+      "letter-spacing": ".07em"
+    },
+    "cls-675": {
+      "letter-spacing": ".09em"
+    },
+    "cls-676": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-677": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-678": {
+      "letter-spacing": ".03em"
+    },
+    "cls-679": {
+      "letter-spacing": ".03em"
+    },
+    "cls-680": {
+      "letter-spacing": ".04em"
+    },
+    "cls-681": {
+      "letter-spacing": ".09em"
+    },
+    "cls-682": {
+      "letter-spacing": ".08em"
+    },
+    "cls-683": {
+      "letter-spacing": ".11em"
+    },
+    "cls-684": {
+      "letter-spacing": ".1em"
+    },
+    "cls-685": {
+      "letter-spacing": ".05em"
+    },
+    "cls-686": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-687": {
+      "letter-spacing": "-.04em"
+    },
+    "cls-688": {
+      "clip-path": "url(#clippath-13)"
+    },
+    "cls-689": {
+      "letter-spacing": ".08em"
+    },
+    "cls-690": {
+      "letter-spacing": ".09em"
+    },
+    "cls-691": {
+      "letter-spacing": ".11em"
+    },
+    "cls-692": {
+      "letter-spacing": "0em"
+    },
+    "cls-693": {
+      "letter-spacing": ".06em"
+    },
+    "cls-694": {
+      "fill": "#fc6868"
+    },
+    "cls-695": {
+      "letter-spacing": ".11em"
+    },
+    "cls-696": {
+      "letter-spacing": ".11em"
+    },
+    "cls-697": {
+      "letter-spacing": ".12em"
+    },
+    "cls-698": {
+      "letter-spacing": ".05em"
+    },
+    "cls-699": {
+      "letter-spacing": ".07em"
+    },
+    "cls-700": {
+      "letter-spacing": ".01em"
+    },
+    "cls-701": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-702": {
+      "letter-spacing": ".03em"
+    },
+    "cls-703": {
+      "fill": "#fdfffe"
+    },
+    "cls-704": {
+      "letter-spacing": ".08em"
+    },
+    "cls-705": {
+      "letter-spacing": ".09em"
+    },
+    "cls-706": {
+      "letter-spacing": ".09em"
+    },
+    "cls-707": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-708": {
+      "letter-spacing": ".1em"
+    },
+    "cls-709": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-710": {
+      "letter-spacing": "0em"
+    },
+    "cls-711": {
+      "letter-spacing": ".09em"
+    },
+    "cls-712": {
+      "letter-spacing": ".11em"
+    },
+    "cls-713": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-714": {
+      "letter-spacing": ".1em"
+    },
+    "cls-715": {
+      "font-size": "24.16px"
+    },
+    "cls-716": {
+      "letter-spacing": ".02em"
+    },
+    "cls-717": {
+      "letter-spacing": ".05em"
+    },
+    "cls-718": {
+      "letter-spacing": "-.09em"
+    },
+    "cls-719": {
+      "clip-path": "url(#clippath)"
+    },
+    "cls-720": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-721": {
+      "letter-spacing": ".1em"
+    },
+    "cls-722": {
+      "letter-spacing": ".1em"
+    },
+    "cls-723": {
+      "letter-spacing": ".02em"
+    },
+    "cls-724": {
+      "letter-spacing": ".09em"
+    },
+    "cls-725": {
+      "letter-spacing": ".11em"
+    },
+    "cls-726": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-727": {
+      "letter-spacing": ".1em"
+    },
+    "cls-728": {
+      "letter-spacing": ".09em"
+    },
+    "cls-729": {
+      "letter-spacing": "0em"
+    },
+    "cls-730": {
+      "letter-spacing": ".03em"
+    },
+    "cls-731": {
+      "letter-spacing": ".07em"
+    },
+    "cls-732": {
+      "letter-spacing": ".1em"
+    },
+    "cls-733": {
+      "letter-spacing": "-.06em"
+    },
+    "cls-734": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-735": {
+      "letter-spacing": ".11em"
+    },
+    "cls-736": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-737": {
+      "letter-spacing": ".04em"
+    },
+    "cls-738": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-739": {
+      "letter-spacing": ".08em"
+    },
+    "cls-740": {
+      "letter-spacing": ".11em"
+    },
+    "cls-741": {
+      "letter-spacing": ".04em"
+    },
+    "cls-742": {
+      "letter-spacing": "-.02em"
+    },
+    "cls-743": {
+      "letter-spacing": ".1em"
+    },
+    "cls-744": {
+      "letter-spacing": "-.01em"
+    },
+    "cls-745": {
+      "letter-spacing": "-.09em"
+    },
+    "cls-746": {
+      "letter-spacing": "0em"
+    },
+    "cls-747": {
+      "letter-spacing": ".09em"
+    },
+    "cls-748": {
+      "letter-spacing": ".09em"
+    },
+    "cls-749": {
+      "letter-spacing": ".06em"
+    },
+    "cls-750": {
+      "letter-spacing": ".02em"
+    },
+    "cls-751": {
+      "letter-spacing": ".08em"
+    },
+    "cls-752": {
+      "letter-spacing": ".05em"
+    },
+    "cls-753": {
+      "letter-spacing": ".04em"
+    },
+    "cls-754": {
+      "letter-spacing": ".07em"
+    },
+    "cls-755": {
+      "letter-spacing": ".1em"
+    }
+  },
+  "colors": [
+    "#384920",
+    "gray",
+    "#fff",
+    "#666",
+    "#606060",
+    "#231f20",
+    "#011b2f",
+    "#333",
+    "#87402b",
+    "url(#linear-gradient-2)",
+    "#c0833e",
+    "none",
+    "#a75d26",
+    "url(#linear-gradient-4)",
+    "#134d80",
+    "#8c9789",
+    "#c1b49a",
+    "url(#linear-gradient)",
+    "#00565e",
+    "#393939",
+    "url(#linear-gradient-3)",
+    "#f2f2f2",
+    "#f7f2e8",
+    "#e3d0bc",
+    "#5e6367",
+    "#b3b3b3",
+    "#fc6868",
+    "#fdfffe"
+  ],
+  "texts": [
+    {
+      "x": 259.154,
+      "y": 1100.8084,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "39.44px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#666",
+      "classes": [
+        "cls-302"
+      ],
+      "text": [
+        "<tspan class=\"cls-605\" x=\"0\" y=\"0\">H",
+        "o",
+        "m",
+        "e/tspan<tspan class=\"cls-366\" x=\"0\" y=\"102.26\">C",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s/tspan<tspan class=\"cls-709\" x=\"0\" y=\"204.53\">C",
+        "u",
+        "s",
+        "t",
+        "o",
+        "m/tspan<tspan class=\"cls-366\" x=\"0\" y=\"306.79\">C",
+        "o",
+        "n",
+        "t",
+        "r",
+        "a",
+        "c",
+        "t/tspan<tspan class=\"cls-504\" x=\"0\" y=\"409.05\">A",
+        "b",
+        "o",
+        "u",
+        "t",
+        "U",
+        "s/tspan<tspan class=\"cls-549\" x=\"0\" y=\"511.31\">B",
+        "l",
+        "o",
+        "g",
+        "[",
+        "C",
+        "B",
+        "A",
+        "t",
+        "e",
+        "l",
+        "i",
+        "e",
+        "r",
+        "] /tspan<tspan class=\"cls-366\" x=\"0\" y=\"613.58\">C",
+        "o",
+        "n",
+        "t",
+        "a",
+        "c",
+        "t &amp;",
+        "D",
+        "e",
+        "a",
+        "l",
+        "e",
+        "r",
+        "s/tspan"
+      ]
+    },
+    {
+      "x": 5702.2252,
+      "y": 717.179,
+      "scale": 1,
+      "fontFamily": "Satoshi-Regular, Satoshi",
+      "fontSize": "44.78px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-150"
+      ],
+      "text": [
+        "c",
+        "b",
+        "h",
+        "a",
+        "l",
+        "i",
+        ".",
+        "c",
+        "o",
+        "m"
+      ]
+    },
+    {
+      "x": 5745.4904,
+      "y": 889.5576,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "71.48px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-75"
+      ],
+      "text": [
+        "H",
+        "a",
+        "L",
+        "i"
+      ]
+    },
+    {
+      "x": 5546.0853,
+      "y": 9548.7113,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "24.16px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-715"
+      ],
+      "text": [
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n",
+        "e",
+        "d",
+        "b",
+        "y",
+        "@",
+        "_",
+        "P",
+        "a",
+        "r",
+        "g",
+        "o",
+        "-",
+        "S",
+        "a",
+        "n",
+        "t",
+        "a",
+        "M",
+        "a",
+        "r",
+        "t",
+        "a /",
+        "C",
+        "o",
+        "l",
+        "o",
+        "m",
+        "b",
+        "i",
+        "a",
+        "20",
+        "2",
+        "5",
+        "."
+      ]
+    },
+    {
+      "x": 4653.4864,
+      "y": 1304.6704,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "39.44px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#666",
+      "classes": [
+        "cls-302"
+      ],
+      "text": [
+        "<tspan class=\"cls-605\" x=\"0\" y=\"0\">H",
+        "o",
+        "m",
+        "e/tspan<tspan class=\"cls-366\" x=\"0\" y=\"122.26\">C",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s/tspan<tspan class=\"cls-709\" x=\"0\" y=\"244.53\">C",
+        "u",
+        "s",
+        "t",
+        "o",
+        "m/tspan<tspan class=\"cls-366\" x=\"0\" y=\"366.79\">C",
+        "o",
+        "n",
+        "t",
+        "r",
+        "a",
+        "c",
+        "t/tspan<tspan class=\"cls-504\" x=\"0\" y=\"489.05\">A",
+        "b",
+        "o",
+        "u",
+        "t",
+        "U",
+        "s/tspan<tspan class=\"cls-472\" x=\"0\" y=\"611.31\">B",
+        "l",
+        "o",
+        "g",
+        "[",
+        "C",
+        "B",
+        "A",
+        "t",
+        "e",
+        "l",
+        "i",
+        "e",
+        "r",
+        "]/tspan<tspan class=\"cls-366\" x=\"0\" y=\"733.58\">C",
+        "o",
+        "n",
+        "t",
+        "a",
+        "c",
+        "t &amp;",
+        "D",
+        "e",
+        "a",
+        "l",
+        "e",
+        "r",
+        "s/tspan"
+      ]
+    },
+    {
+      "x": 5610.5619,
+      "y": 8302.0228,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "39.7px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-326"
+      ],
+      "text": [
+        "<tspan class=\"cls-669\" x=\"0\" y=\"0\">H",
+        "o",
+        "m",
+        "e/tspan<tspan class=\"cls-488\" x=\"0\" y=\"123.06\">C",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s/tspan<tspan class=\"cls-102\" x=\"0\" y=\"246.13\">C",
+        "u",
+        "s",
+        "t",
+        "o",
+        "m/tspan<tspan class=\"cls-488\" x=\"0\" y=\"369.19\">C",
+        "o",
+        "n",
+        "t",
+        "r",
+        "a",
+        "c",
+        "t/tspan<tspan class=\"cls-390\" x=\"0\" y=\"492.26\">A",
+        "b",
+        "o",
+        "u",
+        "t",
+        "U",
+        "s/tspan<tspan class=\"cls-437\" x=\"0\" y=\"615.32\">B",
+        "l",
+        "o",
+        "g",
+        "[",
+        "C",
+        "B",
+        "A",
+        "t",
+        "e",
+        "l",
+        "i",
+        "e",
+        "r",
+        "] /tspan<tspan class=\"cls-488\" x=\"0\" y=\"738.38\">C",
+        "o",
+        "n",
+        "t",
+        "a",
+        "c",
+        "t &amp;",
+        "D",
+        "e",
+        "a",
+        "l",
+        "e",
+        "r",
+        "s/tspan"
+      ]
+    },
+    {
+      "x": 5515.9427,
+      "y": 9496.4633,
+      "scale": 1,
+      "fontFamily": "Satoshi-Bold, Satoshi",
+      "fontSize": "34.79px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-85"
+      ],
+      "text": [
+        "© 2026 CB HALI. All Rights",
+        "R",
+        "ese",
+        "r",
+        "v",
+        "ed."
+      ]
+    },
+    {
+      "x": 1789.4564,
+      "y": 567.0018,
+      "scale": 1,
+      "fontFamily": "Helvetica-Bold, Helvetica",
+      "fontSize": "15.1px",
+      "fontWeight": "700",
+      "letterSpacing": ".1em",
+      "fill": "#fff",
+      "classes": [
+        "cls-74"
+      ],
+      "text": [
+        "cbhali.com"
+      ]
+    },
+    {
+      "x": 1737.0074,
+      "y": 679.7308,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "71.48px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-75"
+      ],
+      "text": [
+        "H",
+        "a",
+        "L",
+        "i"
+      ]
+    },
+    {
+      "x": 2221.9328,
+      "y": 6215.3981,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": "16.48px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-267"
+      ],
+      "text": [
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n",
+        "e",
+        "d",
+        "b",
+        "y",
+        "@",
+        "_",
+        "P",
+        "a",
+        "r",
+        "g",
+        "o",
+        "-",
+        "S",
+        "a",
+        "n",
+        "t",
+        "a",
+        "M",
+        "a",
+        "r",
+        "t",
+        "a /",
+        "C",
+        "o",
+        "l",
+        "o",
+        "m",
+        "b",
+        "i",
+        "a",
+        "20",
+        "2",
+        "6",
+        "."
+      ]
+    },
+    {
+      "x": 1671.924,
+      "y": 5513.936,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "175.57px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-84"
+      ],
+      "text": [
+        "H",
+        "a",
+        "L",
+        "i"
+      ]
+    },
+    {
+      "x": 2060.7385,
+      "y": 5411.4517,
+      "scale": 1,
+      "fontFamily": "Satoshi-Regular, Satoshi",
+      "fontSize": "70.07px",
+      "fontWeight": null,
+      "letterSpacing": ".02em",
+      "fill": "#fff",
+      "classes": [
+        "cls-152"
+      ],
+      "text": [
+        "®"
+      ]
+    },
+    {
+      "x": 1711.3131,
+      "y": 5563.2231,
+      "scale": 1,
+      "fontFamily": "Satoshi-Bold, Satoshi",
+      "fontSize": "14.01px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-96"
+      ],
+      "text": [
+        "C",
+        "R",
+        "A",
+        "F",
+        "T",
+        "E",
+        "D",
+        "F",
+        "O",
+        "R",
+        "V",
+        "I",
+        "S",
+        "I",
+        "O",
+        "NA",
+        "R",
+        "I",
+        "E",
+        "S"
+      ]
+    },
+    {
+      "x": 1022.9758,
+      "y": 5986.1,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-177"
+      ],
+      "text": [
+        "H",
+        "o",
+        "m",
+        "e",
+        "C",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        "s",
+        "C",
+        "u",
+        "s",
+        "t",
+        "o",
+        "m",
+        "C",
+        "o",
+        "n",
+        "t",
+        "r",
+        "a",
+        "c",
+        "t"
+      ]
+    },
+    {
+      "x": 1343.9677,
+      "y": 5985.6791,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-48"
+      ],
+      "text": [
+        "I",
+        "n",
+        "t",
+        "r",
+        "o &amp;",
+        "f",
+        "e",
+        "a",
+        "t",
+        "u",
+        "r",
+        "e",
+        "d",
+        "P",
+        "r",
+        "o",
+        "d",
+        "u",
+        "c",
+        "t",
+        "c",
+        "a",
+        "t",
+        "a",
+        "l",
+        "o",
+        "g",
+        "F",
+        "o",
+        "r",
+        "P",
+        "r",
+        "o",
+        "f",
+        "e",
+        "s",
+        "s",
+        "i",
+        "o",
+        "n",
+        "a",
+        "l",
+        "s",
+        "F",
+        "r",
+        "o",
+        "m",
+        "b",
+        "e",
+        "g",
+        "i",
+        "n",
+        "n",
+        "i",
+        "n",
+        "g",
+        "t",
+        "o",
+        "en",
+        "d"
+      ]
+    },
+    {
+      "x": 1743.966,
+      "y": 5986.1,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-177"
+      ],
+      "text": [
+        "A",
+        "b",
+        "o",
+        "u",
+        "t",
+        "U",
+        "s",
+        "B",
+        "l",
+        "o",
+        "g &amp;",
+        "I",
+        "n",
+        "s",
+        "p",
+        "i",
+        "r",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        "C",
+        "o",
+        "n",
+        "t",
+        "a",
+        "c",
+        "t &amp;",
+        "D",
+        "e",
+        "a",
+        "l",
+        "e",
+        "r",
+        "s"
+      ]
+    },
+    {
+      "x": 2062.9707,
+      "y": 5985.6791,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "30px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": null,
+      "classes": [
+        "cls-48"
+      ],
+      "text": [
+        "O",
+        "u",
+        "r",
+        "s",
+        "t",
+        "o",
+        "r",
+        "y",
+        "[",
+        "C",
+        "B",
+        "A",
+        "t",
+        "e",
+        "l",
+        "i",
+        "e",
+        "r",
+        "]",
+        "A",
+        "u",
+        "t",
+        "h",
+        "o",
+        "r",
+        "i",
+        "z",
+        "e",
+        "d",
+        "p",
+        "r",
+        "e",
+        "f",
+        "e",
+        "r",
+        "r",
+        "e",
+        "d",
+        "p",
+        "a",
+        "r",
+        "t",
+        "ne",
+        "r",
+        "s"
+      ]
+    },
+    {
+      "x": 1860.4937,
+      "y": 3973.4476,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": [
+        "S"
+      ]
+    },
+    {
+      "x": 1855.7218,
+      "y": 3977.7659,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": [
+        "C"
+      ]
+    },
+    {
+      "x": 1848.6774,
+      "y": 3982.256,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": [
+        "R"
+      ]
+    },
+    {
+      "x": 1842.0031,
+      "y": 3985.2345,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": [
+        "O"
+      ]
+    },
+    {
+      "x": 1833.4726,
+      "y": 3987.2657,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": [
+        "L"
+      ]
+    },
+    {
+      "x": 1827.6659,
+      "y": 3987.8367,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": [
+        "L"
+      ]
+    },
+    {
+      "x": 1821.7448,
+      "y": 3987.641,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1818.7989,
+      "y": 3987.4664,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": [
+        "D"
+      ]
+    },
+    {
+      "x": 1810.8889,
+      "y": 3985.693,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": [
+        "O"
+      ]
+    },
+    {
+      "x": 1803.0418,
+      "y": 3982.5896,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": [
+        "W"
+      ]
+    },
+    {
+      "x": 1793.751,
+      "y": 3976.1051,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": [
+        "N"
+      ]
+    },
+    {
+      "x": 1788.0435,
+      "y": 3970.0306,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1786.1755,
+      "y": 3967.6235,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1784.4461,
+      "y": 3965.0806,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1782.8937,
+      "y": 3962.4558,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1781.502,
+      "y": 3959.7237,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1780.2921,
+      "y": 3956.9251,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1779.2528,
+      "y": 3954.0345,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1778.3414,
+      "y": 3951.1839,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-5"
+      ],
+      "text": [
+        "S"
+      ]
+    },
+    {
+      "x": 1777.1139,
+      "y": 3945.169,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-5"
+      ],
+      "text": [
+        "C"
+      ]
+    },
+    {
+      "x": 1776.7895,
+      "y": 3937.093,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-5"
+      ],
+      "text": [
+        "R"
+      ]
+    },
+    {
+      "x": 1777.4695,
+      "y": 3930.1795,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-5"
+      ],
+      "text": [
+        "O"
+      ]
+    },
+    {
+      "x": 1779.831,
+      "y": 3921.9353,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-5"
+      ],
+      "text": [
+        "L"
+      ]
+    },
+    {
+      "x": 1782.0495,
+      "y": 3916.8394,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-5"
+      ],
+      "text": [
+        "L"
+      ]
+    },
+    {
+      "x": 1784.9253,
+      "y": 3912.0004,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-5"
+      ],
+      "text": []
+    },
+    {
+      "x": 1786.5663,
+      "y": 3909.4382,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-5"
+      ],
+      "text": [
+        "D"
+      ]
+    },
+    {
+      "x": 1791.6876,
+      "y": 3903.6022,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-5"
+      ],
+      "text": [
+        "O"
+      ]
+    },
+    {
+      "x": 1798.0442,
+      "y": 3898.2669,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-5"
+      ],
+      "text": [
+        "W"
+      ]
+    },
+    {
+      "x": 1807.6277,
+      "y": 3893.3383,
+      "scale": 1,
+      "fontFamily": "Satoshi-Light, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-5"
+      ],
+      "text": [
+        "N"
+      ]
+    },
+    {
+      "x": 1815.187,
+      "y": 3891.1687,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1818.1833,
+      "y": 3890.6051,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1821.205,
+      "y": 3890.2295,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1824.2783,
+      "y": 3890.0406,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1827.3207,
+      "y": 3890.0428,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1830.3962,
+      "y": 3890.237,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1833.4217,
+      "y": 3890.6186,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-59"
+      ],
+      "text": []
+    },
+    {
+      "x": 1836.3774,
+      "y": 3891.0728,
+      "scale": 1,
+      "fontFamily": "Satoshi-Black, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "800",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-61"
+      ],
+      "text": [
+        "S"
+      ]
+    },
+    {
+      "x": 1842.9341,
+      "y": 3892.9234,
+      "scale": 1,
+      "fontFamily": "Satoshi-Black, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "800",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-61"
+      ],
+      "text": [
+        "C"
+      ]
+    },
+    {
+      "x": 1850.7975,
+      "y": 3896.7398,
+      "scale": 1,
+      "fontFamily": "Satoshi-Black, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "800",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-61"
+      ],
+      "text": [
+        "R"
+      ]
+    },
+    {
+      "x": 1857.167,
+      "y": 3901.1033,
+      "scale": 1,
+      "fontFamily": "Satoshi-Black, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "800",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-61"
+      ],
+      "text": [
+        "O"
+      ]
+    },
+    {
+      "x": 1863.3955,
+      "y": 3907.5682,
+      "scale": 1,
+      "fontFamily": "Satoshi-Black, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "800",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-61"
+      ],
+      "text": [
+        "L"
+      ]
+    },
+    {
+      "x": 1867.0786,
+      "y": 3912.5983,
+      "scale": 1,
+      "fontFamily": "Satoshi-Black, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "800",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-61"
+      ],
+      "text": [
+        "L"
+      ]
+    },
+    {
+      "x": 1870.0358,
+      "y": 3918.1423,
+      "scale": 1,
+      "fontFamily": "Satoshi-Black, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "800",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-61"
+      ],
+      "text": []
+    },
+    {
+      "x": 1871.3424,
+      "y": 3920.711,
+      "scale": 1,
+      "fontFamily": "Satoshi-Black, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "800",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-61"
+      ],
+      "text": [
+        "D"
+      ]
+    },
+    {
+      "x": 1873.8163,
+      "y": 3928.8803,
+      "scale": 1,
+      "fontFamily": "Satoshi-Black, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "800",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-61"
+      ],
+      "text": [
+        "O"
+      ]
+    },
+    {
+      "x": 1874.9977,
+      "y": 3937.3934,
+      "scale": 1,
+      "fontFamily": "Satoshi-Black, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "800",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-61"
+      ],
+      "text": [
+        "W"
+      ]
+    },
+    {
+      "x": 1873.7114,
+      "y": 3949.4134,
+      "scale": 1,
+      "fontFamily": "Satoshi-Black, Satoshi",
+      "fontSize": "11.66px",
+      "fontWeight": "800",
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-61"
+      ],
+      "text": [
+        "N"
+      ]
+    },
+    {
+      "x": 1123.3518,
+      "y": 2192.0974,
+      "scale": 1,
+      "fontFamily": "OpenSans-Light, 'Open Sans'",
+      "fontSize": "35.07px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-27"
+      ],
+      "text": [
+        "L",
+        "a",
+        "t",
+        "e",
+        "s",
+        "t",
+        "N",
+        "e",
+        "w",
+        "s"
+      ]
+    },
+    {
+      "x": 2233.8032,
+      "y": 2192.0974,
+      "scale": 1,
+      "fontFamily": "OpenSans-Light, 'Open Sans'",
+      "fontSize": "35.07px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-27"
+      ],
+      "text": [
+        "U",
+        "p",
+        "c",
+        "o",
+        "m",
+        "i",
+        "n",
+        "g",
+        "E",
+        "v",
+        "e",
+        "n",
+        "t",
+        "s"
+      ]
+    },
+    {
+      "x": 1170.7133,
+      "y": 2989.6014,
+      "scale": 1,
+      "fontFamily": "OpenSans-Light, 'Open Sans'",
+      "fontSize": "35.07px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-27"
+      ],
+      "text": [
+        "00",
+        "0",
+        "4"
+      ]
+    },
+    {
+      "x": 1919.9687,
+      "y": 2989.6014,
+      "scale": 1,
+      "fontFamily": "OpenSans-Light, 'Open Sans'",
+      "fontSize": "35.07px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-27"
+      ],
+      "text": [
+        "00",
+        "0",
+        "3"
+      ]
+    },
+    {
+      "x": 1921.0879,
+      "y": 2814.5428,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": null,
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-147"
+      ],
+      "text": [
+        "<tspan class=\"cls-686\" x=\"0\" y=\"0\">Int",
+        "r",
+        "o",
+        "ducing/tspan<tspan class=\"cls-545\" x=\"0\" y=\"66.93\">Si",
+        "z",
+        "es 4 s",
+        "p",
+        "a",
+        "c",
+        "es/tspan"
+      ]
+    },
+    {
+      "x": 1112.6128,
+      "y": 1123.5159,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "131.67px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-29"
+      ],
+      "text": [
+        "<tspan x=\"0\" y=\"0\" xml:space=\"preserve\">Blog &amp; /tspan",
+        "Inspi",
+        "r",
+        "ation"
+      ]
+    },
+    {
+      "x": 1483.7667,
+      "y": 4200.8044,
+      "scale": 1,
+      "fontFamily": "OpenSans-Semibold, 'Open Sans'",
+      "fontSize": "42.81px",
+      "fontWeight": "600",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-149"
+      ],
+      "text": [
+        "S",
+        "u",
+        "b",
+        "s",
+        "c",
+        "r",
+        "i",
+        "b",
+        "e",
+        "t",
+        "o",
+        "o",
+        "u",
+        "r",
+        "N",
+        "e",
+        "w",
+        "s",
+        "l",
+        "e",
+        "t",
+        "t",
+        "e",
+        "r"
+      ]
+    },
+    {
+      "x": 1758.3256,
+      "y": 4447.213,
+      "scale": 1,
+      "fontFamily": "OpenSans, 'Open Sans'",
+      "fontSize": "25.21px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-151"
+      ],
+      "text": [
+        "S",
+        "u",
+        "b",
+        "s",
+        "c",
+        "r",
+        "i",
+        "b",
+        "e"
+      ]
+    },
+    {
+      "x": 1786.8588,
+      "y": 4279.4222,
+      "scale": 1,
+      "fontFamily": "OpenSans, 'Open Sans'",
+      "fontSize": "25.21px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#606060",
+      "classes": [
+        "cls-201"
+      ],
+      "text": [
+        "N",
+        "a",
+        "m",
+        "e"
+      ]
+    },
+    {
+      "x": 1736.9501,
+      "y": 4354.9645,
+      "scale": 1,
+      "fontFamily": "OpenSans, 'Open Sans'",
+      "fontSize": "25.21px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#606060",
+      "classes": [
+        "cls-201"
+      ],
+      "text": [
+        "E",
+        "m",
+        "a",
+        "i",
+        "l",
+        "A",
+        "d",
+        "r",
+        "e",
+        "ss"
+      ]
+    },
+    {
+      "x": 1574.8849,
+      "y": 2203.8375,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "69.51px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#333",
+      "classes": [
+        "cls-97"
+      ],
+      "text": [
+        "T",
+        "h",
+        "e"
+      ]
+    },
+    {
+      "x": 1869.6367,
+      "y": 2203.8375,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "69.51px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#333",
+      "classes": [
+        "cls-97"
+      ],
+      "text": [
+        "A",
+        "t",
+        "e",
+        "l",
+        "i",
+        "e",
+        "r"
+      ]
+    },
+    {
+      "x": 5512.6779,
+      "y": 3058.2281,
+      "scale": 1,
+      "fontFamily": "OpenSans-Light, 'Open Sans'",
+      "fontSize": "35.07px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-27"
+      ],
+      "text": [
+        "L",
+        "a",
+        "t",
+        "e",
+        "s",
+        "t",
+        "N",
+        "e",
+        "w",
+        "s"
+      ]
+    },
+    {
+      "x": 5866.1044,
+      "y": 3058.2281,
+      "scale": 1,
+      "fontFamily": "OpenSans-Light, 'Open Sans'",
+      "fontSize": "35.07px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-27"
+      ],
+      "text": [
+        "U",
+        "p",
+        "c",
+        "o",
+        "m",
+        "i",
+        "n",
+        "g",
+        "E",
+        "v",
+        "e",
+        "n",
+        "t",
+        "s"
+      ]
+    },
+    {
+      "x": 5573.9364,
+      "y": 2998.0318,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "73.3px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#333",
+      "classes": [
+        "cls-89"
+      ],
+      "text": [
+        "T",
+        "h",
+        "e"
+      ]
+    },
+    {
+      "x": 5884.7557,
+      "y": 2998.0318,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "73.3px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#333",
+      "classes": [
+        "cls-89"
+      ],
+      "text": [
+        "A",
+        "t",
+        "e",
+        "l",
+        "i",
+        "e",
+        "r"
+      ]
+    },
+    {
+      "x": 1371.5908,
+      "y": 4791.9603,
+      "scale": 1,
+      "fontFamily": "BrigendSignature, 'Brigend Signature'",
+      "fontSize": "91.63px",
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#384920",
+      "classes": [
+        "cls-60"
+      ],
+      "text": [
+        "C",
+        "r",
+        "a",
+        "f",
+        "t",
+        "e",
+        "d",
+        "F",
+        "o",
+        "r",
+        "V",
+        "i",
+        "s",
+        "i",
+        "o",
+        "n",
+        "a",
+        "r",
+        "i",
+        "e",
+        "s",
+        "."
+      ]
+    },
+    {
+      "x": 1170.7133,
+      "y": 2814.5428,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": null,
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-147"
+      ],
+      "text": [
+        "<tspan x=\"0\" y=\"0\">CB Hali/tspan<tspan class=\"cls-545\" x=\"0\" y=\"66.93\">2",
+        "0",
+        "25",
+        "R",
+        "e",
+        "c",
+        "ap/tspan"
+      ]
+    },
+    {
+      "x": 1170.7133,
+      "y": 3728.3877,
+      "scale": 1,
+      "fontFamily": "OpenSans-Light, 'Open Sans'",
+      "fontSize": "35.07px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-27"
+      ],
+      "text": [
+        "00",
+        "0",
+        "2"
+      ]
+    },
+    {
+      "x": 1919.9687,
+      "y": 3728.3877,
+      "scale": 1,
+      "fontFamily": "OpenSans-Light, 'Open Sans'",
+      "fontSize": "35.07px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-27"
+      ],
+      "text": [
+        "00",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "x": 2294.5991,
+      "y": 3728.3877,
+      "scale": 1,
+      "fontFamily": "OpenSans-Bold, 'Open Sans'",
+      "fontSize": "35.07px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-94"
+      ],
+      "text": [
+        "M",
+        "o",
+        "n 5",
+        "M",
+        "a",
+        "y",
+        "."
+      ]
+    },
+    {
+      "x": 1525.0677,
+      "y": 2989.6014,
+      "scale": 1,
+      "fontFamily": "OpenSans-Bold, 'Open Sans'",
+      "fontSize": "35.07px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-94"
+      ],
+      "text": [
+        "T",
+        "u",
+        "e 9",
+        "D",
+        "e",
+        "c",
+        "."
+      ]
+    },
+    {
+      "x": 1532.9793,
+      "y": 3728.3877,
+      "scale": 1,
+      "fontFamily": "OpenSans-Bold, 'Open Sans'",
+      "fontSize": "35.07px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-94"
+      ],
+      "text": [
+        "T",
+        "u",
+        "e 3",
+        "J",
+        "u",
+        "n."
+      ]
+    },
+    {
+      "x": 2317.2285,
+      "y": 2989.6014,
+      "scale": 1,
+      "fontFamily": "OpenSans-Bold, 'Open Sans'",
+      "fontSize": "35.07px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-94"
+      ],
+      "text": [
+        "T",
+        "u",
+        "e 9",
+        "D",
+        "e",
+        "c",
+        "."
+      ]
+    },
+    {
+      "x": 5330.7782,
+      "y": 5278.3852,
+      "scale": 1,
+      "fontFamily": "OpenSans-Light, 'Open Sans'",
+      "fontSize": "55.83px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-37"
+      ],
+      "text": [
+        "00",
+        "0",
+        "3"
+      ]
+    },
+    {
+      "x": 5332.5599,
+      "y": 4999.6781,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": null,
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-147"
+      ],
+      "text": [
+        "<tspan class=\"cls-626\" x=\"0\" y=\"0\">Int",
+        "r",
+        "o",
+        "ducing/tspan<tspan class=\"cls-564\" x=\"0\" y=\"106.56\">Si",
+        "z",
+        "es 4 s",
+        "p",
+        "a",
+        "c",
+        "es/tspan"
+      ]
+    },
+    {
+      "x": 5965.2069,
+      "y": 5278.3852,
+      "scale": 1,
+      "fontFamily": "OpenSans-Bold, 'Open Sans'",
+      "fontSize": "55.83px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-79"
+      ],
+      "text": [
+        "T",
+        "u",
+        "e 9",
+        "D",
+        "e",
+        "c",
+        "."
+      ]
+    },
+    {
+      "x": 1921.0879,
+      "y": 3553.3291,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": null,
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-147"
+      ],
+      "text": [
+        "<tspan class=\"cls-686\" x=\"0\" y=\"0\">Int",
+        "r",
+        "o",
+        "ducing/tspan<tspan class=\"cls-545\" x=\"0\" y=\"66.93\">Man",
+        "c",
+        "haha/tspan"
+      ]
+    },
+    {
+      "x": 5329.6532,
+      "y": 7385.6097,
+      "scale": 1,
+      "fontFamily": "OpenSans-Light, 'Open Sans'",
+      "fontSize": "55.94px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-10"
+      ],
+      "text": [
+        "00",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "x": 5929.2943,
+      "y": 7385.6097,
+      "scale": 1,
+      "fontFamily": "OpenSans-Bold, 'Open Sans'",
+      "fontSize": "55.94px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-92"
+      ],
+      "text": [
+        "M",
+        "o",
+        "n 5",
+        "M",
+        "a",
+        "y",
+        "."
+      ]
+    },
+    {
+      "x": 5331.4384,
+      "y": 7106.3353,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": null,
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-147"
+      ],
+      "text": [
+        "<tspan class=\"cls-446\" x=\"0\" y=\"0\">Int",
+        "r",
+        "o",
+        "ducing/tspan<tspan class=\"cls-301\" x=\"0\" y=\"106.77\">Man",
+        "c",
+        "haha/tspan"
+      ]
+    },
+    {
+      "x": 1170.7133,
+      "y": 3553.3294,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": null,
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-147"
+      ],
+      "text": [
+        "<tspan x=\"0\" y=\"0\">CB Hali/tspan<tspan class=\"cls-545\" x=\"0\" y=\"66.93\">Ca",
+        "r",
+        "e &amp; Cl",
+        "e",
+        "aning/tspan"
+      ]
+    },
+    {
+      "x": 5337.288,
+      "y": 6341.3099,
+      "scale": 1,
+      "fontFamily": "OpenSans-Light, 'Open Sans'",
+      "fontSize": "58.28px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-34"
+      ],
+      "text": [
+        "00",
+        "0",
+        "2"
+      ]
+    },
+    {
+      "x": 5941.6952,
+      "y": 6341.3099,
+      "scale": 1,
+      "fontFamily": "OpenSans-Bold, 'Open Sans'",
+      "fontSize": "58.28px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-72"
+      ],
+      "text": [
+        "T",
+        "u",
+        "e 3",
+        "J",
+        "u",
+        "n",
+        "."
+      ]
+    },
+    {
+      "x": 5337.288,
+      "y": 6050.371,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": null,
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-147"
+      ],
+      "text": [
+        "<tspan x=\"0\" y=\"0\">CB Hali/tspan<tspan class=\"cls-562\" x=\"0\" y=\"111.23\">I",
+        "d",
+        "e",
+        "a",
+        "s. /tspan"
+      ]
+    },
+    {
+      "x": 2186.3749,
+      "y": 4478.9077,
+      "scale": 1,
+      "fontFamily": "OpenSans-Extrabold, 'Open Sans'",
+      "fontSize": "24px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#011b2f",
+      "classes": [
+        "cls-80"
+      ],
+      "text": [
+        "C",
+        "O",
+        "N",
+        "T",
+        "A",
+        "C",
+        "T",
+        "D",
+        "E",
+        "T",
+        "A",
+        "I",
+        "L",
+        "S"
+      ]
+    },
+    {
+      "x": 2186.3764,
+      "y": 4525.2746,
+      "scale": 1,
+      "fontFamily": "OpenSans-Bold, 'Open Sans'",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#606060",
+      "classes": [
+        "cls-76"
+      ],
+      "text": [
+        "C",
+        "B",
+        "H",
+        "al",
+        "i",
+        "in",
+        "f",
+        "o",
+        "@",
+        "c",
+        "b",
+        "h",
+        "al",
+        "i",
+        ".",
+        "c",
+        "o",
+        "m",
+        "C",
+        "a",
+        "r",
+        "r",
+        "e",
+        "r",
+        "a",
+        "4",
+        "9",
+        "c",
+        "#",
+        "7",
+        "9",
+        "-",
+        "1",
+        "8",
+        "3",
+        "B",
+        "AR",
+        "R",
+        "A",
+        "N",
+        "Q",
+        "U",
+        "I",
+        "L",
+        "L",
+        "A",
+        "V",
+        "i",
+        "s",
+        "i",
+        "t",
+        "a",
+        "s",
+        "c",
+        "o",
+        "n",
+        "c",
+        "i",
+        "t",
+        "a",
+        "p",
+        "r",
+        "e",
+        "v",
+        "i",
+        "a",
+        "."
+      ]
+    },
+    {
+      "x": 2718.9456,
+      "y": 1751.475,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "93.76px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-73"
+      ],
+      "text": [
+        "A",
+        "t",
+        "e",
+        "l",
+        "i",
+        "e",
+        "r"
+      ]
+    },
+    {
+      "x": 2485.1753,
+      "y": 1771.9543,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "93.76px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-73"
+      ],
+      "text": [
+        "T",
+        "h",
+        "e"
+      ]
+    },
+    {
+      "x": 2460.3626,
+      "y": 1703.701,
+      "scale": 1,
+      "fontFamily": "TheSeasons-LightItalic, 'The Seasons'",
+      "fontSize": "38.82px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-11"
+      ],
+      "text": [
+        "1",
+        "."
+      ]
+    },
+    {
+      "x": 2512.2837,
+      "y": 1538.9444,
+      "scale": 1,
+      "fontFamily": "TheSeasons-LightItalic, 'The Seasons'",
+      "fontSize": "38.82px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-11"
+      ],
+      "text": [
+        "2",
+        "."
+      ]
+    },
+    {
+      "x": 2663.7466,
+      "y": 1771.9543,
+      "scale": 1,
+      "fontFamily": "TheSeasons-LightItalic, 'The Seasons'",
+      "fontSize": "38.82px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-11"
+      ],
+      "text": [
+        "3",
+        "."
+      ]
+    },
+    {
+      "x": 5398.2704,
+      "y": 1183.1887,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Light, 'The Seasons'",
+      "fontSize": "146.91px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-31"
+      ],
+      "text": [
+        "<tspan x=\"0\" y=\"0\" xml:space=\"preserve\">Blog &amp; /tspan",
+        "Inspi",
+        "r",
+        "ation"
+      ]
+    },
+    {
+      "x": 1519.1688,
+      "y": 7220.236,
+      "scale": 0.8639,
+      "fontFamily": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "fontSize": "16.86px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#231f20",
+      "classes": [
+        "cls-90"
+      ],
+      "text": [
+        "SAND"
+      ]
+    },
+    {
+      "x": 1579.9418,
+      "y": 7220.236,
+      "scale": 0.8639,
+      "fontFamily": "HelveticaNeue-UltraLight, 'Helvetica Neue'",
+      "fontSize": "16.86px",
+      "fontWeight": "100",
+      "letterSpacing": ".06em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-196"
+      ],
+      "text": [
+        "001"
+      ]
+    },
+    {
+      "x": 1577.4823,
+      "y": 7237.4716,
+      "scale": 1,
+      "fontFamily": "HelveticaNeue-Medium, 'Helvetica Neue'",
+      "fontSize": "6.27px",
+      "fontWeight": "500",
+      "letterSpacing": ".08em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-159"
+      ],
+      "text": [
+        "#e4d1bd"
+      ]
+    },
+    {
+      "x": 1519.1688,
+      "y": 7236.7292,
+      "scale": 1,
+      "fontFamily": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "fontSize": "5.29px",
+      "fontWeight": "700",
+      "letterSpacing": ".08em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-83"
+      ],
+      "text": [
+        "HEX"
+      ]
+    },
+    {
+      "x": 1668.3099,
+      "y": 7220.236,
+      "scale": 0.8639,
+      "fontFamily": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "fontSize": "16.86px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#231f20",
+      "classes": [
+        "cls-90"
+      ],
+      "text": [
+        "TERRA"
+      ]
+    },
+    {
+      "x": 1726.6234,
+      "y": 7237.4716,
+      "scale": 1,
+      "fontFamily": "HelveticaNeue-Medium, 'Helvetica Neue'",
+      "fontSize": "6.27px",
+      "fontWeight": "500",
+      "letterSpacing": ".08em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-159"
+      ],
+      "text": [
+        "#88402b"
+      ]
+    },
+    {
+      "x": 1668.3099,
+      "y": 7236.7292,
+      "scale": 1,
+      "fontFamily": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "fontSize": "5.29px",
+      "fontWeight": "700",
+      "letterSpacing": ".08em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-83"
+      ],
+      "text": [
+        "HEX"
+      ]
+    },
+    {
+      "x": 1817.451,
+      "y": 7220.236,
+      "scale": 0.8639,
+      "fontFamily": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "fontSize": "16.86px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#231f20",
+      "classes": [
+        "cls-90"
+      ],
+      "text": [
+        "GOLD"
+      ]
+    },
+    {
+      "x": 1875.7645,
+      "y": 7237.4716,
+      "scale": 1,
+      "fontFamily": "HelveticaNeue-Medium, 'Helvetica Neue'",
+      "fontSize": "6.27px",
+      "fontWeight": "500",
+      "letterSpacing": ".08em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-159"
+      ],
+      "text": [
+        "#a85d26"
+      ]
+    },
+    {
+      "x": 1817.451,
+      "y": 7236.7292,
+      "scale": 1,
+      "fontFamily": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "fontSize": "5.29px",
+      "fontWeight": "700",
+      "letterSpacing": ".08em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-83"
+      ],
+      "text": [
+        "HEX"
+      ]
+    },
+    {
+      "x": 1577.4823,
+      "y": 7448.4418,
+      "scale": 1,
+      "fontFamily": "HelveticaNeue-Medium, 'Helvetica Neue'",
+      "fontSize": "6.27px",
+      "fontWeight": "500",
+      "letterSpacing": ".08em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-159"
+      ],
+      "text": [
+        "#c1843e"
+      ]
+    },
+    {
+      "x": 1519.1688,
+      "y": 7447.6994,
+      "scale": 1,
+      "fontFamily": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "fontSize": "5.29px",
+      "fontWeight": "700",
+      "letterSpacing": ".08em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-83"
+      ],
+      "text": [
+        "HEX"
+      ]
+    },
+    {
+      "x": 1726.6234,
+      "y": 7448.4418,
+      "scale": 1,
+      "fontFamily": "HelveticaNeue-Medium, 'Helvetica Neue'",
+      "fontSize": "6.27px",
+      "fontWeight": "500",
+      "letterSpacing": ".08em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-159"
+      ],
+      "text": [
+        "#8d988a"
+      ]
+    },
+    {
+      "x": 1668.3099,
+      "y": 7447.6994,
+      "scale": 1,
+      "fontFamily": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "fontSize": "5.29px",
+      "fontWeight": "700",
+      "letterSpacing": ".08em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-83"
+      ],
+      "text": [
+        "HEX"
+      ]
+    },
+    {
+      "x": 1875.7645,
+      "y": 7448.4418,
+      "scale": 1,
+      "fontFamily": "HelveticaNeue-Medium, 'Helvetica Neue'",
+      "fontSize": "6.27px",
+      "fontWeight": "500",
+      "letterSpacing": ".08em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-159"
+      ],
+      "text": [
+        "#384920"
+      ]
+    },
+    {
+      "x": 1817.451,
+      "y": 7447.6994,
+      "scale": 1,
+      "fontFamily": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "fontSize": "5.29px",
+      "fontWeight": "700",
+      "letterSpacing": ".08em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-83"
+      ],
+      "text": [
+        "HEX"
+      ]
+    },
+    {
+      "x": 1817.451,
+      "y": 7640.6281,
+      "scale": 0.8639,
+      "fontFamily": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "fontSize": "16.86px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#231f20",
+      "classes": [
+        "cls-90"
+      ],
+      "text": [
+        "SEA"
+      ]
+    },
+    {
+      "x": 1875.7645,
+      "y": 7658.4118,
+      "scale": 1,
+      "fontFamily": "HelveticaNeue-Medium, 'Helvetica Neue'",
+      "fontSize": "6.27px",
+      "fontWeight": "500",
+      "letterSpacing": ".08em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-159"
+      ],
+      "text": [
+        "#144d81"
+      ]
+    },
+    {
+      "x": 1817.451,
+      "y": 7657.6694,
+      "scale": 1,
+      "fontFamily": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "fontSize": "5.29px",
+      "fontWeight": "700",
+      "letterSpacing": ".08em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-83"
+      ],
+      "text": [
+        "HEX"
+      ]
+    },
+    {
+      "x": 1729.0834,
+      "y": 7220.236,
+      "scale": 0.8639,
+      "fontFamily": "HelveticaNeue-UltraLight, 'Helvetica Neue'",
+      "fontSize": "16.86px",
+      "fontWeight": "100",
+      "letterSpacing": ".06em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-196"
+      ],
+      "text": [
+        "002"
+      ]
+    },
+    {
+      "x": 1878.224,
+      "y": 7220.236,
+      "scale": 0.8639,
+      "fontFamily": "HelveticaNeue-UltraLight, 'Helvetica Neue'",
+      "fontSize": "16.86px",
+      "fontWeight": "100",
+      "letterSpacing": ".06em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-196"
+      ],
+      "text": [
+        "003"
+      ]
+    },
+    {
+      "x": 1519.1688,
+      "y": 7430.6205,
+      "scale": 0.8639,
+      "fontFamily": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "fontSize": "16.86px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#231f20",
+      "classes": [
+        "cls-90"
+      ],
+      "text": [
+        "SUN"
+      ]
+    },
+    {
+      "x": 1579.9418,
+      "y": 7430.6205,
+      "scale": 0.8639,
+      "fontFamily": "HelveticaNeue-UltraLight, 'Helvetica Neue'",
+      "fontSize": "16.86px",
+      "fontWeight": "100",
+      "letterSpacing": ".06em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-196"
+      ],
+      "text": [
+        "004"
+      ]
+    },
+    {
+      "x": 1668.3099,
+      "y": 7430.6205,
+      "scale": 0.8639,
+      "fontFamily": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "fontSize": "16.86px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#231f20",
+      "classes": [
+        "cls-90"
+      ],
+      "text": [
+        "MOSS"
+      ]
+    },
+    {
+      "x": 1817.451,
+      "y": 7430.6205,
+      "scale": 0.8639,
+      "fontFamily": "HelveticaNeue-Bold, 'Helvetica Neue'",
+      "fontSize": "16.86px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#231f20",
+      "classes": [
+        "cls-90"
+      ],
+      "text": [
+        "JUNGLE"
+      ]
+    },
+    {
+      "x": 1729.0834,
+      "y": 7430.6205,
+      "scale": 0.8639,
+      "fontFamily": "HelveticaNeue-UltraLight, 'Helvetica Neue'",
+      "fontSize": "16.86px",
+      "fontWeight": "100",
+      "letterSpacing": ".06em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-196"
+      ],
+      "text": [
+        "005"
+      ]
+    },
+    {
+      "x": 1878.224,
+      "y": 7430.6205,
+      "scale": 0.8639,
+      "fontFamily": "HelveticaNeue-UltraLight, 'Helvetica Neue'",
+      "fontSize": "16.86px",
+      "fontWeight": "100",
+      "letterSpacing": ".06em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-196"
+      ],
+      "text": [
+        "006"
+      ]
+    },
+    {
+      "x": 1878.224,
+      "y": 7640.3129,
+      "scale": 0.8639,
+      "fontFamily": "HelveticaNeue-UltraLight, 'Helvetica Neue'",
+      "fontSize": "16.86px",
+      "fontWeight": "100",
+      "letterSpacing": ".06em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-196"
+      ],
+      "text": [
+        "007"
+      ]
+    },
+    {
+      "x": 1548.33,
+      "y": 7625.0595,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "54.21px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#231f20",
+      "classes": [
+        "cls-77"
+      ],
+      "text": [
+        "H",
+        "a",
+        "L",
+        "i"
+      ]
+    },
+    {
+      "x": 1668.3798,
+      "y": 7593.414,
+      "scale": 1,
+      "fontFamily": "Satoshi-Regular, Satoshi",
+      "fontSize": "21.63px",
+      "fontWeight": null,
+      "letterSpacing": ".02em",
+      "fill": "#231f20",
+      "classes": [
+        "cls-197"
+      ],
+      "text": [
+        "®"
+      ]
+    },
+    {
+      "x": 1559.4647,
+      "y": 7640.2753,
+      "scale": 1,
+      "fontFamily": "Satoshi-Bold, Satoshi",
+      "fontSize": "4.33px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#231f20",
+      "classes": [
+        "cls-78"
+      ],
+      "text": [
+        "C",
+        "R",
+        "A",
+        "F",
+        "TE",
+        "D",
+        "F",
+        "O",
+        "R",
+        "V",
+        "I",
+        "S",
+        "IO",
+        "NA",
+        "R",
+        "I",
+        "E",
+        "S"
+      ]
+    },
+    {
+      "x": 6288.5211,
+      "y": 2497.0986,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "202.43px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-81"
+      ],
+      "text": [
+        "A",
+        "t",
+        "e",
+        "l",
+        "i",
+        "e",
+        "r"
+      ]
+    },
+    {
+      "x": 5783.815,
+      "y": 2541.3129,
+      "scale": 1,
+      "fontFamily": "TheSeasons-Bold, 'The Seasons'",
+      "fontSize": "202.43px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-81"
+      ],
+      "text": [
+        "T",
+        "h",
+        "e"
+      ]
+    },
+    {
+      "x": 5730.2447,
+      "y": 2393.9555,
+      "scale": 1,
+      "fontFamily": "TheSeasons-LightItalic, 'The Seasons'",
+      "fontSize": "83.82px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-49"
+      ],
+      "text": [
+        "1",
+        "."
+      ]
+    },
+    {
+      "x": 5842.3414,
+      "y": 2038.2485,
+      "scale": 1,
+      "fontFamily": "TheSeasons-LightItalic, 'The Seasons'",
+      "fontSize": "83.82px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-49"
+      ],
+      "text": [
+        "2",
+        "."
+      ]
+    },
+    {
+      "x": 6169.3472,
+      "y": 2541.3129,
+      "scale": 1,
+      "fontFamily": "TheSeasons-LightItalic, 'The Seasons'",
+      "fontSize": "83.82px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-49"
+      ],
+      "text": [
+        "3",
+        "."
+      ]
+    },
+    {
+      "x": 5336.1039,
+      "y": 4247.2645,
+      "scale": 1,
+      "fontFamily": "OpenSans-Light, 'Open Sans'",
+      "fontSize": "58.35px",
+      "fontWeight": "300",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-21"
+      ],
+      "text": [
+        "00",
+        "0",
+        "4"
+      ]
+    },
+    {
+      "x": 5336.1039,
+      "y": 3955.9969,
+      "scale": 1,
+      "fontFamily": null,
+      "fontSize": null,
+      "fontWeight": null,
+      "letterSpacing": null,
+      "fill": "#fff",
+      "classes": [
+        "cls-147"
+      ],
+      "text": [
+        "<tspan x=\"0\" y=\"0\">CB Hali/tspan<tspan class=\"cls-447\" x=\"0\" y=\"111.36\">2",
+        "0",
+        "25",
+        "R",
+        "e",
+        "c",
+        "ap/tspan"
+      ]
+    },
+    {
+      "x": 5928.0004,
+      "y": 4247.2645,
+      "scale": 1,
+      "fontFamily": "OpenSans-Bold, 'Open Sans'",
+      "fontSize": "58.35px",
+      "fontWeight": "700",
+      "letterSpacing": null,
+      "fill": "gray",
+      "classes": [
+        "cls-91"
+      ],
+      "text": [
+        "T",
+        "u",
+        "e 9",
+        "D",
+        "e",
+        "c",
+        "."
+      ]
+    },
+    {
+      "x": 5667.3676,
+      "y": 7596.2389,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "26.48px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#00565e",
+      "classes": [
+        "cls-158"
+      ],
+      "text": [
+        "E",
+        "x",
+        "p",
+        "l",
+        "o",
+        "r",
+        "e",
+        "O",
+        "u",
+        "r",
+        "C",
+        "a",
+        "t",
+        "a",
+        "l",
+        "o",
+        "g"
+      ]
+    },
+    {
+      "x": 2232.3391,
+      "y": 3914.5079,
+      "scale": 1,
+      "fontFamily": "Satoshi-Medium, Satoshi",
+      "fontSize": "26.48px",
+      "fontWeight": "500",
+      "letterSpacing": null,
+      "fill": "#00565e",
+      "classes": [
+        "cls-158"
+      ],
+      "text": [
+        "E",
+        "x",
+        "p",
+        "l",
+        "o",
+        "r",
+        "e",
+        "O",
+        "u",
+        "r",
+        "C",
+        "a",
+        "t",
+        "a",
+        "l",
+        "o",
+        "g"
+      ]
+    }
+  ]
+}
