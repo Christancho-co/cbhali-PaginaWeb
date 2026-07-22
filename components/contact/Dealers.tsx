@@ -53,6 +53,8 @@ export default function Dealers() {
       <img className="cndealers__ornament" src="/images/icons/contact/icono2.png" alt="" aria-hidden="true" />
 
       <div className="cndealers__intro">
+        <p className="cndealers__eyebrow">Authorized preferred partners</p>
+        <p>CB Hali</p>
         <p>info@cbhali.com</p>
         <p>Carrera 49c #79-184</p>
         <p>BARRANQUILLA</p>
