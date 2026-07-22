@@ -49,7 +49,7 @@ export default function CollectionsPage() {
       </CollectionRow>
 
       <Quote>
-        instills a sense of calm confidence —a softness that welcomes, a structure that endures.
+        It instills a sense of calm confidence. /// A softness that welcomes, a structure that endures.
       </Quote>
 
       <CollectionRow name="AMHARA" image="/images/collections/amhara.webp" alt="AMHARA rug among reeds" side="right" href="/collections/amhara/039-0001">
@@ -62,7 +62,7 @@ export default function CollectionsPage() {
       </CollectionRow>
 
       <Quote>
-        does not retreat from light. /// It lives in it.
+        It does not retreat from light. /// It lives in it.
       </Quote>
       <CollectionRow name="HELIOS" image="/images/collections/helios.webp" alt="HELIOS rug on an outdoor patio" side="left" href="/collections/helios/038-0001">
         Named after the sun, HELIOS radiates strength and clarity. Its presence is bold yet

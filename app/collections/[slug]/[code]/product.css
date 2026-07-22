@@ -26,6 +26,7 @@
   grid-template-columns: 1.1fr 1fr;
   gap: clamp(2rem, 5vw, 4rem);
 }
+.ptop > * { min-width: 0; }
 
 /* ---------------- GALLERY ---------------- */
 
