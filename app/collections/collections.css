@@ -176,11 +176,11 @@
 .crow__name--bottom { bottom: clamp(0.5rem, 2vw, 1rem); }
 
 .crow__copy {
-  font-family: var(--font-satoshi);
-  font-weight: 400;
-  font-size: 0.92rem;
-  line-height: 1.75;
-  color: var(--gray-soft);
+   font-family: var(--font-satoshi);
+    font-weight: 400;
+    font-size: clamp(0.92rem, 0.98rem + 0.9vw, 6.5rem);
+    line-height: 1.75;
+    color: var(--gray-soft);
 }
 
 @media (max-width: 820px) {
