@@ -32,7 +32,6 @@ export default function Hero() {
         />
       ))}
       <div className="hero__navband only-m" />
-      <span className="hero__spark only-d" aria-hidden="true" />
       <div className="hero__shade hero__shade--top" />
       <div className="hero__shade hero__shade--bottom" />
 
