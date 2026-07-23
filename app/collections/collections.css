@@ -53,7 +53,7 @@
 
 .chero__tags {
   position: absolute; left: calc(var(--u) * 95); bottom: calc(var(--u) * 45); width: calc(var(--u) * 1760);
-  font-family: var(--font-satoshi); font-weight: 400; font-size: calc(var(--u) * 24);
+  font-family: var(--font-satoshi); font-weight: 400; font-size: calc(var(--u) * 45);
   letter-spacing: 0.14em; line-height: 1.7; color: #fff;
 }
 .chero__tags strong { font-weight: 700; }
