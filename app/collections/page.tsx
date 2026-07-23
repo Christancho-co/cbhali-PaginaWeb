@@ -84,6 +84,9 @@ export default function CollectionsPage() {
         completing it.
       </CollectionRow>
 
+       <Quote>
+        It is not about statement. /// It is about essence.
+      </Quote>
       <CollectionRow
         name="ALUNA"
         image="/images/products/aluna/043-0001/main.webp"
@@ -97,7 +100,10 @@ export default function CollectionsPage() {
         100% wool, each rug features carefully sculpted textures and subtle reliefs that bring
         depth, warmth, and a rich tactile experience.
       </CollectionRow>
-
+      
+      <Quote>
+        It does not retreat from light. /// It lives in it.
+      </Quote>
       <CollectionRow
         name="ARYA"
         image="/images/products/arya/037-0001/main.webp"
@@ -111,6 +117,9 @@ export default function CollectionsPage() {
         simplicity into an expression of comfort, subtle luster, and timeless serenity.
       </CollectionRow>
 
+      <Quote>
+        It is not accidental. /// It is intentional.
+      </Quote>
       <CollectionRow
         name="LATTICE"
         image="/images/products/lattice/031-0008/main.webp"
