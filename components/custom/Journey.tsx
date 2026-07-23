@@ -34,19 +34,16 @@ export default function Journey() {
         <p>guided by design expertise, artisanal knowledge, and refined material exploration.</p>
       </div>
 
-      <div className="csjourney__body">
-        <ol className="csjourney__steps">
-          {STEPS.map((s) => (
-            <li key={s.n}>
-              <h3>
-                {s.n} — {s.title}
-              </h3>
-              <p>{s.copy}</p>
-            </li>
-          ))}
-        </ol>
-        <img className="csjourney__img" src="/images/custom/steps-collage.webp" alt="Design collaboration process" />
-      </div>
+      <ol className="csjourney__steps">
+        {STEPS.map((s) => (
+          <li key={s.n}>
+            <h3>
+              {s.n} — {s.title}
+            </h3>
+            <p>{s.copy}</p>
+          </li>
+        ))}
+      </ol>
     </section>
   );
 }

@@ -11,8 +11,12 @@ export default function Choose() {
         AND COLOR
       </h2>
       <div className="cschoose__box">
-        <img src="/images/custom/gif-placeholder.webp" alt="Custom rug configurator preview" />
-        <span className="cschoose__label">GIF.</span>
+        <iframe
+          src="https://www.youtube.com/embed/91QKhPB805o"
+          title="CB Hali Introduces: &quot;Colección Blur&quot; by David Del Valle"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen
+        />
       </div>
     </section>
   );

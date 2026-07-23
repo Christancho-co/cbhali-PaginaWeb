@@ -9,7 +9,7 @@
   --charcoal: #464746;
   width: 100%;
   overflow: hidden;
-  background: #000;
+  background: #fff;
 }
 
 /* ---------------- HERO ---------------- */
@@ -46,60 +46,64 @@
 
 /* ---------------- INTRO ---------------- */
 
-.csintro { position: relative; background: #000; padding: clamp(3rem, 8vw, 6rem) clamp(1.25rem, 6vw, 5.5rem) clamp(2rem, 5vw, 3.5rem); }
+.csintro { position: relative; background: #fff; padding: clamp(3rem, 8vw, 6rem) clamp(1.25rem, 6vw, 5.5rem) clamp(2rem, 5vw, 3.5rem); }
 .csintro__head { display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem; }
 .csintro__title { font-family: var(--font-seasons); font-weight: 300; font-size: clamp(1.9rem, 3.2vw, 2.9rem); line-height: 1.28; color: var(--sage); }
 .csintro__title strong { font-weight: 700; }
 .csintro__icon { flex: none; width: clamp(56px, 5vw, 76px); height: auto; }
 
-.csintro__copy { margin-top: clamp(2rem, 6vw, 3.5rem); max-width: 760px; font-family: var(--font-satoshi); font-weight: 300; font-size: 0.85rem; letter-spacing: 0.02em; line-height: 1.8; color: #d8dad6; text-transform: uppercase; }
+.csintro__copy { margin-top: clamp(2rem, 6vw, 3.5rem); max-width: 760px; font-family: var(--font-satoshi); font-weight: 300; font-size: 0.85rem; letter-spacing: 0.02em; line-height: 1.8; color: var(--charcoal); text-transform: uppercase; }
 .csintro__chevrons { display: block; margin: clamp(2rem, 5vw, 3rem) auto 0; width: clamp(24px, 1.8vw, 34px); }
 
 /* ---------------- CHOOSE ---------------- */
 
-.cschoose { position: relative; background: #000; padding: 0 clamp(1.25rem, 6vw, 5.5rem) clamp(3rem, 7vw, 5rem); text-align: center; }
+.cschoose { position: relative; background: #fff; padding: 0 clamp(1.25rem, 6vw, 5.5rem) clamp(3rem, 7vw, 5rem); text-align: center; }
 .cschoose__vertical { position: absolute; left: clamp(0.75rem, 3vw, 3rem); top: 0; width: clamp(8px, 0.7vw, 14px); }
 .cschoose__mono { position: absolute; right: clamp(1rem, 5vw, 5rem); top: clamp(8rem, 22vw, 20rem); width: clamp(50px, 4.5vw, 86px); }
 .cschoose__title { font-family: var(--font-seasons); font-weight: 300; font-size: clamp(1.6rem, 2.8vw, 2.3rem); line-height: 1.35; letter-spacing: 0.04em; color: var(--sage); }
-.cschoose__box { position: relative; max-width: 640px; margin: clamp(2rem, 5vw, 3rem) auto 0; border: 1.5px solid var(--sage); aspect-ratio: 16/10; overflow: hidden; }
-.cschoose__box img { width: 100%; height: 100%; object-fit: cover; }
-.cschoose__label { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); font-family: var(--font-seasons); font-weight: 700; font-size: clamp(2rem, 5vw, 3.4rem); color: #1c1712; }
+.cschoose__box { position: relative; max-width: 640px; margin: clamp(2rem, 5vw, 3rem) auto 0; border: 1.5px solid var(--sage); aspect-ratio: 16/10; overflow: hidden; background: #f2f2f2; }
+.cschoose__box iframe { display: block; width: 100%; height: 100%; border: none; }
 
 /* ---------------- JOURNEY ---------------- */
 
-.csjourney { position: relative; background: #000; padding: clamp(3rem, 7vw, 5rem) clamp(1.25rem, 6vw, 5.5rem); }
+.csjourney { position: relative; background: #fff; padding: clamp(3rem, 7vw, 5rem) clamp(1.25rem, 6vw, 5.5rem); }
 .csjourney__head h2 { font-family: var(--font-seasons); font-weight: 700; font-size: clamp(1.5rem, 2.6vw, 2.1rem); letter-spacing: 0.06em; color: var(--sage); }
 .csjourney__head p { margin-top: 0.6rem; font-family: var(--font-seasons); font-style: italic; font-size: clamp(1rem, 1.6vw, 1.3rem); color: var(--sage); }
 
-.csjourney__body { display: grid; grid-template-columns: 1.3fr 1fr; gap: clamp(2rem, 5vw, 4rem); margin-top: clamp(2.5rem, 6vw, 4rem); align-items: start; }
-.csjourney__steps { display: flex; flex-direction: column; gap: clamp(1.75rem, 4vw, 2.75rem); }
-.csjourney__steps h3 { font-family: var(--font-seasons); font-weight: 400; font-size: clamp(1rem, 1.4vw, 1.2rem); letter-spacing: 0.08em; color: #e7e4dd; }
-.csjourney__steps p { margin-top: 0.6rem; font-family: var(--font-satoshi); font-weight: 300; font-size: 0.8rem; letter-spacing: 0.03em; line-height: 1.7; color: #9a9a96; text-transform: uppercase; }
-.csjourney__img { width: 100%; border-radius: 2px; object-fit: cover; }
+.csjourney__steps { margin-top: clamp(2.5rem, 6vw, 4rem); display: flex; flex-direction: column; gap: clamp(1.75rem, 4vw, 2.75rem); max-width: 900px; }
+.csjourney__steps h3 { font-family: var(--font-seasons); font-weight: 400; font-size: clamp(1rem, 1.4vw, 1.2rem); letter-spacing: 0.08em; color: var(--terracotta); }
+.csjourney__steps p { margin-top: 0.6rem; font-family: var(--font-satoshi); font-weight: 300; font-size: 0.8rem; letter-spacing: 0.03em; line-height: 1.7; color: var(--gray-text); text-transform: uppercase; }
 
 /* ---------------- AUTHOR ---------------- */
 
-.csauthor { position: relative; background: #000; padding: clamp(2rem, 6vw, 3.5rem) clamp(1.25rem, 6vw, 5.5rem) 0; }
-.csauthor__copy { max-width: 1300px; margin-bottom: clamp(2rem, 5vw, 3rem); font-family: var(--font-satoshi); font-weight: 300; font-size: 0.95rem; line-height: 1.75; color: #d8dad6; }
+.csauthor { position: relative; background: #fff; padding: 0 clamp(1.25rem, 6vw, 5.5rem); }
 .csauthor__photo { position: relative; aspect-ratio: 16/10; overflow: hidden; }
 .csauthor__photo img { width: 100%; height: 100%; object-fit: cover; }
+.csauthor__copy {
+  position: absolute; left: 0; top: 0; width: 100%; z-index: 1;
+  padding: clamp(1rem, 3vw, 2rem) clamp(1.25rem, 4vw, 3rem);
+  background: linear-gradient(180deg, rgba(0,0,0,.55), rgba(0,0,0,0));
+  font-family: var(--font-satoshi); font-weight: 300; font-size: clamp(0.7rem, 1.1vw, 0.9rem);
+  line-height: 1.7; color: #f2f1ee;
+}
 .csauthor__cta {
-  position: absolute; right: clamp(1rem, 4vw, 2.5rem); bottom: clamp(1rem, 4vw, 2.5rem);
+  position: absolute; right: clamp(1rem, 4vw, 2.5rem); bottom: clamp(1rem, 4vw, 2.5rem); z-index: 1;
   display: inline-flex; align-items: center; gap: 0.6rem; background: #fff; border-radius: 999px;
   padding: 0.75rem 1.4rem; font-family: var(--font-satoshi); font-weight: 500; font-size: 0.95rem; color: var(--teal);
 }
 .csauthor__cta svg { width: 22px; height: 22px; }
+.csauthor__tag {
+  position: absolute; left: 0; bottom: 0; width: 100%; z-index: 1;
+  padding: 0.9rem clamp(1.25rem, 4vw, 3rem);
+  background: linear-gradient(90deg, rgba(0,0,0,.65), rgba(0,0,0,0) 65%);
+  font-family: var(--font-satoshi); font-weight: 900; font-size: 0.85rem; letter-spacing: 0.12em; color: #fff;
+}
 
 /* ---------------- BELIEVE / TAGLINE ---------------- */
 
-.csbelieve { position: relative; background: #000; padding: clamp(1.5rem, 4vw, 2.5rem) 0 clamp(4rem, 9vw, 7rem); }
-.csbelieve__tag {
-  border-top: 1px solid rgba(255,255,255,.25); border-bottom: 1px solid rgba(255,255,255,.25);
-  padding: 0.9rem clamp(1.25rem, 6vw, 5.5rem);
-  font-family: var(--font-satoshi); font-weight: 900; font-size: 0.85rem; letter-spacing: 0.12em; color: #fff;
-}
+.csbelieve { position: relative; background: #fff; padding: clamp(3rem, 7vw, 5rem) 0 clamp(4rem, 9vw, 7rem); }
 .csbelieve__quote {
-  margin: clamp(3rem, 8vw, 5.5rem) auto 0; max-width: 980px; padding: 0 clamp(1.25rem, 6vw, 5.5rem);
+  margin: 0 auto; max-width: 980px; padding: 0 clamp(1.25rem, 6vw, 5.5rem);
   text-align: center; font-family: var(--font-seasons); font-weight: 300; font-size: clamp(1.3rem, 2.6vw, 1.9rem);
   line-height: 1.5; letter-spacing: 0.02em; color: #5c5d5a;
 }
@@ -108,11 +112,20 @@
 
 .cssketch { position: relative; background: var(--sage); padding: clamp(2.5rem, 6vw, 4rem) clamp(1.25rem, 8vw, 8rem) clamp(4rem, 9vw, 6rem); }
 .cssketch__grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(1rem, 3vw, 1.75rem); max-width: 900px; margin: 0 auto; }
-.cssketch__grid span { aspect-ratio: 1; background: #fff; }
-.cssketch__quote { margin-top: clamp(2.5rem, 6vw, 4rem); text-align: center; font-family: var(--font-seasons); font-weight: 300; font-style: italic; font-size: clamp(1.6rem, 3.2vw, 2.4rem); color: #fff; }
+.cssketch__grid span {
+  aspect-ratio: 1; background: #fff; border-radius: 4px; color: var(--charcoal);
+  display: flex; align-items: center; justify-content: center; padding: 12%;
+}
+.cssketch__grid svg { width: 100%; height: 100%; }
+.cssketch__quote { margin-top: clamp(2.5rem, 6vw, 4rem); text-align: center; font-family: var(--font-seasons); font-weight: 300; font-style: italic; font-size: clamp(2.2rem, 5vw, 3.6rem); color: #fff; }
 
 @media (max-width: 820px) {
   .csintro__head { flex-direction: column; }
-  .csjourney__body { grid-template-columns: 1fr; }
   .cssketch__grid { grid-template-columns: repeat(2, 1fr); }
+
+  .csauthor__photo { aspect-ratio: 3 / 4; }
+  .csauthor__copy { font-size: 0.72rem; line-height: 1.65; padding: 1rem 1rem 0.5rem; }
+  .csauthor__cta { bottom: 3.6rem; right: 1rem; padding: 0.6rem 1.1rem; font-size: 0.8rem; }
+  .csauthor__cta span { display: none; }
+  .csauthor__tag { font-size: 0.62rem; letter-spacing: 0.08em; padding: 0.7rem 1rem; background: linear-gradient(0deg, rgba(0,0,0,.75), rgba(0,0,0,.2)); }
 }
