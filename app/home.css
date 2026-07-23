@@ -452,8 +452,6 @@
   width: calc(var(--u) * 1921);
   height: calc(var(--u) * 3030);
   object-fit: cover;
-  -webkit-mask-image: linear-gradient(180deg, #000 calc(100% - calc(var(--u) * 290)), transparent);
-  mask-image: linear-gradient(180deg, #000 calc(100% - calc(var(--u) * 290)), transparent);
 }
 .show__signature {
   position: absolute;
@@ -582,8 +580,6 @@
     top: calc(var(--u) * 11947.5);
     width: calc(var(--u) * 1124);
     height: calc(var(--u) * 1683);
-    -webkit-mask-image: linear-gradient(180deg, #000 calc(100% - calc(var(--u) * 250)), transparent);
-    mask-image: linear-gradient(180deg, #000 calc(100% - calc(var(--u) * 250)), transparent);
   }
   .show__signature--m {
     position: absolute;
