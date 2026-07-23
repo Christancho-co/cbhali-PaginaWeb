@@ -8,7 +8,7 @@
   --navy: #134d80;
   width: 100%;
   overflow: hidden;
-  background: #000;
+  background: #fff;
 }
 
 /* ---------------- HERO ---------------- */
@@ -56,16 +56,16 @@
 
 /* ---------------- INTRO ---------------- */
 
-.ctintro { position: relative; background: #000; padding: clamp(2.5rem, 6vw, 4.5rem) clamp(1.25rem, 6vw, 5.5rem) clamp(3rem, 7vw, 5rem); }
-.ctintro__building { position: absolute; right: clamp(4rem, 16vw, 18rem); top: clamp(-3rem, -5vw, -2rem); width: clamp(28px, 2.4vw, 46px); }
+.ctintro { position: relative; background: #fff; padding: clamp(2.5rem, 6vw, 4.5rem) clamp(1.25rem, 6vw, 5.5rem) clamp(3rem, 7vw, 5rem); }
+.ctintro__building { position: absolute; right: clamp(4rem, 16vw, 18rem); top: clamp(-3rem, -5vw, -2rem); width: clamp(28px, 2.4vw, 46px); color: var(--navy); }
 .ctintro__eyebrow { font-family: var(--font-satoshi); font-weight: 700; font-size: clamp(1.6rem, 3vw, 2.4rem); letter-spacing: 0.03em; color: var(--navy); }
 .ctintro__title { margin-top: 0.5rem; font-family: var(--font-seasons); font-weight: 300; font-size: clamp(1.9rem, 3.4vw, 2.9rem); color: var(--navy); }
-.ctintro__copy { margin-top: clamp(2rem, 5vw, 3rem); max-width: 900px; font-family: var(--font-satoshi); font-weight: 300; font-size: 0.9rem; line-height: 1.75; color: #c9ccd3; }
+.ctintro__copy { margin-top: clamp(2rem, 5vw, 3rem); max-width: 900px; font-family: var(--font-satoshi); font-weight: 300; font-size: 0.9rem; line-height: 1.75; color: var(--gray-text); }
 hr { border: none; border-top: 1px solid rgba(19,77,128,.35); margin-top: 1.5rem; }
 
 /* ---------------- PROCESS ---------------- */
 
-.ctprocess { position: relative; background: #000; padding: clamp(3rem, 7vw, 5rem) clamp(1.25rem, 6vw, 5.5rem); display: grid; grid-template-columns: 60px 1fr; column-gap: clamp(1.5rem, 4vw, 3rem); }
+.ctprocess { position: relative; background: #fff; padding: clamp(3rem, 7vw, 5rem) clamp(1.25rem, 6vw, 5.5rem); display: grid; grid-template-columns: 60px 1fr; column-gap: clamp(1.5rem, 4vw, 3rem); }
 .ctprocess__vertical { grid-row: 1 / 3; width: clamp(9px, 0.8vw, 15px); height: auto; align-self: start; }
 .ctprocess__head { grid-column: 2; }
 .ctprocess__head h2 { font-family: var(--font-seasons); font-weight: 300; font-size: clamp(1.8rem, 3.4vw, 2.8rem); color: var(--navy); }
@@ -77,7 +77,7 @@ hr { border: none; border-top: 1px solid rgba(19,77,128,.35); margin-top: 1.5rem
 
 .ctprocess__steps { display: flex; flex-direction: column; gap: clamp(1.5rem, 3.5vw, 2.25rem); }
 .ctprocess__steps h4 { font-family: var(--font-seasons); font-weight: 400; font-size: clamp(1.05rem, 1.6vw, 1.3rem); color: var(--navy); }
-.ctprocess__steps p { margin-top: 0.5rem; font-family: var(--font-satoshi); font-weight: 300; font-size: 0.82rem; line-height: 1.65; color: #9199a8; }
+.ctprocess__steps p { margin-top: 0.5rem; font-family: var(--font-satoshi); font-weight: 300; font-size: 0.82rem; line-height: 1.65; color: var(--gray-text); }
 
 /* ---------------- GALLERY ---------------- */
 
@@ -85,11 +85,12 @@ hr { border: none; border-top: 1px solid rgba(19,77,128,.35); margin-top: 1.5rem
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 4px;
-  background: #000;
+  background: #fff;
   padding: 0 0 4px;
 }
 .ctgallery__item { position: relative; aspect-ratio: 4/3; overflow: hidden; }
-.ctgallery__item:nth-child(1), .ctgallery__item:nth-child(2) { grid-column: span 2; aspect-ratio: 16/10; }
+.ctgallery__item:nth-child(1), .ctgallery__item:nth-child(2),
+.ctgallery__item:nth-child(3), .ctgallery__item:nth-child(4) { grid-column: span 2; aspect-ratio: 16/10; }
 .ctgallery__item img { width: 100%; height: 100%; object-fit: cover; }
 .ctgallery__item figcaption {
   position: absolute; left: 1rem; bottom: 1rem; right: 1rem;
@@ -110,5 +111,6 @@ hr { border: none; border-top: 1px solid rgba(19,77,128,.35); margin-top: 1.5rem
   .ctprocess { grid-template-columns: 40px 1fr; }
   .ctprocess__body { grid-template-columns: 1fr; }
   .ctgallery { grid-template-columns: repeat(2, 1fr); }
-  .ctgallery__item:nth-child(1), .ctgallery__item:nth-child(2) { grid-column: span 2; }
+  .ctgallery__item:nth-child(1), .ctgallery__item:nth-child(2),
+  .ctgallery__item:nth-child(3), .ctgallery__item:nth-child(4) { grid-column: span 2; }
 }
