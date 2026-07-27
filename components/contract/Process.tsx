@@ -38,16 +38,18 @@ export default function Process() {
       </div>
 
       <div className="ctprocess__body">
-        <h3 className="ctprocess__rhr">
-          Residential,
-          <br />
-          Hospitality,
-          <br />
-          Retail
-          <br />
-          and Beyond
-        </h3>
-        <img className="ctprocess__cube" src="/images/icons/contract/icono8.png" alt="" aria-hidden="true" />
+        <div className="ctprocess__left">
+          <h3 className="ctprocess__rhr">
+            Residential,
+            <br />
+            Hospitality,
+            <br />
+            Retail
+            <br />
+            and Beyond
+          </h3>
+          <img className="ctprocess__cube" src="/images/icons/contract/icono8.png" alt="" aria-hidden="true" />
+        </div>
 
         <ol className="ctprocess__steps">
           {STEPS.map((s) => (
