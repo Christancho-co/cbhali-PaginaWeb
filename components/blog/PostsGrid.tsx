@@ -1,31 +1,31 @@
 const POSTS = [
   {
-    n: '0002',
-    date: 'Tue 3 Jun.',
-    kicker: 'CB Hali',
-    title: 'Care & Cleaning',
-    image: '/images/blog/card-swatches.webp',
-  },
-  {
-    n: '0001',
-    date: 'Mon 5 May.',
-    kicker: 'Introducing',
-    title: 'Manchaha',
-    image: '/images/blog/card-pool.webp',
-  },
-  {
     n: '0004',
     date: 'Tue 9 Dec.',
     kicker: 'CB Hali',
     title: '2025 Recap',
-    image: '/images/blog/card-swatches.webp',
+    image: '/images/blog/card-recap.webp',
   },
   {
     n: '0003',
     date: 'Tue 9 Dec.',
     kicker: 'Introducing',
     title: 'Sizes 4 spaces',
-    image: '/images/blog/card-pool.webp',
+    image: '/images/blog/card-sizes.webp',
+  },
+  {
+    n: '0002',
+    date: 'Tue 3 Jun.',
+    kicker: 'CB Hali',
+    title: 'Care & Cleaning',
+    image: '/images/blog/card-cleaning.webp',
+  },
+  {
+    n: '0001',
+    date: 'Mon 5 May.',
+    kicker: 'Introducing',
+    title: 'Manchaha',
+    image: '/images/blog/card-manchaha.webp',
   },
 ];
 
