@@ -18,7 +18,7 @@
 
 /* ---------------- HERO ---------------- */
 
-.cnhero { position: relative; width: 100%; height: calc(var(--u) * 950); overflow: hidden; background: #000; }
+.cnhero { position: relative; width: 100%; height: calc(var(--u) * 1283.4); overflow: hidden; background: #000; }
 .cnhero__img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .cnhero__shade { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,.5), rgba(0,0,0,.05) 40%, rgba(0,0,0,.4)); }
 
@@ -31,12 +31,12 @@
 .cnhero__search svg { width: 100%; height: 100%; }
 
 .cnhero__title {
-  position: absolute; left: 0; top: calc(var(--u) * 490); width: 100%; text-align: center;
+  position: absolute; left: 0; top: calc(var(--u) * 662); width: 100%; text-align: center;
   font-family: var(--font-seasons); font-weight: 300; font-size: calc(var(--u) * 123.78); color: #fff;
 }
-.cnhero__globe { position: absolute; right: calc(var(--u) * 260); top: calc(var(--u) * 400); width: calc(var(--u) * 100); height: auto; }
-.cnhero__map { position: absolute; left: 50%; top: calc(var(--u) * 180); transform: translateX(-50%); width: calc(var(--u) * 230); height: auto; }
-.cnhero__pin { position: absolute; left: 50%; top: calc(var(--u) * 660); transform: translateX(-50%); width: calc(var(--u) * 32); }
+.cnhero__globe { position: absolute; right: calc(var(--u) * 260); top: calc(var(--u) * 540); width: calc(var(--u) * 100); height: auto; }
+.cnhero__map { position: absolute; left: 50%; top: calc(var(--u) * 243); transform: translateX(-50%); width: calc(var(--u) * 230); height: auto; }
+.cnhero__pin { position: absolute; left: 50%; top: calc(var(--u) * 892); transform: translateX(-50%); width: calc(var(--u) * 32); }
 .cnhero__pin svg { width: 100%; height: auto; }
 
 /* ---------------- CONTACT FORM ---------------- */

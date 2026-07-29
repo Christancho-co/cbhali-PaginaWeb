@@ -13,7 +13,7 @@
 
 /* ---------------- HERO ---------------- */
 
-.cthero { position: relative; width: 100%; height: calc(var(--u) * 1080); overflow: hidden; background: #000; }
+.cthero { position: relative; width: 100%; height: calc(var(--u) * 1283.4); overflow: hidden; background: #000; }
 .cthero__img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .cthero__shade { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,.55), rgba(0,0,0,.05) 40%, rgba(0,0,0,.15) 65%, rgba(0,0,0,.5)); }
 
@@ -26,13 +26,13 @@
 .cthero__search svg { width: 100%; height: 100%; }
 
 .cthero__title {
-  position: absolute; left: calc(var(--u) * 420); top: calc(var(--u) * 570);
+  position: absolute; left: calc(var(--u) * 420); top: calc(var(--u) * 677);
   font-family: var(--font-seasons); font-weight: 300; font-size: calc(var(--u) * 143.72);
   letter-spacing: 0.03em; color: #fff;
 }
-.cthero__doc { position: absolute; left: calc(var(--u) * 1210); top: calc(var(--u) * 560); width: calc(var(--u) * 130); height: auto; }
+.cthero__doc { position: absolute; left: calc(var(--u) * 1210); top: calc(var(--u) * 665); width: calc(var(--u) * 130); height: auto; }
 .cthero__tag {
-  position: absolute; left: calc(var(--u) * 980); top: calc(var(--u) * 740);
+  position: absolute; left: calc(var(--u) * 980); top: calc(var(--u) * 879);
   font-family: var(--font-seasons); font-style: italic; font-weight: 300; font-size: calc(var(--u) * 60);
   color: #fff;
 }

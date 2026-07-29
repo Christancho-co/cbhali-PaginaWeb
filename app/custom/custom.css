@@ -15,7 +15,7 @@
 /* ---------------- HERO ---------------- */
 
 .cshero {
-  position: relative; width: 100%; height: calc(var(--u) * 1239); overflow: hidden; background: #000;
+  position: relative; width: 100%; height: calc(var(--u) * 1283.4); overflow: hidden; background: #000;
 }
 .cshero__img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 30%; }
 .cshero__shade { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,.55), rgba(0,0,0,0) 35%, rgba(0,0,0,.1) 60%, rgba(0,0,0,.5)); }

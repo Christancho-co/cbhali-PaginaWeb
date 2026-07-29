@@ -24,7 +24,7 @@
 
 /* ---------------- HERO ---------------- */
 
-.hero { position: absolute; top: 0; left: 0; width: 100%; height: calc(var(--u) * 1284); overflow: hidden; }
+.hero { position: absolute; top: 0; left: 0; width: 100%; height: calc(var(--u) * 1283.4); overflow: hidden; }
 
 .hero__img {
   position: absolute;
