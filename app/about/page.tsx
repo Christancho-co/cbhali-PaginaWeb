@@ -10,10 +10,12 @@ export default function AboutPage() {
   return (
     <main className="abpage">
       <Hero />
-      <StoryBand />
-      <Story />
-      <Values />
-      <Team />
+      <div className="page-scale">
+        <StoryBand />
+        <Story />
+        <Values />
+        <Team />
+      </div>
       <SiteFooter bgImage="/images/about/footer-bg.webp" />
     </main>
   );

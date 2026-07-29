@@ -71,6 +71,8 @@
 .abteam hr { margin-top: clamp(2rem, 5vw, 3rem); border: none; border-top: 1px solid rgba(0,0,0,.15); }
 
 @media (max-width: 820px) {
+  .abpage { --u: calc(100vw / 1125); }
+
   .abstoryband__photos { grid-template-columns: repeat(3, 1fr); }
   .abteam__grid { grid-template-columns: repeat(3, 1fr); }
 }

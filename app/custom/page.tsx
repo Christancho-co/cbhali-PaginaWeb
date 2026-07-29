@@ -12,12 +12,14 @@ export default function CustomPage() {
   return (
     <main className="cspage">
       <Hero />
-      <Intro />
-      <Choose />
-      <Journey />
-      <Author />
-      <Believe />
-      <SketchBand />
+      <div className="page-scale">
+        <Intro />
+        <Choose />
+        <Journey />
+        <Author />
+        <Believe />
+        <SketchBand />
+      </div>
       <SiteFooter bgImage="/images/custom/footer-bg.webp" />
     </main>
   );

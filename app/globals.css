@@ -119,3 +119,19 @@ button {
   border: none;
   cursor: pointer;
 }
+
+/* Envuelve el contenido "de flujo" (todo menos el hero, que ya usa su
+   propio --u, y el footer, que ya trae el suyo) de las 6 páginas
+   internas para que escale como un solo bloque junto con el ancho de
+   ventana -- igual que el Home, que está construido enteramente con
+   --u. Sin esto, ese contenido usa clamp()/rem con techo fijo y deja
+   de encogerse o crecer una vez alcanza ese límite, mientras el resto
+   de la página sigue escalando -- lo que se percibía como "solo el
+   texto cambia de tamaño". Solo aplica en escritorio: en móvil cada
+   página ya tiene su propio ajuste responsive y un zoom tan chico
+   rompería el layout. */
+@media (min-width: 821px) {
+  /* Ojo: dividir por 1920 (numero) da un <length>, invalido para zoom;
+     dividir por 1920px (longitud) da un <number> valido. */
+  .page-scale { zoom: calc(100vw / 1920px); }
+}

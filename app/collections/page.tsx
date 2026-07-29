@@ -9,6 +9,7 @@ export default function CollectionsPage() {
   return (
     <main className="cpage">
       <Hero />
+      <div className="page-scale">
       <Intro />
 
       <Quote>
@@ -132,6 +133,7 @@ export default function CollectionsPage() {
         space. Hand-tufted in 100% wool, it features bouclé details that add dimension and tactile
         richness, creating a natural, warm, and refined feel.
       </CollectionRow>
+      </div>
 
       <SiteFooter bgImage="/images/collections/footer-bg.webp" />
     </main>

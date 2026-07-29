@@ -109,6 +109,12 @@ hr { border: none; border-top: 1px solid rgba(19,77,128,.35); margin-top: 1.5rem
 }
 
 @media (max-width: 900px) {
+  .ctpage { --u: calc(100vw / 1125); }
+
+  .cthero__title { left: calc(var(--u) * 60); top: calc(var(--u) * 600); font-size: calc(var(--u) * 100); }
+  .cthero__doc { left: calc(var(--u) * 60); top: calc(var(--u) * 760); width: calc(var(--u) * 90); }
+  .cthero__tag { left: calc(var(--u) * 60); top: calc(var(--u) * 870); font-size: calc(var(--u) * 42); }
+
   .ctprocess { grid-template-columns: 40px 1fr; }
   .ctprocess__body { grid-template-columns: 1fr; }
   .ctgallery { grid-template-columns: repeat(2, 1fr); }

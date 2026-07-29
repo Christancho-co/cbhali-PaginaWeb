@@ -8,8 +8,10 @@ export default function ContactPage() {
   return (
     <main className="cnpage">
       <Hero />
-      <ContactForm />
-      <Dealers />
+      <div className="page-scale">
+        <ContactForm />
+        <Dealers />
+      </div>
       <SiteFooter bgImage="/images/contact/footer-bg.webp" />
     </main>
   );

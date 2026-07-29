@@ -12,6 +12,8 @@
 
 .only-m { display: none; }
 @media (max-width: 720px) {
+  .cnpage { --u: calc(100vw / 1125); }
+
   .only-d { display: none; }
   .only-m { display: block; }
 }

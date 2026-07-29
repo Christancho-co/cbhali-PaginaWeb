@@ -12,12 +12,14 @@ export default function ContractPage() {
   return (
     <main className="ctpage">
       <Hero />
-      <QuoteBand />
-      <WhatsappSlide />
-      <Intro />
-      <Process />
-      <Gallery />
-      <Tagline />
+      <div className="page-scale">
+        <QuoteBand />
+        <WhatsappSlide />
+        <Intro />
+        <Process />
+        <Gallery />
+        <Tagline />
+      </div>
       <SiteFooter bgImage="/images/contract/footer-bg.webp" />
     </main>
   );

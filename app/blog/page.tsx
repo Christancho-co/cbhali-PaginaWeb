@@ -8,8 +8,10 @@ export default function BlogPage() {
   return (
     <main className="blpage">
       <Hero />
-      <PostsGrid />
-      <NewsletterContact />
+      <div className="page-scale">
+        <PostsGrid />
+        <NewsletterContact />
+      </div>
       <SiteFooter bgImage="/images/blog/footer-bg.webp" />
     </main>
   );
