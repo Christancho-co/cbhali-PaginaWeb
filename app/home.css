@@ -235,13 +235,12 @@
 /* ---------------- CATALOG ---------------- */
 
 .catalog__img {
-  /* Prueba: ~20% menos alta, igual que Showcase. */
   position: absolute;
   left: 50%;
   top: calc(var(--u) * 4290);
   width: 100vw;
   max-width: none;
-  height: calc(var(--u) * 1094.4);
+  height: calc(var(--u) * 1368);
   transform: translateX(-50%);
   object-fit: cover;
 }
@@ -256,42 +255,40 @@
   background: linear-gradient(180deg, var(--cream), rgba(248, 245, 244, 0));
 }
 
-/* Prueba: boton + frame + badge escalados ~20% mas chicos juntos,
-   alrededor del centro del propio grupo (misma tecnica que Product). */
 .catalog__btn {
   position: absolute;
-  left: calc(var(--u) * 1140);
-  top: calc(var(--u) * 5243.4);
-  width: calc(var(--u) * 294.4);
-  height: calc(var(--u) * 48);
+  left: calc(var(--u) * 1177);
+  top: calc(var(--u) * 5161.5);
+  width: calc(var(--u) * 368);
+  height: calc(var(--u) * 60);
   background: #fff;
-  border-radius: calc(var(--u) * 24);
+  border-radius: calc(var(--u) * 30);
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: calc(var(--u) * 11.2);
+  gap: calc(var(--u) * 14);
   font-family: var(--font-satoshi);
   font-weight: 500;
-  font-size: calc(var(--u) * 21.184);
+  font-size: calc(var(--u) * 26.48);
   letter-spacing: 0.05em;
   color: var(--teal);
 }
-.catalog__btn svg { width: calc(var(--u) * 26.4); height: calc(var(--u) * 26.4); }
+.catalog__btn svg { width: calc(var(--u) * 33); height: calc(var(--u) * 33); }
 
 .catalog__frame {
   position: absolute;
-  left: calc(var(--u) * 372);
-  top: calc(var(--u) * 5330.6);
-  width: calc(var(--u) * 428);
-  height: calc(var(--u) * 568);
+  left: calc(var(--u) * 217);
+  top: calc(var(--u) * 5270.5);
+  width: calc(var(--u) * 535);
+  height: calc(var(--u) * 710);
   z-index: 2;
 }
 .catalog__badge {
   position: absolute;
-  left: calc(var(--u) * 1544);
-  top: calc(var(--u) * 5430.6);
-  width: calc(var(--u) * 68);
-  height: calc(var(--u) * 108);
+  left: calc(var(--u) * 1682);
+  top: calc(var(--u) * 5395.5);
+  width: calc(var(--u) * 85);
+  height: calc(var(--u) * 135);
   z-index: 2;
 }
 
