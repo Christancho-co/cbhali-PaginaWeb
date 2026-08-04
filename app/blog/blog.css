@@ -148,7 +148,7 @@
   .blhero__logo-img { height: calc(var(--u) * 72); }
   .blhero__search { top: calc(var(--u) * 57); width: calc(var(--u) * 44); height: calc(var(--u) * 44); }
 
-  .blposts__head { flex-wrap: wrap; justify-content: space-between; row-gap: 0.5rem; column-gap: 2rem; }
+  .blposts__head { flex-wrap: wrap; justify-content: center; row-gap: 0.5rem; column-gap: 2rem; }
   .blposts__title { order: -1; flex-basis: 100%; text-align: center; }
   .blposts__grid { grid-template-columns: 1fr; }
   .blnews__contact { position: static; margin: 0 auto 2rem; }
