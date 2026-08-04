@@ -207,29 +207,26 @@
 
 /* ---------------- PRODUCT ---------------- */
 
-/* Prueba: todo el grupo (casa + rollos + frame) escalado ~20% mas
-   chico junto, alrededor del centro del propio grupo, para que
-   conserven exactamente la misma posicion relativa entre si. */
 .product__house {
   position: absolute;
-  left: calc(var(--u) * 940.12);
-  top: calc(var(--u) * 3185.84);
-  width: calc(var(--u) * 76);
-  height: calc(var(--u) * 92);
+  left: calc(var(--u) * 912);
+  top: calc(var(--u) * 3055.5);
+  width: calc(var(--u) * 95);
+  height: calc(var(--u) * 115);
 }
 .product__rolls {
   position: absolute;
-  left: calc(var(--u) * 544.12);
-  top: calc(var(--u) * 2997.44);
-  width: calc(var(--u) * 869.6);
-  height: calc(var(--u) * 1176.8);
+  left: calc(var(--u) * 417);
+  top: calc(var(--u) * 2820);
+  width: calc(var(--u) * 1087);
+  height: calc(var(--u) * 1471);
 }
 .product__frame {
   position: absolute;
-  left: calc(var(--u) * 1257.88);
-  top: calc(var(--u) * 3946.56);
-  width: calc(var(--u) * 303.2);
-  height: calc(var(--u) * 470.4);
+  left: calc(var(--u) * 1309.2);
+  top: calc(var(--u) * 4006.4);
+  width: calc(var(--u) * 379);
+  height: calc(var(--u) * 588);
 }
 
 /* ---------------- CATALOG ---------------- */
@@ -471,20 +468,19 @@
 /* ---------------- SHOWCASE ---------------- */
 
 .show__img {
-  /* Prueba: ~20% menos alta (misma anchura full-bleed). */
   position: absolute;
   left: 50%;
   top: calc(var(--u) * 8953);
   width: 100vw;
   max-width: none;
-  height: calc(var(--u) * 2424);
+  height: calc(var(--u) * 3030);
   transform: translateX(-50%);
   object-fit: cover;
 }
 .show__signature {
   position: absolute;
   left: calc(var(--u) * 340);
-  top: calc(var(--u) * 10909);
+  top: calc(var(--u) * 11395);
   font-family: var(--font-signature);
   font-size: calc(var(--u) * 121.95);
   line-height: 1;
