@@ -1,7 +1,7 @@
 export default function NewsletterContact() {
   return (
     <section className="blnews">
-      <span className="blnews__mark" aria-hidden="true">CB</span>
+      <img className="blnews__mark" src="/svg/logo-mark-black.svg" alt="" aria-hidden="true" />
 
       <form className="blnews__form" action="#" method="post">
         <h3>Subscribe to our Newsletter</h3>
