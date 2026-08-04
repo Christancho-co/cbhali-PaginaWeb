@@ -76,7 +76,7 @@
 .csjourney__head h2 { font-family: var(--font-seasons); font-weight: 700; font-size: clamp(1.5rem, 2.6vw, 2.1rem); letter-spacing: 0.06em; color: var(--sage); }
 .csjourney__head p { margin-top: 0.6rem; font-family: var(--font-seasons); font-style: italic; font-size: clamp(1rem, 1.6vw, 1.3rem); color: var(--sage); }
 
-.csjourney__steps { margin-top: clamp(2.5rem, 6vw, 4rem); display: flex; flex-direction: column; gap: clamp(1.75rem, 4vw, 2.75rem); max-width: 900px; }
+.csjourney__steps { list-style: none; margin-top: clamp(2.5rem, 6vw, 4rem); display: flex; flex-direction: column; gap: clamp(1.75rem, 4vw, 2.75rem); max-width: 900px; }
 .csjourney__steps h3 { font-family: var(--font-seasons); font-weight: 400; font-size: clamp(1rem, 1.4vw, 1.2rem); letter-spacing: 0.08em; color: var(--terracotta); }
 .csjourney__steps p { margin-top: 0.6rem; font-family: var(--font-satoshi); font-weight: 300; font-size: 0.8rem; letter-spacing: 0.03em; line-height: 1.7; color: var(--gray-text); text-transform: uppercase; }
 

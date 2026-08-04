@@ -66,7 +66,7 @@
 .abvalues__title { display: flex; align-items: flex-start; gap: 1rem; font-family: var(--font-seasons); font-weight: 300; font-size: clamp(2.2rem, 4.5vw, 3.6rem); line-height: 1.1; color: #b3b3b3; }
 .abvalues__mark { width: 1.6em; height: auto; flex: none; margin-top: 0.1em; }
 
-.abvalues__list { margin-top: clamp(2rem, 5vw, 3rem); display: flex; flex-direction: column; gap: 1.5rem; max-width: 1100px; }
+.abvalues__list { list-style: none; margin-top: clamp(2rem, 5vw, 3rem); display: flex; flex-direction: column; gap: 1.5rem; max-width: 1100px; }
 .abvalues__list p { font-family: var(--font-satoshi); font-weight: 400; font-size: 0.85rem; letter-spacing: 0.01em; line-height: 1.8; text-transform: uppercase; color: #4a4a48; }
 
 /* ---------------- TEAM ---------------- */
