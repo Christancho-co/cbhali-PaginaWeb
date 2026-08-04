@@ -1,8 +1,10 @@
 export default function ContactForm() {
   return (
     <section className="cnform">
-      <img className="cnform__bg" src="/images/contact/form-bg.webp" alt="Papaya and grapefruit on a wooden table" />
-      <img className="cnform__badge" src="/svg/badge-oval.svg" alt="" aria-hidden="true" />
+      <div className="cnform__frame">
+        <img className="cnform__bg" src="/images/contact/form-bg.webp" alt="Papaya and grapefruit on a wooden table" />
+        <img className="cnform__badge" src="/svg/logo-mark.svg" alt="" aria-hidden="true" />
+      </div>
       <form className="cnform__card" action="#" method="post">
         <h2>Get in touch</h2>
         <input type="text" name="name" placeholder="Full Name" />

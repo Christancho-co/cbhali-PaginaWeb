@@ -8,6 +8,7 @@ import DetailIcon from '@/components/product/DetailIcon';
 import ScrollRow from '@/components/product/ScrollRow';
 import ExploreMore from '@/components/product/ExploreMore';
 import SiteFooter from '@/components/shared/SiteFooter';
+import MenuButton from '@/components/shared/MenuButton';
 
 export function generateStaticParams() {
   return COLLECTIONS.flatMap((c) => c.skus.map((s) => ({ slug: c.slug, code: s.code })));
@@ -23,6 +24,22 @@ export default function ProductPage({ params }: { params: { slug: string; code: 
 
   return (
     <main className="ppage">
+      <div className="pnav">
+        <div className="pnav__navband" />
+        <MenuButton className="pnav__menu" />
+
+        <a className="pnav__logo" href="/" aria-label="CB Hali home">
+          <img src="/images/brand/logo-banner.png" alt="CB HaLi" />
+        </a>
+
+        <button className="pnav__search" aria-label="Search">
+          <svg viewBox="0 0 44 44" fill="none" stroke="currentColor" strokeWidth="4" strokeLinecap="round">
+            <circle cx="20" cy="19.5" r="12" />
+            <line x1="28.8" y1="28.5" x2="38" y2="38" />
+          </svg>
+        </button>
+      </div>
+
       <nav className="pbreadcrumb">
         <Link href="/collections">Collections</Link> / <span>{collection.name}</span>
       </nav>

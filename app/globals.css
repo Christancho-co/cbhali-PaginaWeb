@@ -78,9 +78,30 @@
   --sand: #e3d0bc;
   --white: #ffffff;
 
-  /* Unidad de escala: el diseño de escritorio es una composición de 1920px */
-  --u: calc(100vw / 1920);
+  /* Unidad de escala: el diseño de escritorio es una composición de 1920px.
+     Antes era "calc(100vw / 1920)" (fluida): se re-ajustaba sola al
+     redimensionar la ventana, pero por eso mismo el zoom del navegador no
+     tenía ningún efecto visual (vw/vh son relativos a la ventana "lógica",
+     que el zoom recalcula exactamente igual que un resize - no hay forma de
+     distinguir ambos casos en CSS). Ahora son escalones fijos en px por
+     breakpoint, como un sitio tradicional (p.ej. ignant.com): el zoom del
+     navegador sí encoge/agranda todo, y el layout salta entre tamaños fijos
+     al cambiar de ancho de ventana en vez de fluir continuamente. */
+  /* Divisor 2400 en vez de 1920: reduce toda la escala ~20% (2026-07-31,
+     a pedido del usuario - el diseño a escala 1:1 se sentia muy grande
+     comparado con sitios editoriales como ignant.com). */
+  /* Escalones alineados a los breakpoints de Tailwind CSS (sm/md/lg/xl/2xl:
+     640/768/1024/1280/1536), más un escalón extra en 1920px porque es la
+     resolución de escritorio real más común del mundo y quedaba fuera del
+     rango de Tailwind (2026-07-31, a pedido del usuario). */
+  --u: calc(640 / 2400 * 1px);
+  --scale: calc(640 / 2400);
 }
+@media (min-width: 768px)  { :root { --u: calc(768 / 2400 * 1px);  --scale: calc(768 / 2400); } }
+@media (min-width: 1024px) { :root { --u: calc(1024 / 2400 * 1px); --scale: calc(1024 / 2400); } }
+@media (min-width: 1280px) { :root { --u: calc(1280 / 2400 * 1px); --scale: calc(1280 / 2400); } }
+@media (min-width: 1536px) { :root { --u: calc(1536 / 2400 * 1px); --scale: calc(1536 / 2400); } }
+@media (min-width: 1920px) { :root { --u: calc(1920 / 2400 * 1px); --scale: calc(1920 / 2400); } }
 
 /* ---------- Reset mínimo ---------- */
 *,
@@ -131,7 +152,13 @@ button {
    página ya tiene su propio ajuste responsive y un zoom tan chico
    rompería el layout. */
 @media (min-width: 821px) {
-  /* Ojo: dividir por 1920 (numero) da un <length>, invalido para zoom;
-     dividir por 1920px (longitud) da un <number> valido. */
-  .page-scale { zoom: calc(100vw / 1920px); }
+  .page-scale { zoom: var(--scale); }
 }
+
+/* Por encima de 1920px de ancho real, --scale se queda fijo en 1 (no hay
+   escalón más grande definido), así que el contenido de las 6 páginas
+   internas (que no usa --u, sino clamp()/rem con techos fijos) se quedaba
+   pegado al borde izquierdo con un hueco enorme a la derecha en pantallas
+   muy anchas, en vez de quedar centrado. Limitarlo a 1920px y centrarlo
+   resuelve eso sin afectar nada por debajo de ese ancho. */
+.page-scale { max-width: 1920px; margin: 0 auto; }

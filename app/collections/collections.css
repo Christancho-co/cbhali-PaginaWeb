@@ -5,7 +5,6 @@
    ============================================================ */
 
 .cpage {
-  --u: calc(100vw / 1920);
   --quote-brown: #8e4300;
   width: 100%;
   overflow: hidden;
@@ -17,9 +16,16 @@
 .chero {
   position: relative;
   width: 100%;
-  height: calc(var(--u) * 1283.4);
+  height: min(calc(var(--u) * 1283.4), 100vh);
   overflow: hidden;
   background: #000;
+  --hero-scale: calc(min(calc(var(--u) * 1283.4), 100vh) / calc(var(--u) * 1283.4));
+}
+.chero__navband { display: none; }
+.chero__content {
+  position: absolute; top: 0; left: 50%; width: calc(var(--u) * 1920); height: calc(var(--u) * 1283.4);
+  transform: translateX(-50%) scale(var(--hero-scale));
+  transform-origin: top center;
 }
 .chero__img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .chero__shade {
@@ -37,7 +43,7 @@
 .chero__logo { position: absolute; left: 0; top: calc(var(--u) * 30); width: 100%; text-align: center; pointer-events: none; }
 .chero__logo-img { display: inline-block; height: calc(var(--u) * 55); width: auto; pointer-events: auto; vertical-align: middle; }
 
-.chero__search { position: absolute; right: calc(var(--u) * 40); top: calc(var(--u) * 40); width: calc(var(--u) * 30); height: calc(var(--u) * 30); }
+.chero__search { position: absolute; right: calc(var(--u) * 40); top: calc(var(--u) * 51); width: calc(var(--u) * 30); height: calc(var(--u) * 30); }
 .chero__search svg { width: 100%; height: 100%; }
 
 .chero__title {
@@ -57,6 +63,8 @@
   letter-spacing: 0.14em; line-height: 1.7; color: #fff;
 }
 .chero__tags strong { font-weight: 700; }
+.chero__tags a { text-underline-offset: 0.2em; transition: opacity 0.2s ease; }
+.chero__tags a:hover { text-decoration: underline; opacity: 0.75; }
 
 .chero__icons {
   position: absolute; right: calc(var(--u) * 120); top: calc(var(--u) * 672);
@@ -69,8 +77,8 @@
   position: absolute; right: calc(var(--u) * 55); top: calc(var(--u) * 690);
   display: flex; flex-direction: column; gap: calc(var(--u) * 8);
 }
-.chero__dots span { width: calc(var(--u) * 18); height: calc(var(--u) * 18); border-radius: 50%; border: 1.5px solid #fff; }
-.chero__dots span.is-active { background: #e3d0bc; }
+.chero__dots span { width: calc(var(--u) * 18); height: calc(var(--u) * 18); border-radius: 50%; border: 1.5px solid #fff; transition: background-color 0.5s ease, transform 0.5s ease; }
+.chero__dots span.is-active { background: #e3d0bc; transform: scale(1.2); }
 
 /* ---------------- INTRO ---------------- */
 
@@ -184,9 +192,37 @@
 }
 
 @media (max-width: 820px) {
-  .cpage { --u: calc(100vw / 1125); }
+  .cpage { --u: calc(820 / 1406.25 * 1px); }
+}
+/* Escalones de telefono granulares (ver home.css para la explicacion
+   completa): evita el letterboxing en telefonos anchos (Pro Max, Plus,
+   Android grandes) usando el ancho mas chico de cada rango. */
+@media (max-width: 375px) {
+  .cpage { --u: calc(360 / 1406.25 * 1px); }
+}
+@media (min-width: 376px) and (max-width: 390px) {
+  .cpage { --u: calc(375 / 1406.25 * 1px); }
+}
+@media (min-width: 391px) and (max-width: 412px) {
+  .cpage { --u: calc(390 / 1406.25 * 1px); }
+}
+@media (min-width: 413px) and (max-width: 428px) {
+  .cpage { --u: calc(412 / 1406.25 * 1px); }
+}
+@media (min-width: 429px) and (max-width: 480px) {
+  .cpage { --u: calc(428 / 1406.25 * 1px); }
+}
+@media (max-width: 820px) {
 
-  .chero__tags { font-size: calc(var(--u) * 34); letter-spacing: 0.08em; }
+  .chero { height: calc(var(--u) * 1707); --hero-scale: 1; }
+  .chero__content { width: calc(var(--u) * 1125); height: calc(var(--u) * 1707); }
+  .chero__navband { display: block; position: absolute; left: 0; top: 0; width: 100%; height: calc(var(--u) * 155); background: #000; }
+  .chero__menu { top: calc(var(--u) * 66); width: calc(var(--u) * 53); height: calc(var(--u) * 26); }
+  .chero__menu span { height: calc(var(--u) * 4); }
+  .chero__logo-img { height: calc(var(--u) * 72); }
+  .chero__search { top: calc(var(--u) * 57); width: calc(var(--u) * 44); height: calc(var(--u) * 44); }
+
+  .chero__tags { width: calc(var(--u) * 935); font-size: calc(var(--u) * 34); letter-spacing: 0.08em; }
   .chero__icons { display: none; }
   .chero__dots { display: none; }
 

@@ -4,7 +4,6 @@
    escalen exactamente igual sin importar qué página lo use. */
 
 .sfoot {
-  --u: calc(100vw / 1920);
   position: relative;
   width: 100%;
   background: #fff;
@@ -92,7 +91,27 @@
 .sfoot__credit strong { font-weight: 700; }
 
 @media (max-width: 720px) {
-  .sfoot { --u: calc(100vw / 1125); }
+  .sfoot { --u: calc(720 / 1406.25 * 1px); }
+}
+/* Escalones de telefono granulares (ver home.css para la explicacion
+   completa): evita el letterboxing en telefonos anchos (Pro Max, Plus,
+   Android grandes) usando el ancho mas chico de cada rango. */
+@media (max-width: 375px) {
+  .sfoot { --u: calc(360 / 1406.25 * 1px); }
+}
+@media (min-width: 376px) and (max-width: 390px) {
+  .sfoot { --u: calc(375 / 1406.25 * 1px); }
+}
+@media (min-width: 391px) and (max-width: 412px) {
+  .sfoot { --u: calc(390 / 1406.25 * 1px); }
+}
+@media (min-width: 413px) and (max-width: 428px) {
+  .sfoot { --u: calc(412 / 1406.25 * 1px); }
+}
+@media (min-width: 429px) and (max-width: 480px) {
+  .sfoot { --u: calc(428 / 1406.25 * 1px); }
+}
+@media (max-width: 720px) {
 
   .sfoot__imgwrap, .sfoot__lockup { display: none; }
   .sfoot__nav--a, .sfoot__nav--b, .sfoot__social { display: none; }

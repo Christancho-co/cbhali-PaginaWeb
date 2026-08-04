@@ -30,15 +30,7 @@ export default function SiteMenuDrawer() {
           <span />
         </button>
 
-        <svg className="smenu__waves" viewBox="0 0 40 22" aria-hidden="true">
-          <path
-            d="M0 4c3.5-3 7-3 10.5 0s7 3 10.5 0 7-3 10.5 0M0 11c3.5-3 7-3 10.5 0s7 3 10.5 0 7-3 10.5 0M0 18c3.5-3 7-3 10.5 0s7 3 10.5 0 7-3 10.5 0"
-            fill="none"
-            stroke="#c0833e"
-            strokeWidth="1.8"
-          />
-          <rect x="38" y="0" width="2" height="22" fill="#c0833e" />
-        </svg>
+        <img className="smenu__waves" src="/images/brand/menu-waves.png" alt="" aria-hidden="true" />
 
         <img className="smenu__mark" src="/svg/logo-mark-black.svg" alt="" />
 

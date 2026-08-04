@@ -14,13 +14,15 @@ export default function HomePage() {
     <>
       <main className="page">
         <Hero />
-        <Manifesto />
-        <Product />
-        <Catalog />
-        <Statement />
-        <Studio />
-        <Instagram />
-        <Showcase />
+        <div className="page__body">
+          <Manifesto />
+          <Product />
+          <Catalog />
+          <Statement />
+          <Studio />
+          <Instagram />
+          <Showcase />
+        </div>
       </main>
       <SiteFooter bgImage="/images/home/footer-rug.webp" />
     </>

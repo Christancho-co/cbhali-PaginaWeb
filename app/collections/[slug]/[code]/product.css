@@ -12,6 +12,35 @@
   background: #fff;
 }
 
+.pnav {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: clamp(1.25rem, 3vw, 2rem);
+}
+.pnav__navband { display: none; }
+.pnav__menu {
+  position: relative;
+  z-index: 1;
+  width: clamp(22px, 1.9vw, 28px);
+  height: clamp(13px, 1.1vw, 16px);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.pnav__menu span { display: block; width: 100%; height: 2px; background: #1d1d1b; border-radius: 2px; }
+
+.pnav__logo { position: relative; z-index: 1; display: block; }
+/* El logo oficial es blanco (pensado para ir sobre fotos oscuras); en
+   esta pagina el nav va sobre fondo blanco, asi que se invierte a
+   negro. En movil el navband negro lo vuelve a mostrar en blanco
+   (ver media query abajo). */
+.pnav__logo img { display: block; height: clamp(26px, 2.55vw, 38px); width: auto; filter: brightness(0); }
+
+.pnav__search { position: relative; z-index: 1; width: clamp(18px, 1.55vw, 23px); height: clamp(18px, 1.55vw, 23px); color: #1d1d1b; }
+.pnav__search svg { width: 100%; height: 100%; }
+
 .pbreadcrumb {
   font-family: var(--font-satoshi);
   font-size: 0.85rem;
@@ -24,6 +53,7 @@
 .ptop {
   display: grid;
   grid-template-columns: 1.1fr 1fr;
+  align-items: start;
   gap: clamp(2rem, 5vw, 4rem);
 }
 .ptop > * { min-width: 0; }
@@ -55,39 +85,41 @@
 .pinfo__title {
   font-family: var(--font-satoshi);
   font-weight: 800;
-  font-size: clamp(1.8rem, 3.5vw, 2.6rem);
+  font-size: clamp(2.1rem, 4vw, 3.1rem);
   color: var(--ink);
 }
 .pinfo__title span { font-weight: 800; }
-.pinfo__code { margin-top: 0.35rem; font-family: var(--font-satoshi); font-size: 0.8rem; font-style: italic; color: var(--gray-soft); }
+.pinfo__code { margin-top: 0.5rem; font-family: var(--font-satoshi); font-size: 0.95rem; font-style: italic; color: var(--gray-soft); }
 
 .pinfo__label {
-  margin-top: 2rem;
+  margin-top: 2.75rem;
   font-family: var(--font-satoshi);
   font-weight: 700;
-  font-size: 1.15rem;
+  font-size: 1.35rem;
   color: var(--ink);
 }
 
-.pcolors { margin-top: 1rem; }
-.pcolors__item { flex: none; width: 90px; text-align: center; }
-.pcolors__item img { width: 90px; height: 90px; object-fit: cover; border-radius: 50%; margin-bottom: 0.4rem; }
-.pcolors__item span { font-family: var(--font-satoshi); font-size: 0.7rem; color: var(--gray-soft); line-height: 1.3; }
+.pcolors { margin-top: 1.5rem; }
+.pcolors__item { flex: none; width: 140px; text-align: center; }
+.pcolors__item img { width: 140px; height: 175px; object-fit: cover; border-radius: 6px; margin-bottom: 0.6rem; }
+.pcolors__item span { font-family: var(--font-satoshi); font-size: 0.78rem; color: var(--gray-soft); line-height: 1.4; }
 
-.psizes { margin-top: 1rem; display: flex; flex-wrap: wrap; gap: 0.75rem; }
-.psizes__item {
-  display: flex; flex-direction: column; align-items: center; gap: 0.3rem;
-  border: 1px solid #ccc; border-radius: 999px; padding: 0.6rem 1.1rem; min-width: 110px;
+.psizes { margin-top: 1.5rem; display: flex; flex-wrap: wrap; gap: 1.25rem; }
+.psizes__item { display: flex; flex-direction: column; align-items: center; gap: 0.55rem; }
+.psizes__size {
+  display: flex; align-items: center; justify-content: center;
+  min-width: 116px; height: 68px; padding: 0 1.3rem;
+  border: 1.5px solid #ccc; border-radius: 10px;
+  font-family: var(--font-satoshi); font-weight: 700; font-size: 1.05rem; color: var(--ink);
 }
-.psizes__size { font-family: var(--font-satoshi); font-weight: 500; font-size: 0.85rem; color: var(--ink); }
-.psizes__status { font-family: var(--font-satoshi); font-style: italic; font-size: 0.72rem; color: var(--gray-soft); }
+.psizes__status { font-family: var(--font-satoshi); font-style: italic; font-size: 0.85rem; color: var(--gray-soft); text-align: center; }
 
-.pdetails { margin-top: 1rem; display: grid; grid-template-columns: 1fr 1fr; gap: 1rem 1.5rem; }
-.pdetails__item { display: flex; align-items: center; gap: 0.6rem; font-family: var(--font-satoshi); font-size: 0.95rem; color: var(--ink); }
-.pdetails__icon { flex: none; width: 26px; height: 26px; color: var(--terracotta); }
+.pdetails { margin-top: 1.5rem; display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem 2rem; }
+.pdetails__item { display: flex; align-items: center; gap: 0.85rem; font-family: var(--font-satoshi); font-size: 1.05rem; color: var(--ink); }
+.pdetails__icon { flex: none; width: 32px; height: 32px; color: var(--terracotta); }
 .pdetails__icon svg { width: 100%; height: 100%; }
 
-.pinfo__help { margin-top: 1.75rem; font-family: var(--font-satoshi); font-size: 0.9rem; color: var(--ink); }
+.pinfo__help { margin-top: 2.5rem; font-family: var(--font-satoshi); font-size: 1rem; color: var(--ink); }
 .pinfo__help em { color: var(--gray-soft); font-style: italic; }
 
 /* ---------------- SCROLL ROW (compartido: colores / explore more) ---------------- */
@@ -126,6 +158,22 @@
 .pmore__item span { display: block; margin-top: 0.5rem; font-family: var(--font-satoshi); font-size: 0.85rem; color: var(--ink); }
 
 @media (max-width: 820px) {
+  .pnav__navband {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 0;
+    width: 100vw;
+    height: 100%;
+    transform: translateX(-50%);
+    background: #000;
+    z-index: 0;
+  }
+  .pnav { padding: 0.9rem clamp(1.25rem, 5vw, 3rem); margin: 0 calc(50% - 50vw) 1.25rem; }
+  .pnav__menu span { background: #fff; }
+  .pnav__search { color: #fff; }
+  .pnav__logo img { filter: none; }
+
   .ptop { grid-template-columns: 1fr; gap: 1.5rem; }
   .pdetails { grid-template-columns: 1fr; }
   .pmore__item { width: 160px; }

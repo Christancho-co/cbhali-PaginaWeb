@@ -4,7 +4,6 @@
    ============================================================ */
 
 .ctpage {
-  --u: calc(100vw / 1920);
   --navy: #134d80;
   width: 100%;
   overflow: hidden;
@@ -13,7 +12,16 @@
 
 /* ---------------- HERO ---------------- */
 
-.cthero { position: relative; width: 100%; height: calc(var(--u) * 1283.4); overflow: hidden; background: #000; }
+.cthero {
+  position: relative; width: 100%; height: min(calc(var(--u) * 1283.4), 100vh); overflow: hidden; background: #000;
+  --hero-scale: calc(min(calc(var(--u) * 1283.4), 100vh) / calc(var(--u) * 1283.4));
+}
+.cthero__navband { display: none; }
+.cthero__content {
+  position: absolute; top: 0; left: 50%; width: calc(var(--u) * 1920); height: calc(var(--u) * 1283.4);
+  transform: translateX(-50%) scale(var(--hero-scale));
+  transform-origin: top center;
+}
 .cthero__img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .cthero__shade { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,.55), rgba(0,0,0,.05) 40%, rgba(0,0,0,.15) 65%, rgba(0,0,0,.5)); }
 
@@ -22,7 +30,7 @@
 .cthero__logo { position: absolute; left: 0; top: calc(var(--u) * 30); width: 100%; text-align: center; pointer-events: none; }
 .cthero__logo-img { display: inline-block; height: calc(var(--u) * 55); width: auto; pointer-events: auto; vertical-align: middle; }
 
-.cthero__search { position: absolute; right: calc(var(--u) * 40); top: calc(var(--u) * 40); width: calc(var(--u) * 30); height: calc(var(--u) * 30); }
+.cthero__search { position: absolute; right: calc(var(--u) * 40); top: calc(var(--u) * 51); width: calc(var(--u) * 30); height: calc(var(--u) * 30); }
 .cthero__search svg { width: 100%; height: 100%; }
 
 .cthero__title {
@@ -30,7 +38,7 @@
   font-family: var(--font-seasons); font-weight: 300; font-size: calc(var(--u) * 143.72);
   letter-spacing: 0.03em; color: #fff;
 }
-.cthero__doc { position: absolute; left: calc(var(--u) * 1210); top: calc(var(--u) * 665); width: calc(var(--u) * 130); height: auto; }
+.cthero__doc { position: absolute; left: calc(var(--u) * 1290); top: calc(var(--u) * 665); width: calc(var(--u) * 130); height: auto; }
 .cthero__tag {
   position: absolute; left: calc(var(--u) * 980); top: calc(var(--u) * 879);
   font-family: var(--font-seasons); font-style: italic; font-weight: 300; font-size: calc(var(--u) * 60);
@@ -76,7 +84,7 @@ hr { border: none; border-top: 1px solid rgba(19,77,128,.35); margin-top: 1.5rem
 .ctprocess__rhr { font-family: var(--font-seasons); font-weight: 300; font-size: clamp(1.6rem, 3vw, 2.5rem); line-height: 1.35; color: var(--navy); }
 .ctprocess__cube { display: block; width: 44px; height: auto; margin-top: 1.5rem; }
 
-.ctprocess__steps { display: flex; flex-direction: column; gap: clamp(1.5rem, 3.5vw, 2.25rem); }
+.ctprocess__steps { list-style: none; display: flex; flex-direction: column; gap: clamp(1.5rem, 3.5vw, 2.25rem); }
 .ctprocess__steps h4 { font-family: var(--font-seasons); font-weight: 400; font-size: clamp(1.05rem, 1.6vw, 1.3rem); color: var(--navy); }
 .ctprocess__steps p { margin-top: 0.5rem; font-family: var(--font-satoshi); font-weight: 300; font-size: 0.82rem; line-height: 1.65; color: var(--gray-text); }
 
@@ -109,7 +117,35 @@ hr { border: none; border-top: 1px solid rgba(19,77,128,.35); margin-top: 1.5rem
 }
 
 @media (max-width: 900px) {
-  .ctpage { --u: calc(100vw / 1125); }
+  .ctpage { --u: calc(900 / 1406.25 * 1px); }
+}
+/* Escalones de telefono granulares (ver home.css para la explicacion
+   completa): evita el letterboxing en telefonos anchos (Pro Max, Plus,
+   Android grandes) usando el ancho mas chico de cada rango. */
+@media (max-width: 375px) {
+  .ctpage { --u: calc(360 / 1406.25 * 1px); }
+}
+@media (min-width: 376px) and (max-width: 390px) {
+  .ctpage { --u: calc(375 / 1406.25 * 1px); }
+}
+@media (min-width: 391px) and (max-width: 412px) {
+  .ctpage { --u: calc(390 / 1406.25 * 1px); }
+}
+@media (min-width: 413px) and (max-width: 428px) {
+  .ctpage { --u: calc(412 / 1406.25 * 1px); }
+}
+@media (min-width: 429px) and (max-width: 480px) {
+  .ctpage { --u: calc(428 / 1406.25 * 1px); }
+}
+@media (max-width: 900px) {
+
+  .cthero { height: calc(var(--u) * 1707); --hero-scale: 1; }
+  .cthero__content { width: calc(var(--u) * 1125); height: calc(var(--u) * 1707); }
+  .cthero__navband { display: block; position: absolute; left: 0; top: 0; width: 100%; height: calc(var(--u) * 155); background: #000; }
+  .cthero__menu { top: calc(var(--u) * 66); width: calc(var(--u) * 53); height: calc(var(--u) * 26); }
+  .cthero__menu span { height: calc(var(--u) * 4); }
+  .cthero__logo-img { height: calc(var(--u) * 72); }
+  .cthero__search { top: calc(var(--u) * 57); width: calc(var(--u) * 44); height: calc(var(--u) * 44); }
 
   .cthero__title { left: calc(var(--u) * 60); top: calc(var(--u) * 600); font-size: calc(var(--u) * 100); }
   .cthero__doc { left: calc(var(--u) * 60); top: calc(var(--u) * 760); width: calc(var(--u) * 90); }

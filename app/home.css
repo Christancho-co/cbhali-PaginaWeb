@@ -15,8 +15,9 @@
 
 .page__bg {
   position: absolute;
-  left: 0;
-  width: 100%;
+  left: 50%;
+  width: 100vw;
+  transform: translateX(-50%);
 }
 .page__bg--cream   { top: calc(var(--u) * 1284);  height: calc(var(--u) * 3006); background: var(--cream); }
 .page__bg--gray    { top: calc(var(--u) * 5653);  height: calc(var(--u) * 1992); background: var(--gray-bg); }
@@ -24,7 +25,36 @@
 
 /* ---------------- HERO ---------------- */
 
-.hero { position: absolute; top: 0; left: 0; width: 100%; height: calc(var(--u) * 1283.4); overflow: hidden; }
+.hero {
+  position: absolute; top: 0; left: 0; width: 100%; height: min(calc(var(--u) * 1283.4), 100vh); overflow: hidden;
+  /* Cuando la altura se recorta a 100vh en pantallas bajas, todo el
+     contenido (texto, puntos, flecha) se re-escala en conjunto para
+     que nada se corte ni se superponga - ver .hero__content. */
+  --hero-scale: calc(min(calc(var(--u) * 1283.4), 100vh) / calc(var(--u) * 1283.4));
+}
+
+.hero__content {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: calc(var(--u) * 1920);
+  height: calc(var(--u) * 1283.4);
+  transform: translateX(-50%) scale(var(--hero-scale));
+  transform-origin: top center;
+}
+
+/* Todo lo que va despues del hero se posiciona absoluto contra .page con
+   offsets fijos calculados asumiendo el hero a 1283.4u. Cuando el hero se
+   recorta a 100vh en pantallas bajas, este wrapper se traslada hacia arriba
+   exactamente lo recortado, para que no quede un hueco entre el hero y el
+   resto de la pagina. */
+.page__body {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: calc(var(--u) * 1920);
+  transform: translateX(-50%) translateY(calc(min(calc(var(--u) * 1283.4), 100vh) - calc(var(--u) * 1283.4)));
+}
 
 .hero__img {
   position: absolute;
@@ -52,23 +82,15 @@
 }
 .hero__menu span { display: block; width: 100%; height: calc(var(--u) * 2.5); background: #fff; border-radius: 2px; }
 
-.hero__logo { position: absolute; left: 0; top: 0; width: 100%; height: calc(var(--u) * 130); pointer-events: none; }
-.hero__logo-img {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  top: calc(var(--u) * 37);
-  height: calc(var(--u) * 72);
-  width: auto;
-  pointer-events: auto;
-}
+.hero__logo { position: absolute; left: 0; top: calc(var(--u) * 30); width: 100%; text-align: center; pointer-events: none; }
+.hero__logo-img { display: inline-block; height: calc(var(--u) * 55); width: auto; pointer-events: auto; vertical-align: middle; }
 
 .hero__search {
   position: absolute;
-  left: calc(var(--u) * 1840);
-  top: calc(var(--u) * 44);
-  width: calc(var(--u) * 44);
-  height: calc(var(--u) * 44);
+  right: calc(var(--u) * 40);
+  top: calc(var(--u) * 51);
+  width: calc(var(--u) * 30);
+  height: calc(var(--u) * 30);
 }
 .hero__search svg { width: 100%; height: 100%; }
 
@@ -211,10 +233,12 @@
 
 .catalog__img {
   position: absolute;
-  left: calc(var(--u) * -4);
+  left: 50%;
   top: calc(var(--u) * 4290);
-  width: calc(var(--u) * 1927);
+  width: 100vw;
+  max-width: none;
   height: calc(var(--u) * 1368);
+  transform: translateX(-50%);
   object-fit: cover;
 }
 
@@ -327,10 +351,13 @@
 .studio__video iframe { display: block; width: 100%; height: 100%; border: none; }
 
 .studio__team {
+  /* El ancho llega al borde derecho REAL de la ventana (no solo al
+     borde del lienzo centrado) para que la foto quede pegada a la
+     esquina de la pantalla, igual que .insta__stairs/.show__img. */
   position: absolute;
   left: calc(var(--u) * 1251);
   top: calc(var(--u) * 7068);
-  width: calc(var(--u) * 670);
+  width: calc(50vw - calc(var(--u) * 291));
   height: calc(var(--u) * 578);
   object-fit: cover;
   opacity: 0.74;
@@ -391,11 +418,17 @@
 /* ---------------- INSTAGRAM ---------------- */
 
 .insta__stairs {
+  /* Arranca en su posición original (para seguir tocando el mockup de
+     Instagram a la izquierda) y llega al borde derecho REAL de la
+     ventana (full bleed, como .show__img/.catalog__img) en vez de
+     quedarse en el borde del lienzo centrado. Altura recortada para
+     que termine justo donde empieza .show__img, sin invadirla. */
   position: absolute;
   left: calc(var(--u) * 730.5);
   top: calc(var(--u) * 7644);
-  width: calc(var(--u) * 1188);
-  height: calc(var(--u) * 1595);
+  width: calc(50vw + calc(var(--u) * 229.5));
+  max-width: none;
+  height: calc(var(--u) * 1309);
   object-fit: cover;
 }
 .insta__waves {
@@ -436,10 +469,12 @@
 
 .show__img {
   position: absolute;
-  left: calc(var(--u) * -1);
+  left: 50%;
   top: calc(var(--u) * 8953);
-  width: calc(var(--u) * 1921);
+  width: 100vw;
+  max-width: none;
   height: calc(var(--u) * 3030);
+  transform: translateX(-50%);
   object-fit: cover;
 }
 .show__signature {
@@ -460,19 +495,26 @@
 .only-m { display: none; }
 
 @media (max-width: 820px) {
-  :root { --u: calc(100vw / 1125); }
+  .page { --u: calc(820 / 1406.25 * 1px); }
 
   .only-d { display: none; }
   .only-m { display: block; }
 
   .page { height: calc(var(--u) * 13630); }
 
+  /* En movil el hero no se recorta a 100vh (altura fija --u*1707), asi
+     que .page__body no necesita el ajuste vertical de escritorio; y el
+     ancho del lienzo es el del artboard movil (1125), no el de
+     escritorio (1920). */
+  .page__body { width: calc(var(--u) * 1125); transform: translateX(-50%); }
+
   .page__bg--cream  { top: calc(var(--u) * 1707);  height: calc(var(--u) * 3230); }
   .page__bg--gray   { top: calc(var(--u) * 6323);  height: calc(var(--u) * 1677); }
   .page__bg--warm   { top: calc(var(--u) * 8000);  height: calc(var(--u) * 3948); }
 
   /* ---------- HERO ---------- */
-  .hero { height: calc(var(--u) * 1707); }
+  .hero { height: calc(var(--u) * 1707); --hero-scale: 1; }
+  .hero__content { width: calc(var(--u) * 1125); height: calc(var(--u) * 1707); }
   .hero__img { left: 0; width: 100%; height: 100%; object-fit: cover; object-position: 46% top; }
   .hero__navband { position: absolute; left: 0; top: 0; width: 100%; height: calc(var(--u) * 155); background: #000; }
   .hero__shade--top { top: calc(var(--u) * 155); height: calc(var(--u) * 200); }
@@ -481,7 +523,7 @@
   .hero__menu span { height: calc(var(--u) * 4); }
 
   .hero__logo-img { top: calc(var(--u) * 48.5); height: calc(var(--u) * 72); }
-  .hero__search { left: calc(var(--u) * 1011.5); top: calc(var(--u) * 60); width: calc(var(--u) * 44); height: calc(var(--u) * 44); }
+  .hero__search { left: calc(var(--u) * 1011.5); top: calc(var(--u) * 57); width: calc(var(--u) * 44); height: calc(var(--u) * 44); }
 
   .hero__title--m {
     position: absolute;
@@ -517,7 +559,7 @@
   .product__frame--m { position: absolute; left: calc(var(--u) * 668); top: calc(var(--u) * 4294); width: calc(var(--u) * 379); height: calc(var(--u) * 588); z-index: 1; }
 
   /* ---------- CATALOG ---------- */
-  .catalog__img { left: 0; top: calc(var(--u) * 4689); width: 100%; height: calc(var(--u) * 1634); }
+  .catalog__img { left: 0; top: calc(var(--u) * 4689); width: 100%; height: calc(var(--u) * 1634); transform: none; }
   .catalog__fade { top: calc(var(--u) * 4689); height: calc(var(--u) * 100); }
   .catalog__btn {
     left: calc(var(--u) * 294);
@@ -551,7 +593,12 @@
   /* ---------- STUDIO ---------- */
   .studio__fade { position: absolute; left: 0; top: calc(var(--u) * 9532); width: 100%; height: calc(var(--u) * 285); background: linear-gradient(180deg, rgba(255,255,255,0), #fff); z-index: 2; }
   .studio__video { left: calc(var(--u) * 2); top: calc(var(--u) * 9816.6); width: calc(var(--u) * 1125); height: calc(var(--u) * 621); border: none; }
-  .studio__team { left: calc(var(--u) * 456.8); top: calc(var(--u) * 7671.1); }
+  .studio__team {
+    left: calc(var(--u) * 732.4);
+    top: calc(var(--u) * 7671.1);
+    width: calc(var(--u) * 392.6);
+    height: calc(var(--u) * 338.7);
+  }
 
   .news { left: calc(var(--u) * 211); top: calc(var(--u) * 11718); width: calc(var(--u) * 708); height: calc(var(--u) * 370); }
   .news__title { top: calc(var(--u) * 46); font-size: calc(var(--u) * 37.3); text-transform: none; letter-spacing: 0.02em; }
@@ -569,6 +616,7 @@
     top: calc(var(--u) * 11947.5);
     width: calc(var(--u) * 1124);
     height: calc(var(--u) * 1683);
+    transform: none;
   }
   .show__signature--m {
     position: absolute;
@@ -581,4 +629,26 @@
     z-index: 1;
   }
 
+}
+
+/* Escalones de telefono mas granulares: un solo valor "390" para todo
+   ancho <=480px dejaba el lienzo mas chico que la pantalla real en
+   telefonos anchos (iPhone Pro Max/Plus ~428-430px, Android ~412px),
+   viendose con bordes vacios a los lados. Cada escalon usa como
+   referencia el ancho MAS CHICO de su propio rango, para que el
+   lienzo nunca sea mas ancho que la pantalla real (nunca desborda). */
+@media (max-width: 375px) {
+  .page { --u: calc(360 / 1406.25 * 1px); }
+}
+@media (min-width: 376px) and (max-width: 390px) {
+  .page { --u: calc(375 / 1406.25 * 1px); }
+}
+@media (min-width: 391px) and (max-width: 412px) {
+  .page { --u: calc(390 / 1406.25 * 1px); }
+}
+@media (min-width: 413px) and (max-width: 428px) {
+  .page { --u: calc(412 / 1406.25 * 1px); }
+}
+@media (min-width: 429px) and (max-width: 480px) {
+  .page { --u: calc(428 / 1406.25 * 1px); }
 }
