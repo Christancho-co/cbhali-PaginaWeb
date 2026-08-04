@@ -148,6 +148,13 @@
   .blhero__logo-img { height: calc(var(--u) * 72); }
   .blhero__search { top: calc(var(--u) * 57); width: calc(var(--u) * 44); height: calc(var(--u) * 44); }
 
+  /* En el artboard movil los chevrons van alineados con el icono
+     (no centrados como en escritorio), y el monograma "The CB
+     Atelier" es una pieza grande y protagonica, no una firma chica
+     de esquina. */
+  .blhero__chevrons { left: calc(var(--u) * 100); transform: none; }
+  .blhero__brand { right: calc(var(--u) * 60); bottom: calc(var(--u) * 140); width: calc(var(--u) * 420); }
+
   .blposts__head { flex-wrap: wrap; justify-content: center; row-gap: 0.5rem; column-gap: 2rem; }
   .blposts__title { order: -1; flex-basis: 100%; text-align: center; }
   .blposts__grid { grid-template-columns: 1fr; }
