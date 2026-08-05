@@ -447,15 +447,24 @@
   background: var(--ochre);
   border-radius: calc(var(--u) * 92);
 }
-.insta__phone img {
+/* Grid 2x2 de posts reales dentro de la misma "pantalla" que antes
+   tenia una sola foto fija. */
+.insta__phone__screen {
   position: absolute;
   left: calc(var(--u) * 26.5);
   top: calc(var(--u) * 22.5);
   width: calc(var(--u) * 530.35);
   height: calc(var(--u) * 1132.4);
   border-radius: calc(var(--u) * 71.85);
-  object-fit: cover;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: calc(var(--u) * 4);
+  background: var(--ochre);
 }
+.insta__phone__screen a { display: block; overflow: hidden; }
+.insta__phone__screen img { display: block; width: 100%; height: 100%; object-fit: cover; }
 
 /* ----- Orden de apilamiento entre secciones solapadas -----
    rug del footer (0) < brick showcase (1) < fotos instagram (2)
@@ -608,7 +617,7 @@
   .insta__stairs { left: calc(var(--u) * 1.9); top: calc(var(--u) * 10437.5); width: calc(var(--u) * 1126); height: calc(var(--u) * 1531); }
   .insta__waves--m { position: absolute; left: calc(var(--u) * 190); top: calc(var(--u) * 8160); width: calc(var(--u) * 145); height: calc(var(--u) * 175); z-index: 2; }
   .insta__phone { left: calc(var(--u) * 299); top: calc(var(--u) * 8479); width: calc(var(--u) * 533); height: calc(var(--u) * 1076); border-radius: calc(var(--u) * 92); }
-  .insta__phone img { left: calc(var(--u) * 24); top: calc(var(--u) * 21); width: calc(var(--u) * 485); height: calc(var(--u) * 1035); }
+  .insta__phone__screen { left: calc(var(--u) * 24); top: calc(var(--u) * 21); width: calc(var(--u) * 485); height: calc(var(--u) * 1035); }
 
   /* ---------- SHOWCASE ---------- */
   .show__img {

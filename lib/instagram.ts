@@ -2,14 +2,12 @@
  * getInstagramFeed — helper para traer los últimos posts de Instagram
  * desde la Instagram Graph API (usando INSTAGRAM_ACCESS_TOKEN e
  * INSTAGRAM_USER_ID como variables de entorno). Si esas variables no están
- * configuradas, o si la API falla, devuelve fallbackPosts (imágenes fijas
- * del sitio) con `isLive: false` para que quien lo use pueda distinguir
- * datos reales de datos de respaldo.
+ * configuradas, o si la API falla, devuelve fallbackPosts (fotos reales
+ * ya usadas en el sitio) con `isLive: false` para que quien lo use pueda
+ * distinguir datos reales de datos de respaldo.
  *
- * ⚠️ NO se usa actualmente en ninguna página ni componente — el mockup de
- * Instagram que sí se ve en la home (HomeCollage.tsx) es una imagen
- * estática (/images/ig-preview.png), no datos reales de la API. Este
- * archivo quedó listo para conectar el feed real más adelante.
+ * Usado por components/home/Instagram.tsx para el grid de la sección
+ * Instagram del Home.
  */
 export type InstagramMediaItem = {
   id: string
@@ -24,43 +22,43 @@ const fallbackPosts: InstagramMediaItem[] = [
   {
     id: 'fallback-1',
     media_type: 'IMAGE',
-    media_url: '/images/bg-Explore-catalogo.webp',
-    permalink: 'https://www.instagram.com/cbhali/',
+    media_url: '/images/home/insta-phone.webp',
+    permalink: 'https://www.instagram.com/cb_hali/',
     caption: 'CB HaLi official Instagram',
   },
   {
     id: 'fallback-2',
     media_type: 'IMAGE',
-    media_url: '/images/tapete.webp',
-    permalink: 'https://www.instagram.com/cbhali/',
+    media_url: '/images/home/brick-rug.webp',
+    permalink: 'https://www.instagram.com/cb_hali/',
     caption: 'CB HaLi official Instagram',
   },
   {
     id: 'fallback-3',
     media_type: 'IMAGE',
-    media_url: '/images/hero-home.webp',
-    permalink: 'https://www.instagram.com/cbhali/',
+    media_url: '/images/home/catalog-drape.webp',
+    permalink: 'https://www.instagram.com/cb_hali/',
     caption: 'CB HaLi official Instagram',
   },
   {
     id: 'fallback-4',
     media_type: 'IMAGE',
-    media_url: '/images/Asset 10-102.webp',
-    permalink: 'https://www.instagram.com/cbhali/',
+    media_url: '/images/home/product-rolls.webp',
+    permalink: 'https://www.instagram.com/cb_hali/',
     caption: 'CB HaLi official Instagram',
   },
   {
     id: 'fallback-5',
     media_type: 'IMAGE',
-    media_url: '/images/Asset 10-101.webp',
-    permalink: 'https://www.instagram.com/cbhali/',
+    media_url: '/images/home/stairs-rug.webp',
+    permalink: 'https://www.instagram.com/cb_hali/',
     caption: 'CB HaLi official Instagram',
   },
   {
     id: 'fallback-6',
     media_type: 'IMAGE',
-    media_url: '/images/team-photo.webp',
-    permalink: 'https://www.instagram.com/cbhali/',
+    media_url: '/images/home/team.webp',
+    permalink: 'https://www.instagram.com/cb_hali/',
     caption: 'CB HaLi official Instagram',
   },
 ]
