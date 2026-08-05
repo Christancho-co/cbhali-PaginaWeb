@@ -124,19 +124,40 @@ export type InstagramProfile = {
   username: string
   name: string
   profilePictureUrl: string | null
-}
-
-const fallbackProfile: InstagramProfile = {
-  username: 'cb_hali',
-  name: 'CB HaLi',
-  profilePictureUrl: null,
+  postsCount: string
+  followersCount: string
+  followingCount: string
+  biography: string[]
 }
 
 /**
- * getInstagramProfile — trae usuario, nombre y foto de perfil reales
- * (para recrear el header de la app, no solo el grid de fotos). Mismo
- * patron de respaldo que getInstagramFeed: si faltan credenciales o la
- * llamada falla, devuelve fallbackProfile con isLive:false.
+ * Valores reales de @cb_hali (capturados 2026-08, provistos por el
+ * cliente) usados como respaldo mientras no haya credenciales de la API
+ * conectadas. followers/posts/following se ven "congelados" en ese
+ * estado; en vivo (isLive:true) vienen siempre actualizados de Meta.
+ */
+const fallbackProfile: InstagramProfile = {
+  username: 'cb_hali',
+  name: 'CB Hali',
+  profilePictureUrl: null,
+  postsCount: '1,092',
+  followersCount: '26.4 mil',
+  followingCount: '3,975',
+  biography: [
+    'Decoración de interiores',
+    'Crafted for visionaries ✨',
+    'Rugs & Fabrics',
+    'Custom-made | Collections | Contract',
+    '📍 Colombia - Miami - Panamá - Costa Rica',
+  ],
+}
+
+/**
+ * getInstagramProfile — trae usuario, nombre, foto de perfil y
+ * estadisticas reales (para recrear el header completo de la app, no
+ * solo el grid de fotos). Mismo patron de respaldo que getInstagramFeed:
+ * si faltan credenciales o la llamada falla, devuelve fallbackProfile
+ * con isLive:false.
  */
 export async function getInstagramProfile() {
   const token = process.env.INSTAGRAM_ACCESS_TOKEN
@@ -148,7 +169,7 @@ export async function getInstagramProfile() {
 
   try {
     const response = await fetch(
-      `https://graph.instagram.com/${userId}?fields=username,name,profile_picture_url&access_token=${token}`,
+      `https://graph.instagram.com/${userId}?fields=username,name,profile_picture_url,biography,followers_count,follows_count,media_count&access_token=${token}`,
       { next: { revalidate: 3600 } },
     )
 
@@ -156,7 +177,15 @@ export async function getInstagramProfile() {
       throw new Error(`Instagram API responded with ${response.status}`)
     }
 
-    const payload = (await response.json()) as { username?: string; name?: string; profile_picture_url?: string }
+    const payload = (await response.json()) as {
+      username?: string
+      name?: string
+      profile_picture_url?: string
+      biography?: string
+      followers_count?: number
+      follows_count?: number
+      media_count?: number
+    }
     if (!payload.username) {
       return { profile: fallbackProfile, isLive: false }
     }
@@ -166,6 +195,12 @@ export async function getInstagramProfile() {
         username: payload.username,
         name: payload.name ?? fallbackProfile.name,
         profilePictureUrl: payload.profile_picture_url ?? null,
+        postsCount: payload.media_count != null ? formatCount(payload.media_count) : fallbackProfile.postsCount,
+        followersCount:
+          payload.followers_count != null ? formatCount(payload.followers_count) : fallbackProfile.followersCount,
+        followingCount:
+          payload.follows_count != null ? formatCount(payload.follows_count) : fallbackProfile.followingCount,
+        biography: payload.biography ? payload.biography.split('\n').filter(Boolean) : fallbackProfile.biography,
       },
       isLive: true,
     }
@@ -173,4 +208,10 @@ export async function getInstagramProfile() {
     console.error('Unable to fetch Instagram profile', error)
     return { profile: fallbackProfile, isLive: false }
   }
+}
+
+function formatCount(n: number): string {
+  if (n >= 1_000_000) return `${(n / 1_000_000).toFixed(1)} M`
+  if (n >= 1_000) return `${(n / 1_000).toFixed(1)} mil`
+  return String(n)
 }
