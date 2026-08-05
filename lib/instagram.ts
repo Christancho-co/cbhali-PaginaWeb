@@ -119,3 +119,58 @@ export async function getInstagramFeed(limit = 6) {
 export function getInstagramMediaUrl(item: InstagramMediaItem) {
   return getMediaSource(item)
 }
+
+export type InstagramProfile = {
+  username: string
+  name: string
+  profilePictureUrl: string | null
+}
+
+const fallbackProfile: InstagramProfile = {
+  username: 'cb_hali',
+  name: 'CB HaLi',
+  profilePictureUrl: null,
+}
+
+/**
+ * getInstagramProfile — trae usuario, nombre y foto de perfil reales
+ * (para recrear el header de la app, no solo el grid de fotos). Mismo
+ * patron de respaldo que getInstagramFeed: si faltan credenciales o la
+ * llamada falla, devuelve fallbackProfile con isLive:false.
+ */
+export async function getInstagramProfile() {
+  const token = process.env.INSTAGRAM_ACCESS_TOKEN
+  const userId = process.env.INSTAGRAM_USER_ID
+
+  if (!token || !userId) {
+    return { profile: fallbackProfile, isLive: false }
+  }
+
+  try {
+    const response = await fetch(
+      `https://graph.instagram.com/${userId}?fields=username,name,profile_picture_url&access_token=${token}`,
+      { next: { revalidate: 3600 } },
+    )
+
+    if (!response.ok) {
+      throw new Error(`Instagram API responded with ${response.status}`)
+    }
+
+    const payload = (await response.json()) as { username?: string; name?: string; profile_picture_url?: string }
+    if (!payload.username) {
+      return { profile: fallbackProfile, isLive: false }
+    }
+
+    return {
+      profile: {
+        username: payload.username,
+        name: payload.name ?? fallbackProfile.name,
+        profilePictureUrl: payload.profile_picture_url ?? null,
+      },
+      isLive: true,
+    }
+  } catch (error) {
+    console.error('Unable to fetch Instagram profile', error)
+    return { profile: fallbackProfile, isLive: false }
+  }
+}
