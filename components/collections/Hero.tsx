@@ -1,6 +1,7 @@
 import type { ReactNode } from 'react';
 import Link from 'next/link';
 import MenuButton from '@/components/shared/MenuButton';
+import SearchButton from '@/components/shared/SearchButton';
 import CyclingDots from '@/components/collections/CyclingDots';
 import { COLLECTIONS } from '@/lib/products';
 
@@ -22,12 +23,7 @@ export default function Hero() {
         <a className="chero__logo" href="/" aria-label="CB Hali home">
           <img className="chero__logo-img" src="/images/brand/logo-banner.png" alt="CB HaLi" />
         </a>
-        <button className="chero__search" aria-label="Search">
-          <svg viewBox="0 0 44 44" fill="none" stroke="#fff" strokeWidth="4" strokeLinecap="round">
-            <circle cx="20" cy="19.5" r="12" />
-            <line x1="28.8" y1="28.5" x2="38" y2="38" />
-          </svg>
-        </button>
+        <SearchButton className="chero__search" />
 
         <h1 className="chero__title">Collections.</h1>
         <p className="chero__subtitle">Available Now / Ready to Ship</p>

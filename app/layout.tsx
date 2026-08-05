@@ -2,6 +2,8 @@ import type { Metadata } from 'next';
 import { Cormorant_Garamond } from 'next/font/google';
 import { MenuProvider } from '@/components/shared/MenuContext';
 import SiteMenuDrawer from '@/components/shared/SiteMenuDrawer';
+import { SearchProvider } from '@/components/shared/SearchContext';
+import SiteSearchOverlay from '@/components/shared/SiteSearchOverlay';
 import './globals.css';
 
 // Sustituta temporal de "The Seasons" (Adobe Fonts). Cuando exista el Web
@@ -26,8 +28,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en" className={seasonsFallback.variable}>
       <body>
         <MenuProvider>
-          {children}
-          <SiteMenuDrawer />
+          <SearchProvider>
+            {children}
+            <SiteMenuDrawer />
+            <SiteSearchOverlay />
+          </SearchProvider>
         </MenuProvider>
       </body>
     </html>

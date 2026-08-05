@@ -1,4 +1,5 @@
 import MenuButton from '@/components/shared/MenuButton';
+import SearchButton from '@/components/shared/SearchButton';
 
 export default function Hero() {
   return (
@@ -12,11 +13,7 @@ export default function Hero() {
         <a className="cnhero__logo" href="/" aria-label="CB Hali home">
           <img className="cnhero__logo-img" src="/images/brand/logo-banner.png" alt="CB HaLi" />
         </a>
-        <button className="cnhero__search" aria-label="Search">
-          <svg viewBox="0 0 44 44" fill="none" stroke="#fff" strokeWidth="4" strokeLinecap="round">
-            <circle cx="20" cy="19.5" r="12" /><line x1="28.8" y1="28.5" x2="38" y2="38" />
-          </svg>
-        </button>
+        <SearchButton className="cnhero__search" />
 
         <img className="cnhero__map only-m" src="/images/icons/contact/icono1-movil.png" alt="" aria-hidden="true" />
         <h1 className="cnhero__title">Contact &amp; Dealers</h1>

@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import MenuButton from '@/components/shared/MenuButton';
+import SearchButton from '@/components/shared/SearchButton';
 
 const SLIDES = [
   { src: '/images/home/hero-corridor-wide.webp', alt: 'CB Hali rug in a warm corridor' },
@@ -42,12 +43,7 @@ export default function Hero() {
           <img className="hero__logo-img" src="/images/brand/logo-banner.png" alt="CB HaLi" />
         </a>
 
-        <button className="hero__search" aria-label="Search">
-          <svg viewBox="0 0 44 44" fill="none" stroke="#fff" strokeWidth="4" strokeLinecap="round">
-            <circle cx="20" cy="19.5" r="12" />
-            <line x1="28.8" y1="28.5" x2="38" y2="38" />
-          </svg>
-        </button>
+        <SearchButton className="hero__search" />
 
         <h1 className="hero__title only-d">
           Uncover <em>The Art</em>
